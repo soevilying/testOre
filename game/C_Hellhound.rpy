@@ -1,0 +1,268 @@
+label Hellhound_meet:
+    $ Time.mins = Time.mins +10
+    play sound "music/foot1.ogg"
+    $ renpy.music.set_volume(0, 5, channel = "Chan1")
+    $ renpy.music.set_pause(True, channel='Chan1')
+    scene office 1 with slow_dissolve
+    play sound "music/phonebell_1.ogg"
+    if Hellhound_coffee_quest == 0:
+        $ Hellhound_coffee_quest = 1
+        "You enter the hellhound's office once more."
+        "They appear to be busy with more paperwork than before, yet [h3_name] remains asleep."
+        e 1 "Hi you three."
+        "They don’t hear you."
+        play sound "music/phonebell_1.ogg"
+        "[h1_name] appears to be tearing his fur out trying to make sense of the documents in his hand."
+        "While [h2_name] is typing what seems to be a complicated letter or report over and over again."
+        "[h3_name] snores."
+        e 6 "Hello? Anybody here?"
+        h2 "Huh?"
+        "They finally look up from their work to notice your presence."
+        show hellhound stand at center with slow_dissolve
+        h1 "You’re still here?"
+        h2 "If you’re here for a refund, we will need the item’s receipt and it has to be in its original packaging."
+        e 5 "I’m not here for that."
+        h2 "Then why are you here?"
+        menu:
+            "To make sure there are no more demon attacks" if True:
+                e 1 "I’m here to make sure you don’t have a change of heart and want to attack the people I know."
+                h1 "As much as we would enjoy going out into the world, hunting mortals, hanging them by their feet while they scream and beg for mercy."
+                h1 "We have much more important business to attend to right here."
+                h2 "Why don’t we just take you instead then!"
+                h2 "Saves us the time looking for a new prize for next year’s auction."
+                h1 "What? When did we decide on that?"
+                h2 "I just did."
+                h2 "Do you forget we have to manage the clean up after the auction."
+                h2 "The recent lava overflow in the quarters district, the placement of the new demons for hire, the-"
+                h1 "Oh can it, it’s exhausting just hearing you list everything we need to do."
+                h1 "I was just messing around with this one."
+                "He points at you."
+                h2 "Well we don’t have time to mess around!"
+                "[h3_name]’s loud snore cuts through their conversation."
+                e 9 "Hey, I’m not here to cause any trouble."
+                e 1 "Maybe I could help you guys ease off some of that exhaustion?"
+                h1 "What makes you think you can help us, you- you puppy!"
+                "Although the city can suppress your feelings of combat, it does nothing to quell your slowly building irritation to that head."
+                h2 "He’s trying to be useful!"
+                h2 "Why do you always want to pick a fight with anyone who comes here."
+                h1 "A fight would be better than all this work!"
+                hide hellhound stand at center with slow_dissolve
+                "You see them yelling at each other and then biting each other's hair."
+                e 9 "STOP!" with vpunch
+                show hellhound stand at center with slow_dissolve
+                e 1 "Well you guys can’t afford to keep going at this pace, or you’ll be having two sleeping heads."
+                h2 "Please forgive us, we are usually in sync, we are obviously too tired to be thinking straight."
+                h1 "I hate to admit it, but he’s right. It’s getting harder to stay awake."
+                "[h1_name] opens his mouth and lets out a huge yawn."
+                h2 "Oh no, he fell asleep 30 years ago, you’re not sticking me with all this work."
+                h2 "I guess it’s time for the bitter bean drink."
+                h1 "Did you forget? The staff is busy with work for the next hundred years."
+                h2 "Then..."
+                "The two heads then turn to you."
+                e 1 "Oh, me? Sure, I won’t mind getting you your drink, but I want something in return."
+                h1 "Isn’t us letting you live, reward enough?"
+                h1 "If I had my way, you would serve us with your bones rearranged as our cup."
+                e 1 "I want information, answer my questions and I’ll bring you your drink as many times as you want."
+                h2 "It’s a weak offer, information-"
+                hide hellhound stand at center with slow_dissolve
+                "[h1_name] yawns again."
+                "[h2_name] rolls his eyes at the yawning head, whatever authority he tried to hold in the deal crumbles instantly."
+                show hellhound stand at center with slow_dissolve
+                h2 "Ehem, on second thought, we may consider it, if you bring us the drink."
+                h2 "You can buy the beans from the shop across from here. You can’t miss it."
+                e 1 "Just the beans?"
+                h2 "We can make the drink ourselves."
+                h1 "This should cover it."
+                "They toss a few Bevcor into the air and they land in the palm of your hand in a neat pile."
+                "<You get 10 Bevocr.>"
+                h2 "Now move."
+                h1 "Don’t come back until you have the beans."
+                e 1 "Fine, fine. I’m going."
+            "To understand what this city is" if True:
+
+                e 1 "I’m here to figure out what this whole city is about?"
+                e 1 "What does it do? "
+                h1 "Just take the city tour if you are that curious."
+                h2 "He can’t."
+                h2 "Remember, we closed that service down because of the safety risk of the tour group falling into lava."
+                h1 "Oh yeah!"
+                e 6 "Can't you two just tell me more about the city?"
+                h1 "No, do we look like we are free to be talking all day?"
+                h1 "All this work is burning us out already."
+                h1 "There should be some kind of punishment for your kind who bothers us with questions non stop."
+                h2 "[h1_name] is right. We lost ...[h3_name] here 30 years ago, now we are stuck with all of this work."
+                h1 "Plus every staff member is incredibly busy after the auction."
+                h1 "It will be a good hundred years before even one of them has free time to help us."
+                e 1 "So you're saying if your third partner is awake you'd have time to answer my questions?"
+                "They both shrug their shoulders."
+
+                hide hellhound stand at center with slow_dissolve
+                "[h1_name] then opens his mouth and lets out a large yawn."
+                h2 "Oh no, it's happening!"
+                h1 "What? No, that wasn't a yawn. I was just… uh… biting the air!"
+                h2 "Don't try to fool me."
+                h2 "I am not having you fall asleep too and leaving me with all this work."
+                h1 "I am not sleepy damn it. Look I can do the work just fine."
+                "He holds out one of the documents to his face."
+                h1 "The current par- "
+                "Again he opens his mouth and lets out a long yawn."
+                h2 "Ok, that’s enough. "
+                show hellhound stand at center with slow_dissolve
+                "[h2_name] turns to you with a desperate look in his eyes."
+                h2 "You got questions right? How about we make a deal?"
+                h2 "We could use a cup of that bitter bean drink."
+                h2 "You help us out, and we may consider answering your questions."
+                e 1 "One drink and you’ll answer anything I want to know?"
+                e 1 "Deal. Where can I find this drink?"
+                h2 "The drink itself isn’t for sale, but you can buy the beans to make the drink."
+                e 6 "Just the beans?"
+                h1 "We can make the drink ourselves."
+                h2 "The shop’s right across from here. Can’t miss it."
+                h1 "He doesn’t even need to bother to return. I am very much-"
+                h2 "Don’t listen to this one. Here’s the coins to cover the purchase."
+                "They toss you some Bevcor."
+                "<You get 10 Bevocr.>"
+                "The last thing you hear as you leave the office is [h1_name] yawning, very loudly."
+            "To shop" if True:
+                e 6 "I’m just here to shop, thought I’d stop by here to see if the great boss of the city would want to join me."
+                h1 "You must be delusional to think we have time to go out to shop."
+                e 1 "I mean don’t you all need rest?"
+                h1 "That head over there is already resting for all of us."
+                "He points to the sleeping [h3_name]."
+                e 1 "Hmm, so there is no way to wake him?"
+                h2 "Nope, all that matters is that we both stay awake."
+                h1 "Wait a minute, if he's out shopping, can't we ask him to get us that ingredient for the drink?"
+                h2 "That drink? Are you saying what I think you're saying?"
+                h1 "I'm feeling the drowsiness setting in. We should get it."
+                e 8 "Hey there, what's with the pronoun game?"
+                e 1 "What is it you guys need?"
+                h2 "What do you say to help us buy a few bitter beans?"
+                h2 "Helping someone in a governing office can be very beneficial for your future."
+                e 1 "Hmm… I'd take the job, but I want something more concrete than just a better future."
+                h1 "What do you want?"
+                e 1 "I want information on this city, this fog, all of this craziness that’s going on."
+                h2 "We’ll think about it."
+                e 1 "Alright, then just point me in the direction I need to go."
+                h2 "The shop is right across from here, you won’t miss it. You can use these."
+                "A few Bevcor fly up into the air and land in the palm of your hands."
+                "<You get 10 Bevocr.>"
+                e 1 "Right across. Get the beans. Got it."
+
+
+
+        hide hellhound stand at center with dissolve
+        $ jane_inv_K.take(bevocr,10)
+        jump undercity_map
+    elif Hellhound_coffee_quest == 1:
+        if jane_inv_M.qty(coffee_beans) == None:
+            show hellhound stand at center with slow_dissolve
+            h2 "If you are looking for the shop to buy the beans."
+            h2 "Go across from the office."
+            h2 "Come back when you have it."
+            hide hellhound stand at center with dissolve
+            jump undercity_map
+        elif True:
+            $ Hellhound_coffee_quest = 2
+            show hellhound stand at center with slow_dissolve
+            e 1 "I’ve got the stuff."
+            h2 "Perfect, we should be able to take a breather for a bit."
+            e 6 "Really? I thought you two can never stop working?"
+            h1 "If we don’t stay in shape we won’t be able to work at all."
+            h1 "This is just part of the job."
+            h1 "Now sit your ass over here and join us for the drink or else!"
+            hide hellhound stand at center with slow_dissolve
+            "Just as the cerberus stands up, the desk moves itself to the side."
+            "A pair of metal chairs and a small round table materializes in front of you."
+            "Following the boss’s lead, you take a seat across from him."
+            "They conjure up a chopping board and a rolling pin on the table."
+            "There’s also a kettle floating over what looks like magical blue fire that’s hovering to their right."
+            "You watch curiously as they pour out the beans onto a chopping board."
+            "A piece of paper appears besides [h1_name]’s face."
+            "They grab it and place it over the beans."
+            "With the rolling pin, they whack hard on the beans. "
+            "You yelp, surprised by the loud noise."
+            "Both the heads laugh at you while continuing to ground the beans."
+            "The paper that covers the beans slowly loses its bumpy shape and flattens."
+            "Then they press the rolling pin on top of the beans and roll the pin slowly in your direction, then back towards them."
+            "Their grip is strong as you watch the muscles in their arms tighten and bulge with every push of the rolling pin."
+            "Your eyes are no longer paying attention to the beans."
+            "Instead, you’re watching the top of their unbuttoned shirt."
+            "Their round pectorals seem to move in sync with their strong arms."
+            "Every push forward makes their pecs flex and press up against the shirt, threatening to rip through them at any seconds."
+            "The sound of the kettle whistling snaps you out of your trance."
+            h1 "Just in time."
+            "The hellhound takes the crushed beans in one hand, and summons a cup with a small filter paper on top of it."
+            e 1 "What’s the paper for?"
+            h2 "This."
+            "They start by pouring the hot water over the filter so that it sticks to the side of the cup."
+            "Then they place the crushed beans into the paper before pouring the hot water over it."
+            "You watch as a black liquid begins to fill the glass below."
+            "In two minutes, the glass is mostly full."
+            "They remove the filter and toss it into the air, the paper spins and bursts into flames. "
+            h1 "Done."
+            "They take their seat and watch the drink."
+            "[h2_name] sighs tiredly while [h1_name] grits his teeth."
+            "You think it strange why they seem unhappy to have the drink."
+            "[h2_name] brings the cup to his lips and sniffs it."
+            "He is instantly repelled by the smell."
+            show hellhound stand at center with slow_dissolve
+            h2 "Uhh, you know what? Why don’t we share some of this?"
+            "You shake your head in protest."
+            h1 "We insist!"
+            "They don’t give you a chance to say no again, they snap their fingers and a cup appears in front of you. "
+            "Your heart starts thumping hard, if it’s a drink even the boss of the demon city dislikes, what would it do to you?"
+            "Half of the content of their cup goes into yours."
+            "They push your cup closer to you with a sly smile on both their faces."
+            e 9 "Heh, cheers…"
+            hide hellhound stand at center with dissolve
+            "Your hands tremble as you reach out to pick the cup. "
+            "Bringing the cup close to you, the fruity smell of the drink wafts towards your nostrils."
+            "It smells safe to drink, and so you take a sip."
+            "The bitterness of the drink hits you like a punch to the taste buds."
+            "You quickly push the drink away."
+            e 9 "Aww, eww. What the heck is that?"
+            "The two heads laugh hysterically at you. "
+            h1 "Yeah, that’s the bitter drink for you."
+            "[h2_name] grabs their cup and downs the whole thing in one go." with vpunch
+            "[h1_name] shakes his head furiously, sticking his tongue out, similar to how children react when they had just downed a bitter medicine."
+            h2 "Never gets easier every time we drink this."
+            h1 "I swear one day I am going to torture that bean seller."
+            h2 "We can’t. That guy’s the only demon who gathers, roasts and sells these beans."
+            "You stick your tongue out hoping the wind will blow the bitterness off your tastebuds."
+            e 1 "What was that thing anyways?"
+            show hellhound stand at center with slow_dissolve
+            h2 "We just call it the bitter bean drink."
+            h2 "It’s made from these special beans that grow around here."
+            h1 "Back when [h3_name] was awake we’d down gallons of these to keep ourselves awake."
+            h1 "Over time, the stuff just lost its kick."
+            h2 "It clears the mind at least."
+            e 1 "Well sorry to hear that. Umm…"
+            e 1 "So, about those questions-"
+            h2 "What about them? "
+            e 5 "You both said you’d answer them if I brought you guys your beans."
+            h2 "I think we said we’d consider it."
+            h1 "Yeah, we didn’t say anything about doing it."
+            e 12 "You!" with vpunch
+            hide hellhound stand at center with dissolve
+            "The urge to smack them in their faces vanishes as quickly as it appears. "
+            with flashbulb
+            "It’s a strange experience."
+            "As though something reached into your head and plucked out a piece of you, yet you don’t mind it."
+            show hellhound stand at center with slow_dissolve
+            e 6 "I shouldn’t have even bothered with helping you two."
+            h2 "As if you had a choice."
+            h2 "Here, we haven't used it up, maybe you can keep this as a souvenir."
+            "They throw the remaining coffee beans pack to you."
+            "<You get a pack of coffee bean!>"
+            hide hellhound stand at center with dissolve
+            jump undercity_map
+    elif True:
+        e 1 "Hello."
+        show hellhound stand at center with slow_dissolve
+        h2 "Hello wolf, we'd chat, but right now we are preoccupied with work. "
+        h1 "Yeah beat it, now's not a good time."
+        e 1 "Fine, I'll come back later."
+        hide hellhound stand at center with dissolve
+        stop sound fadeout 1
+        jump undercity_map
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
