@@ -1,0 +1,84 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+After initialization, but before game start.
+  File "game/screens.rpy", line 758, in prepare_screen
+    screen preferences():
+  File "game/screens.rpy", line 758, in prepare
+    screen preferences():
+  File "game/screens.rpy", line 762, in prepare
+    use game_menu(_("ВИД"), scroll="viewport"):
+  File "game/screens.rpy", line 762, in prepare
+    use game_menu(_("ВИД"), scroll="viewport"):
+  File "game/screens.rpy", line 765, in prepare
+    vbox:
+  File "game/screens.rpy", line 765, in prepare
+    vbox:
+  File "game/screens.rpy", line 801, in prepare
+    hbox:
+  File "game/screens.rpy", line 801, in prepare
+    hbox:
+  File "game/screens.rpy", line 805, in prepare
+    vbox:
+  File "game/screens.rpy", line 805, in prepare
+    vbox:
+  File "game/screens.rpy", line 809, in prepare
+    bar value Preference("Скорость текста")
+  File "game/screens.rpy", line 809, in prepare
+    bar value Preference("Скорость текста")
+  File "game/screens.rpy", line 809, in <module>
+    bar value Preference("Скорость текста")
+  File "renpy/common/00preferences.rpy", line 525, in Preference
+    rv = get()
+  File "renpy/common/00preferences.rpy", line 523, in get
+    raise Exception("Preference(%r, %r) is unknown." % (name , value))
+Exception: Preference(u'\u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0442\u0435\u043a\u0441\u0442\u0430', None) is unknown.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "renpy/bootstrap.py", line 326, in bootstrap
+    renpy.main.main()
+  File "renpy/main.py", line 617, in main
+    run(restart)
+  File "renpy/main.py", line 97, in run
+    renpy.display.screen.prepare_screens()
+  File "renpy/display/screen.py", line 938, in prepare_screens
+    s.ast.prepare_screen()
+  File "game/screens.rpy", line 758, in prepare_screen
+    screen preferences():
+  File "game/screens.rpy", line 758, in prepare
+    screen preferences():
+  File "game/screens.rpy", line 762, in prepare
+    use game_menu(_("ВИД"), scroll="viewport"):
+  File "game/screens.rpy", line 762, in prepare
+    use game_menu(_("ВИД"), scroll="viewport"):
+  File "game/screens.rpy", line 765, in prepare
+    vbox:
+  File "game/screens.rpy", line 765, in prepare
+    vbox:
+  File "game/screens.rpy", line 801, in prepare
+    hbox:
+  File "game/screens.rpy", line 801, in prepare
+    hbox:
+  File "game/screens.rpy", line 805, in prepare
+    vbox:
+  File "game/screens.rpy", line 805, in prepare
+    vbox:
+  File "game/screens.rpy", line 809, in prepare
+    bar value Preference("Скорость текста")
+  File "game/screens.rpy", line 809, in prepare
+    bar value Preference("Скорость текста")
+  File "renpy/python.py", line 2242, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/screens.rpy", line 809, in <module>
+    bar value Preference("Скорость текста")
+  File "renpy/common/00preferences.rpy", line 525, in Preference
+    rv = get()
+  File "renpy/common/00preferences.rpy", line 523, in get
+    raise Exception("Preference(%r, %r) is unknown." % (name , value))
+Exception: Preference(u'\u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0442\u0435\u043a\u0441\u0442\u0430', None) is unknown.
+
+Windows-10-10.0.19041
+Ren'Py 7.4.4.1439
+Таверна Копья v0.14d
+Sun Apr 11 16:39:58 2021
