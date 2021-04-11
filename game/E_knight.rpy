@@ -239,7 +239,7 @@ label battle_knight_win:
     "Then everything fades away when you feel a powerful cut at your neck."
     show red2 with slow_dissolve
     pause 2
-    asm "“Your highnesses…”"
+    asm "“Your highnesses...”"
     hide red1 with dissolve
     hide red2 with dissolve
     play sound "music/body_fall.mp3"

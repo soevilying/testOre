@@ -424,7 +424,7 @@ translate French battle_bull_lose_87206c1f:
 translate French battle_bull_lose_b2b68d0b:
 
 
-    "[name]" "No…. I mustn't…."
+    "[name]" "No.... I mustn't...."
 
 
 translate French battle_bull_lose_08f5de7b:
@@ -874,7 +874,7 @@ translate French battle_bull_lose_cb7f968f:
 translate French battle_bull_lose_f92bfa69:
 
 
-    "Your eyelids are getting heavy…"
+    "Your eyelids are getting heavy..."
 
 
 translate French battle_bull_lose_94d019a6:
@@ -922,7 +922,7 @@ translate French battle_bull_sex_2043a3c0:
 translate French battle_bull_sex_f7679117:
 
 
-    "Bull warrior" "Claim me… champion."
+    "Bull warrior" "Claim me... champion."
 
 
 translate French battle_bull_sex_8b020fbf:
@@ -1036,7 +1036,7 @@ translate French battle_bull_sex_e14725aa:
 translate French battle_bull_sex_772bd301:
 
 
-    "Bull warrior" "Yes… please… it feels so warm… I need you inside me."
+    "Bull warrior" "Yes... please... it feels so warm... I need you inside me."
 
 
 translate French battle_bull_sex_21144b0d:

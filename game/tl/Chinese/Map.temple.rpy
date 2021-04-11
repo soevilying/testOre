@@ -130,7 +130,7 @@ translate Chinese Temple_map_1bb01731:
 translate Chinese Temple_map_ff84fea6:
 
 
-    e 3 "哈哈哈，我很抱歉。我只是…哈哈哈。"
+    e 3 "哈哈哈，我很抱歉。我只是...哈哈哈。"
 
 
 translate Chinese Temple_map_d494e416:
@@ -1060,7 +1060,7 @@ translate Chinese Temple_map_4120a512:
 translate Chinese Temple_map_47f74fc9:
 
 
-    e 5 "甚至可能是…宝藏!但也可能是亡灵的巢穴。"
+    e 5 "甚至可能是...宝藏!但也可能是亡灵的巢穴。"
 
 
 translate Chinese Temple_map_f7ee844e:
@@ -1696,7 +1696,7 @@ translate Chinese Temple_book_00058e49_2:
 translate Chinese Temple_book_7385680c:
 
 
-    "{u}{i}我成功了……但是这幅该死的画让我非常痛苦，以致我昏迷了好几天。{/i}{/u}"
+    "{u}{i}我成功了......但是这幅该死的画让我非常痛苦，以致我昏迷了好几天。{/i}{/u}"
 
 
 translate Chinese Temple_book_f762dcab:
@@ -1774,7 +1774,7 @@ translate Chinese Temple_book_2df0f991:
 translate Chinese Temple_book_69d2561d:
 
 
-    "{u}{i}然后…当我回到我的家去看看有什么变化，我发现了什么?{/i}{/u}"
+    "{u}{i}然后...当我回到我的家去看看有什么变化，我发现了什么?{/i}{/u}"
 
 
 translate Chinese Temple_book_9f6ff114:

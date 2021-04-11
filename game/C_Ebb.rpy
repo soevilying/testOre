@@ -110,7 +110,7 @@ label Ebb_meet:
         hide ebb stand at center with dissolve
         "Ebb stands back up and pulls you in for a hug."
         "He starts sobbing and pressing you harder against his chest."
-        eb "Thank you… thank you…"
+        eb "Thank you... thank you..."
         e 1 "Ebb, you’re welcome, but we need to work fast."
         eb "Right, I apologize, that was unbecoming of a butler."
         "He pulls away from the hug."
@@ -250,7 +250,7 @@ label Ebb_kidnap_end:
         eb "Where... where is the young master?"
         "His voice breaks near the end, the tears are building in him."
         pause 3
-        e 13 "I… I’m sorry Ebb."
+        e 13 "I... I’m sorry Ebb."
         pause 3
         eb "No... say it isn’t so. Please say it isn’t so."
         hide ebb stand at center with slow_dissolve
@@ -400,7 +400,7 @@ label Ebb_hang:
         e 1 "We would all be safer together and since the hut has been attacked before it might not be as safe."
         e 6 "And we have a few tavern mates already, everyone is nice."
         f "I take it we won’t be living there for free?"
-        e 6 "Yeah… but knowing Snow he lets people stay if they are willing to work."
+        e 6 "Yeah... but knowing Snow he lets people stay if they are willing to work."
         eb "I think it would be a great idea, this will give young master the perfect chance to make friends."
         "Flo smacks himself in the forehead with his hand."
         show flo stand01 with dissolve:
@@ -443,7 +443,7 @@ label Ebb_hang:
         show flo stand with slow_dissolve:
             xpos 0.35 ypos 0
             xzoom 1
-        f "Yeah…"
+        f "Yeah..."
         "The tail fin on Flo’s head starts twitching."
         s "Is something wrong?"
         f "Oh no-"
@@ -466,7 +466,7 @@ label Ebb_hang:
         show flo stand01 with slow_dissolve:
             xpos 0.35 ypos 0
             xzoom 1
-        f "Hmm…"
+        f "Hmm..."
         show snow stand at left with dissolve
         s "Yes Flo?"
         f "Do I at least get my own room?"

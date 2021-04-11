@@ -144,12 +144,12 @@ label Bull_tribe_map:
         a "Quiet!"
         a "You’re always going on and on about change, well here it is son."
         a "Now let the wolf decide."
-        e 9 "I…"
+        e 9 "I..."
         a "Remember this, the lizards have been a thorn in our side since the fog came."
         a "Their kind have lost themselves and are guilty of kidnapping and murdering our children!"
         a "So imagine what would happen if word got out that the tavern folk are soft for these child killers."
         "The chief cracks his knuckles and stares down at you."
-        e 13 "I… I will do it."
+        e 13 "I... I will do it."
         "Thane hangs his head low in shame upon hearing your answer."
         a "Good, I look forward to hear your news."
         hide thane stand1 with dissolve
@@ -163,8 +163,8 @@ label Bull_tribe_map:
         "You both step out of the tent and walk down the stairs in silence. Halfway down Thane turns to you."
         show thane stand at center with dissolve
         t "I’m sorry, about my father."
-        t "He … he doesn’t usually like meeting outsiders."
-        t "I… I shouldn’t have gotten you involved."
+        t "He ... he doesn’t usually like meeting outsiders."
+        t "I... I shouldn’t have gotten you involved."
         e 1 "No, I was the one who agreed to it."
         e 1 "I’ll figure a way to deal with it."
         t "I’m sorry."
@@ -237,11 +237,11 @@ label Bull_tribe_map:
             "He cradles the organ in both his palms and whispers something softly to it."
             "You watch in silence from behind him as he conducts the ceremony."
             "Thane falls silent for a second and places the heart into the soil before burying it."
-            t "…"
+            t "..."
             "He turns towards you."
             show thane stand at center with dissolve
             t "Congrats on making it into the tribe."
-            e 13 "Thanks…"
+            e 13 "Thanks..."
             "Thane glances at the spot he buried the heart."
             t "Look it’s been a long day."
             t "Why don’t I show you to your place and I’ll let you get some rest."
@@ -317,7 +317,7 @@ label Bull_tribe_map:
             show thane stand1 at left with dissolve
             show axel stand at right with dissolve
             a "I am not satisfied wolf."
-            a "But since I’m in a good mood today, I will let you pass …"
+            a "But since I’m in a good mood today, I will let you pass ..."
             a "But you will have to work your ass off before I trust you."
             a "For now, you may enter and leave the village freely, but I’m watching you."
             a "Thane! Don’t think you’re off the hook just yet."
@@ -642,7 +642,7 @@ label Bull_tribe_map:
             "Female bull" "I curse!"
             "Female bull" "I curse the kidnapper and all its ancestors for what it’s done to our children."
         elif True:
-            "Female bull" "My baby… when will you come home?"
+            "Female bull" "My baby... when will you come home?"
         jump Bull_tribe_map
         return
     if _return == 'Chibi_bullm1':
@@ -1077,15 +1077,15 @@ label Room3:
                     pass
         "A strong wave of heat washes over your body."
         "You place a hand over your chest and you feel your heart beating like a storm."
-        e 11 "Ugh, I can’t… I can’t hold it in anymore."
+        e 11 "Ugh, I can’t... I can’t hold it in anymore."
         "From just placing your hand over your chest,{p}you start to massage your pecs."
         "You shudder and gasp from the touch.{p}Your loins feel heavy and tighten against your loincloth."
         "You tear away your loincloth exposing your throbbing dick.{p}With your cock in your hand you fall onto your bed."
         "You pant loudly while your hand rubs along your hot shaft."
         "This isn’t the first time you’ve jerked off, but you’ve never felt so horny in so long."
-        "Your balls… your balls feels so full."
+        "Your balls... your balls feels so full."
         "You grab the orbs dangling between your thighs and give them a good squeeze."
-        e 11 "Hngh…"
+        e 11 "Hngh..."
         "Your thumb caresses the tip of your cock, smearing it with hot translucent pre. Perfect for lube."
         "You smear the pre along your cock while steadily jerking your cock."
         "A soft gasp escape your mouth."
@@ -1095,7 +1095,7 @@ label Room3:
         "You feel the pressure building inside your dick."
         e 4 "Fuck!"
         "Beads of sweat form around your forehead and your body is mind numbingly warm."
-        "You pant louder and louder until…"
+        "You pant louder and louder until..."
         "Your cock fires a hot wad of cum right onto your face."
         "Your cumshots splatter around your pecs and stomach."
         "When you finally stop cumming your body sinks into the bed."
@@ -1166,7 +1166,7 @@ screen Room3:
         pass
 label bull_lick:
     "You hear strange noises coming from a nearby bush."
-    "Groggy Voice" "Ugh,,, no more… Cecilia… no more."
+    "Groggy Voice" "Ugh,,, no more... Cecilia... no more."
     e 5 "What the heck is that?"
     "You part a few bushes and find a drunk bull warrior lying on his back."
     "His eyes are closed and the pungent smell of alcohol wafts from his open mouth."
@@ -1219,7 +1219,7 @@ label bull_lick:
             e 0 "Who the heck is this Cecilia he keeps moaning about?"
             "Regardless, you strip the bull of his loincloth and bury your nose deep into his pulsating cock."
             scene lick bull2 with dissolve
-            "Drunk Bull" "Yeah… suck it…"
+            "Drunk Bull" "Yeah... suck it..."
             e 0 "Not yet."
             "You whisper to his member and continue playing his cock."
             "Using your tongue you lick his cock from its base right up to the tip."
@@ -1228,7 +1228,7 @@ label bull_lick:
             "The bull grunts and a thick drop of pre pushes out from the tip of his dick."
             "Breathing heavily on top of his member, you jiggle your butt to free your own throbbing erection from beneath you."
             "Your hard boner pokes out from your loincloth and rests between his boulder like chest."
-            "Drunk Bull" "Yeah, that’s it girl, put...your whole… on it… I promise it won’t hurt this time."
+            "Drunk Bull" "Yeah, that’s it girl, put...your whole... on it... I promise it won’t hurt this time."
             scene lick bull3 with dissolve
             "You open your mouth and suckle on the head of his dick. His pre tastes deliciously salty. "
             "The more you suck on his dickhead the more pre fills your mouth."
@@ -1245,7 +1245,7 @@ label bull_lick:
             "Its girth fills your entire mouth and you can feel the tip hitting the back of your throat the moment your nose brushes against the base."
             "Taking deep breaths through your nose you pull back slowly along his cock."
             scene lick bull4 with dissolve
-            e 0 "Mmm...mmm….mmmfff."
+            e 0 "Mmm...mmm....mmmfff."
             "And you go down his shaft again."
             "Your tongue wraps and releases the meaty pole as you get accustomed to sucking the bull off."
             "It takes you a few tries but you find your momentum and you're able to suck the thick, throbbing dick with ease."

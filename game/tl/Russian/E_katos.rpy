@@ -532,7 +532,7 @@ translate Russian Festival_ending_bull_f23360eb:
 translate Russian Festival_ending_bull_329fa0a2:
 
 
-    a "My foolish son may be persistent in defying me, but… he is still my son, and is a part of this tribe."
+    a "My foolish son may be persistent in defying me, but... he is still my son, and is a part of this tribe."
 
 
 translate Russian Festival_ending_bull_e38570ac:
@@ -694,7 +694,7 @@ translate Russian Festival_ending_bull_0097fde4:
 translate Russian Festival_ending_bull_63f306f1:
 
 
-    t "{cps=10}Listen…{/cps}"
+    t "{cps=10}Listen...{/cps}"
 
 
 translate Russian Festival_ending_bull_d435bcdb:
@@ -718,13 +718,13 @@ translate Russian Festival_ending_bull_df791d9a:
 translate Russian Festival_ending_bull_63f306f1_1:
 
 
-    t "{cps=10}Listen…{/cps}"
+    t "{cps=10}Listen...{/cps}"
 
 
 translate Russian Festival_ending_bull_4aa6fc76:
 
 
-    t "{cps=7}Lizard…{/cps}"
+    t "{cps=7}Lizard...{/cps}"
 
 
 translate Russian Festival_ending_bull_174e40c0:
@@ -862,7 +862,7 @@ translate Russian Festival_ending_bull_05e93deb:
 translate Russian Festival_ending_bull_05333ace:
 
 
-    e 12 "…"
+    e 12 "..."
 
 
 translate Russian Festival_ending_bull_681e3962:
@@ -1174,7 +1174,7 @@ translate Russian Festival_ending_bull_70e378b4:
 translate Russian Festival_ending_bull_72e94c19:
 
 
-    a "…"
+    a "..."
 
 
 translate Russian Festival_ending_bull_3485beae:
@@ -1234,7 +1234,7 @@ translate Russian Festival_ending_bull_07d65b42:
 translate Russian Festival_ending_bull_e2b4cdd2:
 
 
-    e 13 "He… he said Lizard. Was. Lie."
+    e 13 "He... he said Lizard. Was. Lie."
 
 
 translate Russian Festival_ending_bull_15b893ef:
@@ -1306,7 +1306,7 @@ translate Russian Festival_ending_bull_1a0d6dd0:
 translate Russian Festival_ending_bull_3b0dad5a:
 
 
-    e 5 "If Thane wakes up and he finds out innocent lizards died because you did it under Thane’s name… he’d… he’d never forgive you."
+    e 5 "If Thane wakes up and he finds out innocent lizards died because you did it under Thane’s name... he’d... he’d never forgive you."
 
 
 translate Russian Festival_ending_bull_fc0d7eb0:
@@ -1624,7 +1624,7 @@ translate Russian Festival_ending_bull_f0aee6fd:
 translate Russian Festival_ending_bull_f359414b:
 
 
-    e 10 "I… said, that would be hard to pull off. "
+    e 10 "I... said, that would be hard to pull off. "
 
 
 translate Russian Festival_ending_bull_d4bd9b22:
@@ -1792,7 +1792,7 @@ translate Russian Festival_ending_bull_52346d93:
 translate Russian Festival_ending_bull_1d3b32f8:
 
 
-    "Then the next one appears lavishly long with a multitude of coloured squares from one end to the…"
+    "Then the next one appears lavishly long with a multitude of coloured squares from one end to the..."
 
 
 translate Russian Festival_ending_bull_8539a512:
@@ -1924,13 +1924,13 @@ translate Russian Festival_ending_bull_1a9009ea:
 translate Russian Festival_ending_bull_bbb4051a:
 
 
-    e 1 "This is…"
+    e 1 "This is..."
 
 
 translate Russian Festival_ending_bull_273cfc8b:
 
 
-    a "It’s what Thane and I made earlier this year… before the whole war thing broke out."
+    a "It’s what Thane and I made earlier this year... before the whole war thing broke out."
 
 
 translate Russian Festival_ending_bull_46fed7ae:
@@ -2056,7 +2056,7 @@ translate Russian Festival_ending_bull_d491113e:
 translate Russian Festival_ending_bull_f8088b9a:
 
 
-    "Tomahawk" "Hmm… that is true."
+    "Tomahawk" "Hmm... that is true."
 
 
 translate Russian Festival_ending_bull_c26e5a84:
@@ -2152,7 +2152,7 @@ translate Russian Festival_ending_bull_0c7638c3:
 translate Russian Festival_ending_bull_7a9a43e9:
 
 
-    e 13 "Yeah… it was terrible what happened…"
+    e 13 "Yeah... it was terrible what happened..."
 
 
 translate Russian Festival_ending_bull_246002d2:
@@ -2422,7 +2422,7 @@ translate Russian Festival_ending_bull_70d59307:
 translate Russian Festival_ending_bull_0f742ca2:
 
 
-    t "{cps=10}[name] …{/cps}"
+    t "{cps=10}[name] ...{/cps}"
 
 
 translate Russian Festival_ending_bull_e59f18e0:
@@ -2434,7 +2434,7 @@ translate Russian Festival_ending_bull_e59f18e0:
 translate Russian Festival_ending_bull_0f742ca2_1:
 
 
-    t "{cps=10}[name] …{/cps}"
+    t "{cps=10}[name] ...{/cps}"
 
 
 translate Russian Festival_ending_bull_68c4b89e:
@@ -2458,7 +2458,7 @@ translate Russian Festival_ending_bull_17ef3def:
 translate Russian Festival_ending_bull_63f306f1_2:
 
 
-    t "{cps=10}Listen…{/cps}"
+    t "{cps=10}Listen...{/cps}"
 
 
 translate Russian Festival_ending_bull_6327fb4a:
@@ -2596,7 +2596,7 @@ translate Russian Festival_ending_bull_17420222:
 translate Russian Festival_ending_bull_4844a457:
 
 
-    e 13 "Dear gods… Thane."
+    e 13 "Dear gods... Thane."
 
 
 translate Russian Festival_ending_bull_0aa52583:
@@ -3052,7 +3052,7 @@ translate Russian Bull_hanging_438f5b04:
 translate Russian Bull_hanging_c973e3b4:
 
 
-    e 13 "This is it… it’s war."
+    e 13 "This is it... it’s war."
 
 
 translate Russian Bull_hanging_bc064b09:
@@ -3166,7 +3166,7 @@ translate Russian Bull_hanging_ae8e3927:
 translate Russian Bull_hanging_de7a2783:
 
 
-    e 13 "This is it… this is war."
+    e 13 "This is it... this is war."
 
 
 translate Russian Bull_hanging_0eb1f73d_1:
@@ -3244,7 +3244,7 @@ translate Russian Bull_hanging_ae8e3927_1:
 translate Russian Bull_hanging_de7a2783_1:
 
 
-    e 13 "This is it… this is war."
+    e 13 "This is it... this is war."
 
 
 translate Russian Festival_ending_lizard_7702b6f3:
@@ -3388,7 +3388,7 @@ translate Russian Festival_ending_lizard_54bbe4fa:
 translate Russian Festival_ending_lizard_f8134492:
 
 
-    e 9 "Err… hi."
+    e 9 "Err... hi."
 
 
 translate Russian Festival_ending_lizard_b448206f:
@@ -3412,7 +3412,7 @@ translate Russian Festival_ending_lizard_ad60dd22:
 translate Russian Festival_ending_lizard_d67b54eb:
 
 
-    e 9 "I just wanted to… report that the fruits have been delivered."
+    e 9 "I just wanted to... report that the fruits have been delivered."
 
 
 translate Russian Festival_ending_lizard_850d49ee:
@@ -3436,7 +3436,7 @@ translate Russian Festival_ending_lizard_9dfbbcdb:
 translate Russian Festival_ending_lizard_235d32b1:
 
 
-    e 6 "Thank you, I… better go."
+    e 6 "Thank you, I... better go."
 
 
 translate Russian Festival_ending_lizard_8dbc36d1:
@@ -3454,7 +3454,7 @@ translate Russian Festival_ending_lizard_b14b2c67:
 translate Russian Festival_ending_lizard_91c53566:
 
 
-    e 1 "Wow…"
+    e 1 "Wow..."
 
 
 translate Russian Festival_ending_lizard_21d5c168:
@@ -3616,7 +3616,7 @@ translate Russian Festival_ending_lizard_91c82f26:
 translate Russian Festival_ending_lizard_9642c05f:
 
 
-    "You raise your right hand and sniff it… it is you."
+    "You raise your right hand and sniff it... it is you."
 
 
 translate Russian Festival_ending_lizard_74abdd0c:
@@ -3790,7 +3790,7 @@ translate Russian Festival_ending_lizard_d69d2596:
 translate Russian Festival_ending_lizard_88c40362:
 
 
-    n "Ohh… it sounds… just like how you guys sang it that year."
+    n "Ohh... it sounds... just like how you guys sang it that year."
 
 
 translate Russian Festival_ending_lizard_6e893792:
@@ -4006,7 +4006,7 @@ translate Russian Festival_ending_lizard_29da25c5:
 translate Russian Festival_ending_lizard_fd1dbd9b:
 
 
-    e 5 "Is that… is that why you’re trying to kiss his ass so hard?"
+    e 5 "Is that... is that why you’re trying to kiss his ass so hard?"
 
 
 translate Russian Festival_ending_lizard_0ee264ca:
@@ -4084,7 +4084,7 @@ translate Russian Festival_ending_lizard_9a12c4d3:
 translate Russian Festival_ending_lizard_76f2ed73:
 
 
-    e 13 "I don’t want to ruin the festival but…"
+    e 13 "I don’t want to ruin the festival but..."
 
 
 translate Russian Festival_ending_lizard_84764fee:
@@ -4138,7 +4138,7 @@ translate Russian Festival_ending_lizard_3da1875d:
 translate Russian Festival_ending_lizard_f53dab21:
 
 
-    e 1 "Oh… ok."
+    e 1 "Oh... ok."
 
 
 translate Russian Festival_ending_lizard_04398eac:
@@ -4216,13 +4216,13 @@ translate Russian Festival_ending_lizard_8747352b:
 translate Russian Festival_ending_lizard_ce617998:
 
 
-    "…"
+    "..."
 
 
 translate Russian Festival_ending_lizard_ce617998_1:
 
 
-    "…"
+    "..."
 
 
 translate Russian Festival_ending_lizard_3c3b71b9:
@@ -4258,7 +4258,7 @@ translate Russian Festival_ending_lizard_bd1f1cf5:
 translate Russian Festival_ending_lizard_ce617998_2:
 
 
-    "…"
+    "..."
 
 
 translate Russian Festival_ending_lizard_62f36e2d:
@@ -4372,7 +4372,7 @@ translate Russian Festival_ending_lizard_b963d346:
 translate Russian Festival_ending_lizard_4401efcd:
 
 
-    n "The night is still young… and I was wondering… maybe… maybe you’d want to share a drink with me?"
+    n "The night is still young... and I was wondering... maybe... maybe you’d want to share a drink with me?"
 
 
 translate Russian Festival_ending_lizard_9a93af50:
@@ -4738,7 +4738,7 @@ translate Russian Lizard_defend_bcc865f7:
 translate Russian Lizard_defend_5cff5929:
 
 
-    e 5 "Ok…"
+    e 5 "Ok..."
 
 
 translate Russian Lizard_defend_2be23697:
@@ -4918,7 +4918,7 @@ translate Russian Lizard_defend_11734d0b:
 translate Russian Lizard_defend_47be356a:
 
 
-    h "But… the look in his eyes."
+    h "But... the look in his eyes."
 
 
 translate Russian Lizard_defend_ea5e843a:

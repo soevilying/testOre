@@ -196,7 +196,7 @@ translate Thai Room1_b330a84b:
 translate Thai Room1_507deefc:
 
 
-    e 11 "Ugh, I can’t… I can’t hold it in anymore."
+    e 11 "Ugh, I can’t... I can’t hold it in anymore."
 
 
 translate Thai Room1_8f87b139:
@@ -232,7 +232,7 @@ translate Thai Room1_432fc67b:
 translate Thai Room1_cf4f85fc:
 
 
-    "Your balls… your balls feels so full."
+    "Your balls... your balls feels so full."
 
 
 translate Thai Room1_8da061e7:
@@ -244,7 +244,7 @@ translate Thai Room1_8da061e7:
 translate Thai Room1_52c5aa35:
 
 
-    e 11 "Hngh…"
+    e 11 "Hngh..."
 
 
 translate Thai Room1_dacd1d68:
@@ -304,7 +304,7 @@ translate Thai Room1_dd72ff9f:
 translate Thai Room1_bc8c1bbf:
 
 
-    "You pant louder and louder until…"
+    "You pant louder and louder until..."
 
 
 translate Thai Room1_862c2694:
@@ -514,7 +514,7 @@ translate Thai Room1_dream_93bed78a:
 translate Thai Room1_dream_a4dc4bb4:
 
 
-    e 9 "That dream… that was insane."
+    e 9 "That dream... that was insane."
 
 
 translate Thai Room1_dream_bfbb722a:

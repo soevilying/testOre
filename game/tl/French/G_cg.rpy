@@ -94,7 +94,7 @@ translate French slimelose_gcg_e1508a79:
 translate French slimelose_gcg_3ba7cd15:
 
 
-    e "Ah...ahhh…ahh!"
+    e "Ah...ahhh...ahh!"
 
 
 translate French slimelose_gcg_f9230d72:
@@ -178,13 +178,13 @@ translate French slimelose_gcg_f0af6fe8:
 translate French slimelose_gcg_39ae11d2:
 
 
-    e "No… must fight it!"
+    e "No... must fight it!"
 
 
 translate French slimelose_gcg_53b9881c:
 
 
-    e "Too good… I mustn’t give in."
+    e "Too good... I mustn’t give in."
 
 
 translate French slimelose_gcg_4b20b227:
@@ -304,7 +304,7 @@ translate French Witer_bj_gcg_c2ecfcb6:
 translate French Witer_bj_gcg_0d62d196:
 
 
-    w "Smart birdie. So…"
+    w "Smart birdie. So..."
 
 
 translate French Witer_bj_gcg_6dd06bf7:
@@ -322,7 +322,7 @@ translate French Witer_bj_gcg_270d4983:
 translate French Witer_bj_gcg_666e8716:
 
 
-    e 6 "Just…Do what u want"
+    e 6 "Just...Do what u want"
 
 
 translate French Witer_bj_gcg_d6fe0fd9:
@@ -730,7 +730,7 @@ translate French battle_bull_lose_gcg_87206c1f:
 translate French battle_bull_lose_gcg_b2b68d0b:
 
 
-    "[name]" "No…. I mustn't…."
+    "[name]" "No.... I mustn't...."
 
 
 translate French battle_bull_lose_gcg_08f5de7b:
@@ -1180,7 +1180,7 @@ translate French battle_bull_lose_gcg_cb7f968f:
 translate French battle_bull_lose_gcg_f92bfa69:
 
 
-    "Your eyelids are getting heavy…"
+    "Your eyelids are getting heavy..."
 
 
 translate French battle_bull_lose_gcg_94d019a6:
@@ -1228,7 +1228,7 @@ translate French battle_bull_sex_agcg_2043a3c0:
 translate French battle_bull_sex_agcg_f7679117:
 
 
-    "Bull warrior" "Claim me… champion."
+    "Bull warrior" "Claim me... champion."
 
 
 translate French battle_bull_sex_agcg_8b020fbf:
@@ -1342,7 +1342,7 @@ translate French battle_bull_sex_agcg_e14725aa:
 translate French battle_bull_sex_agcg_772bd301:
 
 
-    "Bull warrior" "Yes… please… it feels so warm… I need you inside me."
+    "Bull warrior" "Yes... please... it feels so warm... I need you inside me."
 
 
 translate French battle_bull_sex_agcg_21144b0d:
@@ -1576,7 +1576,7 @@ translate French battle_bull_sex_bgcg_2043a3c0:
 translate French battle_bull_sex_bgcg_f7679117:
 
 
-    "Bull warrior" "Claim me… champion."
+    "Bull warrior" "Claim me... champion."
 
 
 translate French battle_bull_sex_bgcg_8b020fbf:
@@ -1690,7 +1690,7 @@ translate French battle_bull_sex_bgcg_e14725aa:
 translate French battle_bull_sex_bgcg_772bd301:
 
 
-    "Bull warrior" "Yes… please… it feels so warm… I need you inside me."
+    "Bull warrior" "Yes... please... it feels so warm... I need you inside me."
 
 
 translate French battle_bull_sex_bgcg_21144b0d:
@@ -2104,7 +2104,7 @@ translate French battle_tree_lose_gcg_5eab678c:
 translate French battle_tree_lose_gcg_97a49711:
 
 
-    e "What is that? I… It smells… so good."
+    e "What is that? I... It smells... so good."
 
 
 translate French battle_tree_lose_gcg_fd35c1e8:
@@ -2500,7 +2500,7 @@ translate French battle_tree_lose_gcg_d0b41245:
 translate French battle_tree_lose_gcg_5e2cb6bf:
 
 
-    e "(I… I… want to cum again.)"
+    e "(I... I... want to cum again.)"
 
 
 translate French battle_tree_lose_gcg_a20cefa7_1:
@@ -2968,7 +2968,7 @@ translate French battle_ghost_lose_gcg_4bec7010:
 translate French battle_ghost_lose_gcg_6b43c038:
 
 
-    e 0 "YOU…"
+    e 0 "YOU..."
 
 
 translate French battle_ghost_lose_gcg_cf1bd510:
@@ -2980,7 +2980,7 @@ translate French battle_ghost_lose_gcg_cf1bd510:
 translate French battle_ghost_lose_gcg_c1bda90f:
 
 
-    e 0 "YOU… GET OUT OF MY BODY!"
+    e 0 "YOU... GET OUT OF MY BODY!"
 
 
 translate French battle_ghost_lose_gcg_475a6b8e:
@@ -4270,7 +4270,7 @@ translate French lizrad_sex_gcg_7ca6393d:
 translate French lizrad_sex_gcg_2ab27bc1:
 
 
-    "Lizard Warrior" "Ugh…. my ass."
+    "Lizard Warrior" "Ugh.... my ass."
 
 
 translate French lizrad_sex_gcg_c1ea641a:
@@ -4468,7 +4468,7 @@ translate French bull_lick_gcg_3fe982e7:
 translate French bull_lick_gcg_37a82873:
 
 
-    "Drunk Bull" "Yeah… suck it…"
+    "Drunk Bull" "Yeah... suck it..."
 
 
 translate French bull_lick_gcg_6f2cc0df:
@@ -4522,7 +4522,7 @@ translate French bull_lick_gcg_ae039ecc:
 translate French bull_lick_gcg_3c7e17c0:
 
 
-    "Drunk Bull" "Yeah, that’s it girl, put...your whole… on it… I promise it won’t hurt this time."
+    "Drunk Bull" "Yeah, that’s it girl, put...your whole... on it... I promise it won’t hurt this time."
 
 
 translate French bull_lick_gcg_477f4dc3:
@@ -4612,7 +4612,7 @@ translate French bull_lick_gcg_3badfb01:
 translate French bull_lick_gcg_da680fa5:
 
 
-    e 0 "Mmm...mmm….mmmfff."
+    e 0 "Mmm...mmm....mmmfff."
 
 
 translate French bull_lick_gcg_9db0e54e:
@@ -5374,7 +5374,7 @@ translate French gargoyle_win_gcg_8970dae9:
 translate French gargoyle_win_gcg_aff27e19:
 
 
-    "Gargoyle" "Yes… warm good."
+    "Gargoyle" "Yes... warm good."
 
 
 translate French gargoyle_win_gcg_2a5cc79e:
@@ -5404,7 +5404,7 @@ translate French gargoyle_win_gcg_5affe14a:
 translate French gargoyle_win_gcg_645733d7:
 
 
-    "Gargoyle" "More warm… better… me like warm."
+    "Gargoyle" "More warm... better... me like warm."
 
 
 translate French gargoyle_win_gcg_4266b53e:
@@ -5428,7 +5428,7 @@ translate French gargoyle_win_gcg_0a583ad1:
 translate French gargoyle_win_gcg_4c5311f6:
 
 
-    "Gargoyle" "Fuck… give me… warm cock!"
+    "Gargoyle" "Fuck... give me... warm cock!"
 
 
 translate French gargoyle_win_gcg_b780dfd5:
@@ -5464,7 +5464,7 @@ translate French gargoyle_win_gcg_6a597025:
 translate French gargoyle_win_gcg_a1707d5a:
 
 
-    "Gargoyle" "Gah… thick!"
+    "Gargoyle" "Gah... thick!"
 
 
 translate French gargoyle_win_gcg_649b06dc:
@@ -5680,7 +5680,7 @@ translate French gargoyle_win_gcg_fd642b40:
 translate French gargoyle_win_gcg_211e8985:
 
 
-    "Gargoyle" "Warm…"
+    "Gargoyle" "Warm..."
 
 
 translate French gargoyle_win_gcg_adbaedb1:
@@ -5824,7 +5824,7 @@ translate French roushkbottom_gcg_72714538:
 translate French roushkbottom_gcg_3e9644c2:
 
 
-    ro "Shh… just relax and take deep breaths."
+    ro "Shh... just relax and take deep breaths."
 
 
 translate French roushkbottom_gcg_fa7c503f:
@@ -6226,7 +6226,7 @@ translate French roushktop_gcg_0b6b8c12:
 translate French roushktop_gcg_fe4d9a6a:
 
 
-    ro "Ahhh, so… big."
+    ro "Ahhh, so... big."
 
 
 translate French roushktop_gcg_979c0505:
@@ -6268,7 +6268,7 @@ translate French roushktop_gcg_4517a207:
 translate French roushktop_gcg_d4666cf0:
 
 
-    ro "Please… [name], just fuck me."
+    ro "Please... [name], just fuck me."
 
 
 translate French roushktop_gcg_febe7e92:
@@ -6394,7 +6394,7 @@ translate French roushktop_gcg_e9d2bff0:
 translate French roushktop_gcg_67f20e43:
 
 
-    ro "Mph… more just put it all in!"
+    ro "Mph... more just put it all in!"
 
 
 translate French roushktop_gcg_f2688d6f:
@@ -6412,7 +6412,7 @@ translate French roushktop_gcg_097c6805:
 translate French roushktop_gcg_4670cb33:
 
 
-    e 0 "Oh… fuck."
+    e 0 "Oh... fuck."
 
 
 translate French roushktop_gcg_efd0457c:

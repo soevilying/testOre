@@ -118,7 +118,7 @@ translate Chinese battle_1_loop_dcd1510c_1:
 translate Chinese battle_1_loop_f9ce71fe:
 
 
-    "我无法再战斗了……"
+    "我无法再战斗了......"
 
 
 translate Chinese battle_1_loop_1c1b3af8:

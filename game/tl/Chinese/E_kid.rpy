@@ -16,13 +16,13 @@ translate Chinese battle_kid_46b1a9b8:
 translate Chinese battle_kid_a367155c:
 
 
-    "写着……"
+    "写着......"
 
 
 translate Chinese battle_kid_e5b5d8cb:
 
 
-    "{u}{i}{color=#d41b19}上帝啊……请救救我，他们还在这！{/i}{/u}{/color}"
+    "{u}{i}{color=#d41b19}上帝啊......请救救我，他们还在这！{/i}{/u}{/color}"
 
 
 translate Chinese battle_kid_84eb20ac:
@@ -52,7 +52,7 @@ translate Chinese battle_kid_c8e19369:
 translate Chinese battle_kid_52d326a8:
 
 
-    "{u}{i}{color=#d41b19}他们用那声音……折磨……折磨我…… {/i}{/u}{/color}"
+    "{u}{i}{color=#d41b19}他们用那声音......折磨......折磨我...... {/i}{/u}{/color}"
 
 
 translate Chinese battle_kid_7856283f:
@@ -202,7 +202,7 @@ translate Chinese battle_kid_loop_e9038599:
 translate Chinese battle_kid_loop_e4df89ec:
 
 
-    e "我无法战斗了……"
+    e "我无法战斗了......"
 
 
 translate Chinese battle_kid_loop_57bdc818:
@@ -340,13 +340,13 @@ translate Chinese battle_kid_loop_68c30cdd:
 translate Chinese battle_kid_win_a4db5cbd:
 
 
-    "幽灵小孩儿" "爸爸……你在哪？"
+    "幽灵小孩儿" "爸爸......你在哪？"
 
 
 translate Chinese battle_kid_win_0dd87862:
 
 
-    "幽灵小孩儿" "我们……好害怕。"
+    "幽灵小孩儿" "我们......好害怕。"
 
 
 translate Chinese battle_kid_win_beedc56d:

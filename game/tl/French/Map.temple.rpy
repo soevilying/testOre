@@ -106,7 +106,7 @@ translate French Temple_map_453b505c:
 translate French Temple_map_be4a7c22:
 
 
-    t "I err, speared a fish and thought it was dead… I was wrong."
+    t "I err, speared a fish and thought it was dead... I was wrong."
 
 
 translate French Temple_map_96ef22f8:
@@ -130,7 +130,7 @@ translate French Temple_map_1bb01731:
 translate French Temple_map_ff84fea6:
 
 
-    e 3 "Hahaha. I'm sorry. I just… hahaha."
+    e 3 "Hahaha. I'm sorry. I just... hahaha."
 
 
 translate French Temple_map_d494e416:
@@ -304,7 +304,7 @@ translate French Temple_map_733905aa:
 translate French Temple_map_ff29c666:
 
 
-    e 5 "Oh… ok, I'll take first watch."
+    e 5 "Oh... ok, I'll take first watch."
 
 
 translate French Temple_map_1c709b82:
@@ -466,7 +466,7 @@ translate French Temple_map_733905aa_1:
 translate French Temple_map_03c290cf:
 
 
-    e 1 "Oh… ok, I'll take first watch."
+    e 1 "Oh... ok, I'll take first watch."
 
 
 translate French Temple_map_1c709b82_2:
@@ -1054,13 +1054,13 @@ translate French Temple_map_52494f30:
 translate French Temple_map_4120a512:
 
 
-    e 5 "Woah! Tha- no wait, he’s meditating… and who knows what’s in there."
+    e 5 "Woah! Tha- no wait, he’s meditating... and who knows what’s in there."
 
 
 translate French Temple_map_47f74fc9:
 
 
-    e 5 "Maybe even… treasure! But also, maybe a nest for the undead."
+    e 5 "Maybe even... treasure! But also, maybe a nest for the undead."
 
 
 translate French Temple_map_f7ee844e:
@@ -1774,13 +1774,13 @@ translate French Temple_book_00058e49_2:
 translate French Temple_book_7385680c:
 
 
-    "{u}{i}It worked… the accursed painting that took so much out of me that it kept me unconscious for days.{/i}{/u}"
+    "{u}{i}It worked... the accursed painting that took so much out of me that it kept me unconscious for days.{/i}{/u}"
 
 
 translate French Temple_book_f762dcab:
 
 
-    "{u}{i}…But all it lead to was ruin.{/i}{/u}"
+    "{u}{i}...But all it lead to was ruin.{/i}{/u}"
 
 
 translate French Temple_book_d9c0d2c2:
@@ -1852,7 +1852,7 @@ translate French Temple_book_2df0f991:
 translate French Temple_book_69d2561d:
 
 
-    "{u}{i}Then… when I returned to my home in my original time what do I find?{/i}{/u}"
+    "{u}{i}Then... when I returned to my home in my original time what do I find?{/i}{/u}"
 
 
 translate French Temple_book_9f6ff114:

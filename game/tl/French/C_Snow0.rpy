@@ -322,7 +322,7 @@ translate French Snow_meet_3644abf3:
 translate French Snow_meet_b87ceb35:
 
 
-    s "This time, they were more… organized."
+    s "This time, they were more... organized."
 
 
 translate French Snow_meet_4c35bd0e:
@@ -514,7 +514,7 @@ translate French Snow_meet_f40a2c84:
 translate French Snow_talk_f120fe4f:
 
 
-    s "Err… what do you want?"
+    s "Err... what do you want?"
 
 
 translate French Snow_talk_351f4c28:
@@ -724,7 +724,7 @@ translate French Snow_menu_f2fc7f79:
 translate French Snow_menu_1f6312b7:
 
 
-    e 13 "Hmm…"
+    e 13 "Hmm..."
 
 
 translate French Snow_menu_2d592ccc:
@@ -862,7 +862,7 @@ translate French Snow_menu_463218bd:
 translate French Snow_menu_6b79e6e7:
 
 
-    s "I… I think so?"
+    s "I... I think so?"
 
 
 translate French Snow_menu_76bcc8fc:
@@ -1030,7 +1030,7 @@ translate French Snow_menu_25d25ce3:
 translate French Snow_menu_9abbd69a:
 
 
-    e 13 "It just doesn’t make any sense…"
+    e 13 "It just doesn’t make any sense..."
 
 
 translate French Snow_menu_9e9a0d5c:
@@ -1072,7 +1072,7 @@ translate French Snow_menu_fb97cd3a:
 translate French Snow_menu_e3e2a4a9:
 
 
-    e 1 "(Father… he said something like that before, a long time ago.)"
+    e 1 "(Father... he said something like that before, a long time ago.)"
 
 
 translate French Snow_menu_903d4cc4:
@@ -1108,7 +1108,7 @@ translate French Snow_menu_03efeeef:
 translate French Snow_menu_43965559:
 
 
-    e 13 "… I’ll try."
+    e 13 "... I’ll try."
 
 
 translate French Snow_menu_cbe62cfc:
@@ -1276,7 +1276,7 @@ translate French Snow_menu_d8304d60:
 translate French Snow_menu_2d4376b0:
 
 
-    s "…"
+    s "..."
 
 
 translate French Snow_menu_c8daaa23:
@@ -1996,7 +1996,7 @@ translate French Snow_menu_1bc54f41:
 translate French Snow_menu_3ce5d7bb:
 
 
-    s "… I’m sorry I shouldn’t have spoken like that to you."
+    s "... I’m sorry I shouldn’t have spoken like that to you."
 
 
 translate French Snow_menu_ac2bbf83:
@@ -2206,7 +2206,7 @@ translate French Snow_lake_bank_chat_6186867a:
 translate French Snow_lake_bank_chat_a7d2d03f:
 
 
-    s "So… one night, we didn’t have much to do."
+    s "So... one night, we didn’t have much to do."
 
 
 translate French Snow_lake_bank_chat_d6f88f7a:
@@ -2224,7 +2224,7 @@ translate French Snow_lake_bank_chat_ff0b9000:
 translate French Snow_lake_bank_chat_c438c1d8:
 
 
-    s "Then at night… she crept into my bed and we hugged, and one thing lead to another and we kissed… before we…"
+    s "Then at night... she crept into my bed and we hugged, and one thing lead to another and we kissed... before we..."
 
 
 translate French Snow_lake_bank_chat_d80cbd8f:
@@ -2692,7 +2692,7 @@ translate French Snow_lake_bank_chat_a3a6ae1a:
 translate French Snow_lake_bank_chat_c224a5c6:
 
 
-    s "Hmm… I don’t see anything."
+    s "Hmm... I don’t see anything."
 
 
 translate French Snow_lake_bank_chat_444e49e5:
@@ -2728,7 +2728,7 @@ translate French Snow_lake_bank_chat_3e19dd16:
 translate French Snow_lake_bank_chat_ff2a1a15:
 
 
-    e 1 "Ok…"
+    e 1 "Ok..."
 
 
 translate French Snow_lake_bank_chat_9ff2c5f4:

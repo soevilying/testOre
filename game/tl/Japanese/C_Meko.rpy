@@ -28,7 +28,7 @@ translate Japanese meko_meet_68894a76:
 translate Japanese meko_meet_ce617998:
 
 
-    "…"
+    "..."
 
 
 translate Japanese meko_meet_8936dde3:
@@ -568,7 +568,7 @@ translate Japanese meko_meet_7626543b:
 translate Japanese meko_meet_e448900c:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Japanese meko_meet_d42e325b:
@@ -694,7 +694,7 @@ translate Japanese meko_meet_8b9b139c:
 translate Japanese meko_meet_9c28acde:
 
 
-    e 13 "Meko…"
+    e 13 "Meko..."
 
 
 translate Japanese meko_meet_38874c98:
@@ -928,7 +928,7 @@ translate Japanese meko_talk_103997af:
 translate Japanese meko_talk_6b8ab331:
 
 
-    m "Hmm… not really. I lived a pretty fulfilling life."
+    m "Hmm... not really. I lived a pretty fulfilling life."
 
 
 translate Japanese meko_talk_4ccd0134:
@@ -1474,7 +1474,7 @@ translate Japanese meko_talk_7107568e:
 translate Japanese meko_talk_7130a067:
 
 
-    m "I died… because of a broken heart."
+    m "I died... because of a broken heart."
 
 
 translate Japanese meko_talk_8e7897e0:
@@ -1492,7 +1492,7 @@ translate Japanese meko_talk_9d15045a:
 translate Japanese meko_talk_4a1799d7:
 
 
-    e 9 "Err…"
+    e 9 "Err..."
 
 
 translate Japanese meko_talk_27a705a5:
@@ -1564,7 +1564,7 @@ translate Japanese meko_talk_e434f523:
 translate Japanese meko_talk_fecdd02d:
 
 
-    m "Hmm… this is most troubling to hear [name]."
+    m "Hmm... this is most troubling to hear [name]."
 
 
 translate Japanese meko_talk_b3b899cb:
@@ -1654,7 +1654,7 @@ translate Japanese meko_talk_256bf9da:
 translate Japanese meko_talk_e448900c:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Japanese meko_talk_30bcb352:
@@ -1678,7 +1678,7 @@ translate Japanese meko_talk_218f9d6d:
 translate Japanese meko_talk_486070b6:
 
 
-    e 13 "It’s just…"
+    e 13 "It’s just..."
 
 
 translate Japanese meko_talk_cc6432c5:
@@ -1708,7 +1708,7 @@ translate Japanese meko_talk_c27f0a9b:
 translate Japanese meko_talk_7e304eee:
 
 
-    m "Oh…"
+    m "Oh..."
 
 
 translate Japanese meko_talk_3588b1e2:
@@ -1732,7 +1732,7 @@ translate Japanese meko_talk_4b48fdea:
 translate Japanese meko_talk_a63c3ba5:
 
 
-    m "Sorry… I was lost in thought."
+    m "Sorry... I was lost in thought."
 
 
 translate Japanese meko_talk_333f9bab:
@@ -1774,7 +1774,7 @@ translate Japanese meko_talk_74cbd812:
 translate Japanese meko_talk_ff2a1a15:
 
 
-    e 1 "Ok…"
+    e 1 "Ok..."
 
 
 translate Japanese meko_talk_56b820c9:
@@ -1828,7 +1828,7 @@ translate Japanese meko_talk_f1eef3ee:
 translate Japanese meko_talk_e6cb0e79:
 
 
-    e 1 "I… no, I don’t know."
+    e 1 "I... no, I don’t know."
 
 
 translate Japanese meko_talk_a9f14cf7:
@@ -2182,7 +2182,7 @@ translate Japanese meko_talk_e77fa15b:
 translate Japanese meko_talk_eeaf6503:
 
 
-    m "He would make mentions of, “The plan is set…”, “We’ll get out of here soon…” or “It’s dangerous to go alone…”"
+    m "He would make mentions of, “The plan is set...”, “We’ll get out of here soon...” or “It’s dangerous to go alone...”"
 
 
 translate Japanese meko_talk_ce23fbf8:
@@ -2308,7 +2308,7 @@ translate Japanese meko_talk_b07a2408:
 translate Japanese meko_talk_ef7a9ef0:
 
 
-    m "Well maybe if I had a nice room to be in…"
+    m "Well maybe if I had a nice room to be in..."
 
 
 translate Japanese meko_talk_a43a3adb:
@@ -2368,7 +2368,7 @@ translate Japanese meko_talk_4d2d55aa:
 translate Japanese meko_talk_e448900c_1:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Japanese meko_talk_568b73cb:
@@ -2494,7 +2494,7 @@ translate Japanese meko_talk_fbf211ad:
 translate Japanese meko_talk_fe4021d1:
 
 
-    e 1 "That's… a pretty lame name."
+    e 1 "That's... a pretty lame name."
 
 
 translate Japanese meko_talk_31e479e5:

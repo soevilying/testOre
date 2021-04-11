@@ -394,7 +394,7 @@ translate Russian castle_map_109cbc80:
 translate Russian castle_map_80eb3699:
 
 
-    "A cold shiver travels down your spine, at the back of your head you know him to be… a ghost."
+    "A cold shiver travels down your spine, at the back of your head you know him to be... a ghost."
 
 
 translate Russian castle_map_7aac9fce:
@@ -628,7 +628,7 @@ translate Russian castle_map_beb04b85:
 translate Russian castle_map_af65575c:
 
 
-    e 13 "Hmm… fine. I’ll be back."
+    e 13 "Hmm... fine. I’ll be back."
 
 
 translate Russian castle_map_d7008fef:
@@ -928,7 +928,7 @@ translate Russian castle_map_00fac00e:
 translate Russian castle_map_475d9c1c:
 
 
-    "You turn to the left…"
+    "You turn to the left..."
 
 
 translate Russian castle_map_8476f2f5:
@@ -1078,7 +1078,7 @@ translate Russian castle_map_93c6543a:
 translate Russian castle_map_ec3bce9d:
 
 
-    "{u}{i}But then… guess what I found in the Knight Commander’s office.{/i}{/u}"
+    "{u}{i}But then... guess what I found in the Knight Commander’s office.{/i}{/u}"
 
 
 translate Russian castle_map_3f883893:
@@ -1138,7 +1138,7 @@ translate Russian castle_map_e1d20bf8:
 translate Russian castle_map_e448900c:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Russian castle_map_23f01cd2:
@@ -1192,7 +1192,7 @@ translate Russian castle_map_93c6543a_1:
 translate Russian castle_map_ec3bce9d_1:
 
 
-    "{u}{i}But then… guess what I found in the Knight Commander’s office.{/i}{/u}"
+    "{u}{i}But then... guess what I found in the Knight Commander’s office.{/i}{/u}"
 
 
 translate Russian castle_map_3f883893_1:
@@ -1534,7 +1534,7 @@ translate Russian castle_map_213eed33:
 translate Russian castle_map_0edc2e67:
 
 
-    "The paper reads…"
+    "The paper reads..."
 
 
 translate Russian castle_map_6c479858:
@@ -1570,7 +1570,7 @@ translate Russian castle_map_53e5d537:
 translate Russian castle_map_23a69e8f:
 
 
-    "{u}{i}But something strange is happening…{/i}{/u}"
+    "{u}{i}But something strange is happening...{/i}{/u}"
 
 
 translate Russian castle_map_6d44cec9:
@@ -1582,7 +1582,7 @@ translate Russian castle_map_6d44cec9:
 translate Russian castle_map_9fc71a36:
 
 
-    "{u}{i}Yet they leave behind their belongings…{/i}{/u}"
+    "{u}{i}Yet they leave behind their belongings...{/i}{/u}"
 
 
 translate Russian castle_map_66538d32:
@@ -1636,7 +1636,7 @@ translate Russian castle_map_99c323b2_1:
 translate Russian castle_map_0edc2e67_1:
 
 
-    "The paper reads…"
+    "The paper reads..."
 
 
 translate Russian castle_map_6c479858_1:
@@ -1672,7 +1672,7 @@ translate Russian castle_map_53e5d537_2:
 translate Russian castle_map_23a69e8f_1:
 
 
-    "{u}{i}But something strange is happening…{/i}{/u}"
+    "{u}{i}But something strange is happening...{/i}{/u}"
 
 
 translate Russian castle_map_6d44cec9_1:
@@ -1684,7 +1684,7 @@ translate Russian castle_map_6d44cec9_1:
 translate Russian castle_map_9fc71a36_1:
 
 
-    "{u}{i}Yet they leave behind their belongings…{/i}{/u}"
+    "{u}{i}Yet they leave behind their belongings...{/i}{/u}"
 
 
 translate Russian castle_map_66538d32_1:
@@ -1954,7 +1954,7 @@ translate Russian castle_map_298e8fe2:
 translate Russian castle_map_a367155c:
 
 
-    "It reads…"
+    "It reads..."
 
 
 translate Russian castle_map_6cbee0b8:
@@ -2200,7 +2200,7 @@ translate Russian castle_map_90348da9:
 translate Russian castle_map_fab8e215:
 
 
-    "The first page writes…"
+    "The first page writes..."
 
 
 translate Russian castle_map_1335de04:
@@ -2332,7 +2332,7 @@ translate Russian castle_map_99c323b2_2:
 translate Russian castle_map_fab8e215_1:
 
 
-    "The first page writes…"
+    "The first page writes..."
 
 
 translate Russian castle_map_1335de04_1:
@@ -2860,7 +2860,7 @@ translate Russian castle_point29_77d5e6fb:
 translate Russian castle_point29_affe4fbd:
 
 
-    "The same one in the dream… no whatever it was you saw was too vivid to be a dream. "
+    "The same one in the dream... no whatever it was you saw was too vivid to be a dream. "
 
 
 translate Russian castle_point29_dba8148e:
@@ -3106,7 +3106,7 @@ translate Russian castle_point29_5b367502:
 translate Russian castle_point29_a367155c:
 
 
-    "It reads…"
+    "It reads..."
 
 
 translate Russian castle_point29_cd2c0c22:
@@ -3202,7 +3202,7 @@ translate Russian castle_point29_92348a4e:
 translate Russian castle_point29_a367155c_1:
 
 
-    "It reads…"
+    "It reads..."
 
 
 translate Russian castle_point29_cd2c0c22_1:
@@ -3274,13 +3274,13 @@ translate Russian castle_point29_13f1b9c7:
 translate Russian castle_point29_a367155c_2:
 
 
-    "It reads…"
+    "It reads..."
 
 
 translate Russian castle_point29_aa7e5ae3:
 
 
-    "{u}{i}I surrender… There’s no curing the king’s ailment.{/i}{/u}"
+    "{u}{i}I surrender... There’s no curing the king’s ailment.{/i}{/u}"
 
 
 translate Russian castle_point29_bd90853e:
@@ -3448,7 +3448,7 @@ translate Russian castle_point29_46a5315f:
 translate Russian castle_point29_9d2d85bd:
 
 
-    e 5 "But then…"
+    e 5 "But then..."
 
 
 translate Russian castle_point29_65ec89b2:
@@ -4420,7 +4420,7 @@ translate Russian castle_prison_69921ab5:
 translate Russian castle_prison_15e8b23f:
 
 
-    "The note reads…"
+    "The note reads..."
 
 
 translate Russian castle_prison_5df73d3f:
@@ -4468,7 +4468,7 @@ translate Russian castle_prison_92348a4e:
 translate Russian castle_prison_15e8b23f_1:
 
 
-    "The note reads…"
+    "The note reads..."
 
 
 translate Russian castle_prison_5df73d3f_1:
@@ -4534,7 +4534,7 @@ translate Russian castle_prison_1613d70a:
 translate Russian castle_prison_b44da27a:
 
 
-    e 1 "Is that… a bag of moldy beans? "
+    e 1 "Is that... a bag of moldy beans? "
 
 
 translate Russian castle_prison_cf73b387:
@@ -4816,7 +4816,7 @@ translate Russian battle_S_knight_end_5f9b772e:
 translate Russian battle_S_knight_end_94dd68b6:
 
 
-    e 2 "Ugh, my head…"
+    e 2 "Ugh, my head..."
 
 
 translate Russian battle_S_knight_end_bebccdff:
@@ -4846,7 +4846,7 @@ translate Russian battle_S_knight_end_bc0f7f23:
 translate Russian battle_S_knight_end_9c392f06:
 
 
-    "That whole experience, the jail, the creature, the ending… it was just too real."
+    "That whole experience, the jail, the creature, the ending... it was just too real."
 
 
 translate Russian battle_S_knight_end_5d76377d:

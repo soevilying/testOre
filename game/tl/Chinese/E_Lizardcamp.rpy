@@ -40,7 +40,7 @@ translate Chinese battle_lizardcamp_loop_5ffe792e:
 translate Chinese battle_lizardcamp_loop_e4df89ec:
 
 
-    e "我不能再战斗了…"
+    e "我不能再战斗了..."
 
 
 translate Chinese battle_lizardcamp_loop_57bdc818:

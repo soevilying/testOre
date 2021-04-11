@@ -4,19 +4,19 @@
 translate Chinese battle_GhostC_82ba69a9:
 
 
-    "???" "给我你的……"
+    "???" "给我你的......"
 
 
 translate Chinese battle_GhostC_1ccf8e97:
 
 
-    "???" "救救我……"
+    "???" "救救我......"
 
 
 translate Chinese battle_GhostC_2f583fc1:
 
 
-    "???" "求求了……不要再来了。"
+    "???" "求求了......不要再来了。"
 
 
 translate Chinese battle_GhostC_5f3e624b:

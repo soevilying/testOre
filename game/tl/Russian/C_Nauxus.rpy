@@ -196,19 +196,19 @@ translate Russian Nauxus_meet_9d9d4063:
 translate Russian Nauxus_meet_156ec377:
 
 
-    e 13 "…"
+    e 13 "..."
 
 
 translate Russian Nauxus_meet_92249813:
 
 
-    e 14 "I may have… let a thief got away because he was posing as someone who got robbed."
+    e 14 "I may have... let a thief got away because he was posing as someone who got robbed."
 
 
 translate Russian Nauxus_meet_a180385b:
 
 
-    e 14 "I… attacked the actual victim who fought him off."
+    e 14 "I... attacked the actual victim who fought him off."
 
 
 translate Russian Nauxus_meet_49f76eca:
@@ -250,7 +250,7 @@ translate Russian Nauxus_meet_2c368952:
 translate Russian Nauxus_meet_e7e0089c:
 
 
-    e 5 "No, wait. I… can take any help I can get. Please teach me."
+    e 5 "No, wait. I... can take any help I can get. Please teach me."
 
 
 translate Russian Nauxus_meet_a9d9e012:
@@ -844,7 +844,7 @@ translate Russian Nauxus_meet_45c58898:
 translate Russian Nauxus_meet_610b11c9:
 
 
-    e 1 "… Fine."
+    e 1 "... Fine."
 
 
 translate Russian Nauxus_meet_e10d8d48:
@@ -1066,7 +1066,7 @@ translate Russian Nauxus_meet_1fa9904c:
 translate Russian Nauxus_meet_4802e1d6:
 
 
-    e 13 "I… oh no..."
+    e 13 "I... oh no..."
 
 
 translate Russian Nauxus_meet_1d03d804:
@@ -1102,13 +1102,13 @@ translate Russian Nauxus_meet_120fba3d:
 translate Russian Nauxus_meet_cdc6c8ce:
 
 
-    n "Stop, I don’t need to hear the rest …"
+    n "Stop, I don’t need to hear the rest ..."
 
 
 translate Russian Nauxus_meet_3f0af19f:
 
 
-    n "… How did they get you to do it?"
+    n "... How did they get you to do it?"
 
 
 translate Russian Nauxus_meet_ac246ca5:
@@ -1126,7 +1126,7 @@ translate Russian Nauxus_meet_1fc091b0:
 translate Russian Nauxus_meet_beac2b9f:
 
 
-    n "Typical… "
+    n "Typical... "
 
 
 translate Russian Nauxus_meet_01cf56cc:
@@ -1270,7 +1270,7 @@ translate Russian Nauxus_meet_d0d0eb71:
 translate Russian Nauxus_meet_2360953d:
 
 
-    e 1 "They… they set a trap for him and the moment he was caught in it they ambushed him."
+    e 1 "They... they set a trap for him and the moment he was caught in it they ambushed him."
 
 
 translate Russian Nauxus_meet_a397b0e5:
@@ -1330,7 +1330,7 @@ translate Russian Nauxus_meet_f2a944ca:
 translate Russian Nauxus_meet_43887b91:
 
 
-    n "Well…"
+    n "Well..."
 
 
 translate Russian Nauxus_meet_75e5b57f:
@@ -1426,7 +1426,7 @@ translate Russian Nauxus_meet_02c89080:
 translate Russian Nauxus_meet_9b18ceec:
 
 
-    n "Oh… I see."
+    n "Oh... I see."
 
 
 translate Russian Nauxus_meet_06f45695:
@@ -1456,7 +1456,7 @@ translate Russian Nauxus_meet_d0d0eb71_1:
 translate Russian Nauxus_meet_2360953d_1:
 
 
-    e 1 "They… they set a trap for him and the moment he was caught in it they ambushed him."
+    e 1 "They... they set a trap for him and the moment he was caught in it they ambushed him."
 
 
 translate Russian Nauxus_meet_a397b0e5_1:
@@ -1852,7 +1852,7 @@ translate Russian Nauxus_event_1_9033ac17:
 translate Russian Nauxus_event_1_4d013b6f:
 
 
-    e 13 "I can't forget them…"
+    e 13 "I can't forget them..."
 
 
 translate Russian Nauxus_event_1_98f6ef9f:
@@ -1882,7 +1882,7 @@ translate Russian Nauxus_event_1_3ecb9c5d:
 translate Russian Nauxus_event_1_e448900c:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Russian Nauxus_event_1_e76089d2:
@@ -2404,7 +2404,7 @@ translate Russian Nauxus_event_1_b226a52a:
 translate Russian Nauxus_event_1_37b74430:
 
 
-    n "We do this not only for our future, but for those we've lost… our children."
+    n "We do this not only for our future, but for those we've lost... our children."
 
 
 translate Russian Nauxus_event_1_252856c3:
@@ -3040,7 +3040,7 @@ translate Russian Nauxus_event_1_eff78095:
 translate Russian Nauxus_event_1_27677248:
 
 
-    bl "If it’s for the children… then I support the decision."
+    bl "If it’s for the children... then I support the decision."
 
 
 translate Russian Nauxus_event_1_15b13b63:
@@ -3250,7 +3250,7 @@ translate Russian Nauxus_event_1_150626bc:
 translate Russian Nauxus_event_1_e028bef9:
 
 
-    e 13 "(Then again… do I know him well enough? )"
+    e 13 "(Then again... do I know him well enough? )"
 
 
 translate Russian Nauxus_event_1_bce75304:
@@ -3520,7 +3520,7 @@ translate Russian Nauxus_camp_end_e100f119:
 translate Russian Nauxus_camp_end_a518fab0:
 
 
-    e 13 "I… wouldn't know. Is there anything else?"
+    e 13 "I... wouldn't know. Is there anything else?"
 
 
 translate Russian Nauxus_camp_end_82bb9a08:
@@ -3868,7 +3868,7 @@ translate Russian Nauxus_camp_end_cb2a5077:
 translate Russian Nauxus_camp_end_c9c5de49:
 
 
-    e 6 "Yeah, maybe…"
+    e 6 "Yeah, maybe..."
 
 
 translate Russian Nauxus_camp_end_5d0bc709:
@@ -4036,7 +4036,7 @@ translate Russian Nauxus_tribe_talk1_44803dbb:
 translate Russian Nauxus_tribe_talk1_5f704666:
 
 
-    e 13 "Ummm…"
+    e 13 "Ummm..."
 
 
 translate Russian Nauxus_tribe_talk1_f4b45717:
@@ -4054,7 +4054,7 @@ translate Russian Nauxus_tribe_talk1_c3061ce7:
 translate Russian Nauxus_tribe_talk1_b90de610:
 
 
-    e 13 "We’ve been spending time together, and I get this feeling like…"
+    e 13 "We’ve been spending time together, and I get this feeling like..."
 
 
 translate Russian Nauxus_tribe_talk1_ee6d3902:
@@ -4072,7 +4072,7 @@ translate Russian Nauxus_tribe_talk1_98ce00fd:
 translate Russian Nauxus_tribe_talk1_8eafdafb:
 
 
-    e 14 "Like, like…"
+    e 14 "Like, like..."
 
 
 translate Russian Nauxus_tribe_talk1_0d9e65a4:
@@ -4096,7 +4096,7 @@ translate Russian Nauxus_tribe_talk1_b0bb6587:
 translate Russian Nauxus_tribe_talk1_c10acf62:
 
 
-    e 6 "Well … would you want to… "
+    e 6 "Well ... would you want to... "
 
 
 translate Russian Nauxus_tribe_talk1_dcf10631:
@@ -4138,7 +4138,7 @@ translate Russian Nauxus_tribe_talk1_c0d29a23:
 translate Russian Nauxus_tribe_talk1_8737bf0c:
 
 
-    n "The lake. Hmm… I’ll think about it."
+    n "The lake. Hmm... I’ll think about it."
 
 
 translate Russian Nauxus_tribe_talk1_cc81e5a9:
@@ -4264,7 +4264,7 @@ translate Russian Nauxus_tribe_talk1_e511a667:
 translate Russian Nauxus_tribe_talk1_e3a0d4d5:
 
 
-    e 1 "Hmm…"
+    e 1 "Hmm..."
 
 
 translate Russian Nauxus_tribe_talk1_07fb3525:
@@ -4582,13 +4582,13 @@ translate Russian Nauxus_tribe_talk1_d420a4fc:
 translate Russian Nauxus_tribe_talk1_ec2b0b75:
 
 
-    n "I was so close… and the look in the kid’s eye, he needed me, and I couldn’t save him."
+    n "I was so close... and the look in the kid’s eye, he needed me, and I couldn’t save him."
 
 
 translate Russian Nauxus_tribe_talk1_916d904e:
 
 
-    e 13 "Nauxus…"
+    e 13 "Nauxus..."
 
 
 translate Russian Nauxus_tribe_talk1_d8fe46cf:
@@ -4624,13 +4624,13 @@ translate Russian Nauxus_tribe_talk1_0ff2b3e1:
 translate Russian Nauxus_tribe_talk1_e448900c:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Russian Nauxus_tribe_talk1_1483da2d:
 
 
-    n "I’m sorry. I… got overly emotional. Can we talk about something else?"
+    n "I’m sorry. I... got overly emotional. Can we talk about something else?"
 
 
 translate Russian Nauxus_tribe_talk1_741360c1:
@@ -4678,7 +4678,7 @@ translate Russian Nauxus_tribe_talk1_004777f2:
 translate Russian Nauxus_tribe_talk1_623bc113:
 
 
-    e 6 "I… I wouldn’t know. I’m not that popular with the girls."
+    e 6 "I... I wouldn’t know. I’m not that popular with the girls."
 
 
 translate Russian Nauxus_tribe_talk1_383b74f2:
@@ -4768,7 +4768,7 @@ translate Russian Nauxus_tribe_talk1_84c89e39:
 translate Russian Nauxus_tribe_talk1_58f57c74:
 
 
-    e 10 "So…"
+    e 10 "So..."
 
 
 translate Russian Nauxus_tribe_talk1_bcf1eb20:
@@ -4780,7 +4780,7 @@ translate Russian Nauxus_tribe_talk1_bcf1eb20:
 translate Russian Nauxus_tribe_talk1_e448900c_1:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Russian Nauxus_tribe_talk1_21d338cb:
@@ -5038,7 +5038,7 @@ translate Russian Nauxus_artwork_6f3965a6:
 translate Russian Nauxus_artwork_04cbce97:
 
 
-    e 9 "(Lines? They’re all lines…)"
+    e 9 "(Lines? They’re all lines...)"
 
 
 translate Russian Nauxus_artwork_7a6d71b8:
@@ -5086,7 +5086,7 @@ translate Russian Nauxus_artwork_6f3965a6_1:
 translate Russian Nauxus_artwork_04cbce97_1:
 
 
-    e 9 "(Lines? They’re all lines…)"
+    e 9 "(Lines? They’re all lines...)"
 
 
 translate Russian Nauxus_artwork_93115930:
@@ -5116,7 +5116,7 @@ translate Russian Nauxus_artwork_13fd2242:
 translate Russian Nauxus_artwork_153b6880:
 
 
-    e 5 "I… have nothing to say about his art skills."
+    e 5 "I... have nothing to say about his art skills."
 
 
 translate Russian Nauxus_artwork_0ae9bcd0:
@@ -5230,7 +5230,7 @@ translate Russian Nauxus_artwork_06e34238:
 translate Russian Nauxus_artwork_fd12a8d8:
 
 
-    e 9 "Yeah… piece of cake."
+    e 9 "Yeah... piece of cake."
 
 
 translate Russian Nauxus_artwork_21d47ac1:
@@ -5386,7 +5386,7 @@ translate Russian Nauxus_artwork_f7cb2c01:
 translate Russian Nauxus_artwork_78f601e0:
 
 
-    n "No, it’s just… I haven’t been touched for so long. I’m sorry, please continue."
+    n "No, it’s just... I haven’t been touched for so long. I’m sorry, please continue."
 
 
 translate Russian Nauxus_artwork_30e9ae54:
@@ -5572,7 +5572,7 @@ translate Russian Nauxus_artwork_06a6ad66:
 translate Russian Nauxus_artwork_9e517e0c:
 
 
-    e 5 "I… I’d like that."
+    e 5 "I... I’d like that."
 
 
 translate Russian Nauxus_artwork_65a6bc85:
@@ -5686,7 +5686,7 @@ translate Russian Nauxus_artwork_2f22d70a:
 translate Russian Nauxus_artwork_48430956:
 
 
-    e 11 "So… so what do you want me to do?"
+    e 11 "So... so what do you want me to do?"
 
 
 translate Russian Nauxus_artwork_0e495b64:
@@ -5926,7 +5926,7 @@ translate Russian Nauxus_roushk_5545f402:
 translate Russian Nauxus_roushk_562af888:
 
 
-    e 5 "Wait… died out?"
+    e 5 "Wait... died out?"
 
 
 translate Russian Nauxus_roushk_c8085863:
@@ -5950,7 +5950,7 @@ translate Russian Nauxus_roushk_3a7f9793:
 translate Russian Nauxus_roushk_50b7b644:
 
 
-    e 13 "This is … no… I need a minute."
+    e 13 "This is ... no... I need a minute."
 
 
 translate Russian Nauxus_roushk_aa8c9433:
@@ -5962,7 +5962,7 @@ translate Russian Nauxus_roushk_aa8c9433:
 translate Russian Nauxus_roushk_89146ecf:
 
 
-    e 13 "Roushk…"
+    e 13 "Roushk..."
 
 
 translate Russian Nauxus_roushk_c42032ad:
@@ -6196,7 +6196,7 @@ translate Russian Nauxus_letter_7f10783e:
 translate Russian Nauxus_letter_e448900c:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Russian Nauxus_letter_d738bedf:
@@ -6340,7 +6340,7 @@ translate Russian Nauxus_letter_b27a8c2a:
 translate Russian Nauxus_letter_a2fbd5e1:
 
 
-    e 13 "(I mean, it's good he’s reuniting the tribe but, why for war….)"
+    e 13 "(I mean, it's good he’s reuniting the tribe but, why for war....)"
 
 
 translate Russian Nauxus_letter_517ebd4f:
@@ -6772,7 +6772,7 @@ translate Russian Nauxus_letter_19d01fdb:
 translate Russian Nauxus_letter_6e8dcf91:
 
 
-    e 7 "Oh… do you like it?"
+    e 7 "Oh... do you like it?"
 
 
 translate Russian Nauxus_letter_4b2e26c2:
@@ -6880,7 +6880,7 @@ translate Russian Nauxus_letter_9ce50df5:
 translate Russian Nauxus_letter_f3be8d0a:
 
 
-    n "It’s just… Well I expected when I did bed you, I’d be looking at the real you rather than a lizard copy."
+    n "It’s just... Well I expected when I did bed you, I’d be looking at the real you rather than a lizard copy."
 
 
 translate Russian Nauxus_letter_9c830247:
@@ -6970,7 +6970,7 @@ translate Russian Nauxus_letter_4272d680:
 translate Russian Nauxus_letter_8351c449:
 
 
-    n "Oh… yes."
+    n "Oh... yes."
 
 
 translate Russian Nauxus_letter_c45ccdda:
@@ -7006,7 +7006,7 @@ translate Russian Nauxus_letter_4272d680_1:
 translate Russian Nauxus_letter_8351c449_1:
 
 
-    n "Oh… yes."
+    n "Oh... yes."
 
 
 translate Russian Nauxus_letter_c45ccdda_1:
@@ -7150,7 +7150,7 @@ translate Russian Nauxus_letter_64fcbffe:
 translate Russian Nauxus_letter_684c07e0:
 
 
-    e 13 "Yeah… I saw."
+    e 13 "Yeah... I saw."
 
 
 translate Russian Nauxus_letter_578dd36c:
@@ -7174,7 +7174,7 @@ translate Russian Nauxus_letter_2c89cfe3:
 translate Russian Nauxus_letter_eabec665:
 
 
-    n "…"
+    n "..."
 
 
 translate Russian Nauxus_letter_9748e8c0:
@@ -7186,7 +7186,7 @@ translate Russian Nauxus_letter_9748e8c0:
 translate Russian Nauxus_letter_fdc03c08:
 
 
-    e 9 "I was … out gathering materials."
+    e 9 "I was ... out gathering materials."
 
 
 translate Russian Nauxus_letter_9ce33518:
@@ -7216,7 +7216,7 @@ translate Russian Nauxus_letter_d2426dd1:
 translate Russian Nauxus_letter_9a663ef5:
 
 
-    e 9 "(I thought I covered my tracks…)"
+    e 9 "(I thought I covered my tracks...)"
 
 
 translate Russian Nauxus_letter_92975ff7:
@@ -7234,7 +7234,7 @@ translate Russian Nauxus_letter_f5fdbcab:
 translate Russian Nauxus_letter_abbad48b:
 
 
-    e 13 "You’re probably thinking about the road… that I usually take to get here."
+    e 13 "You’re probably thinking about the road... that I usually take to get here."
 
 
 translate Russian Nauxus_letter_0b7b5380:
@@ -7246,7 +7246,7 @@ translate Russian Nauxus_letter_0b7b5380:
 translate Russian Nauxus_letter_a2776f1c:
 
 
-    n "Hmm…"
+    n "Hmm..."
 
 
 translate Russian Nauxus_letter_6e7e5d60:
@@ -7294,7 +7294,7 @@ translate Russian Nauxus_letter_64191e24:
 translate Russian Nauxus_letter_ede23af2:
 
 
-    e 1 "When we were in the dark swamp… they called you an usurper."
+    e 1 "When we were in the dark swamp... they called you an usurper."
 
 
 translate Russian Nauxus_letter_5eeb881d:
@@ -7318,7 +7318,7 @@ translate Russian Nauxus_letter_004a4233:
 translate Russian Nauxus_letter_66278397:
 
 
-    n "… It’s not something I wish to share right now."
+    n "... It’s not something I wish to share right now."
 
 
 translate Russian Nauxus_letter_d4aabbbe:
@@ -7330,7 +7330,7 @@ translate Russian Nauxus_letter_d4aabbbe:
 translate Russian Nauxus_letter_22895fc1:
 
 
-    e 1 "Nauxus …"
+    e 1 "Nauxus ..."
 
 
 translate Russian Nauxus_letter_4ad38f55:
@@ -7378,7 +7378,7 @@ translate Russian Nauxus_letter_1800389b:
 translate Russian Nauxus_letter_e83de78b:
 
 
-    e 13 "I’m sorry, it’s just… I know how important getting your new recruits were."
+    e 13 "I’m sorry, it’s just... I know how important getting your new recruits were."
 
 
 translate Russian Nauxus_letter_6527095a:
@@ -7396,13 +7396,13 @@ translate Russian Nauxus_letter_6dcac4aa:
 translate Russian Nauxus_letter_59c2e7de:
 
 
-    n "I know you tried… I just need time."
+    n "I know you tried... I just need time."
 
 
 translate Russian Nauxus_letter_ed9416b4:
 
 
-    n "Maybe it’s best if we pretend none of this happened…"
+    n "Maybe it’s best if we pretend none of this happened..."
 
 
 translate Russian Nauxus_letter_2ac33db1:
@@ -7414,7 +7414,7 @@ translate Russian Nauxus_letter_2ac33db1:
 translate Russian Nauxus_letter_81125f22:
 
 
-    n "Maybe you should come back after tomorrow. I think I’ll be over it by then …."
+    n "Maybe you should come back after tomorrow. I think I’ll be over it by then ...."
 
 
 translate Russian Nauxus_letter_0b61c15b:
@@ -7738,7 +7738,7 @@ translate Russian Nauxus_darkswamp_09cce4f9:
 translate Russian Nauxus_darkswamp_4173df33:
 
 
-    n "The rite of passage you say… Very well, if that is what it takes to convince you all, I’ll gladly take the rite of passage in front of everyone here. "
+    n "The rite of passage you say... Very well, if that is what it takes to convince you all, I’ll gladly take the rite of passage in front of everyone here. "
 
 
 translate Russian Nauxus_darkswamp_55ad93a0:
@@ -7810,7 +7810,7 @@ translate Russian Nauxus_darkswamp_fbc7e950:
 translate Russian Nauxus_darkswamp_b9198da1:
 
 
-    e 1 "Nauxus… What is this whole rite of passage thing?"
+    e 1 "Nauxus... What is this whole rite of passage thing?"
 
 
 translate Russian Nauxus_darkswamp_49101791:
@@ -7822,7 +7822,7 @@ translate Russian Nauxus_darkswamp_49101791:
 translate Russian Nauxus_darkswamp_dc909e1a:
 
 
-    n "The first one’s a fight, then the other … \nWell, we’ll worry about that when we get there."
+    n "The first one’s a fight, then the other ... \nWell, we’ll worry about that when we get there."
 
 
 translate Russian Nauxus_darkswamp_35074e42:
@@ -7984,7 +7984,7 @@ translate Russian Nauxus_rite1_8f5cd9a5:
 translate Russian Nauxus_rite1_9abb57e1:
 
 
-    "Rouge Lizard Leader" "Hngh… Toss the cups!"
+    "Rouge Lizard Leader" "Hngh... Toss the cups!"
 
 
 translate Russian Nauxus_rite1_5ee01e20:
@@ -8440,7 +8440,7 @@ translate Russian Nauxus_rite1_8df4ade9:
 translate Russian Nauxus_rite1_86120059:
 
 
-    e 9 "We… we…. Need to get inside. You need the antidote!"
+    e 9 "We... we.... Need to get inside. You need the antidote!"
 
 
 translate Russian Nauxus_rite1_1d434364:
@@ -8476,7 +8476,7 @@ translate Russian Nauxus_rite1_aeca2ff7:
 translate Russian Nauxus_rite1_631f588f:
 
 
-    e 9 "I…"
+    e 9 "I..."
 
 
 translate Russian Nauxus_rite1_60cc6c69:
@@ -8500,7 +8500,7 @@ translate Russian Nauxus_rite1_ea772952:
 translate Russian Nauxus_rite1_3300fa26:
 
 
-    e 5 "…"
+    e 5 "..."
 
 
 translate Russian Nauxus_rite1_6a3d1f98:
@@ -8518,7 +8518,7 @@ translate Russian Nauxus_rite1_0358e1a7:
 translate Russian Nauxus_rite1_916d904e:
 
 
-    e 13 "Nauxus…"
+    e 13 "Nauxus..."
 
 
 translate Russian Nauxus_rite1_3861f83a:
@@ -8710,7 +8710,7 @@ translate Russian Nauxus_rite1_b73307e5:
 translate Russian Nauxus_rite1_0cb911c0:
 
 
-    "Rogue Lizard" "Umm… were you being honest about letting us go back to our families?"
+    "Rogue Lizard" "Umm... were you being honest about letting us go back to our families?"
 
 
 translate Russian Nauxus_rite1_a65606d7:
@@ -9034,7 +9034,7 @@ translate Russian Nauxus_festival_28fbe223:
 translate Russian Nauxus_festival_df680992:
 
 
-    e 13 "Besides, if there are hurt or even… dead warriors from the explosion, isn’t now too soon for a celebration?"
+    e 13 "Besides, if there are hurt or even... dead warriors from the explosion, isn’t now too soon for a celebration?"
 
 
 translate Russian Nauxus_festival_466a6380:
@@ -9046,7 +9046,7 @@ translate Russian Nauxus_festival_466a6380:
 translate Russian Nauxus_festival_9c6c7bb8:
 
 
-    n "Especially… especially for those children who are newly orphaned."
+    n "Especially... especially for those children who are newly orphaned."
 
 
 translate Russian Nauxus_festival_8bc99a5f:
@@ -9058,7 +9058,7 @@ translate Russian Nauxus_festival_8bc99a5f:
 translate Russian Nauxus_festival_8f3feb52:
 
 
-    e 13 "Right…"
+    e 13 "Right..."
 
 
 translate Russian Nauxus_festival_61a81d29:
@@ -9280,7 +9280,7 @@ translate Russian Nauxus_festival_start_cab8bc02:
 translate Russian Nauxus_festival_start_606ddc98:
 
 
-    e 1 "Not to mention…"
+    e 1 "Not to mention..."
 
 
 translate Russian Nauxus_festival_start_c949f22c:

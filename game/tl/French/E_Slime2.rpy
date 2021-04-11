@@ -352,7 +352,7 @@ translate French battle_slime_lose2_e1508a79:
 translate French battle_slime_lose2_3ba7cd15:
 
 
-    e "Ah...ahhh…ahh!"
+    e "Ah...ahhh...ahh!"
 
 
 translate French battle_slime_lose2_f9230d72:
@@ -436,13 +436,13 @@ translate French battle_slime_lose2_f0af6fe8:
 translate French battle_slime_lose2_39ae11d2:
 
 
-    e "No… must fight it!"
+    e "No... must fight it!"
 
 
 translate French battle_slime_lose2_53b9881c:
 
 
-    e "Too good… I mustn’t give in."
+    e "Too good... I mustn’t give in."
 
 
 translate French battle_slime_lose2_4b20b227:

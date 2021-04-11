@@ -238,7 +238,7 @@ translate Japanese battle_cave_bull_win_a2092518:
 translate Japanese battle_cave_bull_win_23036b67:
 
 
-    "Ghost Bull Warrior" "Finally…"
+    "Ghost Bull Warrior" "Finally..."
 
 
 translate Japanese battle_cave_bull_win_c87d0d54:

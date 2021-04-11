@@ -532,7 +532,7 @@ translate Chinese Chet_talk_f22e7499:
 translate Chinese Chet_talk_215476db:
 
 
-    c "只是……和Witer坦誠相對時，那感覺很棒。"
+    c "只是......和Witer坦誠相對時，那感覺很棒。"
 
 
 translate Chinese Chet_talk_8ccba95e:
@@ -946,7 +946,7 @@ translate Chinese Chet_talk_3c655609:
 translate Chinese Chet_talk_a88e5b54:
 
 
-    e 1 "……那你想要什麼？"
+    e 1 "......那你想要什麼？"
 
 
 translate Chinese Chet_talk_aa81730d:
@@ -988,7 +988,7 @@ translate Chinese Chet_talk_051d7bc2:
 translate Chinese Chet_talk_255f8b1a:
 
 
-    e 5 "……好？"
+    e 5 "......好？"
 
 
 translate Chinese Chet_talk_a2c7a777:
@@ -1036,7 +1036,7 @@ translate Chinese Chet_talk_051d7bc2_1:
 translate Chinese Chet_talk_255f8b1a_1:
 
 
-    e 5 "……好？"
+    e 5 "......好？"
 
 
 translate Chinese Chet_talk_a2c7a777_1:
@@ -1144,7 +1144,7 @@ translate Chinese Chet_talk_20bacd2d:
 translate Chinese Chet_talk_52959033:
 
 
-    e 1 "……"
+    e 1 "......"
 
 
 translate Chinese Chet_talk_91b7e471:
@@ -1318,13 +1318,13 @@ translate Chinese Chet_talk_f9d9982c:
 translate Chinese Chet_talk_b107a847:
 
 
-    e 13 "額……這我早就知道了。"
+    e 13 "額......這我早就知道了。"
 
 
 translate Chinese Chet_talk_95e51256:
 
 
-    c "哦……糟糕，"
+    c "哦......糟糕，"
 
 
 translate Chinese Chet_talk_ac21dc3d:
@@ -1636,7 +1636,7 @@ translate Chinese Chet_talk_fe505397:
 translate Chinese Chet_talk_655b6584:
 
 
-    e 1 "……那是什麼？"
+    e 1 "......那是什麼？"
 
 
 translate Chinese Chet_talk_c8920374:
@@ -1714,7 +1714,7 @@ translate Chinese Chet_talk_b321247d:
 translate Chinese Chet_talk_3d3f22de:
 
 
-    e 13 "……"
+    e 13 "......"
 
 
 translate Chinese Chet_talk_fce8a547:
@@ -1810,19 +1810,19 @@ translate Chinese Chet_talk_651c2bc4:
 translate Chinese Chet_talk_152101a3:
 
 
-    e 9 "……"
+    e 9 "......"
 
 
 translate Chinese Chet_talk_17412269:
 
 
-    e 13 "……"
+    e 13 "......"
 
 
 translate Chinese Chet_talk_464e96c3:
 
 
-    e 8 "……"
+    e 8 "......"
 
 
 translate Chinese Chet_talk_a85b82bd:
@@ -4398,7 +4398,7 @@ translate Chinese Chet_talk_11fa3297:
 translate Chinese Chet_talk_15e006a6:
 
 
-    c "一個金湯匙，一個私人的浴場……"
+    c "一個金湯匙，一個私人的浴場......"
 
 
 translate Chinese Chet_talk_9e638594:
@@ -5392,7 +5392,7 @@ translate Chinese Chet_chattree_f22e7499:
 translate Chinese Chet_chattree_215476db:
 
 
-    c "只是……和Witer坦誠相對時，那感覺很棒。"
+    c "只是......和Witer坦誠相對時，那感覺很棒。"
 
 
 translate Chinese Chet_chattree_8ccba95e:
@@ -7595,7 +7595,7 @@ translate Chinese Chet_chattree_268ef308:
 translate Chinese Chet_chattree_e448900c:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Chinese Chet_chattree_13631d8e:
@@ -7661,7 +7661,7 @@ translate Chinese Chet_chattree_539c2ef3:
 translate Chinese Chet_chattree_6218b584:
 
 
-    c "…"
+    c "..."
 
 
 translate Chinese Chet_chattree_c235faab:
@@ -8201,7 +8201,7 @@ translate Chinese Chet_chattree_ca325c2a:
 translate Chinese Chet_chattree_e448900c_1:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Chinese Chet_chattree_7f26adf4:
@@ -9400,7 +9400,7 @@ translate Chinese Chet_chattree_36cbee97:
 translate Chinese Chet_chattree_8546030d:
 
 
-    e 13 "… 我无法想象你经历了什么。"
+    e 13 "... 我无法想象你经历了什么。"
 
 
 translate Chinese Chet_chattree_44bf107a:
@@ -9676,7 +9676,7 @@ translate Chinese Chet_snowsfood_35e06855:
 translate Chinese Chet_snowsfood_c6b715e1:
 
 
-    c "emmm…"
+    c "emmm..."
 
 
 translate Chinese Chet_snowsfood_522ef555:
@@ -10156,7 +10156,7 @@ translate Chinese Chet_snowsfood_36cbee97:
 translate Chinese Chet_snowsfood_8546030d:
 
 
-    e 13 "…我无法想象你经历了什么。"
+    e 13 "...我无法想象你经历了什么。"
 
 
 translate Chinese Chet_snowsfood_44bf107a:

@@ -322,7 +322,7 @@ translate Russian Snow_meet_3644abf3:
 translate Russian Snow_meet_b87ceb35:
 
 
-    s "This time, they were more… organized."
+    s "This time, they were more... organized."
 
 
 translate Russian Snow_meet_4c35bd0e:
@@ -520,7 +520,7 @@ translate Russian Snow_meet_3f5c4c9b:
 translate Russian Snow_meet_bcdfd99f:
 
 
-    e 13 "Thane… he’s badly hurt. He came back to the bull tribe all bloodied."
+    e 13 "Thane... he’s badly hurt. He came back to the bull tribe all bloodied."
 
 
 translate Russian Snow_meet_c4bc449e:
@@ -568,7 +568,7 @@ translate Russian Snow_meet_81c12f57:
 translate Russian Snow_meet_156ec377:
 
 
-    e 13 "…"
+    e 13 "..."
 
 
 translate Russian Snow_meet_2f1537e7:
@@ -580,7 +580,7 @@ translate Russian Snow_meet_2f1537e7:
 translate Russian Snow_meet_39f34318:
 
 
-    e 1 "It’s just… he mentioned something about executing the lizard prisoners after what happened to Thane."
+    e 1 "It’s just... he mentioned something about executing the lizard prisoners after what happened to Thane."
 
 
 translate Russian Snow_meet_db31364a:
@@ -604,7 +604,7 @@ translate Russian Snow_meet_0d733ae5:
 translate Russian Snow_meet_d8015312:
 
 
-    s "But… if I was a father like him, I think even I would have been guilty of inflicting such an act because it involves my child."
+    s "But... if I was a father like him, I think even I would have been guilty of inflicting such an act because it involves my child."
 
 
 translate Russian Snow_meet_52959033:
@@ -802,7 +802,7 @@ translate Russian Snow_meet_3cbbf635:
 translate Russian Snow_talk_f120fe4f:
 
 
-    s "Err… what do you want?"
+    s "Err... what do you want?"
 
 
 translate Russian Snow_talk_351f4c28:
@@ -1012,7 +1012,7 @@ translate Russian Snow_chattree_f2fc7f79:
 translate Russian Snow_chattree_1f6312b7:
 
 
-    e 13 "Hmm…"
+    e 13 "Hmm..."
 
 
 translate Russian Snow_chattree_2d592ccc:
@@ -1150,7 +1150,7 @@ translate Russian Snow_chattree_463218bd:
 translate Russian Snow_chattree_6b79e6e7:
 
 
-    s "I… I think so?"
+    s "I... I think so?"
 
 
 translate Russian Snow_chattree_76bcc8fc:
@@ -1318,7 +1318,7 @@ translate Russian Snow_chattree_25d25ce3:
 translate Russian Snow_chattree_9abbd69a:
 
 
-    e 13 "It just doesn’t make any sense…"
+    e 13 "It just doesn’t make any sense..."
 
 
 translate Russian Snow_chattree_9e9a0d5c:
@@ -1360,7 +1360,7 @@ translate Russian Snow_chattree_fb97cd3a:
 translate Russian Snow_chattree_e3e2a4a9:
 
 
-    e 1 "(Father… he said something like that before, a long time ago.)"
+    e 1 "(Father... he said something like that before, a long time ago.)"
 
 
 translate Russian Snow_chattree_903d4cc4:
@@ -1396,7 +1396,7 @@ translate Russian Snow_chattree_03efeeef:
 translate Russian Snow_chattree_43965559:
 
 
-    e 13 "… I’ll try."
+    e 13 "... I’ll try."
 
 
 translate Russian Snow_chattree_cbe62cfc:
@@ -1762,7 +1762,7 @@ translate Russian Snow_chattree_1bc54f41:
 translate Russian Snow_chattree_3ce5d7bb:
 
 
-    s "… I’m sorry I shouldn’t have spoken like that to you."
+    s "... I’m sorry I shouldn’t have spoken like that to you."
 
 
 translate Russian Snow_chattree_ac2bbf83:
@@ -2044,7 +2044,7 @@ translate Russian Snow_chattree_d8304d60:
 translate Russian Snow_chattree_2d4376b0:
 
 
-    s "…"
+    s "..."
 
 
 translate Russian Snow_chattree_c8daaa23:
@@ -2500,7 +2500,7 @@ translate Russian Snow_chattree_cf6536b2:
 translate Russian Snow_chattree_19a6aba9:
 
 
-    "A few hours later…"
+    "A few hours later..."
 
 
 translate Russian Snow_chattree_19861622:
@@ -2566,7 +2566,7 @@ translate Russian Snow_chattree_3c199cf0:
 translate Russian Snow_chattree_35ca07d4:
 
 
-    t "Err… it’s not for sale, I made it myself."
+    t "Err... it’s not for sale, I made it myself."
 
 
 translate Russian Snow_chattree_5e2d622d:
@@ -2818,7 +2818,7 @@ translate Russian Snow_lake_bank_chat_6186867a:
 translate Russian Snow_lake_bank_chat_a7d2d03f:
 
 
-    s "So… one night, we didn’t have much to do."
+    s "So... one night, we didn’t have much to do."
 
 
 translate Russian Snow_lake_bank_chat_d6f88f7a:
@@ -2836,7 +2836,7 @@ translate Russian Snow_lake_bank_chat_ff0b9000:
 translate Russian Snow_lake_bank_chat_c438c1d8:
 
 
-    s "Then at night… she crept into my bed and we hugged, and one thing lead to another and we kissed… before we…"
+    s "Then at night... she crept into my bed and we hugged, and one thing lead to another and we kissed... before we..."
 
 
 translate Russian Snow_lake_bank_chat_d80cbd8f:
@@ -3304,7 +3304,7 @@ translate Russian Snow_lake_bank_chat_a3a6ae1a:
 translate Russian Snow_lake_bank_chat_c224a5c6:
 
 
-    s "Hmm… I don’t see anything."
+    s "Hmm... I don’t see anything."
 
 
 translate Russian Snow_lake_bank_chat_444e49e5:
@@ -3340,7 +3340,7 @@ translate Russian Snow_lake_bank_chat_3e19dd16:
 translate Russian Snow_lake_bank_chat_ff2a1a15:
 
 
-    e 1 "Ok…"
+    e 1 "Ok..."
 
 
 translate Russian Snow_lake_bank_chat_9ff2c5f4:
@@ -3550,7 +3550,7 @@ translate Russian Snow_twoletters_8f58a5d2:
 translate Russian Snow_twoletters_2d4376b0:
 
 
-    s "…"
+    s "..."
 
 
 translate Russian Snow_twoletters_69a20ad7:
@@ -3586,7 +3586,7 @@ translate Russian Snow_twoletters_4ebddc98:
 translate Russian Snow_twoletters_5f4c2f19:
 
 
-    "The first letter reads …"
+    "The first letter reads ..."
 
 
 translate Russian Snow_twoletters_ab958621:
@@ -3598,7 +3598,7 @@ translate Russian Snow_twoletters_ab958621:
 translate Russian Snow_twoletters_1c9d1f0b:
 
 
-    "The next letter reads …"
+    "The next letter reads ..."
 
 
 translate Russian Snow_twoletters_659c7651:
@@ -3628,13 +3628,13 @@ translate Russian Snow_Thane_f4c78855:
 translate Russian Snow_Thane_4d746fda:
 
 
-    e 6 "Umm… I’ve got a friend coming over, we’re making something paper mache."
+    e 6 "Umm... I’ve got a friend coming over, we’re making something paper mache."
 
 
 translate Russian Snow_Thane_2d4376b0:
 
 
-    s "…"
+    s "..."
 
 
 translate Russian Snow_Thane_19759749:
@@ -3670,7 +3670,7 @@ translate Russian Snow_Thane_7562c167:
 translate Russian Snow_Thane_47894f9b:
 
 
-    s "Hmm… I got it. "
+    s "Hmm... I got it. "
 
 
 translate Russian Snow_Thane_a23126e2:
@@ -3742,7 +3742,7 @@ translate Russian Snow_Thane_31c23a8b:
 translate Russian Snow_Thane_e448900c:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Russian Snow_Thane_6aa68c4c:
@@ -3772,7 +3772,7 @@ translate Russian Snow_Thane_6aa68c4c_1:
 translate Russian Snow_Thane_94dd537d:
 
 
-    s "That’s it… rub the tip real good."
+    s "That’s it... rub the tip real good."
 
 
 translate Russian Snow_Thane_30596972:
@@ -3934,7 +3934,7 @@ translate Russian Snow_Thane_8742e991:
 translate Russian Snow_Thane_10bda9b9:
 
 
-    t "Oh… ah, no. I’m good."
+    t "Oh... ah, no. I’m good."
 
 
 translate Russian Snow_Thane_388c8885:

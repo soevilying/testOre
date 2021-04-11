@@ -142,7 +142,7 @@ translate French Witer_meet_487a6b81:
 translate French Witer_meet_208cdba6:
 
 
-    w "[name], that was… I mean, what can I do for you today?"
+    w "[name], that was... I mean, what can I do for you today?"
 
 
 translate French Witer_meet_c6d88565:
@@ -190,7 +190,7 @@ translate French Witer_meet_b9177b4b:
 translate French Witer_meet_a5fa6f5b:
 
 
-    w "You know, Hakan snores, hehehe… So, what do you need?"
+    w "You know, Hakan snores, hehehe... So, what do you need?"
 
 
 translate French Witer_meet_5c70e13a:
@@ -352,7 +352,7 @@ translate French Witer_menu_ce2da688:
 translate French Witer_menu_4c5acc60:
 
 
-    e 1 "I err… never got a chance to talk to you last night."
+    e 1 "I err... never got a chance to talk to you last night."
 
 
 translate French Witer_menu_9fb8d09e:
@@ -760,7 +760,7 @@ translate French Witer_menu_f3399278:
 translate French Witer_menu_bf48148a:
 
 
-    e 4 "Just now was…"
+    e 4 "Just now was..."
 
 
 translate French Witer_menu_f809c651:
@@ -838,7 +838,7 @@ translate French Witer_menu_1487a14b:
 translate French Witer_menu_05be16db:
 
 
-    w "I… I don’t know how they are doing now."
+    w "I... I don’t know how they are doing now."
 
 
 translate French Witer_menu_438d6606:
@@ -1000,7 +1000,7 @@ translate French Witer_menu_c36bb010:
 translate French Witer_menu_5bdc026c:
 
 
-    e 6 "Yeah…"
+    e 6 "Yeah..."
 
 
 translate French Witer_menu_d9f534b2:
@@ -1360,7 +1360,7 @@ translate French Witer_menu_0eed9f47:
 translate French Witer_menu_1f6312b7:
 
 
-    e 13 "Hmm…"
+    e 13 "Hmm..."
 
 
 translate French Witer_menu_40bb587b:
@@ -1408,7 +1408,7 @@ translate French Witer_menu_83820d76:
 translate French Witer_menu_d73d0b3d:
 
 
-    e 7 "More…. Ummm, more like seducing them into not fighting you?"
+    e 7 "More.... Ummm, more like seducing them into not fighting you?"
 
 
 translate French Witer_menu_1048d6da:
@@ -1984,7 +1984,7 @@ translate French Witer_bj_c2ecfcb6:
 translate French Witer_bj_0d62d196:
 
 
-    w "Smart birdie. So…"
+    w "Smart birdie. So..."
 
 
 translate French Witer_bj_6dd06bf7:
@@ -2002,7 +2002,7 @@ translate French Witer_bj_270d4983:
 translate French Witer_bj_b5bf96a2:
 
 
-    e 6 "Just…Do what you want."
+    e 6 "Just...Do what you want."
 
 
 translate French Witer_bj_d6fe0fd9:
@@ -2326,13 +2326,13 @@ translate French Witer_bj_b3e73fb0:
 translate French Witer_sw_73a06e4b:
 
 
-    w "He doesn’t know…"
+    w "He doesn’t know..."
 
 
 translate French Witer_sw_3d987d9d:
 
 
-    w "We’ll get out of here soon…"
+    w "We’ll get out of here soon..."
 
 
 translate French Witer_sw_559291b2:
@@ -2392,7 +2392,7 @@ translate French Witer_sw_d85405a2:
 translate French Witer_sw_e04c6bd3:
 
 
-    w "Oh, heh. Silly me, I must have been having such a wonderful dream I was sleepwalking. Hehehe…"
+    w "Oh, heh. Silly me, I must have been having such a wonderful dream I was sleepwalking. Hehehe..."
 
 
 translate French Witer_sw_90b0ed08:
@@ -2434,13 +2434,13 @@ translate French Witer_sw_9bd3ba38:
 translate French Witer_sw_0d2a0f7c:
 
 
-    w "…"
+    w "..."
 
 
 translate French Witer_sw_5ae044a9:
 
 
-    w "… It's stupid. Don't worry about it."
+    w "... It's stupid. Don't worry about it."
 
 
 translate French Witer_sw_7aa2df27:
@@ -2464,7 +2464,7 @@ translate French Witer_sw_14ced14b:
 translate French Witer_sw_73d8f2f1:
 
 
-    w "I think… there's a ghost that wants to kill me."
+    w "I think... there's a ghost that wants to kill me."
 
 
 translate French Witer_sw_9cbf006b:
@@ -2506,7 +2506,7 @@ translate French Witer_sw_ec804359:
 translate French Witer_sw_e91a452d:
 
 
-    w "Then tap… then again and again… the tapping wouldn't stop."
+    w "Then tap... then again and again... the tapping wouldn't stop."
 
 
 translate French Witer_sw_c0450448:
@@ -2518,7 +2518,7 @@ translate French Witer_sw_c0450448:
 translate French Witer_sw_d91caae0:
 
 
-    w "Then I … I saw it!" with vpunch
+    w "Then I ... I saw it!" with vpunch
 
 
 translate French Witer_sw_7d8cd195:
@@ -2572,7 +2572,7 @@ translate French Witer_sw_d4b3d1a8:
 translate French Witer_sw_e1c43efa:
 
 
-    w "I just… I don’t know what to do."
+    w "I just... I don’t know what to do."
 
 
 translate French Witer_sw_028db24c:

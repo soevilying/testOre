@@ -682,7 +682,7 @@ translate Japanese Cave_map_a597a486:
 translate Japanese Cave_map_ec20ca88:
 
 
-    b "Nana…"
+    b "Nana..."
 
 
 translate Japanese Cave_map_17d16e14:
@@ -778,7 +778,7 @@ translate Japanese Cave_map_1a9efec9:
 translate Japanese Cave_map_41919366:
 
 
-    e 1 "I wonder what could be on the other side…"
+    e 1 "I wonder what could be on the other side..."
 
 
 translate Japanese Cave_map_8b0f1ba9:
@@ -970,7 +970,7 @@ translate Japanese Cave_map_40a4c264_4:
 translate Japanese Cave_map_658be844:
 
 
-    e 5 "This is…"
+    e 5 "This is..."
 
 
 translate Japanese Cave_map_1f6625e6:

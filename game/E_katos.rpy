@@ -317,7 +317,7 @@ label Festival_ending_bull:
         a "I’m sure my son doesn’t need to worry about food there."
         e 6 "Is this like a care package? That’s sweet."
         "Axel’s nostrils flare up."
-        a "My foolish son may be persistent in defying me, but… he is still my son, and is a part of this tribe."
+        a "My foolish son may be persistent in defying me, but... he is still my son, and is a part of this tribe."
         a "At least he should have something to remind him of today’s festival."
         a "Now go. I have a festival to prepare."
         e 3 "Very well chief."
@@ -361,12 +361,12 @@ label Festival_ending_bull:
         e 9 "I’ll go get a bucket of water."
         "Thane’s hand lunges upward and grabs yours." with vpunch
         e 5 "Thane?"
-        t "{cps=10}Listen…{/cps}"
+        t "{cps=10}Listen...{/cps}"
         "You crouch down to listen to the weary bull."
         "He winces in pain as though every breath is piercing his chest."
         e 9 "No, you can tell me after we patch you up."
-        t "{cps=10}Listen…{/cps}"
-        t "{cps=7}Lizard…{/cps}"
+        t "{cps=10}Listen...{/cps}"
+        t "{cps=7}Lizard...{/cps}"
         "You press your head closer to hear his faint words."
         t "{cps=5}Lizard. Was{/cps}{cps=1}...Lie.{/cps}"
         pause 2
@@ -401,7 +401,7 @@ label Festival_ending_bull:
         h "No he doesn’t, the guys can take care of him."
         h "Now you’re patrolling with me."
         h "We got to make sure there’s nothing dangerous around."
-        e 12 "…"
+        e 12 "..."
         "You sigh."
         e 13 "Alright, fine."
         hide hakan stand with slow_dissolve
@@ -464,7 +464,7 @@ label Festival_ending_bull:
         e 5 "I’m doing no such thing."
         e 1 "You’re just going to attract more attention if your men are there, and Thane is in no position to be moved."
         e 12 "Send the healers only!"
-        a "…"
+        a "..."
         "Axel looks to the guard."
         a "Have the healers ready to move out, they will be escorted by Fleabag."
         "The guard nods and leaves."
@@ -474,7 +474,7 @@ label Festival_ending_bull:
         a "..."
         "His cold eyes watching, waiting for you to try to lie to him."
         a "Did my son say anything when you found him?"
-        e 13 "He… he said Lizard. Was. Lie."
+        e 13 "He... he said Lizard. Was. Lie."
         hide axel stand with slow_dissolve
         pause 3
         a "{cps=10}Lizards!{/cps} {cps=25}AAAAAAHHHHHHHH!{/cps}" with vpunch
@@ -488,7 +488,7 @@ label Festival_ending_bull:
         e 1 "You do not know that. That message could have meant anything."
         a "AAAAHHHH!" with vpunch
         e 5 "Think this through chief."
-        e 5 "If Thane wakes up and he finds out innocent lizards died because you did it under Thane’s name… he’d… he’d never forgive you."
+        e 5 "If Thane wakes up and he finds out innocent lizards died because you did it under Thane’s name... he’d... he’d never forgive you."
         "The bull chief’s nostrils flare up, his eyes are practically red with rage."
         e 13 "You’ll lose him further than ever before."
         a "Get out! "
@@ -563,7 +563,7 @@ label Festival_ending_bull:
         e 6 "That would be beefy heaven."
         show axel stand with slow_dissolve
         a "What did you just say? I didn’t catch that."
-        e 10 "I… said, that would be hard to pull off. "
+        e 10 "I... said, that would be hard to pull off. "
         "Axel shrugs."
         "Your cheeks start to burn and you feel flustered looking at the chief."
         e 1 "Anyways, I better get ready for tonight. See you later Chief Axel."
@@ -602,7 +602,7 @@ label Festival_ending_bull:
                 "Turning your attention back at the tapestries, you realize that each one had a different pattern embroidered into it like a sort of coat of arms. "
                 "Starting from the left side of the entrance, the first embroidery is a series of gold weapons arranged in a circle placed against a red backdrop."
                 "Next to it, is a piece that shows a bull fighting a multi headed snake monster."
-                "Then the next one appears lavishly long with a multitude of coloured squares from one end to the…"
+                "Then the next one appears lavishly long with a multitude of coloured squares from one end to the..."
                 e 13 "Oh, it’s incomplete."
                 a "It is complete."
                 show axel stand with slow_dissolve
@@ -628,9 +628,9 @@ label Festival_ending_bull:
                 "The bulls are shown to be doing their tasks around town."
                 "Where the chief’s camp is placed, two figures are seen sitting in front of the tent."
                 "You recognize them as Axel and Thane."
-                e 1 "This is…"
+                e 1 "This is..."
                 show axel stand with slow_dissolve
-                a "It’s what Thane and I made earlier this year… before the whole war thing broke out."
+                a "It’s what Thane and I made earlier this year... before the whole war thing broke out."
                 "Axel looks longingly at the carpet and sighs."
                 a "It took us months to make that and he can’t even be bothered to show up."
                 a "Bah, come take a seat next to me, the dance is about to begin."
@@ -656,7 +656,7 @@ label Festival_ending_bull:
                     "Tomahawk" "Hah, a fruit stealing monster."
                     "Tomahawk" "How hard can that be? Chief Axel should have sent me and the boys."
                     e 8 "Please I’m sure you’d have eaten all the fruits before you made it back."
-                    "Tomahawk" "Hmm… that is true."
+                    "Tomahawk" "Hmm... that is true."
                     "The whole table bursts into laughter."
                     "You can’t help but join in the fun. "
                     "You and the bull warriors exchange stories for a few minutes until Chief Axel reaches the festival area and calls for you."
@@ -677,7 +677,7 @@ label Festival_ending_bull:
                     e 1 "Thanks, so how’s everyone enjoying the festival?"
                     "Second Bull Warrior" "Could be better if Tomahawk and his team were here."
                     "Second Bull Warrior" "Things just got quiet around since he died."
-                    e 13 "Yeah… it was terrible what happened…"
+                    e 13 "Yeah... it was terrible what happened..."
                     "Sombreness falls upon the circle of bulls."
                     "Bull Warrior" "Come on, let’s not spoil the festival for Fleabag here."
                     "Bull Warrior" "It’s his first time."
@@ -739,13 +739,13 @@ label Festival_ending_bull:
         a "Healers! Where are the god damn healers?" with vpunch
         a "Bring the stretcher and prepare the healing hut!" with vpunch
         "You hear the sound of footsteps running off from the crowd."
-        t "{cps=10}[name] …{/cps}"
+        t "{cps=10}[name] ...{/cps}"
         a "Thane, save your breath."
-        t "{cps=10}[name] …{/cps}"
+        t "{cps=10}[name] ...{/cps}"
         a "[name]? Fleabag get over here!"
         "You rush forward and kneel down next to Axel."
         e 5 "Thane? I’m here."
-        t "{cps=10}Listen…{/cps}"
+        t "{cps=10}Listen...{/cps}"
         e 1 "The lizards?"
         t "{cps=5}Lizard. Was{/cps}{cps=1}...Lie.{/cps}"
         pause 2
@@ -769,7 +769,7 @@ label Festival_ending_bull:
         "You on the other hand stand there dumbfounded by what you’ve witnessed."
         e 9 "What the fuck was that? Lizard. Was. Lies? "
         "You grip the fur on your head trying to figure out what it all means."
-        e 13 "Dear gods… Thane."
+        e 13 "Dear gods... Thane."
         "After all that has happened, you decide to sleep in your hut in the bull village."
         scene black with vslow_dissolve
         pause 3
@@ -880,7 +880,7 @@ label Bull_hanging:
                     hide axel stand with slow_dissolve
                     "The crowd cheers, the civilians rush back into their homes while the bull warriors make their way to the training grounds."
                     "You try to make your way to Chief Axel to ask where Thane is but he moves too quickly and is off to be with the rest of his men."
-                    e 13 "This is it… it’s war."
+                    e 13 "This is it... it’s war."
                     $ Quest.fest = 1
                 elif True:
                     "Axel scowls at you and turns back to the executioner. "
@@ -905,7 +905,7 @@ label Bull_hanging:
                     "With Axel’s command the crowd disperses."
                     hide axel stand with slow_dissolve
                     "You are left to stand alone watching the bodies sway upon the gallows."
-                    e 13 "This is it… this is war."
+                    e 13 "This is it... this is war."
             "Keep silence" if True:
                 "Then his hand falls."
                 "The executioner pulls the lever and the trap doors open, dropping their bodies down."
@@ -922,7 +922,7 @@ label Bull_hanging:
                 "With Axel’s command the crowd disperses."
                 hide axel stand with slow_dissolve
                 "You are left to stand alone watching the bodies sway upon the gallows."
-                e 13 "This is it… this is war."
+                e 13 "This is it... this is war."
     jump Bull_tribe_map0
 
 
@@ -968,21 +968,21 @@ label Festival_ending_lizard:
     "You turn your head to the side to ponder what you could do to wake him up or perhaps if you shouldn’t at all."
     "The possibilities are endless, maybe a kiss on the cheek, or maybe a shake of his broad shoulders, or if you want, you could surprise him with a loud yell."
     "You turn back only to face Nauxus looking at you with a playful smile."
-    e 9 "Err… hi."
+    e 9 "Err... hi."
     n "A little tip, if you want to sneak up on someone you might want to wash the sweat out of your fur first."
     show nauxus stand at center with slow_dissolve
     "You step back and avoid looking Nauxus in the eyes."
     "Every fibre of your body tightens and locks making you feel like one large boulder."
-    e 9 "I just wanted to… report that the fruits have been delivered."
+    e 9 "I just wanted to... report that the fruits have been delivered."
     n "Good. Very good. Then here is your reward."
     "<[name] gained 400 coins>"
     "<[name] gained one Level-up-point.>"
     $ jane_inv.take(coin,400)
     $ Zalt.points = Zalt.points +1
-    e 6 "Thank you, I… better go."
+    e 6 "Thank you, I... better go."
     n "Wait a minute, who says your reward ends there?"
     n "I also extend an invitation to you to attend the festival, and you get to be my guest beside me."
-    e 1 "Wow…"
+    e 1 "Wow..."
     n "Then you can be as close to me as you like."
     "You raise a finger to try to say something but you just blush and pull it back."
     e 7 "Ok."
@@ -1016,7 +1016,7 @@ label Festival_ending_lizard:
     "Or perhaps they put on a brave face just so not to worry their parents."
     "You wonder which is true. "
     "Then your nose twitches as you catch a whiff of a strong sweaty smell. "
-    "You raise your right hand and sniff it… it is you."
+    "You raise your right hand and sniff it... it is you."
     e 9 "Huh, Nauxus was right. I do need a bath."
     "You head to the hut in the lizard village to clean yourself."
     scene black with slow_dissolve
@@ -1056,7 +1056,7 @@ label Festival_ending_lizard:
                 n "Boys, singing your old tune huh, I remember that year. "
                 "The chief drapes his arms on the trio’s shoulders."
                 "Duo" "Yeah chief, it was the best! Did you enjoy our song?"
-                n "Ohh… it sounds… just like how you guys sang it that year."
+                n "Ohh... it sounds... just like how you guys sang it that year."
                 "Uno" "Yes!"
                 hide nauxus stand at center with slow_dissolve
                 "The trio high five each other and start complementing one another for a job well done."
@@ -1100,7 +1100,7 @@ label Festival_ending_lizard:
             se "That’s where you’re wrong ssssimpleton."
             se "I will relish the day the bull tribe falls, and we celebrate our victory."
             se "It will give me no greater honour than to receive a token of appreciation from Chief Nauxus."
-            e 5 "Is that… is that why you’re trying to kiss his ass so hard?"
+            e 5 "Is that... is that why you’re trying to kiss his ass so hard?"
             "Selye slithers closer to you and pats you on the right cheek."
             se "Take it as you wish ssssimpleton. Now I believe you have some ass kissing of your own to do."
             e 5 "What?"
@@ -1118,7 +1118,7 @@ label Festival_ending_lizard:
             "Selye leaves the both of you."
             e 1 "Nauxus."
             n "Yes?"
-            e 13 "I don’t want to ruin the festival but…"
+            e 13 "I don’t want to ruin the festival but..."
             n "But?"
             e 1 "I think selye is too mysterious to trust."
             n "Oh, and how do you know this?"
@@ -1127,7 +1127,7 @@ label Festival_ending_lizard:
             n "If there’s anything my years as a chief has taught me is that everyone has a price for their services."
             n "As long as he plays his part I will have no qualms with what he wants."
             n "Now come, the main event is about to start."
-            e 1 "Oh… ok."
+            e 1 "Oh... ok."
             "You follow Nauxus to stand next to the lizard children."
 
     scene black with slow_dissolve
@@ -1145,15 +1145,15 @@ label Festival_ending_lizard:
     "Their melodic voices put your heart at ease."
     "After the first verse the rest of the village joins along."
     "The entire village erupts in song."
-    "…"
-    "…"
+    "..."
+    "..."
     scene black with slow_dissolve
     "As you sing a long you turn to Nauxus. "
     "He is humming along to the song."
     "He notices you staring and bashfully turns his face."
     "You smile with your eyes and continue singing closer to him."
     "Nauxus is drawn in by your singing and is drawn to your face."
-    "…"
+    "..."
     "He starts humming alongside you as you sing."
     "Seconds pass into minutes and you both continue transfixed looking at each other."
     "You could look at the lizard’s bright eyes none stop."
@@ -1175,7 +1175,7 @@ label Festival_ending_lizard:
     e 1 "Yeah?"
     n "Umm."
     "The lizard chief turns his head away from you."
-    n "The night is still young… and I was wondering… maybe… maybe you’d want to share a drink with me?"
+    n "The night is still young... and I was wondering... maybe... maybe you’d want to share a drink with me?"
     e 6 "Maybe next time. "
     pause 3
     "Nauxus turns back towards you with a frown."
@@ -1269,7 +1269,7 @@ label Lizard_defend:
         n "You best stay away from that village, Chief Axel has become a desperate bull to desecrate his village’s festival with a war."
         n "Now if you’ll excuse me I need to start preparing."
         n "I will call for you, you don’t need to find me."
-        e 5 "Ok…"
+        e 5 "Ok..."
         hide nuaxus stand with slow_dissolve
         hide selye stand with slow_dissolve
         "Nauxus signals to the other two and they leave in the direction of the council chamber."
@@ -1311,7 +1311,7 @@ label Lizard_defend:
             h "He did not take the news well."
             h "He wanted to have the entire village storm the tavern."
             h "But I reminded him Thane needed help and that he would be drawing more attention than needed."
-            h "But… the look in his eyes."
+            h "But... the look in his eyes."
             h "I’ve seen people with that look, the look of a man at the mercy of his emotions."
             h "They do drastic things, people like that."
             e 13 "I should check upon him."

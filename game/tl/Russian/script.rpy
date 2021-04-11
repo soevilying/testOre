@@ -202,13 +202,13 @@ translate Russian start_1_65051b49:
 translate Russian start_1_16525a5c:
 
 
-    "Its glow…"
+    "Its glow..."
 
 
 translate Russian start_1_1ab3878f:
 
 
-    "it feels so familiar…"
+    "it feels so familiar..."
 
 
 translate Russian start_1_5f9b772e_1:
@@ -334,7 +334,7 @@ translate Russian start_1_20c490b5:
 translate Russian start_1_00cdcf44:
 
 
-    e 5 "Wait…father?"
+    e 5 "Wait...father?"
 
 
 translate Russian start_1_3813ed9c:
@@ -406,7 +406,7 @@ translate Russian start_1_9d381d48:
 translate Russian start_1_ba97eb90:
 
 
-    e 6 "Father…papa. What are you talking about being a bartender?"
+    e 6 "Father...papa. What are you talking about being a bartender?"
 
 
 translate Russian start_1_76dfaf79:
@@ -694,7 +694,7 @@ translate Russian start_1_8db3e079:
 translate Russian start_1_a2cd1e77:
 
 
-    e 2 " I’m sorry. I… must have you confused with someone I know."
+    e 2 " I’m sorry. I... must have you confused with someone I know."
 
 
 translate Russian start_1_14a5e2a2:
@@ -916,7 +916,7 @@ translate Russian map0_c66ff923:
 translate Russian map0_8da5aa58:
 
 
-    e 7 "No… thanks fa- Snow."
+    e 7 "No... thanks fa- Snow."
 
 
 translate Russian map0_13a0d64d:
@@ -1126,7 +1126,7 @@ translate Russian map0_a7272151:
 translate Russian map0_e541c3a6:
 
 
-    e 3 "…That doesn’t answer anything."
+    e 3 "...That doesn’t answer anything."
 
 
 translate Russian map0_01f49d36:
@@ -1498,7 +1498,7 @@ translate Russian map1_669a685c:
 translate Russian map1_104263ea:
 
 
-    e 9 "Well… I wouldn't really say it wasn’t a big deal."
+    e 9 "Well... I wouldn't really say it wasn’t a big deal."
 
 
 translate Russian map1_b85f29a3:
@@ -1552,7 +1552,7 @@ translate Russian map1_db353af3:
 translate Russian map1_5049a03c:
 
 
-    h "You were slow…"
+    h "You were slow..."
 
 
 translate Russian map1_75dadc09:
@@ -1708,7 +1708,7 @@ translate Russian map1_3189f03c:
 translate Russian map1_ab20e13d:
 
 
-    s "P.D… could it be Pierce Dagon?"
+    s "P.D... could it be Pierce Dagon?"
 
 
 translate Russian map1_e4788133:
@@ -1804,7 +1804,7 @@ translate Russian map1_01868959:
 translate Russian map1_5929cf7b:
 
 
-    e 1 "So, this emblem thing. It’s…"
+    e 1 "So, this emblem thing. It’s..."
 
 
 translate Russian map1_7c99c57e:
@@ -2194,7 +2194,7 @@ translate Russian map1_d82dc15b:
 translate Russian map1_7efd280e:
 
 
-    e 1 "Mmm…"
+    e 1 "Mmm..."
 
 
 translate Russian map1_8a604763:
@@ -2284,7 +2284,7 @@ translate Russian map1_453beb71:
 translate Russian map1_2e283fa3:
 
 
-    e 10 "ç«çƒ­ä¹Ÿå¦‚ä¹Ÿè¦è±†è…å¹²å¤§èŒƒç”˜è¿ªé«˜é£å‰²è±†è…å¹²è±†è…å¹²å¤§èŒƒç”˜è¿ªè­¦æ–¹ç»è¿‡è­¦æ–¹."
+    e 10 "ç«çƒ­ä¹Ÿå¦‚ä¹Ÿè¦è±†è...å¹²å¤§èŒƒç”˜è¿ªé«˜é£å‰²è±†è...å¹²è±†è...å¹²å¤§èŒƒç”˜è¿ªè­¦æ–¹ç»è¿‡è­¦æ–¹."
 
 
 translate Russian map1_18205625:

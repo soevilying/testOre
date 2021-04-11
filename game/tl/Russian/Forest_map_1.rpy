@@ -706,7 +706,7 @@ translate Russian bulltribe_1_ca498ef2:
 translate Russian bulltribe_1_2b25625d:
 
 
-    e 5 "Woah…"
+    e 5 "Woah..."
 
 
 translate Russian bulltribe_1_29eeb556:
@@ -1714,7 +1714,7 @@ translate Russian bullforest_4646d708:
 translate Russian bullforest_fd5ea14f:
 
 
-    "Lizard spy" "My heart… well I definitely can’t give you that."
+    "Lizard spy" "My heart... well I definitely can’t give you that."
 
 
 translate Russian bullforest_404fac49:

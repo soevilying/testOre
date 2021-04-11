@@ -706,7 +706,7 @@ translate Thai bulltribe_1_ca498ef2:
 translate Thai bulltribe_1_2b25625d:
 
 
-    e 5 "Woah…"
+    e 5 "Woah..."
 
 
 translate Thai bulltribe_1_29eeb556:
@@ -1714,7 +1714,7 @@ translate Thai bullforest_4646d708:
 translate Thai bullforest_fd5ea14f:
 
 
-    "Lizard spy" "My heart… well I definitely can’t give you that."
+    "Lizard spy" "My heart... well I definitely can’t give you that."
 
 
 translate Thai bullforest_404fac49:

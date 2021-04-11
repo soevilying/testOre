@@ -70,7 +70,7 @@ translate Chinese cook_screen_7478b511:
 translate Chinese cook_screen_97af0ee1:
 
 
-    p "…这是我的铲子。"
+    p "...这是我的铲子。"
 
 
 translate Chinese cook_screen_c3f789c8:
@@ -190,7 +190,7 @@ translate Chinese cook_screen_c97bc683:
 translate Chinese cook_screen_02f1a69f:
 
 
-    p "…我想我永远也理解不了你们这些小狗的古怪癖好。"
+    p "...我想我永远也理解不了你们这些小狗的古怪癖好。"
 
 
 translate Chinese cook_screen_d38e92d2_4:

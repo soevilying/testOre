@@ -244,7 +244,7 @@ translate Chinese battle_king_win_6a035b10:
 translate Chinese battle_king_win_ff08e7e8:
 
 
-    "这…这是什么?"
+    "这...这是什么?"
 
 
 translate Chinese battle_king_win_6933849f:

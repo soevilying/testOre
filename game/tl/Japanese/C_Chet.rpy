@@ -40,7 +40,7 @@ translate Japanese Chet_56a45422:
 translate Japanese Chet_cc8c3114:
 
 
-    c "Just think of this as an additional incentive… plus it’s cheaper than me giving you gold every time."
+    c "Just think of this as an additional incentive... plus it’s cheaper than me giving you gold every time."
 
 
 translate Japanese Chet_7c286153:
@@ -154,7 +154,7 @@ translate Japanese Chet_7e05b764:
 translate Japanese Chet_3882bc78:
 
 
-    ro "Hmm…"
+    ro "Hmm..."
 
 
 translate Japanese Chet_0f634547:
@@ -196,7 +196,7 @@ translate Japanese Chet_01c28e7e:
 translate Japanese Chet_099ec7db:
 
 
-    c "Hmm… I can give you 20 coins for it."
+    c "Hmm... I can give you 20 coins for it."
 
 
 translate Japanese Chet_74d0f85f:
@@ -712,13 +712,13 @@ translate Japanese Chet_pbag1_ff3147ac:
 translate Japanese Chet_pbag1_ce617998:
 
 
-    "…"
+    "..."
 
 
 translate Japanese Chet_pbag1_ce617998_1:
 
 
-    "…"
+    "..."
 
 
 translate Japanese Chet_pbag1_48ffd22e:
@@ -838,7 +838,7 @@ translate Japanese Chet_watch_24639cdd:
 translate Japanese Chet_watch_f7ea111a:
 
 
-    e 10 "Maybe…"
+    e 10 "Maybe..."
 
 
 translate Japanese Chet_watch_5df73a09:
@@ -1084,7 +1084,7 @@ translate Japanese Chet_chattree_e7a370b5:
 translate Japanese Chet_chattree_05e02e9e:
 
 
-    e 6 "Right… and how did you know that from down here?"
+    e 6 "Right... and how did you know that from down here?"
 
 
 translate Japanese Chet_chattree_fb257b91:
@@ -1120,7 +1120,7 @@ translate Japanese Chet_chattree_626a7c37:
 translate Japanese Chet_chattree_622668b8:
 
 
-    e 4 "Err… maybe later."
+    e 4 "Err... maybe later."
 
 
 translate Japanese Chet_chattree_958a1ed7:
@@ -1222,7 +1222,7 @@ translate Japanese Chet_chattree_f22e7499:
 translate Japanese Chet_chattree_215476db:
 
 
-    c "Just… something felt different when I opened up to Witer, it felt good."
+    c "Just... something felt different when I opened up to Witer, it felt good."
 
 
 translate Japanese Chet_chattree_8ccba95e:
@@ -1282,7 +1282,7 @@ translate Japanese Chet_chattree_b21da63c:
 translate Japanese Chet_chattree_57f22de4:
 
 
-    c "Home… I never had a home."
+    c "Home... I never had a home."
 
 
 translate Japanese Chet_chattree_cac64f1b:
@@ -1312,7 +1312,7 @@ translate Japanese Chet_chattree_ce47c3d9:
 translate Japanese Chet_chattree_a067d2b5:
 
 
-    c "Then there were the beatings… if he wasn’t hitting my mother."
+    c "Then there were the beatings... if he wasn’t hitting my mother."
 
 
 translate Japanese Chet_chattree_ce717c88:
@@ -1714,7 +1714,7 @@ translate Japanese Chet_chattree_3c655609:
 translate Japanese Chet_chattree_a88e5b54:
 
 
-    e 1 "… What will it take?"
+    e 1 "... What will it take?"
 
 
 translate Japanese Chet_chattree_aa81730d:
@@ -2086,7 +2086,7 @@ translate Japanese Chet_chattree_f9d9982c:
 translate Japanese Chet_chattree_b107a847:
 
 
-    e 13 "Err… yeah I already know that."
+    e 13 "Err... yeah I already know that."
 
 
 translate Japanese Chet_chattree_95e51256:
@@ -2680,7 +2680,7 @@ translate Japanese Chet_chattree_28ad8cfb:
 translate Japanese Chet_chattree_147f5acb:
 
 
-    "[name]" "Mmm… ah! No, not there."
+    "[name]" "Mmm... ah! No, not there."
 
 
 translate Japanese Chet_chattree_78747e9d:
@@ -2698,7 +2698,7 @@ translate Japanese Chet_chattree_08acafd0:
 translate Japanese Chet_chattree_1c60e0ee:
 
 
-    "[name]" "Noooooo, so slimy and wet… please slow down Chet."
+    "[name]" "Noooooo, so slimy and wet... please slow down Chet."
 
 
 translate Japanese Chet_chattree_e093da64:
@@ -2722,7 +2722,7 @@ translate Japanese Chet_chattree_4766c2fb:
 translate Japanese Chet_chattree_b8ecd8ac:
 
 
-    "[name]" "Hah...hah... hah… hah!"
+    "[name]" "Hah...hah... hah... hah!"
 
 
 translate Japanese Chet_chattree_12e75478:
@@ -2758,7 +2758,7 @@ translate Japanese Chet_chattree_5b2f3dfe:
 translate Japanese Chet_chattree_66bb4aed:
 
 
-    s "Ehem…"
+    s "Ehem..."
 
 
 translate Japanese Chet_chattree_bbcbd5ec:
@@ -2968,7 +2968,7 @@ translate Japanese Chet_chattree_28ad8cfb_1:
 translate Japanese Chet_chattree_147f5acb_1:
 
 
-    "[name]" "Mmm… ah! No, not there."
+    "[name]" "Mmm... ah! No, not there."
 
 
 translate Japanese Chet_chattree_78747e9d_1:
@@ -2986,7 +2986,7 @@ translate Japanese Chet_chattree_08acafd0_1:
 translate Japanese Chet_chattree_1c60e0ee_1:
 
 
-    "[name]" "Noooooo, so slimy and wet… please slow down Chet."
+    "[name]" "Noooooo, so slimy and wet... please slow down Chet."
 
 
 translate Japanese Chet_chattree_e093da64_1:
@@ -3010,7 +3010,7 @@ translate Japanese Chet_chattree_4766c2fb_1:
 translate Japanese Chet_chattree_b8ecd8ac_1:
 
 
-    "[name]" "Hah...hah... hah… hah!"
+    "[name]" "Hah...hah... hah... hah!"
 
 
 translate Japanese Chet_chattree_12e75478_1:
@@ -3046,7 +3046,7 @@ translate Japanese Chet_chattree_5b2f3dfe_1:
 translate Japanese Chet_chattree_66bb4aed_1:
 
 
-    s "Ehem…"
+    s "Ehem..."
 
 
 translate Japanese Chet_chattree_bbcbd5ec_1:
@@ -3208,7 +3208,7 @@ translate Japanese Chet_chattree_6fe5a3da:
 translate Japanese Chet_chattree_a32aa4ed:
 
 
-    c "I… can’t say that I do."
+    c "I... can’t say that I do."
 
 
 translate Japanese Chet_chattree_29745082:
@@ -3292,7 +3292,7 @@ translate Japanese Chet_chattree_e20c73cc:
 translate Japanese Chet_chattree_765c4691:
 
 
-    c "I can’t…"
+    c "I can’t..."
 
 
 translate Japanese Chet_chattree_0628f521:
@@ -3424,7 +3424,7 @@ translate Japanese Chet_chattree_268ef308:
 translate Japanese Chet_chattree_e448900c:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Japanese Chet_chattree_13631d8e:
@@ -3490,7 +3490,7 @@ translate Japanese Chet_chattree_539c2ef3:
 translate Japanese Chet_chattree_6218b584:
 
 
-    c "…"
+    c "..."
 
 
 translate Japanese Chet_chattree_c235faab:
@@ -3526,7 +3526,7 @@ translate Japanese Chet_chattree_c50a4caf:
 translate Japanese Chet_chattree_b3cef16b:
 
 
-    c "I will… and thanks [name]."
+    c "I will... and thanks [name]."
 
 
 translate Japanese Chet_chattree_40e10d7c:
@@ -3730,7 +3730,7 @@ translate Japanese Chet_chattree_9c22e61e:
 translate Japanese Chet_chattree_1c2875fb:
 
 
-    c "And I figured one little peek wouldn’t hurt right… {p}No, that’s not why I took it."
+    c "And I figured one little peek wouldn’t hurt right... {p}No, that’s not why I took it."
 
 
 translate Japanese Chet_chattree_da5c173f:
@@ -3868,7 +3868,7 @@ translate Japanese Chet_chattree_55c56893:
 translate Japanese Chet_chattree_7a0bb516:
 
 
-    c "Then that means… I fixed it for nothing?"
+    c "Then that means... I fixed it for nothing?"
 
 
 translate Japanese Chet_chattree_ba2b7e61:
@@ -4030,7 +4030,7 @@ translate Japanese Chet_chattree_ca325c2a:
 translate Japanese Chet_chattree_e448900c_1:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Japanese Chet_chattree_7f26adf4:
@@ -4480,7 +4480,7 @@ translate Japanese Chet_fear_potion_2aad6d05:
 translate Japanese Chet_fear_potion_4b559003:
 
 
-    c "… "
+    c "... "
 
 
 translate Japanese Chet_fear_potion_a8c1e605:

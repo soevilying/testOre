@@ -4,13 +4,13 @@
 translate Thai undercity_map_ce617998:
 
 
-    "…"
+    "..."
 
 
 translate Thai undercity_map_e6106c9e:
 
 
-    e 11 "So heavy… so h- horny."
+    e 11 "So heavy... so h- horny."
 
 
 translate Thai undercity_map_a859d110:
@@ -28,7 +28,7 @@ translate Thai undercity_map_1d729ff1:
 translate Thai undercity_map_1bab69f4:
 
 
-    "The corruption… there is too much of it."
+    "The corruption... there is too much of it."
 
 
 translate Thai undercity_map_6cbb56fa:
@@ -40,7 +40,7 @@ translate Thai undercity_map_6cbb56fa:
 translate Thai undercity_map_c409322f:
 
 
-    e 11 "Must… have...sex."
+    e 11 "Must... have...sex."
 
 
 translate Thai undercity_map_70eb7311:
@@ -1000,13 +1000,13 @@ translate Thai undercity_guard_talk_abfe30e3:
 translate Thai undercity_guard_talk_fdf5af1d:
 
 
-    "Pawn" "Of course not, but you know, pawn shop, pawnbroker… I figured why not, right?"
+    "Pawn" "Of course not, but you know, pawn shop, pawnbroker... I figured why not, right?"
 
 
 translate Thai undercity_guard_talk_91dc194d:
 
 
-    e 1 "Err… ok. So what can I buy or sell here?"
+    e 1 "Err... ok. So what can I buy or sell here?"
 
 
 translate Thai undercity_guard_talk_38daee51:
@@ -2206,7 +2206,7 @@ translate Thai undercity_room1_rest_a956224a:
 translate Thai undercity_room1_rest_548f6588:
 
 
-    e 9 "Err… nothing."
+    e 9 "Err... nothing."
 
 
 translate Thai undercity_room1_rest_95822f82:
@@ -2422,7 +2422,7 @@ translate Thai undercity_room1_rest_1d34d255:
 translate Thai undercity_room1_rest_68e80a9e:
 
 
-    e 1 "Err…"
+    e 1 "Err..."
 
 
 translate Thai undercity_room1_rest_bb9a6406:
@@ -2578,7 +2578,7 @@ translate Thai undercity_eyvind_sell_end_363d129a:
 translate Thai undercity_eyvind_sell_end_7a10dbb4:
 
 
-    e 1 "Umm… thanks?"
+    e 1 "Umm... thanks?"
 
 
 translate Thai undercity_eyvind_sell_end_cb59b7b9:
@@ -2626,7 +2626,7 @@ translate Thai undercity_eyvind_sell_end_0a80c7e8:
 translate Thai undercity_eyvind_sell_end_7a10dbb4_1:
 
 
-    e 1 "Umm… thanks?"
+    e 1 "Umm... thanks?"
 
 
 translate Thai undercity_eyvind_sell_end_fa8d63e1:
@@ -3166,7 +3166,7 @@ translate Thai hellhound_first_talk_ce261d8a:
 translate Thai hellhound_first_talk_dc208333:
 
 
-    e 1 "Wait… err… what do I call you?"
+    e 1 "Wait... err... what do I call you?"
 
 
 translate Thai hellhound_first_talk_f9eddea8:
@@ -5698,7 +5698,7 @@ translate Thai undercity_auction_save_Flo_76dd9be3:
 translate Thai undercity_auction_save_Flo_07eab030:
 
 
-    e 1 "As for why I saved you well… your butler Ebb was the one that told me that you were taken."
+    e 1 "As for why I saved you well... your butler Ebb was the one that told me that you were taken."
 
 
 translate Thai undercity_auction_save_Flo_b19a9d16:
@@ -5818,7 +5818,7 @@ translate Thai undercity_auction_save_Flo_f7e40455:
 translate Thai undercity_auction_save_Flo_f53dab21:
 
 
-    e 1 "Oh… ok."
+    e 1 "Oh... ok."
 
 
 translate Thai undercity_auction_save_Flo_9201ed5b:
@@ -6064,7 +6064,7 @@ translate Thai undercity_eyvind_sell_bb836ee3:
 translate Thai undercity_eyvind_sell_bf726f90:
 
 
-    e 0 "Yes…"
+    e 0 "Yes..."
 
 
 translate Thai undercity_eyvind_sell_478d146d:
@@ -6088,7 +6088,7 @@ translate Thai undercity_eyvind_sell_b9bcc90e:
 translate Thai undercity_eyvind_sell_4cf0d8ce:
 
 
-    e 0 "Ngh…"
+    e 0 "Ngh..."
 
 
 translate Thai undercity_eyvind_sell_29a4e141:
@@ -6106,7 +6106,7 @@ translate Thai undercity_eyvind_sell_c2af171e:
 translate Thai undercity_eyvind_sell_3f85a285:
 
 
-    "Second Demon" "Hehe…."
+    "Second Demon" "Hehe...."
 
 
 translate Thai undercity_eyvind_sell_cc2f0c23:

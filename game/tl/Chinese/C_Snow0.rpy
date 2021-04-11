@@ -2856,13 +2856,13 @@ translate Chinese Snow_menu_315b8bf5:
 translate Chinese Snow_menu_1bc54f41:
 
 
-    e 5 "…… "
+    e 5 "...... "
 
 
 translate Chinese Snow_menu_3ce5d7bb:
 
 
-    s "……我抱歉我不該這樣和你說話的。"
+    s "......我抱歉我不該這樣和你說話的。"
 
 
 translate Chinese Snow_menu_ac2bbf83:
@@ -3253,7 +3253,7 @@ translate Chinese Snow_menu_f2fc7f79:
 translate Chinese Snow_menu_1f6312b7:
 
 
-    e 13 "嗯…"
+    e 13 "嗯..."
 
 
 translate Chinese Snow_menu_2d592ccc:
@@ -3514,7 +3514,7 @@ translate Chinese Snow_meet_fd3361ba:
 translate Chinese Snow_chattree_2a65e4b1:
 
 
-    e 1 "那么…你是呆在这最久的咯？"
+    e 1 "那么...你是呆在这最久的咯？"
 
 
 translate Chinese Snow_chattree_3ad909f2:
@@ -3652,7 +3652,7 @@ translate Chinese Snow_chattree_f2fc7f79:
 translate Chinese Snow_chattree_1f6312b7:
 
 
-    e 13 "emmm……"
+    e 13 "emmm......"
 
 
 translate Chinese Snow_chattree_2d592ccc:
@@ -3676,7 +3676,7 @@ translate Chinese Snow_chattree_05cb73e7:
 translate Chinese Snow_chattree_3fec2cdd:
 
 
-    e 1 "只是……你们在这呆了多久了?"
+    e 1 "只是......你们在这呆了多久了?"
 
 
 translate Chinese Snow_chattree_f55f1de8:
@@ -3790,7 +3790,7 @@ translate Chinese Snow_chattree_463218bd:
 translate Chinese Snow_chattree_6b79e6e7:
 
 
-    s "我想……他有过？"
+    s "我想......他有过？"
 
 
 translate Chinese Snow_chattree_76bcc8fc:
@@ -3958,7 +3958,7 @@ translate Chinese Snow_chattree_25d25ce3:
 translate Chinese Snow_chattree_9abbd69a:
 
 
-    e 13 "这不合常理……"
+    e 13 "这不合常理......"
 
 
 translate Chinese Snow_chattree_9e9a0d5c:
@@ -4000,7 +4000,7 @@ translate Chinese Snow_chattree_fb97cd3a:
 translate Chinese Snow_chattree_e3e2a4a9:
 
 
-    e 1 "(父亲……很久以前也说了同样的话，很久以前了。)"
+    e 1 "(父亲......很久以前也说了同样的话，很久以前了。)"
 
 
 translate Chinese Snow_chattree_903d4cc4:
@@ -4036,7 +4036,7 @@ translate Chinese Snow_chattree_03efeeef:
 translate Chinese Snow_chattree_43965559:
 
 
-    e 13 "……我尽量。"
+    e 13 "......我尽量。"
 
 
 translate Chinese Snow_chattree_cbe62cfc:
@@ -4402,7 +4402,7 @@ translate Chinese Snow_chattree_1bc54f41:
 translate Chinese Snow_chattree_3ce5d7bb:
 
 
-    s "… 对不起，我不该那样和你说话的。"
+    s "... 对不起，我不该那样和你说话的。"
 
 
 translate Chinese Snow_chattree_ac2bbf83:
@@ -4624,7 +4624,7 @@ translate Chinese Snow_chattree_d8304d60:
 translate Chinese Snow_chattree_2d4376b0:
 
 
-    s "…"
+    s "..."
 
 
 translate Chinese Snow_chattree_c8daaa23:
@@ -5080,7 +5080,7 @@ translate Chinese Snow_chattree_cf6536b2:
 translate Chinese Snow_chattree_19a6aba9:
 
 
-    "几小时后……"
+    "几小时后......"
 
 
 translate Chinese Snow_chattree_19861622:
@@ -5254,7 +5254,7 @@ translate Chinese Snow_twoletters_8f58a5d2:
 translate Chinese Snow_twoletters_2d4376b0:
 
 
-    s "…"
+    s "..."
 
 
 translate Chinese Snow_twoletters_69a20ad7:
@@ -5290,7 +5290,7 @@ translate Chinese Snow_twoletters_4ebddc98:
 translate Chinese Snow_twoletters_5f4c2f19:
 
 
-    "第一封信写着……"
+    "第一封信写着......"
 
 
 translate Chinese Snow_twoletters_ab958621:
@@ -5302,7 +5302,7 @@ translate Chinese Snow_twoletters_ab958621:
 translate Chinese Snow_twoletters_1c9d1f0b:
 
 
-    "第二封信写着……"
+    "第二封信写着......"
 
 
 translate Chinese Snow_twoletters_659c7651:
@@ -5332,13 +5332,13 @@ translate Chinese Snow_Thane_f4c78855:
 translate Chinese Snow_Thane_4d746fda:
 
 
-    e 6 "嗯……我有个朋友要来了，我们打算做一个纸型。"
+    e 6 "嗯......我有个朋友要来了，我们打算做一个纸型。"
 
 
 translate Chinese Snow_Thane_2d4376b0:
 
 
-    s "…"
+    s "..."
 
 
 translate Chinese Snow_Thane_19759749:
@@ -5446,7 +5446,7 @@ translate Chinese Snow_Thane_31c23a8b:
 translate Chinese Snow_Thane_e448900c:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Chinese Snow_Thane_6aa68c4c:
@@ -5476,7 +5476,7 @@ translate Chinese Snow_Thane_6aa68c4c_1:
 translate Chinese Snow_Thane_94dd537d:
 
 
-    s "就那样……好好擦顶端。"
+    s "就那样......好好擦顶端。"
 
 
 translate Chinese Snow_Thane_30596972:
@@ -5638,7 +5638,7 @@ translate Chinese Snow_Thane_8742e991:
 translate Chinese Snow_Thane_10bda9b9:
 
 
-    t "哦……不用，不需要。"
+    t "哦......不用，不需要。"
 
 
 translate Chinese Snow_Thane_388c8885:

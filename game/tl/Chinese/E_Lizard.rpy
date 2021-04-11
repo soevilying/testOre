@@ -796,7 +796,7 @@ translate Chinese battle_lizrad_sex_7ca6393d:
 translate Chinese battle_lizrad_sex_2ab27bc1:
 
 
-    "蜥蜴战士" "唔….我的屁股."
+    "蜥蜴战士" "唔....我的屁股."
 
 
 translate Chinese battle_lizrad_sex_c1ea641a:
@@ -1179,7 +1179,7 @@ translate Chinese battle_lizard_lose_cfbc70ff:
 translate Chinese battle_lizard_lose_0c122edb:
 
 
-    e 0 "…既然都到这一步了，我还是享受一下吧。"
+    e 0 "...既然都到这一步了，我还是享受一下吧。"
 
 
 translate Chinese battle_lizard_lose_f55f3479:
@@ -1203,7 +1203,7 @@ translate Chinese battle_lizard_lose_b84d9351:
 translate Chinese battle_lizard_lose_85ef7aa3:
 
 
-    e 0 "给我…"
+    e 0 "给我..."
 
 
 translate Chinese battle_lizard_lose_2c9dd5ce:

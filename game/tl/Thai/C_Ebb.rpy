@@ -490,7 +490,7 @@ translate Thai Ebb_meet_22d6aab9:
 translate Thai Ebb_meet_15f71659:
 
 
-    eb "Thank you… thank you…"
+    eb "Thank you... thank you..."
 
 
 translate Thai Ebb_meet_2b70b9c9:
@@ -946,7 +946,7 @@ translate Thai Ebb_kidnap_end_767e5684:
 translate Thai Ebb_kidnap_end_6cb100f5:
 
 
-    e 13 "I… I’m sorry Ebb."
+    e 13 "I... I’m sorry Ebb."
 
 
 translate Thai Ebb_kidnap_end_733faa55:
@@ -1432,7 +1432,7 @@ translate Thai Ebb_hang_f622f43f:
 translate Thai Ebb_hang_4c5da885:
 
 
-    e 6 "Yeah… but knowing Snow he lets people stay if they are willing to work."
+    e 6 "Yeah... but knowing Snow he lets people stay if they are willing to work."
 
 
 translate Thai Ebb_hang_53ea3d64:
@@ -1516,7 +1516,7 @@ translate Thai Ebb_hang_ed45c034:
 translate Thai Ebb_hang_a43fdc4b:
 
 
-    f "Yeah…"
+    f "Yeah..."
 
 
 translate Thai Ebb_hang_f74472d3:
@@ -1606,7 +1606,7 @@ translate Thai Ebb_hang_7290b343:
 translate Thai Ebb_hang_a504472d:
 
 
-    f "Hmm…"
+    f "Hmm..."
 
 
 translate Thai Ebb_hang_24ce28ad:

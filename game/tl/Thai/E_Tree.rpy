@@ -508,7 +508,7 @@ translate Thai battle_tree_lose_5eab678c:
 translate Thai battle_tree_lose_97a49711:
 
 
-    e "What is that? I… It smells… so good."
+    e "What is that? I... It smells... so good."
 
 
 translate Thai battle_tree_lose_fd35c1e8:
@@ -904,7 +904,7 @@ translate Thai battle_tree_lose_d0b41245:
 translate Thai battle_tree_lose_5e2cb6bf:
 
 
-    e "(I… I… want to cum again.)"
+    e "(I... I... want to cum again.)"
 
 
 translate Thai battle_tree_lose_a20cefa7_1:

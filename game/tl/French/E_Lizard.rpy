@@ -820,7 +820,7 @@ translate French battle_lizrad_sex_7ca6393d:
 translate French battle_lizrad_sex_2ab27bc1:
 
 
-    "Lizard Warrior" "Ugh…. my ass."
+    "Lizard Warrior" "Ugh.... my ass."
 
 
 translate French battle_lizrad_sex_c1ea641a:

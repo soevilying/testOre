@@ -430,7 +430,7 @@ translate Japanese bulltribe_1_ca498ef2:
 translate Japanese bulltribe_1_2b25625d:
 
 
-    e 5 "Woah…"
+    e 5 "Woah..."
 
 
 translate Japanese bulltribe_1_29eeb556:
@@ -1294,7 +1294,7 @@ translate Japanese bullforest_4646d708:
 translate Japanese bullforest_fd5ea14f:
 
 
-    "Lizard spy" "My heart… well I definitely can’t give you that."
+    "Lizard spy" "My heart... well I definitely can’t give you that."
 
 
 translate Japanese bullforest_404fac49:

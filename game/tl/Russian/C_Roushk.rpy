@@ -340,7 +340,7 @@ translate Russian Roushk_meet_c06d0200:
 translate Russian Roushk_meet_57245488:
 
 
-    w "Water… please!" with vpunch
+    w "Water... please!" with vpunch
 
 
 translate Russian Roushk_meet_7bab9b73:
@@ -358,7 +358,7 @@ translate Russian Roushk_meet_36670a22:
 translate Russian Roushk_meet_8978dee1:
 
 
-    h "You won’t… you won’t…" with vpunch
+    h "You won’t... you won’t..." with vpunch
 
 
 translate Russian Roushk_meet_a5e8a887:
@@ -1438,7 +1438,7 @@ translate Russian battle_roushk_lose_47098c0a:
 translate Russian battle_roushk_lose_c3517d60:
 
 
-    "Only one idea fills your consciousness… you live to serve the boss."
+    "Only one idea fills your consciousness... you live to serve the boss."
 
 
 translate Russian battle_roushk_lose_fe0d0cfc:
@@ -2272,7 +2272,7 @@ translate Russian Roushk_evening_1_7fcc17a5:
 translate Russian Roushk_evening_1_32924cb3:
 
 
-    ro "That… doesn’t sound like me at all. A boastful warrior is no warrior at all. "
+    ro "That... doesn’t sound like me at all. A boastful warrior is no warrior at all. "
 
 
 translate Russian Roushk_evening_1_14c6f211:
@@ -2284,7 +2284,7 @@ translate Russian Roushk_evening_1_14c6f211:
 translate Russian Roushk_evening_1_31f379e1:
 
 
-    ro "I don’t know…"
+    ro "I don’t know..."
 
 
 translate Russian Roushk_evening_1_41318f90:
@@ -2626,7 +2626,7 @@ translate Russian Roushk_evening_1_7fcc17a5_1:
 translate Russian Roushk_evening_1_32924cb3_1:
 
 
-    ro "That… doesn’t sound like me at all. A boastful warrior is no warrior at all. "
+    ro "That... doesn’t sound like me at all. A boastful warrior is no warrior at all. "
 
 
 translate Russian Roushk_evening_1_14c6f211_1:
@@ -2638,7 +2638,7 @@ translate Russian Roushk_evening_1_14c6f211_1:
 translate Russian Roushk_evening_1_31f379e1_1:
 
 
-    ro "I don’t know…"
+    ro "I don’t know..."
 
 
 translate Russian Roushk_evening_1_41318f90_1:
@@ -2950,7 +2950,7 @@ translate Russian Roushk_evening_1_23b03ed6:
 translate Russian Roushk_evening_1_66d954dd:
 
 
-    ro "Ok… you’re not sending me to speak some dangerous character are you?"
+    ro "Ok... you’re not sending me to speak some dangerous character are you?"
 
 
 translate Russian Roushk_evening_1_65037ef9:
@@ -3220,7 +3220,7 @@ translate Russian Roushk_evening_1_8d6fd660:
 translate Russian Roushk_evening_1_3b068edb:
 
 
-    m "Hmm… it will take me some time. I first need to relearn how to curse items, then to remove the curses."
+    m "Hmm... it will take me some time. I first need to relearn how to curse items, then to remove the curses."
 
 
 translate Russian Roushk_evening_1_1344e5de:
@@ -3268,7 +3268,7 @@ translate Russian Roushk_evening_1_175782c3:
 translate Russian Roushk_evening_1_28f22e75:
 
 
-    e 13 "The only other magic user I know is… "
+    e 13 "The only other magic user I know is... "
 
 
 translate Russian Roushk_evening_1_56d1ad56:
@@ -3988,7 +3988,7 @@ translate Russian Roushk_lizardtribe_edce9416:
 translate Russian Roushk_lizardtribe_b6872f01:
 
 
-    e 1 "Well…"
+    e 1 "Well..."
 
 
 translate Russian Roushk_lizardtribe_75a1ca14:
@@ -4162,7 +4162,7 @@ translate Russian Roushk_lizardtribe_4b3f123b:
 translate Russian Roushk_lizardtribe_2946ccd3:
 
 
-    e 1 "Look… I just realized I have no idea what your names are."
+    e 1 "Look... I just realized I have no idea what your names are."
 
 
 translate Russian Roushk_lizardtribe_f2676f7e:
@@ -5128,7 +5128,7 @@ translate Russian Roushk_lizardtribe_battle_lose_83811109:
 translate Russian Roushk_lizardtribe_battle_lose_fe2bc999:
 
 
-    e 9 "That was… amazing!"
+    e 9 "That was... amazing!"
 
 
 translate Russian Roushk_lizardtribe_battle_lose_2d36120e:
@@ -5152,7 +5152,7 @@ translate Russian Roushk_lizardtribe_battle_lose_61e58c5c:
 translate Russian Roushk_lizardtribe_battle_lose_a98f6f3d:
 
 
-    "Nuo" "You… can’t. Ouch. He’s gone out to find runestones."
+    "Nuo" "You... can’t. Ouch. He’s gone out to find runestones."
 
 
 translate Russian Roushk_lizardtribe_battle_lose_702d0108:
@@ -5494,7 +5494,7 @@ translate Russian Roushk_lizardtribe_night_0f71e79e:
 translate Russian Roushk_lizardtribe_night_fd997fc2:
 
 
-    e 1 "Hmm… I’m not really sure waiting for Selye will do us much good."
+    e 1 "Hmm... I’m not really sure waiting for Selye will do us much good."
 
 
 translate Russian Roushk_lizardtribe_night_8c8f3337:
@@ -5518,7 +5518,7 @@ translate Russian Roushk_lizardtribe_night_fc073558:
 translate Russian Roushk_lizardtribe_night_408aa545:
 
 
-    e 5 "Lake… a lake! That’s it."
+    e 5 "Lake... a lake! That’s it."
 
 
 translate Russian Roushk_lizardtribe_night_0aac640c:
@@ -5812,7 +5812,7 @@ translate Russian Roushk_bulltribe_5c598270:
 translate Russian Roushk_bulltribe_e3a0d4d5:
 
 
-    e 1 "Hmm…"
+    e 1 "Hmm..."
 
 
 translate Russian Roushk_bulltribe_db460cad:
@@ -5848,7 +5848,7 @@ translate Russian Roushk_bulltribe_ad66b1a1:
 translate Russian Roushk_bulltribe_c4d2f99a:
 
 
-    ro "And… what’s that?"
+    ro "And... what’s that?"
 
 
 translate Russian Roushk_bulltribe_dfabc7f9:
@@ -5968,7 +5968,7 @@ translate Russian Roushk_bulltribe_9de4452d:
 translate Russian Roushk_bulltribe_e1177b4c:
 
 
-    ro "Like a…"
+    ro "Like a..."
 
 
 translate Russian Roushk_bulltribe_8718010a:
@@ -6610,7 +6610,7 @@ translate Russian Roushk_bulltribe_back_0c090935:
 translate Russian Roushk_bulltribe_back_ba8bc451:
 
 
-    e 9 "Honestly that name… "
+    e 9 "Honestly that name... "
 
 
 translate Russian Roushk_bulltribe_back_e2c335d6:
@@ -6658,7 +6658,7 @@ translate Russian Roushk_bulltribe_back_717ea4ec:
 translate Russian Roushk_bulltribe_back_8957a75a:
 
 
-    ro "…"
+    ro "..."
 
 
 translate Russian Roushk_bulltribe_back_62078c18:
@@ -6670,7 +6670,7 @@ translate Russian Roushk_bulltribe_back_62078c18:
 translate Russian Roushk_bulltribe_back_8957a75a_1:
 
 
-    ro "…"
+    ro "..."
 
 
 translate Russian Roushk_bulltribe_back_3ff1b7e5:
@@ -7306,7 +7306,7 @@ translate Russian Roushk_bulltribe_end_612ebdcc:
 translate Russian Roushk_bulltribe_end_c8e988e9:
 
 
-    "Tomahawk" "Mmm… meat..."
+    "Tomahawk" "Mmm... meat..."
 
 
 translate Russian Roushk_bulltribe_end_d695c906:
@@ -7504,7 +7504,7 @@ translate Russian Roushk_meko_77085d62:
 translate Russian Roushk_meko_274382c9:
 
 
-    "Meko" "Gaah! You need to hit me. Just hit me… gahh… until this bastard... lets go of … of me."
+    "Meko" "Gaah! You need to hit me. Just hit me... gahh... until this bastard... lets go of ... of me."
 
 
 translate Russian Roushk_meko_871b41af:
@@ -7810,7 +7810,7 @@ translate Russian Roushk_meko_battle_win_ededdb2b:
 translate Russian Roushk_meko_battle_win_6a744df9:
 
 
-    m "Mmm...eh…"
+    m "Mmm...eh..."
 
 
 translate Russian Roushk_meko_battle_win_057a2656:
@@ -7828,7 +7828,7 @@ translate Russian Roushk_meko_battle_win_d8edb563:
 translate Russian Roushk_meko_battle_win_ddc96933:
 
 
-    ro "Mmm… [name]?"
+    ro "Mmm... [name]?"
 
 
 translate Russian Roushk_meko_battle_win_688eca0e:
@@ -7912,7 +7912,7 @@ translate Russian Roushk_meko_battle_win_68afc1e7:
 translate Russian Roushk_meko_battle_win_52001be2:
 
 
-    m "Mmm… is it over yet?"
+    m "Mmm... is it over yet?"
 
 
 translate Russian Roushk_meko_battle_win_51a3fbc8:
@@ -7930,7 +7930,7 @@ translate Russian Roushk_meko_battle_win_de916c1e:
 translate Russian Roushk_meko_battle_win_2649a15e:
 
 
-    m "… Ugh, I feel so drained."
+    m "... Ugh, I feel so drained."
 
 
 translate Russian Roushk_meko_battle_win_1cd9433b:
@@ -8626,7 +8626,7 @@ translate Russian Roushk_meko_battle_end_80558e00:
 translate Russian Roushk_meko_battle_end_6ceeddbd:
 
 
-    w "…Why are you saying that to me? "
+    w "...Why are you saying that to me? "
 
 
 translate Russian Roushk_meko_battle_end_e22b865b:
@@ -8830,7 +8830,7 @@ translate Russian Roushk_meko_battle_end_7758a8d8:
 translate Russian Roushk_meko_battle_end_ef47d252:
 
 
-    c "It’s a…"
+    c "It’s a..."
 
 
 translate Russian Roushk_meko_battle_end_e16b16b8:
@@ -8854,7 +8854,7 @@ translate Russian Roushk_meko_battle_end_e3575829:
 translate Russian Roushk_meko_battle_end_0eb789ad:
 
 
-    c "Ha... ha… I lost again."
+    c "Ha... ha... I lost again."
 
 
 translate Russian Roushk_meko_battle_end_26c80ac7:
@@ -8872,7 +8872,7 @@ translate Russian Roushk_meko_battle_end_b53245d7:
 translate Russian Roushk_meko_battle_end_fb1f7bac:
 
 
-    c "My… my … money."
+    c "My... my ... money."
 
 
 translate Russian Roushk_meko_battle_end_7dac8190:
@@ -8992,7 +8992,7 @@ translate Russian Roushk_meko_battle_end1_37c626bb:
 translate Russian Roushk_meko_battle_end1_9bf1298e:
 
 
-    e 1 "Well, I feel…"
+    e 1 "Well, I feel..."
 
 
 translate Russian Roushk_meko_battle_end1_c164a2d8:
@@ -9760,7 +9760,7 @@ translate Russian Roushk_sex_top_0b6b8c12:
 translate Russian Roushk_sex_top_fe4d9a6a:
 
 
-    ro "Ahhh, so… big."
+    ro "Ahhh, so... big."
 
 
 translate Russian Roushk_sex_top_979c0505:
@@ -9802,7 +9802,7 @@ translate Russian Roushk_sex_top_4517a207:
 translate Russian Roushk_sex_top_d4666cf0:
 
 
-    ro "Please… [name], just fuck me."
+    ro "Please... [name], just fuck me."
 
 
 translate Russian Roushk_sex_top_febe7e92:
@@ -9928,7 +9928,7 @@ translate Russian Roushk_sex_top_e9d2bff0:
 translate Russian Roushk_sex_top_67f20e43:
 
 
-    ro "Mph… more just put it all in!"
+    ro "Mph... more just put it all in!"
 
 
 translate Russian Roushk_sex_top_f2688d6f:
@@ -9946,7 +9946,7 @@ translate Russian Roushk_sex_top_097c6805:
 translate Russian Roushk_sex_top_4670cb33:
 
 
-    e 0 "Oh… fuck."
+    e 0 "Oh... fuck."
 
 
 translate Russian Roushk_sex_top_efd0457c:
@@ -10462,7 +10462,7 @@ translate Russian Roushk_sex_bottom_246eecb0:
 translate Russian Roushk_sex_bottom_47d959d6:
 
 
-    e 5 "Roushk…"
+    e 5 "Roushk..."
 
 
 translate Russian Roushk_sex_bottom_59a14282:
@@ -10606,7 +10606,7 @@ translate Russian Roushk_sex_bottom_72714538:
 translate Russian Roushk_sex_bottom_3e9644c2:
 
 
-    ro "Shh… just relax and take deep breaths."
+    ro "Shh... just relax and take deep breaths."
 
 
 translate Russian Roushk_sex_bottom_fa7c503f:
@@ -11290,7 +11290,7 @@ translate Russian Roushk_goodbye2_82eb3b6a:
 translate Russian Roushk_goodbye2_658be844:
 
 
-    e 5 "This is…"
+    e 5 "This is..."
 
 
 translate Russian Roushk_goodbye2_19fa823b:

@@ -234,7 +234,7 @@ label castle_map:
         "Upon focusing your eyes, you notice that it’s waving at you."
         "You hold your breath as the rest of the figure appears like a drawing in midair."
         "In seconds, its form is complete, a creature whose face is distorted like a painting someone rubbed their hands over dressed in jester's clothing waves at you to come to him."
-        "A cold shiver travels down your spine, at the back of your head you know him to be… a ghost."
+        "A cold shiver travels down your spine, at the back of your head you know him to be... a ghost."
         "He jumps about, letting the bells on his hat shake energetically, but there is no sound."
         "You gulp."
         "A sense of dread fills your stomach, something tells you that if you want to get to Flo you’ll need to head over to that figure."
@@ -299,7 +299,7 @@ label castle_map:
             "He points to your left."
             "Jester" "Or maybe there are a few in the soldiers’ barracks or where the scholars usually work at."
             "He points to your right."
-            e 13 "Hmm… fine. I’ll be back."
+            e 13 "Hmm... fine. I’ll be back."
             "Jester" "Good luck! Haha! Good luck!"
             "He waves you away and does a jig while you walk away from him."
             $ Map.castle_7 = 1
@@ -377,7 +377,7 @@ label castle_map:
     if _return == 'point 10':
         "You stop in the middle of a long hallway. "
         "Turning to the right you see what looks like an empty room filled with dusty pews."
-        "You turn to the left…"
+        "You turn to the left..."
         show castle_ghost
         hide castle_ghost with dissolve
         "A HORRIFIC FACE APPEARS RIGHT IN FRONT OF YOU! " with vpunch
@@ -415,7 +415,7 @@ label castle_map:
             "{u}{i}You would not believe the day I've had.{/i}{/u}"
             "{u}{i}Everyone was killing and robbing the rich worms in the castle just as planned.{/i}{/u}"
             "{u}{i}I thought I could’ve taken advantage of the chaos and swipe as many valuables as I can before leaving.{/i}{/u}"
-            "{u}{i}But then… guess what I found in the Knight Commander’s office.{/i}{/u}"
+            "{u}{i}But then... guess what I found in the Knight Commander’s office.{/i}{/u}"
             "{u}{i}Oh what joy, with a swipe here and a cut there, a chance for me to not just be rich but to live like a literal king.{/i}{/u}"
             "{u}{i}Now I got a lovely new badge. {/i}{/u}"
             "{u}{i}I won’t be needing two badges, the story will be too complicated.{/i}{/u}"
@@ -425,7 +425,7 @@ label castle_map:
             "{u}{i}No one must know my dirty little secret.{/i}{/u}"
             "{u}{i}I will think of you when I am in the arms of my new father.{/i}{/u}"
             "You drop the book and recoil upon realizing what this author recorded."
-            e 1 "…"
+            e 1 "..."
             "You leave the room."
             $ Zalt.A_exp = Zalt.A_exp + 10*Zalt.A_exp_lv
             $ PPEXP = 10*Zalt.A_exp_lv
@@ -441,7 +441,7 @@ label castle_map:
                     "{u}{i}You would not believe the day I've had.{/i}{/u}"
                     "{u}{i}Everyone was killing and robbing the rich worms in the castle just as planned.{/i}{/u}"
                     "{u}{i}I thought I could’ve taken advantage of the chaos and swipe as many valuables as I can before leaving.{/i}{/u}"
-                    "{u}{i}But then… guess what I found in the Knight Commander’s office.{/i}{/u}"
+                    "{u}{i}But then... guess what I found in the Knight Commander’s office.{/i}{/u}"
                     "{u}{i}Oh what joy, with a swipe here and a cut there, a chance for me to not just be rich but to live like a literal king.{/i}{/u}"
                     "{u}{i}Now I got a lovely new badge. {/i}{/u}"
                     "{u}{i}I won’t be needing two badges, the story will be too complicated.{/i}{/u}"
@@ -553,15 +553,15 @@ label castle_map:
             "You then notice one compartment is slightly more shallow compared to the other."
             "Pressing your hand against the bottom of the compartment, you realize it’s a fake bottom."
             "Removing the fake bottom reveals a piece of paper stuck on the other side."
-            "The paper reads…"
+            "The paper reads..."
             "{u}{i}When the king returns from his hunt we all have to play our new parts. {/i}{/u}"
             "{u}{i}It worked like a charm. The king thinks I am the sweet little prince without even questioning it.{/i}{/u}"
             "{u}{i}His illness blinds him to the bodies we are unable to keep away in time, what a convenience.{/i}{/u}"
             "{u}{i}He held me in his arms and even tucked me to sleep in the queen’s chambers.{/i}{/u}"
             "{u}{i}My plan couldn’t be going better than this.{/i}{/u}"
-            "{u}{i}But something strange is happening…{/i}{/u}"
+            "{u}{i}But something strange is happening...{/i}{/u}"
             "{u}{i}My allies, who stood and waited for the king while holding onto our new badges, one by one they are nowhere to be found.{/i}{/u}"
-            "{u}{i}Yet they leave behind their belongings…{/i}{/u}"
+            "{u}{i}Yet they leave behind their belongings...{/i}{/u}"
             "{u}{i}So faint, yet unmistakable it is the laughter of children. {/i}{/u}"
             "{u}{i}My plan couldn’t be going better than this.{/i}{/u}"
             "{u}{i}My plan couldn’t be going better {color=#781312}than this.{/i}{/u}{/color}"
@@ -576,15 +576,15 @@ label castle_map:
             "Do you want to read again?"
             menu:
                 "Yes" if True:
-                    "The paper reads…"
+                    "The paper reads..."
                     "{u}{i}When the king returns from his hunt we all have to play our new parts. {/i}{/u}"
                     "{u}{i}It worked like a charm. The king thinks I am the sweet little prince without even questioning it.{/i}{/u}"
                     "{u}{i}His illness blinds him to the bodies we are unable to keep away in time, what a convenience.{/i}{/u}"
                     "{u}{i}He held me in his arms and even tucked me to sleep in the queen’s chambers.{/i}{/u}"
                     "{u}{i}My plan couldn’t be going better than this.{/i}{/u}"
-                    "{u}{i}But something strange is happening…{/i}{/u}"
+                    "{u}{i}But something strange is happening...{/i}{/u}"
                     "{u}{i}My allies, who stood and waited for the king while holding onto our new badges, one by one they are nowhere to be found.{/i}{/u}"
-                    "{u}{i}Yet they leave behind their belongings…{/i}{/u}"
+                    "{u}{i}Yet they leave behind their belongings...{/i}{/u}"
                     "{u}{i}So faint, yet unmistakable it is the laughter of children. {/i}{/u}"
                     "{u}{i}My plan couldn’t be going better than this.{/i}{/u}"
                     "{u}{i}My plan couldn’t be going better {color=#781312}than this.{/i}{/u}{/color}"
@@ -664,7 +664,7 @@ label castle_map:
     if _return == 'point 23':
         "You find pieces of paper on top of this coffin."
         "They appear to be the same written document just made into multiple copies."
-        "It reads…"
+        "It reads..."
         "{u}{i}Fellow jesters, bards, fire eaters and poets of the king. {/i}{/u}"
         "{u}{i}We all know of the strange event that has befallen the castle.{/i}{/u}"
         "{u}{i}People’s badges have gone missing, and the king is on the loose.{/i}{/u}"
@@ -736,7 +736,7 @@ label castle_map:
             "There are collections on swordsmanship, hand to hand combat, and even a section on cooking with deadly ingredients."
             "Walking over to the desk, there’s a journal opened to the first page amidst a stack of moss covered papers and books."
             "You flip through the journal but the rest of the pages are empty."
-            "The first page writes…"
+            "The first page writes..."
             "{u}{i}I fear that the kingdom is in peril.{/i}{/u}"
             "{u}{i}We should have suspected something since two months ago when a handful of the badges disappeared for no reason.{/i}{/u}"
             "{u}{i}The phenomenon escalated in intensity since then, every few weeks groups of people would report that their badges had disappeared.{/i}{/u}"
@@ -764,7 +764,7 @@ label castle_map:
             "Do you want to read again?"
             menu:
                 "Yes" if True:
-                    "The first page writes…"
+                    "The first page writes..."
                     "{u}{i}I fear that the kingdom is in peril.{/i}{/u}"
                     "{u}{i}We should have suspected something since two months ago when a handful of the badges disappeared for no reason.{/i}{/u}"
                     "{u}{i}The phenomenon escalated in intensity since then, every few weeks groups of people would report that their badges had disappeared.{/i}{/u}"
@@ -915,7 +915,7 @@ label castle_map:
                 "You awaken once more with your cheeks pressing against the cool bedroom floor, just under the window."
                 "You stand up and as you do, you notice you're holding something hard in the palm of your right hand."
                 "It’s a black coloured metal whistle."
-                "The same one in the dream… no whatever it was you saw was too vivid to be a dream. "
+                "The same one in the dream... no whatever it was you saw was too vivid to be a dream. "
                 "You rub your aching neck and look around the bedroom. "
                 "There are no clues here."
                 "Even stranger, there's no sign of the children’s remains here."
@@ -988,7 +988,7 @@ label castle_map:
             "The contents detailing the day to day of this person and his friends."
             "They used to be scholars who worked for the king."
             "You notice a page with a dog-ear."
-            "It reads…"
+            "It reads..."
             "{u}{i}King Harald grows impatient for our progress.{/i}{/u}"
             "{u}{i}He demands we find a way to stop his sickness.{/i}{/u}"
             "{u}{i}I swear he is becoming more unhinged as time passes.{/i}{/u}"
@@ -1011,7 +1011,7 @@ label castle_map:
             "Do you want to read it again?"
             menu:
                 "Yes" if True:
-                    "It reads…"
+                    "It reads..."
                     "{u}{i}King Harald grows impatient for our progress.{/i}{/u}"
                     "{u}{i}He demands we find a way to stop his sickness.{/i}{/u}"
                     "{u}{i}I swear he is becoming more unhinged as time passes.{/i}{/u}"
@@ -1029,8 +1029,8 @@ label castle_map:
         "You enter a room with three beds next to each other."
         "Looking around, you find nothing of importance except for another diary under one of the beds."
         "It has only one entry."
-        "It reads…"
-        "{u}{i}I surrender… There’s no curing the king’s ailment.{/i}{/u}"
+        "It reads..."
+        "{u}{i}I surrender... There’s no curing the king’s ailment.{/i}{/u}"
         "{u}{i}His mind is lost and so are the lives of my former colleagues. {/i}{/u}"
         "{u}{i}I will join my colleagues in hiding soon.{/i}{/u}"
         "{u}{i}My only concern is where the other library key has disappeared to.{/i}{/u}"
@@ -1082,7 +1082,7 @@ label castle_map:
         "You’re tempted to try a sip."
         "You bring the bottle close to your lips, but then you push it away."
         e 5 "No, no. I could get some weird sickness."
-        e 5 "But then…"
+        e 5 "But then..."
         "You bring it close to you, then you push it away again."
         e 9 "No! [name], don’t."
         "The bottle tempts you. You find your willpower breaking."
@@ -2058,7 +2058,7 @@ label castle_prison:
         if Map.castle_prison_5 ==1:
             "This room has a large table with several wooden plates, cups and cutlery covered in dust. "
             "Looking around you find a HP potion under the table with a note tied to it."
-            "The note reads…"
+            "The note reads..."
             "{u}{i}Confiscated this item off the Duke Choron after arresting him for stabbing a duchess with a butter knife.{/i}{/u}"
             "{u}{i}Suspected he stabbed her for her badge.{/i}{/u}"
             "{u}{i}Put it in the evidence pile with the rest. {/i}{/u}"
@@ -2070,7 +2070,7 @@ label castle_prison:
             "Do you want to read it again?"
             menu:
                 "Yes" if True:
-                    "The note reads…"
+                    "The note reads..."
                     "{u}{i}Confiscated this item off the Duke Choron after arresting him for stabbing a duchess with a butter knife.{/i}{/u}"
                     "{u}{i}Suspected he stabbed her for her badge.{/i}{/u}"
                     "{u}{i}Put it in the evidence pile with the rest. {/i}{/u}"
@@ -2090,7 +2090,7 @@ label castle_prison:
             "You approach the shelve closest to the first door."
             "There are broken bottles and mismatched tools that shouldn’t be together."
             e 1 "A pair of scissors and a foot trap?"
-            e 1 "Is that… a bag of moldy beans? "
+            e 1 "Is that... a bag of moldy beans? "
             "This whole place used to be some kind of dungeon judging by the jail cells."
             "You imagine that they stored the criminals belongings or contrabands here. "
             "You walk over to the next shelf."
@@ -2453,7 +2453,7 @@ label battle_S_knight_end:
     "...."
     scene prison 1 with vslow_dissolve
     show screen days
-    e 2 "Ugh, my head…"
+    e 2 "Ugh, my head..."
 
     "You pick yourself back up from the floor. "
     $ renpy.music.set_pause(False, channel='Chan1')
@@ -2462,7 +2462,7 @@ label battle_S_knight_end:
     "You scratch your head."
     e 13 "Was that all just a dream?"
     $ renpy.music.set_volume(0.2, 0, channel = "sound")
-    "That whole experience, the jail, the creature, the ending… it was just too real."
+    "That whole experience, the jail, the creature, the ending... it was just too real."
     "You hold your neck."
     play sound "music/whistle.mp3"
     "Your ears then twitch to the sound of a whistle coming from upstairs. " with vpunch

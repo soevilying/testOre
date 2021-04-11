@@ -358,7 +358,7 @@ translate Chinese Ebb_meet_c906f3c9:
 translate Chinese Ebb_meet_f6febf4d:
 
 
-    e 5 "這實在是……"
+    e 5 "這實在是......"
 
 
 translate Chinese Ebb_meet_eb81b5d3:
@@ -388,7 +388,7 @@ translate Chinese Ebb_meet_92f57eeb:
 translate Chinese Ebb_meet_52959033:
 
 
-    e 1 "……"
+    e 1 "......"
 
 
 translate Chinese Ebb_meet_a8771dc4:
@@ -472,7 +472,7 @@ translate Chinese Ebb_meet_22d6aab9:
 translate Chinese Ebb_meet_15f71659:
 
 
-    eb "謝謝你……謝謝你"
+    eb "謝謝你......謝謝你"
 
 
 translate Chinese Ebb_meet_2b70b9c9:
@@ -810,7 +810,7 @@ translate Chinese Ebb_kidnap_end_077ee37b:
 translate Chinese Ebb_kidnap_end_74c9d68b:
 
 
-    eb "请原谅小少爷的……举止。"
+    eb "请原谅小少爷的......举止。"
 
 
 translate Chinese Ebb_kidnap_end_19ea1bae:
@@ -1524,7 +1524,7 @@ translate Chinese Ebb_hang_ed45c034:
 translate Chinese Ebb_hang_a43fdc4b:
 
 
-    f "嗯啊…"
+    f "嗯啊..."
 
 
 translate Chinese Ebb_hang_f74472d3:
@@ -1614,7 +1614,7 @@ translate Chinese Ebb_hang_7290b343:
 translate Chinese Ebb_hang_a504472d:
 
 
-    f "Hmm…"
+    f "Hmm..."
 
 
 translate Chinese Ebb_hang_24ce28ad:

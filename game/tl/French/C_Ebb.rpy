@@ -472,7 +472,7 @@ translate French Ebb_meet_22d6aab9:
 translate French Ebb_meet_15f71659:
 
 
-    eb "Thank you… thank you…"
+    eb "Thank you... thank you..."
 
 
 translate French Ebb_meet_2b70b9c9:

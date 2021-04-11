@@ -378,10 +378,10 @@ label battle_ghost_lose:
     "Some of it trails down onto your fingers and enters your stretched hole."
     "In your heart, you feel the ghost’s cocky satisfaction that the ghost feels."
     "He’s lecherous smile shows on your face, and it disgusts you to the core. "
-    e 0 "YOU…"
+    e 0 "YOU..."
     hide ghost lose4 with slow_dissolve
     "You’re boiling with rage!"
-    e 0 "YOU… GET OUT OF MY BODY!"
+    e 0 "YOU... GET OUT OF MY BODY!"
     with flashbulb
     "Ghost" "What the hell?"
     "The purplish glow around your body waxes and wanes. "

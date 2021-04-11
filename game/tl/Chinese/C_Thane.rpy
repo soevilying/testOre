@@ -985,7 +985,7 @@ translate Chinese Thane_tribe_talk_9f49c1aa:
 translate Chinese Thane_tribe_talk_c6b14287:
 
 
-    e 9 "呃，我……我只是想要讓他對我有好印象。"
+    e 9 "呃，我......我只是想要讓他對我有好印象。"
 
 
 translate Chinese Thane_tribe_talk_9b961756:
@@ -1003,7 +1003,7 @@ translate Chinese Thane_tribe_talk_c90180c2:
 translate Chinese Thane_tribe_talk_4218e844:
 
 
-    e 6 "這個嘛，我……拜託給我一個機會，"
+    e 6 "這個嘛，我......拜託給我一個機會，"
 
 
 translate Chinese Thane_tribe_talk_06969397:
@@ -1627,7 +1627,7 @@ translate Chinese Thane_tribe_talk_b6b62336:
 translate Chinese Thane_tribe_talk_e1193613:
 
 
-    t "什麼？這實在……我從沒想過他會先發制人，如果是我爸爸有可能，但是他？"
+    t "什麼？這實在......我從沒想過他會先發制人，如果是我爸爸有可能，但是他？"
 
 
 translate Chinese Thane_tribe_talk_fae9b77d:
@@ -1675,7 +1675,7 @@ translate Chinese Thane_tribe_talk_96595376:
 translate Chinese Thane_tribe_talk_52959033:
 
 
-    e 1 "……"
+    e 1 "......"
 
 
 translate Chinese Thane_tribe_talk_7d82f69e:
@@ -1801,7 +1801,7 @@ translate Chinese Thane_tribe_talk_e7b444cf:
 translate Chinese Thane_tribe_talk_b3a0462b:
 
 
-    e 13 "恐懼藥水……或許Chet知道怎麼做一個。"
+    e 13 "恐懼藥水......或許Chet知道怎麼做一個。"
 
 
 translate Chinese Thane_tribe_talk_2acd440b:
@@ -2107,7 +2107,7 @@ translate Chinese Thane_tribe_talk_4158d0f6:
 translate Chinese Thane_tribe_talk_b3a0462b_1:
 
 
-    e 13 "恐懼藥水……或許Chet知道怎麼做一個。"
+    e 13 "恐懼藥水......或許Chet知道怎麼做一個。"
 
 
 translate Chinese Thane_tribe_talk_2acd440b_1:
@@ -2131,7 +2131,7 @@ translate Chinese Thane_tribe_talk_5048ef41_1:
 translate Chinese Thane_tribe_talk_7a2b88f7:
 
 
-    e 13 "不過……該死的，我不知道蜥蜴族行動的時間。"
+    e 13 "不過......該死的，我不知道蜥蜴族行動的時間。"
 
 
 translate Chinese Thane_tribe_talk_64689220:
@@ -2143,7 +2143,7 @@ translate Chinese Thane_tribe_talk_64689220:
 translate Chinese Thane_tribe_talk_1f6312b7:
 
 
-    e 13 "呣……"
+    e 13 "呣......"
 
 
 translate Chinese Thane_tribe_talk_cc5e3f84:
@@ -3249,7 +3249,7 @@ translate Chinese Thane_meet_22c07b1c:
 translate Chinese Thane_talk_131fead0:
 
 
-    t "emmm……我忘了我已经不是小牛犊的体重了……"
+    t "emmm......我忘了我已经不是小牛犊的体重了......"
 
 
 translate Chinese Thane_talk_d32cb4c1:
@@ -3309,7 +3309,7 @@ translate Chinese Thane_tribe_talk_e6680725:
 translate Chinese Thane_tribe_talk_ce617998:
 
 
-    "…"
+    "..."
 
 
 translate Chinese Thane_tribe_talk_dc5fd341:
@@ -3387,7 +3387,7 @@ translate Chinese Thane_tribe_talk_94f84543:
 translate Chinese Thane_tribe_talk_e4ae3df8:
 
 
-    e 13 "Thane…"
+    e 13 "Thane..."
 
 
 translate Chinese Thane_tribe_talk_3edcc884:
@@ -3453,7 +3453,7 @@ translate Chinese Thane_tribe_talk_673998cd:
 translate Chinese Thane_tribe_talk_156ec377:
 
 
-    e 13 "…"
+    e 13 "..."
 
 
 translate Chinese Thane_tribe_talk_7058f99e:
@@ -3483,7 +3483,7 @@ translate Chinese Thane_tribe_talk_6a716d21:
 translate Chinese Thane_tribe_talk_90202e6f:
 
 
-    t "父亲和我……我们不怎么交流，我们更喜欢表现得一切安好……"
+    t "父亲和我......我们不怎么交流，我们更喜欢表现得一切安好......"
 
 
 translate Chinese Thane_tribe_talk_39e61c1b:
@@ -3495,7 +3495,7 @@ translate Chinese Thane_tribe_talk_39e61c1b:
 translate Chinese Thane_tribe_talk_5bb9d156:
 
 
-    e 1 "我觉得……你两需要多聊聊。"
+    e 1 "我觉得......你两需要多聊聊。"
 
 
 translate Chinese Thane_tribe_talk_f0f0ef59:
@@ -3507,7 +3507,7 @@ translate Chinese Thane_tribe_talk_f0f0ef59:
 translate Chinese Thane_tribe_talk_a703779d:
 
 
-    t "也许吧…… "
+    t "也许吧...... "
 
 
 translate Chinese Thane_tribe_talk_b23b4b30:
@@ -3561,7 +3561,7 @@ translate Chinese Thane_tribe_talk_626b5239:
 translate Chinese Thane_tribe_talk_6933cf59:
 
 
-    t "也许……酒馆？"
+    t "也许......酒馆？"
 
 
 translate Chinese Thane_tribe_talk_3bbac487:
@@ -3603,7 +3603,7 @@ translate Chinese Thane_tribe_talk_abc9e077:
 translate Chinese Thane_tribe_talk_e30bacb7:
 
 
-    t "可能吧，也许我们需要分开一会儿……你觉得呢？"
+    t "可能吧，也许我们需要分开一会儿......你觉得呢？"
 
 
 translate Chinese Thane_tribe_talk_262fae3f:
@@ -3639,7 +3639,7 @@ translate Chinese Thane_tribe_talk_48f1c7c8:
 translate Chinese Thane_tribe_talk_c38071bd:
 
 
-    t "不了……我只想尽可能地远离他。"
+    t "不了......我只想尽可能地远离他。"
 
 
 translate Chinese Thane_tribe_talk_ab2df59b:
@@ -3693,7 +3693,7 @@ translate Chinese Thane_tribe_talk_7d5627ce:
 translate Chinese Thane_tribe_talk_1eadfe04:
 
 
-    t "我父亲……我想你是对的。. "
+    t "我父亲......我想你是对的。. "
 
 
 translate Chinese Thane_tribe_talk_d8f42241_1:
@@ -3777,7 +3777,7 @@ translate Chinese Thane_talktree_tribe_6f93dcfb:
 translate Chinese Thane_talktree_tribe_e4ae3df8:
 
 
-    e 13 "Thane…"
+    e 13 "Thane..."
 
 
 translate Chinese Thane_talktree_tribe_b01dc8fc:
@@ -3825,7 +3825,7 @@ translate Chinese Thane_talktree_tribe_82c13da2:
 translate Chinese Thane_talktree_tribe_79df3e18:
 
 
-    t "以前有……但……听着，我需要时间思考。"
+    t "以前有......但......听着，我需要时间思考。"
 
 
 translate Chinese Thane_talktree_tribe_c668a120:
@@ -4509,7 +4509,7 @@ translate Chinese Thane_talktree_tribe_9f49c1aa:
 translate Chinese Thane_talktree_tribe_c6b14287:
 
 
-    e 9 "呃，我……我只是想要讓他對我有好印象。"
+    e 9 "呃，我......我只是想要讓他對我有好印象。"
 
 
 translate Chinese Thane_talktree_tribe_9b961756:
@@ -4527,7 +4527,7 @@ translate Chinese Thane_talktree_tribe_c90180c2:
 translate Chinese Thane_talktree_tribe_4218e844:
 
 
-    e 6 "這個嘛，我……拜託給我一個機會，"
+    e 6 "這個嘛，我......拜託給我一個機會，"
 
 
 translate Chinese Thane_talktree_tribe_06969397:
@@ -5151,7 +5151,7 @@ translate Chinese Thane_talktree_tribe_b6b62336:
 translate Chinese Thane_talktree_tribe_e1193613:
 
 
-    t "什麼？這實在……我從沒想過他會先發制人，如果是我爸爸有可能，但是他？"
+    t "什麼？這實在......我從沒想過他會先發制人，如果是我爸爸有可能，但是他？"
 
 
 translate Chinese Thane_talktree_tribe_fae9b77d:
@@ -5325,7 +5325,7 @@ translate Chinese Thane_talktree_tribe_e7b444cf:
 translate Chinese Thane_talktree_tribe_b3a0462b:
 
 
-    e 13 "恐懼藥水……或許Chet知道怎麼做一個。"
+    e 13 "恐懼藥水......或許Chet知道怎麼做一個。"
 
 
 translate Chinese Thane_talktree_tribe_2acd440b:
@@ -5631,7 +5631,7 @@ translate Chinese Thane_talktree_tribe_4158d0f6:
 translate Chinese Thane_talktree_tribe_b3a0462b_1:
 
 
-    e 13 "恐懼藥水……或許Chet知道怎麼做一個。"
+    e 13 "恐懼藥水......或許Chet知道怎麼做一個。"
 
 
 translate Chinese Thane_talktree_tribe_2acd440b_1:
@@ -5655,7 +5655,7 @@ translate Chinese Thane_talktree_tribe_5048ef41_1:
 translate Chinese Thane_talktree_tribe_7a2b88f7:
 
 
-    e 13 "不過……該死的，我不知道蜥蜴族行動的時間。"
+    e 13 "不過......該死的，我不知道蜥蜴族行動的時間。"
 
 
 translate Chinese Thane_talktree_tribe_64689220:
@@ -5667,7 +5667,7 @@ translate Chinese Thane_talktree_tribe_64689220:
 translate Chinese Thane_talktree_tribe_1f6312b7:
 
 
-    e 13 "呣……"
+    e 13 "呣......"
 
 
 translate Chinese Thane_talktree_tribe_cc5e3f84:
@@ -6141,7 +6141,7 @@ translate Chinese Thane_letter_247d2b0c:
 translate Chinese Thane_letter_160ed8ca:
 
 
-    t "嗯……哼……哼……"
+    t "嗯......哼......哼......"
 
 
 translate Chinese Thane_letter_926a5152:
@@ -6165,7 +6165,7 @@ translate Chinese Thane_letter_b873b937:
 translate Chinese Thane_letter_62526e9a:
 
 
-    e 1 "Thane… 我们该谈谈你父亲和Nauxus的事。"
+    e 1 "Thane... 我们该谈谈你父亲和Nauxus的事。"
 
 
 translate Chinese Thane_letter_7ad66440:
@@ -6189,7 +6189,7 @@ translate Chinese Thane_letter_247d2b0c_1:
 translate Chinese Thane_letter_160ed8ca_1:
 
 
-    t "嗯……哼……哼……"
+    t "嗯......哼......哼......"
 
 
 translate Chinese Thane_letter_926a5152_1:
@@ -6225,7 +6225,7 @@ translate Chinese Thane_letter_240e7ed9:
 translate Chinese Thane_letter_e448900c:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Chinese Thane_letter_b9f5273c:
@@ -6297,7 +6297,7 @@ translate Chinese Thane_letter_fb028cf7:
 translate Chinese Thane_letter_89d1a203:
 
 
-    e 1 "Thane…"
+    e 1 "Thane..."
 
 
 translate Chinese Thane_letter_07a317a5:
@@ -6363,7 +6363,7 @@ translate Chinese Thane_letter_527260f0:
 translate Chinese Thane_letter_e448900c_1:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Chinese Thane_letter_8f0db9c0:
@@ -6381,7 +6381,7 @@ translate Chinese Thane_letter_9dc7aec2:
 translate Chinese Thane_letter_f98a3d68:
 
 
-    e 13 "只是……Nauxus的计划也许会扩充他的军力，但这也意味着他们种族自身内战的结束。"
+    e 13 "只是......Nauxus的计划也许会扩充他的军力，但这也意味着他们种族自身内战的结束。"
 
 
 translate Chinese Thane_letter_c225171c:
@@ -6405,7 +6405,7 @@ translate Chinese Thane_letter_6cdec61b:
 translate Chinese Thane_letter_ce63fd2f:
 
 
-    t "只是……我需要你为我争取时间，直至找到绑架者的线索。"
+    t "只是......我需要你为我争取时间，直至找到绑架者的线索。"
 
 
 translate Chinese Thane_letter_fd34ca35:
@@ -6441,7 +6441,7 @@ translate Chinese Thane_letter_d1ba49a5:
 translate Chinese Thane_letter_e448900c_2:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Chinese Thane_letter_c8562612:
@@ -6573,13 +6573,13 @@ translate Chinese Thane_letter_0af90b6f:
 translate Chinese Thane_letter_9269c6e7:
 
 
-    e 13 "Thane，我不觉得我接受你的计划……"
+    e 13 "Thane，我不觉得我接受你的计划......"
 
 
 translate Chinese Thane_letter_3f708a67:
 
 
-    t "我明白了……"
+    t "我明白了......"
 
 
 translate Chinese Thane_letter_aa29e798:
@@ -6597,7 +6597,7 @@ translate Chinese Thane_letter_b9a329bb:
 translate Chinese Thane_letter_e340a87a:
 
 
-    t "那……我不会再打扰了。你做你认为正确的事，而我会继续自己的计划。"
+    t "那......我不会再打扰了。你做你认为正确的事，而我会继续自己的计划。"
 
 
 translate Chinese Thane_letter_9ebd90d4:
@@ -6873,7 +6873,7 @@ translate Chinese Thane_talktree_tavern_f2983ebf:
 translate Chinese Thane_talktree_tavern_ac666806:
 
 
-    t "好吧……我想……其他人也可以来。"
+    t "好吧......我想......其他人也可以来。"
 
 
 translate Chinese Thane_talktree_tavern_d129a7f9:

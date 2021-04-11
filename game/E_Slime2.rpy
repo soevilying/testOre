@@ -249,7 +249,7 @@ label battle_slime_lose2:
     "It sticks your hands to the ground."
     "You are unable to break free from its grip."
     "The creature makes its way up your thigh and covers itself around your crotch."
-    e "Ah...ahhh…ahh!"
+    e "Ah...ahhh...ahh!"
     "This sensation is just too much."
     "You’ve never been touched like this before."
     "The creature begins to jiggle and shake."
@@ -271,8 +271,8 @@ label battle_slime_lose2:
     "The goo is expanding inside your hole,{p}at the same time the slime is stimulating your dick, pumping it furiously."
     "You know the slime is hungry for your essence, and with each passing second it’s getting harder to resist."
     with flashbulb
-    e "No… must fight it!"
-    e "Too good… I mustn’t give in."
+    e "No... must fight it!"
+    e "Too good... I mustn’t give in."
     e "Ohhh!"
     with flashbulb
     with flashbulb

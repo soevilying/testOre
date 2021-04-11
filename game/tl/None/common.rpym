@@ -735,7 +735,7 @@ translate None strings:
 
     # 00iap.rpy:217
     old "Contacting App Store\nPlease Wait..."
-    new "正在联系 App Store\n请稍后……"
+    new "正在联系 App Store\n请稍后......"
 
     # 00updater.rpy:375
     old "The Ren'Py Updater is not supported on mobile devices."

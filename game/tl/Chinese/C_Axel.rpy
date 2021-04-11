@@ -382,13 +382,13 @@ translate Chinese Axel_camp_end_f2134c4e:
 translate Chinese Axel_camp_end_17412269:
 
 
-    e 13 "……"
+    e 13 "......"
 
 
 translate Chinese Axel_camp_end_bb8e4b4e:
 
 
-    a "……"
+    a "......"
 
 
 translate Chinese Axel_camp_end_a28aa12a:
@@ -484,7 +484,7 @@ translate Chinese Axel_camp_end_bc68de65:
 translate Chinese Axel_camp_end_52959033:
 
 
-    e 1 "……"
+    e 1 "......"
 
 
 translate Chinese Axel_camp_end_f088a0b5:
@@ -904,7 +904,7 @@ translate Chinese Axel_tribe_talk1_cdd261ee:
 translate Chinese Axel_tribe_talk1_33220765:
 
 
-    a "所以，我派了几个侦察兵去找森林出口，然后我们和酒馆取得了联系，在那儿有一只鬣狗和……"
+    a "所以，我派了几个侦察兵去找森林出口，然后我们和酒馆取得了联系，在那儿有一只鬣狗和......"
 
 
 translate Chinese Axel_tribe_talk1_8385c43e:
@@ -1078,7 +1078,7 @@ translate Chinese Axel_tribe_talk1_5ba84b9b:
 translate Chinese Axel_tribe_talk1_001572e4:
 
 
-    a "所以我想，如果这件事发生在Thane身上，我……我…… 啊！"
+    a "所以我想，如果这件事发生在Thane身上，我......我...... 啊！"
 
 
 translate Chinese Axel_tribe_talk1_260276bb:
@@ -1150,13 +1150,13 @@ translate Chinese Axel_tribe_talk1_c2b8c070:
 translate Chinese Axel_tribe_talk1_72e94c19:
 
 
-    a "……"
+    a "......"
 
 
 translate Chinese Axel_tribe_talk1_b26f9191:
 
 
-    a "和她一样唠唠叨叨，和她一样厨艺差劲，和她一样喜欢远眺整个村子……甚至有一双和她一样的眼睛。"
+    a "和她一样唠唠叨叨，和她一样厨艺差劲，和她一样喜欢远眺整个村子......甚至有一双和她一样的眼睛。"
 
 
 translate Chinese Axel_tribe_talk1_b4c6358b:
@@ -1204,7 +1204,7 @@ translate Chinese Axel_tribe_talk1_4ef19b06:
 translate Chinese Axel_tribe_talk1_bb8e4b4e:
 
 
-    a "……"
+    a "......"
 
 
 translate Chinese Axel_tribe_talk1_55442f78:
@@ -1507,7 +1507,7 @@ translate Chinese Axel_bullkid_7bf3dee8:
 translate Chinese Axel_bullkid_3c57816c:
 
 
-    a "嗯……"
+    a "嗯......"
 
 
 translate Chinese Axel_bullkid_8f51d847:
@@ -1537,7 +1537,7 @@ translate Chinese Axel_bullkid_ce5a2634:
 translate Chinese Axel_bullkid_82deae24:
 
 
-    e 1 "……什么？"
+    e 1 "......什么？"
 
 
 translate Chinese Axel_bullkid_6748ef65:
@@ -1711,7 +1711,7 @@ translate Chinese Axel_bullkid_615532ea:
 translate Chinese Axel_bullkid_5d221de0:
 
 
-    a "我打敗了所有想挑戰我登上酋長位子的那些人。Thane有一天也會需要這麼做……"
+    a "我打敗了所有想挑戰我登上酋長位子的那些人。Thane有一天也會需要這麼做......"
 
 
 translate Chinese Axel_bullkid_be6acd76:
@@ -1723,7 +1723,7 @@ translate Chinese Axel_bullkid_be6acd76:
 translate Chinese Axel_bullkid_72e94c19:
 
 
-    a "……"
+    a "......"
 
 
 translate Chinese Axel_bullkid_c2f2cc97:
@@ -2065,7 +2065,7 @@ translate Chinese Axel_bullkid_8f39a183:
 translate Chinese Axel_bullkid_19629e46:
 
 
-    "較高的小牛" "我……是的。"
+    "較高的小牛" "我......是的。"
 
 
 translate Chinese Axel_bullkid_35b8a1aa:
@@ -2203,7 +2203,7 @@ translate Chinese Axel_bullkid_b6e61cd8:
 translate Chinese Axel_bullkid_b17cc8ee:
 
 
-    "較小的小牛" "對不起……"
+    "較小的小牛" "對不起......"
 
 
 translate Chinese Axel_bullkid_11071646:
@@ -2215,7 +2215,7 @@ translate Chinese Axel_bullkid_11071646:
 translate Chinese Axel_bullkid_d51e48c5:
 
 
-    "較小的小牛" "不要讓我的哥哥走……"
+    "較小的小牛" "不要讓我的哥哥走......"
 
 
 translate Chinese Axel_bullkid_ea66174e:
@@ -2239,7 +2239,7 @@ translate Chinese Axel_bullkid_7c3f24ec:
 translate Chinese Axel_bullkid_146b43b8:
 
 
-    "較小的小牛" "我很抱歉……"
+    "較小的小牛" "我很抱歉......"
 
 
 translate Chinese Axel_bullkid_9b792797:
@@ -2389,7 +2389,7 @@ translate Chinese Axel_bullkid_2f7f4cb0:
 translate Chinese Axel_bullkid_c21f6a66:
 
 
-    e 1 "你的方法很……有風險。"
+    e 1 "你的方法很......有風險。"
 
 
 translate Chinese Axel_bullkid_179f5c6d:
@@ -2852,7 +2852,7 @@ translate Chinese Axel_letter_a64d3c49:
 translate Chinese Axel_letter_e448900c:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Chinese Axel_letter_e3c7e1d7:
@@ -3362,7 +3362,7 @@ translate Chinese Axel_letter_341123f1_1:
 translate Chinese Axel_letter_72e94c19:
 
 
-    a "…"
+    a "..."
 
 
 translate Chinese Axel_letter_ef929461:
@@ -3470,7 +3470,7 @@ translate Chinese Axel_letter_ea3213eb:
 translate Chinese Axel_letter_c54ee461:
 
 
-    t "…"
+    t "..."
 
 
 translate Chinese Axel_letter_58dfdf4a:
@@ -3488,7 +3488,7 @@ translate Chinese Axel_letter_c24ecd92:
 translate Chinese Axel_letter_c54ee461_1:
 
 
-    t "…"
+    t "..."
 
 
 translate Chinese Axel_letter_76ad6374:
@@ -4371,7 +4371,7 @@ translate Chinese Axel_festival_start_153698c0:
 translate Chinese Axel_festival_start_bfd2eea8:
 
 
-    e 1 "哦…"
+    e 1 "哦..."
 
 
 translate Chinese Axel_festival_start_fd6f02f7:
@@ -4491,7 +4491,7 @@ translate Chinese Axel_festival_start_037a8f74:
 translate Chinese Axel_festival_start_62068765:
 
 
-    e 1 "…好吧，他是在酒馆，但他没提过回来的事。"
+    e 1 "...好吧，他是在酒馆，但他没提过回来的事。"
 
 
 translate Chinese Axel_festival_start_d317c08e:
@@ -4545,7 +4545,7 @@ translate Chinese Axel_festival_start_cab8bc02:
 translate Chinese Axel_festival_start_606ddc98:
 
 
-    e 1 "更别提…"
+    e 1 "更别提..."
 
 
 translate Chinese Axel_festival_start_c949f22c:

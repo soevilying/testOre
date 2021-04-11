@@ -1492,7 +1492,7 @@ translate Japanese Selye_letter_ed7934a7:
 translate Japanese Selye_letter_786570b7:
 
 
-    "Look, if we’re going to keep working together… you got to get off your high horse, and start talking to me with some respect."
+    "Look, if we’re going to keep working together... you got to get off your high horse, and start talking to me with some respect."
 
 
 translate Japanese Selye_letter_6f0ea278:
@@ -1558,7 +1558,7 @@ translate Japanese Selye_letter_603a51f3:
 translate Japanese Selye_letter_59bf39f9:
 
 
-    se "Ssssoon, friends turn on another, lovers become sssstrangers, and …"
+    se "Ssssoon, friends turn on another, lovers become sssstrangers, and ..."
 
 
 translate Japanese Selye_letter_8c88450c:
@@ -1612,7 +1612,7 @@ translate Japanese Selye_letter_376af781:
 translate Japanese Selye_letter_92f37a76:
 
 
-    se "Just like a parasite. Eventually, friends turn into enemies, lovers into sssstrangers, and…"
+    se "Just like a parasite. Eventually, friends turn into enemies, lovers into sssstrangers, and..."
 
 
 translate Japanese Selye_letter_bb7eee79:
@@ -1768,7 +1768,7 @@ translate Japanese Selye_letter_deaf6949:
 translate Japanese Selye_letter_b69f6dbb:
 
 
-    se "Hmm… I guess it can’t be helped, my greatness draws all to me."
+    se "Hmm... I guess it can’t be helped, my greatness draws all to me."
 
 
 translate Japanese Selye_letter_ec7379c3:
@@ -1780,7 +1780,7 @@ translate Japanese Selye_letter_ec7379c3:
 translate Japanese Selye_letter_4661ebcd:
 
 
-    e 1 "Ok…?"
+    e 1 "Ok...?"
 
 
 translate Japanese Selye_letter_c91cd682:
@@ -1930,7 +1930,7 @@ translate Japanese Selye_past_8cae73ec:
 translate Japanese Selye_past_bb8bd9b6:
 
 
-    se "Because… one day, out of nowhere another naga appears."
+    se "Because... one day, out of nowhere another naga appears."
 
 
 translate Japanese Selye_past_3a341fe4:
@@ -1942,7 +1942,7 @@ translate Japanese Selye_past_3a341fe4:
 translate Japanese Selye_past_6c02c90b:
 
 
-    se "We took him in, and…"
+    se "We took him in, and..."
 
 
 translate Japanese Selye_past_6fd2eeaa:
@@ -1990,7 +1990,7 @@ translate Japanese Selye_past_a2615ad1:
 translate Japanese Selye_past_8e088b3b:
 
 
-    se "But I could have forgiven all of that, if only… "
+    se "But I could have forgiven all of that, if only... "
 
 
 translate Japanese Selye_past_c2f3ab27:
@@ -2086,7 +2086,7 @@ translate Japanese Selye_past_5a760207:
 translate Japanese Selye_past_c4fdc19a:
 
 
-    e 1 "Are you… are you trying to win your old love back?"
+    e 1 "Are you... are you trying to win your old love back?"
 
 
 translate Japanese Selye_past_03ed2748:

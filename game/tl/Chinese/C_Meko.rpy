@@ -22,13 +22,13 @@ translate Chinese meko_meet_29b923f1:
 translate Chinese meko_meet_68894a76:
 
 
-    "正当你想拿取酒桶离开時，你听见了一个声音……"
+    "正当你想拿取酒桶离开時，你听见了一个声音......"
 
 
 translate Chinese meko_meet_ce617998:
 
 
-    "……"
+    "......"
 
 
 translate Chinese meko_meet_8936dde3:
@@ -46,7 +46,7 @@ translate Chinese meko_meet_612a0e24:
 translate Chinese meko_meet_5e6bbab0:
 
 
-    "？？？" "我的……"
+    "？？？" "我的......"
 
 
 translate Chinese meko_meet_e81f542d:
@@ -58,7 +58,7 @@ translate Chinese meko_meet_e81f542d:
 translate Chinese meko_meet_25aa1fde:
 
 
-    "？？？" "我的……爱……"
+    "？？？" "我的......爱......"
 
 
 translate Chinese meko_meet_a59840a6:
@@ -100,7 +100,7 @@ translate Chinese meko_meet_3a552dca:
 translate Chinese meko_meet_1bc54f41:
 
 
-    e 5 "……"
+    e 5 "......"
 
 
 translate Chinese meko_meet_46b62297:
@@ -166,7 +166,7 @@ translate Chinese meko_meet_4145908b:
 translate Chinese meko_meet_e1da2daf:
 
 
-    "而从白烟中出現的是……一個号角？"
+    "而从白烟中出現的是......一個号角？"
 
 
 translate Chinese meko_meet_8e6b7033:
@@ -184,7 +184,7 @@ translate Chinese meko_meet_3f5d50e8:
 translate Chinese meko_meet_1bc54f41_1:
 
 
-    e 5 "……"
+    e 5 "......"
 
 
 translate Chinese meko_meet_7d50c659:
@@ -220,7 +220,7 @@ translate Chinese meko_meet_4705668f:
 translate Chinese meko_meet_b4409e20:
 
 
-    e 5 "你……你到底是什么东西？"
+    e 5 "你......你到底是什么东西？"
 
 
 translate Chinese meko_meet_48dbaf8e:
@@ -274,7 +274,7 @@ translate Chinese meko_meet_c99c351c:
 translate Chinese meko_meet_cac07454:
 
 
-    m "呣……是我搞錯了嗎？難到你不是我的[name]？"
+    m "呣......是我搞錯了嗎？難到你不是我的[name]？"
 
 
 translate Chinese meko_meet_e4907823:
@@ -532,7 +532,7 @@ translate Chinese meko_talk_103997af:
 translate Chinese meko_talk_6b8ab331:
 
 
-    m "呣……不是這樣，我的人生過的很美滿。"
+    m "呣......不是這樣，我的人生過的很美滿。"
 
 
 translate Chinese meko_talk_4ccd0134:
@@ -742,7 +742,7 @@ translate Chinese meko_talk_c0e54a47:
 translate Chinese meko_talk_c21a6047:
 
 
-    e 12 "……什麼？"
+    e 12 "......什麼？"
 
 
 translate Chinese meko_talk_9cb7f73c:
@@ -814,7 +814,7 @@ translate Chinese meko_talk_ed1eef16:
 translate Chinese meko_talk_1bc54f41:
 
 
-    e 5 "……"
+    e 5 "......"
 
 
 translate Chinese meko_talk_8fdbc405:
@@ -844,7 +844,7 @@ translate Chinese meko_talk_26f03922:
 translate Chinese meko_talk_17412269:
 
 
-    e 13 "……"
+    e 13 "......"
 
 
 translate Chinese meko_talk_adf1ee20:
@@ -874,7 +874,7 @@ translate Chinese meko_talk_fe70b0b0:
 translate Chinese meko_talk_cdb2747f:
 
 
-    e 1 "你……最好就乖乖躲起來。"
+    e 1 "你......最好就乖乖躲起來。"
 
 
 translate Chinese meko_talk_6459aa0b:
@@ -1078,7 +1078,7 @@ translate Chinese meko_talk_7107568e:
 translate Chinese meko_talk_7130a067:
 
 
-    m "我死於……心碎。"
+    m "我死於......心碎。"
 
 
 translate Chinese meko_talk_8e7897e0:
@@ -1096,7 +1096,7 @@ translate Chinese meko_talk_9d15045a:
 translate Chinese meko_talk_4a1799d7:
 
 
-    e 9 "呃……"
+    e 9 "呃......"
 
 
 translate Chinese meko_talk_27a705a5:
@@ -1168,7 +1168,7 @@ translate Chinese meko_talk_e434f523:
 translate Chinese meko_talk_fecdd02d:
 
 
-    m "嗯……[name]，這聽起來很困擾。"
+    m "嗯......[name]，這聽起來很困擾。"
 
 
 translate Chinese meko_talk_b3b899cb:
@@ -1258,7 +1258,7 @@ translate Chinese meko_talk_256bf9da:
 translate Chinese meko_talk_e448900c:
 
 
-    e 1 "……"
+    e 1 "......"
 
 
 translate Chinese meko_talk_30bcb352:
@@ -1282,7 +1282,7 @@ translate Chinese meko_talk_218f9d6d:
 translate Chinese meko_talk_486070b6:
 
 
-    e 13 "我只是……"
+    e 13 "我只是......"
 
 
 translate Chinese meko_talk_cc6432c5:
@@ -1312,7 +1312,7 @@ translate Chinese meko_talk_c27f0a9b:
 translate Chinese meko_talk_7e304eee:
 
 
-    m "哦……"
+    m "哦......"
 
 
 translate Chinese meko_talk_3588b1e2:
@@ -1324,7 +1324,7 @@ translate Chinese meko_talk_3588b1e2:
 translate Chinese meko_talk_e612037c:
 
 
-    m "……"
+    m "......"
 
 
 translate Chinese meko_talk_4b48fdea:
@@ -1336,7 +1336,7 @@ translate Chinese meko_talk_4b48fdea:
 translate Chinese meko_talk_a63c3ba5:
 
 
-    m "抱歉……我剛剛陷入了沉思。"
+    m "抱歉......我剛剛陷入了沉思。"
 
 
 translate Chinese meko_talk_333f9bab:
@@ -1540,13 +1540,13 @@ translate Chinese meko_talk_7ac4ffce:
 translate Chinese meko_talk_b07a2408:
 
 
-    e 5 "Meko……你怎麼突然變的那麼不正經的？"
+    e 5 "Meko......你怎麼突然變的那麼不正經的？"
 
 
 translate Chinese meko_talk_ef7a9ef0:
 
 
-    m "如果我能待在一個好點的房間……"
+    m "如果我能待在一個好點的房間......"
 
 
 translate Chinese meko_talk_a43a3adb:
@@ -1606,7 +1606,7 @@ translate Chinese meko_talk_4d2d55aa:
 translate Chinese meko_talk_e448900c_1:
 
 
-    e 1 "……"
+    e 1 "......"
 
 
 translate Chinese meko_talk_568b73cb:
@@ -1732,7 +1732,7 @@ translate Chinese meko_talk_fbf211ad:
 translate Chinese meko_talk_fe4021d1:
 
 
-    e 1 "這真是個……很爛的名字。"
+    e 1 "這真是個......很爛的名字。"
 
 
 translate Chinese meko_talk_31e479e5:
@@ -1949,7 +1949,7 @@ translate Chinese meko_meet_7626543b:
 translate Chinese meko_meet_e448900c:
 
 
-    e 1 "……"
+    e 1 "......"
 
 
 translate Chinese meko_meet_d42e325b:
@@ -2075,7 +2075,7 @@ translate Chinese meko_meet_8b9b139c:
 translate Chinese meko_meet_9c28acde:
 
 
-    e 13 "Meko……"
+    e 13 "Meko......"
 
 
 translate Chinese meko_meet_38874c98:
@@ -2195,7 +2195,7 @@ translate Chinese meko_talk_74cbd812:
 translate Chinese meko_talk_ff2a1a15:
 
 
-    e 1 "好……"
+    e 1 "好......"
 
 
 translate Chinese meko_talk_56b820c9:
@@ -2249,7 +2249,7 @@ translate Chinese meko_talk_f1eef3ee:
 translate Chinese meko_talk_e6cb0e79:
 
 
-    e 1 "我……不，我不知道。"
+    e 1 "我......不，我不知道。"
 
 
 translate Chinese meko_talk_a9f14cf7:
@@ -2852,7 +2852,7 @@ translate Chinese meko_talk_f874fc4b:
 translate Chinese meko_talk_9c28acde:
 
 
-    e 13 "Meko…"
+    e 13 "Meko..."
 
 
 translate Chinese meko_talk_f8e6239c:
@@ -3056,7 +3056,7 @@ translate Chinese meko_talk_8fd4fae7:
 translate Chinese meko_talk_f96a7043:
 
 
-    e 1 "是的呢… "
+    e 1 "是的呢... "
 
 
 translate Chinese meko_talk_0ea5f38e:
@@ -3512,7 +3512,7 @@ translate Chinese meko_talk_horn_fe70b0b0:
 translate Chinese meko_talk_horn_cdb2747f:
 
 
-    e 1 "你……你最好保持隐蔽。"
+    e 1 "你......你最好保持隐蔽。"
 
 
 translate Chinese meko_talk_horn_6459aa0b:
@@ -3716,7 +3716,7 @@ translate Chinese meko_talk_horn_7107568e:
 translate Chinese meko_talk_horn_7130a067:
 
 
-    m "我死于…心碎。"
+    m "我死于...心碎。"
 
 
 translate Chinese meko_talk_horn_8e7897e0:
@@ -3734,7 +3734,7 @@ translate Chinese meko_talk_horn_9d15045a:
 translate Chinese meko_talk_horn_4a1799d7:
 
 
-    e 9 "呃…"
+    e 9 "呃..."
 
 
 translate Chinese meko_talk_horn_27a705a5:
@@ -3896,7 +3896,7 @@ translate Chinese meko_talk_horn_256bf9da:
 translate Chinese meko_talk_horn_e448900c:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Chinese meko_talk_horn_30bcb352:
@@ -3920,7 +3920,7 @@ translate Chinese meko_talk_horn_218f9d6d:
 translate Chinese meko_talk_horn_486070b6:
 
 
-    e 13 "只是…"
+    e 13 "只是..."
 
 
 translate Chinese meko_talk_horn_cc6432c5:
@@ -3950,7 +3950,7 @@ translate Chinese meko_talk_horn_c27f0a9b:
 translate Chinese meko_talk_horn_7e304eee:
 
 
-    m "哦…"
+    m "哦..."
 
 
 translate Chinese meko_talk_horn_3588b1e2:
@@ -3974,7 +3974,7 @@ translate Chinese meko_talk_horn_4b48fdea:
 translate Chinese meko_talk_horn_a63c3ba5:
 
 
-    m "抱歉…我刚刚陷入了沉思。"
+    m "抱歉...我刚刚陷入了沉思。"
 
 
 translate Chinese meko_talk_horn_333f9bab:
@@ -4016,7 +4016,7 @@ translate Chinese meko_talk_horn_74cbd812:
 translate Chinese meko_talk_horn_ff2a1a15:
 
 
-    e 1 "Ok…"
+    e 1 "Ok..."
 
 
 translate Chinese meko_talk_horn_56b820c9:
@@ -4544,13 +4544,13 @@ translate Chinese meko_talk_horn_7ac4ffce:
 translate Chinese meko_talk_horn_b07a2408:
 
 
-    e 5 "Meko……你怎麼突然變的那麼不正經的？"
+    e 5 "Meko......你怎麼突然變的那麼不正經的？"
 
 
 translate Chinese meko_talk_horn_ef7a9ef0:
 
 
-    m "如果我能待在一個好點的房間……"
+    m "如果我能待在一個好點的房間......"
 
 
 translate Chinese meko_talk_horn_a43a3adb:
@@ -4610,7 +4610,7 @@ translate Chinese meko_talk_horn_4d2d55aa:
 translate Chinese meko_talk_horn_e448900c_1:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Chinese meko_talk_horn_568b73cb:
@@ -4736,7 +4736,7 @@ translate Chinese meko_talk_horn_fbf211ad:
 translate Chinese meko_talk_horn_fe4021d1:
 
 
-    e 1 "這真是個……很爛的名字。"
+    e 1 "這真是個......很爛的名字。"
 
 
 translate Chinese meko_talk_horn_31e479e5:

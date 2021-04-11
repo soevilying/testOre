@@ -364,7 +364,7 @@ translate Russian battle_knight_win_3a067d67:
 translate Russian battle_knight_win_a265d94f:
 
 
-    asm "“Your highnesses…”"
+    asm "“Your highnesses...”"
 
 
 translate Russian battle_knight_win_dbbb3f7a:

@@ -214,7 +214,7 @@ translate Thai battle_1_win_e6c13389:
 translate Thai battle_1_lose_60b6ea6e:
 
 
-    e 5 " He’s too strong… what is this power?"
+    e 5 " He’s too strong... what is this power?"
 
 
 translate Thai battle_1_lose_7fd02b22:

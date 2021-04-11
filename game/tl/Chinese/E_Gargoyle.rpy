@@ -992,7 +992,7 @@ translate Chinese battle_gargoyle_loop_99f7b922:
 translate Chinese battle_gargoyle_loop_f95a7db3:
 
 
-    "Gargoyle" "你赢了…你…强大……给予……怜悯……给予……热量。"
+    "Gargoyle" "你赢了...你...强大......给予......怜悯......给予......热量。"
 
 
 translate Chinese battle_gargoyle_loop_da6d5ac1:
@@ -1340,7 +1340,7 @@ translate Chinese battle_gargoyle_sex_8970dae9:
 translate Chinese battle_gargoyle_sex_aff27e19:
 
 
-    "Gargoyle" "是的…更多，温暖."
+    "Gargoyle" "是的...更多，温暖."
 
 
 translate Chinese battle_gargoyle_sex_2a5cc79e:
@@ -1370,7 +1370,7 @@ translate Chinese battle_gargoyle_sex_5affe14a:
 translate Chinese battle_gargoyle_sex_645733d7:
 
 
-    "Gargoyle" "更多温暖…好… 我喜欢温暖."
+    "Gargoyle" "更多温暖...好... 我喜欢温暖."
 
 
 translate Chinese battle_gargoyle_sex_4266b53e:
@@ -1394,7 +1394,7 @@ translate Chinese battle_gargoyle_sex_0a583ad1:
 translate Chinese battle_gargoyle_sex_4c5311f6:
 
 
-    "Gargoyle" "干…给我…温暖的肉棒!"
+    "Gargoyle" "干...给我...温暖的肉棒!"
 
 
 translate Chinese battle_gargoyle_sex_b780dfd5:
@@ -1430,7 +1430,7 @@ translate Chinese battle_gargoyle_sex_6a597025:
 translate Chinese battle_gargoyle_sex_a1707d5a:
 
 
-    "Gargoyle" "咕…好大!"
+    "Gargoyle" "咕...好大!"
 
 
 translate Chinese battle_gargoyle_sex_649b06dc:
@@ -1646,7 +1646,7 @@ translate Chinese battle_gargoyle_sex_fd642b40:
 translate Chinese battle_gargoyle_sex_211e8985:
 
 
-    "Gargoyle" "温暖…"
+    "Gargoyle" "温暖..."
 
 
 translate Chinese battle_gargoyle_sex_adbaedb1:
@@ -1861,7 +1861,7 @@ translate Chinese battle_gargoyle_sex0_99f7b922:
 translate Chinese battle_gargoyle_sex0_f95a7db3:
 
 
-    "Gargoyle" "You win… you...stronger… give… mercy… give… heat."
+    "Gargoyle" "You win... you...stronger... give... mercy... give... heat."
 
 
 translate Chinese battle_gargoyle_sex0_da6d5ac1:

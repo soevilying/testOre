@@ -166,7 +166,7 @@ translate Thai Bread_meet_0612ae20:
 translate Thai Bread_meet_056e0604:
 
 
-    b "Dead?… No!"
+    b "Dead?... No!"
 
 
 translate Thai Bread_meet_cba5027b:
@@ -556,7 +556,7 @@ translate Thai battle_bread_win_498a8ec9:
 translate Thai battle_bread_win_7dc9b1fe:
 
 
-    e 1 "Err… are you ok?"
+    e 1 "Err... are you ok?"
 
 
 translate Thai battle_bread_win_3512255f:
@@ -628,7 +628,7 @@ translate Thai battle_bread_win_ddd27bd1:
 translate Thai battle_bread_win_07e5c77e:
 
 
-    b "Ughh…"
+    b "Ughh..."
 
 
 translate Thai battle_bread_win_c423cd91:
@@ -646,7 +646,7 @@ translate Thai battle_bread_win_b307663d:
 translate Thai battle_bread_win_8dcf28d2:
 
 
-    b "Ughh… what happened? Where’s… my mace?"
+    b "Ughh... what happened? Where’s... my mace?"
 
 
 translate Thai battle_bread_win_4050a249:
@@ -688,7 +688,7 @@ translate Thai battle_bread_win_1c1bf2ea:
 translate Thai battle_bread_win_7f5b3034:
 
 
-    b "That's…."
+    b "That's...."
 
 
 translate Thai battle_bread_win_4c59193d:
@@ -766,7 +766,7 @@ translate Thai battle_bread_win_f09e54ff:
 translate Thai battle_bread_win_b046e4c5:
 
 
-    e 13 "Right… Look, Bread I need you to really listen to me."
+    e 13 "Right... Look, Bread I need you to really listen to me."
 
 
 translate Thai battle_bread_win_ee12889c:
@@ -850,7 +850,7 @@ translate Thai battle_bread_win_414b4e44:
 translate Thai battle_bread_win_ba7effc2:
 
 
-    b "No… this can’t be real."
+    b "No... this can’t be real."
 
 
 translate Thai battle_bread_win_26afc5fd:
@@ -1054,7 +1054,7 @@ translate Thai Bread_map_start_e3a8ae1e:
 translate Thai Bread_map_start_8842e641:
 
 
-    b "…"
+    b "..."
 
 
 translate Thai Bread_map_start_12be643e:
@@ -1096,7 +1096,7 @@ translate Thai Bread_map_start_c1c9f387:
 translate Thai Bread_map_start_91e8353e:
 
 
-    b "I really am stupid. I thought I could find this treasure all on my own then… at least maybe that would make the captain happy in the afterlife."
+    b "I really am stupid. I thought I could find this treasure all on my own then... at least maybe that would make the captain happy in the afterlife."
 
 
 translate Thai Bread_map_start_f93d5fb4:
@@ -1432,7 +1432,7 @@ translate Thai Bread_map_start_e70265dc:
 translate Thai Bread_map_start_d56d5599:
 
 
-    b "Err… can I stay here instead Master?"
+    b "Err... can I stay here instead Master?"
 
 
 translate Thai Bread_map_start_8bbfaa68:
@@ -1558,7 +1558,7 @@ translate Thai Bread_map_start_2f04888f:
 translate Thai Bread_map_start_80bad539:
 
 
-    b "And I doubt that’s possible now…"
+    b "And I doubt that’s possible now..."
 
 
 translate Thai Bread_map_start_7d91dc94:
@@ -1666,7 +1666,7 @@ translate Thai Bread_map_start_57bb6f23:
 translate Thai Bread_map_start_0c7fe101:
 
 
-    e 1 "Bread…"
+    e 1 "Bread..."
 
 
 translate Thai Bread_map_start_386a4d17_1:
@@ -1750,7 +1750,7 @@ translate Thai Bread_talk_84be1d0e:
 translate Thai Bread_talk_bfa8cb70:
 
 
-    b "Hmm…"
+    b "Hmm..."
 
 
 translate Thai Bread_talk_21d4ea86:
@@ -1804,7 +1804,7 @@ translate Thai Bread_talk_c4cfd2e8:
 translate Thai Bread_talk_b166318c:
 
 
-    e 1 "Ah… So, did you enjoy it?"
+    e 1 "Ah... So, did you enjoy it?"
 
 
 translate Thai Bread_talk_a6a65e65:
@@ -1834,7 +1834,7 @@ translate Thai Bread_talk_6d0ed88c:
 translate Thai Bread_talk_d15453a0:
 
 
-    b "I don’t know… But it was really good. Ugh, no I got to control myself."
+    b "I don’t know... But it was really good. Ugh, no I got to control myself."
 
 
 translate Thai Bread_talk_c697d09a:
@@ -1912,7 +1912,7 @@ translate Thai Bread_talk_072d8a33:
 translate Thai Bread_talk_66bb4243:
 
 
-    b "That… and I won’t be able to fit in."
+    b "That... and I won’t be able to fit in."
 
 
 translate Thai Bread_talk_9e045a37:

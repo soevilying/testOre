@@ -161,7 +161,7 @@ label courtyard_painting_world:
             "Despite his tattered clothes his stature is imposing and monolithic. "
             "Your eyes are drawn to the cerulean blue stripes on his forearms."
             "Their shine reminds you of the stars set against the dark backdrop of his scales."
-            "Dragon" "…"
+            "Dragon" "..."
             e 5 "What? Who are you? Where is this?"
             "Dragon" "You do not belong here, traveller."
             hide long stand at center with dissolve
@@ -197,7 +197,7 @@ label courtyard_painting_world:
             "The dragon sips his tea."
             "When he places his cup down, another identical one appears across from him."
             "Dragon" "Have a seat. Words go down smoother with a cup of tea."
-            e 1 "Umm… ok."
+            e 1 "Umm... ok."
             "You sit across from the dragon."
             "Dragon" "Today’s tea is a rarity."
             "Dragon" "The flower of the plant this tea is made from is said to bloom under moonlight once every eight months. "
@@ -223,7 +223,7 @@ label courtyard_painting_world:
                     "Dragon" "Names are powerful things in this world."
                     show long stand at center with dissolve
                     "Dragon" "And I am just a nameless prisoner."
-                    e 1 "…"
+                    e 1 "..."
                     e 5 "(Wait, when did I give him my name?)"
                     jump courtyard_painting_world_talk
                 "Where is this?" if True:

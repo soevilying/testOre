@@ -520,7 +520,7 @@ translate Chinese Parif_meet_645b5b15:
 translate Chinese Parif_meet_0ceb1df9:
 
 
-    s "An… {size=-12}笨蛋三明治...{/size}"
+    s "An... {size=-12}笨蛋三明治...{/size}"
 
 
 translate Chinese Parif_meet_ac06e977:

@@ -28,7 +28,7 @@ translate Russian meko_meet_68894a76:
 translate Russian meko_meet_ce617998:
 
 
-    "…"
+    "..."
 
 
 translate Russian meko_meet_8936dde3:
@@ -568,7 +568,7 @@ translate Russian meko_meet_7626543b:
 translate Russian meko_meet_e448900c:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Russian meko_meet_d42e325b:
@@ -694,7 +694,7 @@ translate Russian meko_meet_8b9b139c:
 translate Russian meko_meet_9c28acde:
 
 
-    e 13 "Meko…"
+    e 13 "Meko..."
 
 
 translate Russian meko_meet_38874c98:
@@ -898,7 +898,7 @@ translate Russian meko_talk_761134de:
 translate Russian meko_talk_8ee007a5:
 
 
-    m "Hmm… no, just some residue."
+    m "Hmm... no, just some residue."
 
 
 translate Russian meko_talk_0c0adb03:
@@ -1030,7 +1030,7 @@ translate Russian meko_talk_f874fc4b:
 translate Russian meko_talk_9c28acde:
 
 
-    e 13 "Meko…"
+    e 13 "Meko..."
 
 
 translate Russian meko_talk_f8e6239c:
@@ -1234,7 +1234,7 @@ translate Russian meko_talk_8fd4fae7:
 translate Russian meko_talk_f96a7043:
 
 
-    e 1 "Yeah… "
+    e 1 "Yeah... "
 
 
 translate Russian meko_talk_0ea5f38e:
@@ -1348,7 +1348,7 @@ translate Russian meko_talk_horn_103997af:
 translate Russian meko_talk_horn_6b8ab331:
 
 
-    m "Hmm… not really. I lived a pretty fulfilling life."
+    m "Hmm... not really. I lived a pretty fulfilling life."
 
 
 translate Russian meko_talk_horn_4ccd0134:
@@ -1894,7 +1894,7 @@ translate Russian meko_talk_horn_7107568e:
 translate Russian meko_talk_horn_7130a067:
 
 
-    m "I died… because of a broken heart."
+    m "I died... because of a broken heart."
 
 
 translate Russian meko_talk_horn_8e7897e0:
@@ -1912,7 +1912,7 @@ translate Russian meko_talk_horn_9d15045a:
 translate Russian meko_talk_horn_4a1799d7:
 
 
-    e 9 "Err…"
+    e 9 "Err..."
 
 
 translate Russian meko_talk_horn_27a705a5:
@@ -1984,7 +1984,7 @@ translate Russian meko_talk_horn_e434f523:
 translate Russian meko_talk_horn_fecdd02d:
 
 
-    m "Hmm… this is most troubling to hear [name]."
+    m "Hmm... this is most troubling to hear [name]."
 
 
 translate Russian meko_talk_horn_b3b899cb:
@@ -2074,7 +2074,7 @@ translate Russian meko_talk_horn_256bf9da:
 translate Russian meko_talk_horn_e448900c:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Russian meko_talk_horn_30bcb352:
@@ -2098,7 +2098,7 @@ translate Russian meko_talk_horn_218f9d6d:
 translate Russian meko_talk_horn_486070b6:
 
 
-    e 13 "It’s just…"
+    e 13 "It’s just..."
 
 
 translate Russian meko_talk_horn_cc6432c5:
@@ -2128,7 +2128,7 @@ translate Russian meko_talk_horn_c27f0a9b:
 translate Russian meko_talk_horn_7e304eee:
 
 
-    m "Oh…"
+    m "Oh..."
 
 
 translate Russian meko_talk_horn_3588b1e2:
@@ -2152,7 +2152,7 @@ translate Russian meko_talk_horn_4b48fdea:
 translate Russian meko_talk_horn_a63c3ba5:
 
 
-    m "Sorry… I was lost in thought."
+    m "Sorry... I was lost in thought."
 
 
 translate Russian meko_talk_horn_333f9bab:
@@ -2194,7 +2194,7 @@ translate Russian meko_talk_horn_74cbd812:
 translate Russian meko_talk_horn_ff2a1a15:
 
 
-    e 1 "Ok…"
+    e 1 "Ok..."
 
 
 translate Russian meko_talk_horn_56b820c9:
@@ -2248,7 +2248,7 @@ translate Russian meko_talk_horn_f1eef3ee:
 translate Russian meko_talk_horn_e6cb0e79:
 
 
-    e 1 "I… no, I don’t know."
+    e 1 "I... no, I don’t know."
 
 
 translate Russian meko_talk_horn_a9f14cf7:
@@ -2602,7 +2602,7 @@ translate Russian meko_talk_horn_e77fa15b:
 translate Russian meko_talk_horn_eeaf6503:
 
 
-    m "He would make mentions of, “The plan is set…”, “We’ll get out of here soon…” or “It’s dangerous to go alone…”"
+    m "He would make mentions of, “The plan is set...”, “We’ll get out of here soon...” or “It’s dangerous to go alone...”"
 
 
 translate Russian meko_talk_horn_ce23fbf8:
@@ -2728,7 +2728,7 @@ translate Russian meko_talk_horn_b07a2408:
 translate Russian meko_talk_horn_ef7a9ef0:
 
 
-    m "Well maybe if I had a nice room to be in…"
+    m "Well maybe if I had a nice room to be in..."
 
 
 translate Russian meko_talk_horn_a43a3adb:
@@ -2788,7 +2788,7 @@ translate Russian meko_talk_horn_4d2d55aa:
 translate Russian meko_talk_horn_e448900c_1:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Russian meko_talk_horn_568b73cb:
@@ -2914,7 +2914,7 @@ translate Russian meko_talk_horn_fbf211ad:
 translate Russian meko_talk_horn_fe4021d1:
 
 
-    e 1 "That's… a pretty lame name."
+    e 1 "That's... a pretty lame name."
 
 
 translate Russian meko_talk_horn_31e479e5:

@@ -508,7 +508,7 @@ translate Chinese Cave_map_8fee23f4:
 translate Chinese Cave_map_286f923c:
 
 
-    e 5 "…我不知道为什么，但他们肯定非常危险。"
+    e 5 "...我不知道为什么，但他们肯定非常危险。"
 
 
 translate Chinese Cave_map_138dcb48:
@@ -568,7 +568,7 @@ translate Chinese Cave_map_8fee23f4_1:
 translate Chinese Cave_map_286f923c_1:
 
 
-    e 5 "…我不知道为什么，但他们肯定非常危险。"
+    e 5 "...我不知道为什么，但他们肯定非常危险。"
 
 
 translate Chinese Cave_map_138dcb48_1:
@@ -592,7 +592,7 @@ translate Chinese Cave_map_40a4c264_1:
 translate Chinese Cave_map_b0dc7a2b:
 
 
-    "…那东西还在这里。"
+    "...那东西还在这里。"
 
 
 translate Chinese Cave_map_40a4c264_2:
@@ -736,7 +736,7 @@ translate Chinese Cave_map_1a9efec9:
 translate Chinese Cave_map_41919366:
 
 
-    e 1 "我想知道另一边是什么……"
+    e 1 "我想知道另一边是什么......"
 
 
 translate Chinese Cave_map_8b0f1ba9:
@@ -928,7 +928,7 @@ translate Chinese Cave_map_40a4c264_4:
 translate Chinese Cave_map_658be844:
 
 
-    e 5 "这是……"
+    e 5 "这是......"
 
 
 translate Chinese Cave_map_1f6625e6:
@@ -1204,7 +1204,7 @@ translate Chinese Cave_ferryman_e690edb2_1:
 translate Chinese Cave_ferryman_0ec726e6:
 
 
-    "你的圣拳正好落在船夫的脸上……"
+    "你的圣拳正好落在船夫的脸上......"
 
 
 translate Chinese Cave_ferryman_9cbf006b_1:
@@ -2016,7 +2016,7 @@ translate Chinese Cave_map_a597a486:
 translate Chinese Cave_map_ec20ca88:
 
 
-    b "Nana…"
+    b "Nana..."
 
 
 translate Chinese Cave_map_17d16e14:

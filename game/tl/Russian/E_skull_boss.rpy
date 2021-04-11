@@ -358,7 +358,7 @@ translate Russian battle_skull_boss_lose_298afa60:
 translate Russian battle_skull_boss_lose_544646cd:
 
 
-    "You hear something break… was it your ribs?"
+    "You hear something break... was it your ribs?"
 
 
 translate Russian battle_skull_boss_lose_34c61369:
@@ -412,13 +412,13 @@ translate Russian battle_skull_boss_lose_74d75e0d:
 translate Russian battle_skull_boss_lose_1ff8ac24:
 
 
-    "Everything’s just{w} fading away…"
+    "Everything’s just{w} fading away..."
 
 
 translate Russian battle_skull_boss_lose_952ca450:
 
 
-    "Not like this…"
+    "Not like this..."
 
 
 translate Russian battle_skull_boss_lose_8131f025:

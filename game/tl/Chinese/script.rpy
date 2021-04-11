@@ -154,13 +154,13 @@ translate Chinese start_1_65051b49:
 translate Chinese start_1_16525a5c:
 
 
-    "这束光…"
+    "这束光..."
 
 
 translate Chinese start_1_1ab3878f:
 
 
-    "好像有点熟悉…"
+    "好像有点熟悉..."
 
 
 translate Chinese start_1_5f9b772e_1:
@@ -286,7 +286,7 @@ translate Chinese start_1_20c490b5:
 translate Chinese start_1_00cdcf44:
 
 
-    e 5 "等等…老爹?"
+    e 5 "等等...老爹?"
 
 
 translate Chinese start_1_3813ed9c:
@@ -358,7 +358,7 @@ translate Chinese start_1_9d381d48:
 translate Chinese start_1_ba97eb90:
 
 
-    e 6 "老爹……爸，你说你是酒保是什么意思?"
+    e 6 "老爹......爸，你说你是酒保是什么意思?"
 
 
 translate Chinese start_1_76dfaf79:
@@ -838,7 +838,7 @@ translate Chinese map0_c9e63b75:
 translate Chinese map0_7d067f8d:
 
 
-    e 1 "就像某种巨大的野兽，而且他头上有个头骨…"
+    e 1 "就像某种巨大的野兽，而且他头上有个头骨..."
 
 
 translate Chinese map0_03bdaccc:
@@ -856,7 +856,7 @@ translate Chinese map0_cdeed70c:
 translate Chinese map0_bb1eb60e:
 
 
-    s "…真奇怪，这些怪物从来没有离酒馆这么近过。"
+    s "...真奇怪，这些怪物从来没有离酒馆这么近过。"
 
 
 translate Chinese map0_c66ff923:
@@ -1390,7 +1390,7 @@ translate Chinese map1_db353af3:
 translate Chinese map1_5049a03c:
 
 
-    h "你太慢了……"
+    h "你太慢了......"
 
 
 translate Chinese map1_75dadc09:
@@ -1546,7 +1546,7 @@ translate Chinese map1_3189f03c:
 translate Chinese map1_ab20e13d:
 
 
-    s "P.D…是Pierce Dagon吗?"
+    s "P.D...是Pierce Dagon吗?"
 
 
 translate Chinese map1_e4788133:
@@ -1642,7 +1642,7 @@ translate Chinese map1_01868959:
 translate Chinese map1_5929cf7b:
 
 
-    e 1 "所以，这个徽章，是……"
+    e 1 "所以，这个徽章，是......"
 
 
 translate Chinese map1_7c99c57e:
@@ -2045,7 +2045,7 @@ translate Chinese map1_453beb71:
 translate Chinese map1_2e283fa3:
 
 
-    e 10 "ç«çƒ­ä¹Ÿå¦‚ä¹Ÿè¦è±†è…å¹²å¤§èŒƒç”˜è¿ªé«˜é£å‰²è±†è…å¹²è±†è…å¹²å¤§èŒƒç”˜è¿ªè­¦æ–¹ç»è¿‡è­¦æ–¹."
+    e 10 "ç«çƒ­ä¹Ÿå¦‚ä¹Ÿè¦è±†è...å¹²å¤§èŒƒç”˜è¿ªé«˜é£å‰²è±†è...å¹²è±†è...å¹²å¤§èŒƒç”˜è¿ªè­¦æ–¹ç»è¿‡è­¦æ–¹."
 
 
 translate Chinese map1_18205625:
@@ -2390,7 +2390,7 @@ translate Chinese map1_d82dc15b:
 translate Chinese map1_7efd280e:
 
 
-    e 1 "Mmm…"
+    e 1 "Mmm..."
 
 
 translate Chinese map1_8a604763:

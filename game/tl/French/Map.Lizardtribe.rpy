@@ -586,7 +586,7 @@ translate French Room4_b330a84b:
 translate French Room4_507deefc:
 
 
-    e 11 "Ugh, I can’t… I can’t hold it in anymore."
+    e 11 "Ugh, I can’t... I can’t hold it in anymore."
 
 
 translate French Room4_8f87b139:
@@ -622,7 +622,7 @@ translate French Room4_432fc67b:
 translate French Room4_cf4f85fc:
 
 
-    "Your balls… your balls feels so full."
+    "Your balls... your balls feels so full."
 
 
 translate French Room4_8da061e7:
@@ -634,7 +634,7 @@ translate French Room4_8da061e7:
 translate French Room4_52c5aa35:
 
 
-    e 11 "Hngh…"
+    e 11 "Hngh..."
 
 
 translate French Room4_dacd1d68:
@@ -694,7 +694,7 @@ translate French Room4_dd72ff9f:
 translate French Room4_bc8c1bbf:
 
 
-    "You pant louder and louder until…"
+    "You pant louder and louder until..."
 
 
 translate French Room4_862c2694:

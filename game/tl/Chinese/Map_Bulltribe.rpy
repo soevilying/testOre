@@ -460,7 +460,7 @@ translate Chinese Bull_tribe_map_a5bc6e8e:
 translate Chinese Bull_tribe_map_631f588f:
 
 
-    e 9 "我…"
+    e 9 "我..."
 
 
 translate Chinese Bull_tribe_map_ad98d103:
@@ -490,7 +490,7 @@ translate Chinese Bull_tribe_map_0d0a5b5f:
 translate Chinese Bull_tribe_map_d8d3541b:
 
 
-    e 13 "我…我接受。"
+    e 13 "我...我接受。"
 
 
 translate Chinese Bull_tribe_map_83c601e8:
@@ -790,7 +790,7 @@ translate Chinese Bull_tribe_map_da8c4eb0:
 translate Chinese Bull_tribe_map_41f00a20:
 
 
-    e 13 "谢谢……"
+    e 13 "谢谢......"
 
 
 translate Chinese Bull_tribe_map_12101e07:
@@ -1108,7 +1108,7 @@ translate Chinese Bull_tribe_map_ce9a4178:
 translate Chinese Bull_tribe_map_f9e02336:
 
 
-    a "不过既然我今天心情好，就勉强让你通过吧……"
+    a "不过既然我今天心情好，就勉强让你通过吧......"
 
 
 translate Chinese Bull_tribe_map_ee1d96fe:
@@ -1804,7 +1804,7 @@ translate Chinese Room3_b330a84b:
 translate Chinese Room3_507deefc:
 
 
-    e 11 "呃，我…我忍不住了。"
+    e 11 "呃，我...我忍不住了。"
 
 
 translate Chinese Room3_8f87b139:
@@ -1840,7 +1840,7 @@ translate Chinese Room3_432fc67b:
 translate Chinese Room3_cf4f85fc:
 
 
-    "你的蛋…你的蛋蛋饱满的似乎要爆开。"
+    "你的蛋...你的蛋蛋饱满的似乎要爆开。"
 
 
 translate Chinese Room3_8da061e7:
@@ -1852,7 +1852,7 @@ translate Chinese Room3_8da061e7:
 translate Chinese Room3_52c5aa35:
 
 
-    e 11 "啊…"
+    e 11 "啊..."
 
 
 translate Chinese Room3_dacd1d68:
@@ -2341,7 +2341,7 @@ translate Chinese bull_lick_3fe982e7:
 translate Chinese bull_lick_37a82873:
 
 
-    "Drunk Bull" "是的…吮吸它…"
+    "Drunk Bull" "是的...吮吸它..."
 
 
 translate Chinese bull_lick_6f2cc0df:
@@ -2521,7 +2521,7 @@ translate Chinese bull_lick_0462d053:
 translate Chinese bull_lick_78b45a89:
 
 
-    "Drunk bull" "啊…! !"
+    "Drunk bull" "啊...! !"
 
 
 translate Chinese bull_lick_edb5c043:

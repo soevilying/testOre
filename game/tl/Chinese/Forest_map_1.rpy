@@ -2627,7 +2627,7 @@ translate Chinese lake_bank_menu_a9788cd3:
 translate Chinese lake_bank_menu_9bf002c7:
 
 
-    "哦. .它不是鱼……"
+    "哦. .它不是鱼......"
 
 
 translate Chinese lake_bank_menu_b216ff24:
@@ -2639,7 +2639,7 @@ translate Chinese lake_bank_menu_b216ff24:
 translate Chinese lake_bank_menu_9bf002c7_1:
 
 
-    "哦. .它不是鱼……"
+    "哦. .它不是鱼......"
 
 
 translate Chinese lake_bank_menu_7521ee6e:
@@ -2651,7 +2651,7 @@ translate Chinese lake_bank_menu_7521ee6e:
 translate Chinese lake_bank_menu_9bf002c7_2:
 
 
-    "哦. .它不是鱼……"
+    "哦. .它不是鱼......"
 
 
 translate Chinese lake_bank_menu_e988afc0:
@@ -2681,7 +2681,7 @@ translate Chinese bullforest_7e222d3a:
 translate Chinese bullforest_17d29ae3:
 
 
-    e 5 "这是一只…卡托斯吗?"
+    e 5 "这是一只...卡托斯吗?"
 
 
 translate Chinese bullforest_97d3e998:

@@ -177,7 +177,7 @@ translate Chinese Room1_b330a84b:
 translate Chinese Room1_507deefc:
 
 
-    e 11 "呃，我…我忍不住了。"
+    e 11 "呃，我...我忍不住了。"
 
 
 translate Chinese Room1_8f87b139:
@@ -213,7 +213,7 @@ translate Chinese Room1_432fc67b:
 translate Chinese Room1_cf4f85fc:
 
 
-    "你的蛋…你的蛋蛋饱满的似乎要爆开。"
+    "你的蛋...你的蛋蛋饱满的似乎要爆开。"
 
 
 translate Chinese Room1_8da061e7:
@@ -225,7 +225,7 @@ translate Chinese Room1_8da061e7:
 translate Chinese Room1_52c5aa35:
 
 
-    e 11 "啊…"
+    e 11 "啊..."
 
 
 translate Chinese Room1_dacd1d68:
@@ -579,7 +579,7 @@ translate Chinese Room1_dream_93bed78a:
 translate Chinese Room1_dream_a4dc4bb4:
 
 
-    e 9 "这个梦…实在是太可怕了。"
+    e 9 "这个梦...实在是太可怕了。"
 
 
 translate Chinese Room1_dream_bfbb722a:

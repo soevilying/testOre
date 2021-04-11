@@ -166,7 +166,7 @@ translate Russian battle_gargoyle_sex0_99f7b922:
 translate Russian battle_gargoyle_sex0_f95a7db3:
 
 
-    "Gargoyle" "You win… you...stronger… give… mercy… give… heat."
+    "Gargoyle" "You win... you...stronger... give... mercy... give... heat."
 
 
 translate Russian battle_gargoyle_sex0_da6d5ac1:
@@ -1276,7 +1276,7 @@ translate Russian battle_gargoyle_sex_8970dae9:
 translate Russian battle_gargoyle_sex_aff27e19:
 
 
-    "Gargoyle" "Yes… warm good."
+    "Gargoyle" "Yes... warm good."
 
 
 translate Russian battle_gargoyle_sex_2a5cc79e:
@@ -1306,7 +1306,7 @@ translate Russian battle_gargoyle_sex_5affe14a:
 translate Russian battle_gargoyle_sex_645733d7:
 
 
-    "Gargoyle" "More warm… better… me like warm."
+    "Gargoyle" "More warm... better... me like warm."
 
 
 translate Russian battle_gargoyle_sex_4266b53e:
@@ -1330,7 +1330,7 @@ translate Russian battle_gargoyle_sex_0a583ad1:
 translate Russian battle_gargoyle_sex_4c5311f6:
 
 
-    "Gargoyle" "Fuck… give me… warm cock!"
+    "Gargoyle" "Fuck... give me... warm cock!"
 
 
 translate Russian battle_gargoyle_sex_b780dfd5:
@@ -1366,7 +1366,7 @@ translate Russian battle_gargoyle_sex_6a597025:
 translate Russian battle_gargoyle_sex_a1707d5a:
 
 
-    "Gargoyle" "Gah… thick!"
+    "Gargoyle" "Gah... thick!"
 
 
 translate Russian battle_gargoyle_sex_649b06dc:
@@ -1582,7 +1582,7 @@ translate Russian battle_gargoyle_sex_fd642b40:
 translate Russian battle_gargoyle_sex_211e8985:
 
 
-    "Gargoyle" "Warm…"
+    "Gargoyle" "Warm..."
 
 
 translate Russian battle_gargoyle_sex_adbaedb1:

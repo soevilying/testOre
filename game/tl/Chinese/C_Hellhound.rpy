@@ -1060,7 +1060,7 @@ translate Chinese Hellhound_meet_425825de:
 translate Chinese Hellhound_meet_55dac8ec:
 
 
-    e 9 "呃，干杯…"
+    e 9 "呃，干杯..."
 
 
 translate Chinese Hellhound_meet_503a0b51:
@@ -1186,7 +1186,7 @@ translate Chinese Hellhound_meet_156951fc:
 translate Chinese Hellhound_meet_f8f98501:
 
 
-    e 1 "很遗憾听到这个。唔…"
+    e 1 "很遗憾听到这个。唔..."
 
 
 translate Chinese Hellhound_meet_b3a6edc0:

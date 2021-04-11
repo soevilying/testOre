@@ -2422,7 +2422,7 @@ translate Chinese Festival_ending_bull_70d59307:
 translate Chinese Festival_ending_bull_0f742ca2:
 
 
-    t "{cps=10}[name] …{/cps}"
+    t "{cps=10}[name] ...{/cps}"
 
 
 translate Chinese Festival_ending_bull_e59f18e0:
@@ -2434,7 +2434,7 @@ translate Chinese Festival_ending_bull_e59f18e0:
 translate Chinese Festival_ending_bull_0f742ca2_1:
 
 
-    t "{cps=10}[name] …{/cps}"
+    t "{cps=10}[name] ...{/cps}"
 
 
 translate Chinese Festival_ending_bull_68c4b89e:
@@ -3243,7 +3243,7 @@ translate Chinese Bull_hanging_ae8e3927_1:
 translate Chinese Bull_hanging_de7a2783_1:
 
 
-    e 13 "This is it… this is war."
+    e 13 "This is it... this is war."
 
 
 translate Chinese Festival_ending_lizard_7702b6f3:
@@ -3789,7 +3789,7 @@ translate Chinese Festival_ending_lizard_d69d2596:
 translate Chinese Festival_ending_lizard_88c40362:
 
 
-    n "Ohh… it sounds… just like how you guys sang it that year."
+    n "Ohh... it sounds... just like how you guys sang it that year."
 
 
 translate Chinese Festival_ending_lizard_6e893792:
@@ -4005,7 +4005,7 @@ translate Chinese Festival_ending_lizard_29da25c5:
 translate Chinese Festival_ending_lizard_fd1dbd9b:
 
 
-    e 5 "Is that… is that why you’re trying to kiss his ass so hard?"
+    e 5 "Is that... is that why you’re trying to kiss his ass so hard?"
 
 
 translate Chinese Festival_ending_lizard_0ee264ca:
@@ -4083,7 +4083,7 @@ translate Chinese Festival_ending_lizard_9a12c4d3:
 translate Chinese Festival_ending_lizard_76f2ed73:
 
 
-    e 13 "I don’t want to ruin the festival but…"
+    e 13 "I don’t want to ruin the festival but..."
 
 
 translate Chinese Festival_ending_lizard_84764fee:
@@ -4137,7 +4137,7 @@ translate Chinese Festival_ending_lizard_3da1875d:
 translate Chinese Festival_ending_lizard_f53dab21:
 
 
-    e 1 "Oh… ok."
+    e 1 "Oh... ok."
 
 
 translate Chinese Festival_ending_lizard_04398eac:
@@ -4215,13 +4215,13 @@ translate Chinese Festival_ending_lizard_8747352b:
 translate Chinese Festival_ending_lizard_ce617998:
 
 
-    "…"
+    "..."
 
 
 translate Chinese Festival_ending_lizard_ce617998_1:
 
 
-    "…"
+    "..."
 
 
 translate Chinese Festival_ending_lizard_3c3b71b9:
@@ -4257,7 +4257,7 @@ translate Chinese Festival_ending_lizard_bd1f1cf5:
 translate Chinese Festival_ending_lizard_ce617998_2:
 
 
-    "…"
+    "..."
 
 
 translate Chinese Festival_ending_lizard_62f36e2d:
@@ -4371,7 +4371,7 @@ translate Chinese Festival_ending_lizard_b963d346:
 translate Chinese Festival_ending_lizard_4401efcd:
 
 
-    n "The night is still young… and I was wondering… maybe… maybe you’d want to share a drink with me?"
+    n "The night is still young... and I was wondering... maybe... maybe you’d want to share a drink with me?"
 
 
 translate Chinese Festival_ending_lizard_9a93af50:
@@ -4737,7 +4737,7 @@ translate Chinese Lizard_defend_bcc865f7:
 translate Chinese Lizard_defend_5cff5929:
 
 
-    e 5 "Ok…"
+    e 5 "Ok..."
 
 
 translate Chinese Lizard_defend_2be23697:
@@ -4917,7 +4917,7 @@ translate Chinese Lizard_defend_11734d0b:
 translate Chinese Lizard_defend_47be356a:
 
 
-    h "But… the look in his eyes."
+    h "But... the look in his eyes."
 
 
 translate Chinese Lizard_defend_ea5e843a:

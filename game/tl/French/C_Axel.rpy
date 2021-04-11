@@ -904,7 +904,7 @@ translate French Axel_tribe_talk1_cdd261ee:
 translate French Axel_tribe_talk1_33220765:
 
 
-    a "So, I sent a few scouts to find the forest exit, around then we made contact with the tavern, it was only that hyena and…"
+    a "So, I sent a few scouts to find the forest exit, around then we made contact with the tavern, it was only that hyena and..."
 
 
 translate French Axel_tribe_talk1_8385c43e:
@@ -1078,7 +1078,7 @@ translate French Axel_tribe_talk1_5ba84b9b:
 translate French Axel_tribe_talk1_001572e4:
 
 
-    a "Then I thought, what if that happened to Thane, and I just… I. Argh! "
+    a "Then I thought, what if that happened to Thane, and I just... I. Argh! "
 
 
 translate French Axel_tribe_talk1_260276bb:
@@ -1150,13 +1150,13 @@ translate French Axel_tribe_talk1_c2b8c070:
 translate French Axel_tribe_talk1_72e94c19:
 
 
-    a "…"
+    a "..."
 
 
 translate French Axel_tribe_talk1_b26f9191:
 
 
-    a "He nags like her, he cooks badly like her, he likes watching the village like her… he even has her eyes."
+    a "He nags like her, he cooks badly like her, he likes watching the village like her... he even has her eyes."
 
 
 translate French Axel_tribe_talk1_b4c6358b:
@@ -1474,7 +1474,7 @@ translate French Axel_bullkid_7bf3dee8:
 translate French Axel_bullkid_3c57816c:
 
 
-    a "Hmm…"
+    a "Hmm..."
 
 
 translate French Axel_bullkid_8f51d847:
@@ -1678,7 +1678,7 @@ translate French Axel_bullkid_615532ea:
 translate French Axel_bullkid_5d221de0:
 
 
-    a "All those that would challenge my claim to the rank of chief. Thane will have to do the same someday…"
+    a "All those that would challenge my claim to the rank of chief. Thane will have to do the same someday..."
 
 
 translate French Axel_bullkid_be6acd76:
@@ -1690,7 +1690,7 @@ translate French Axel_bullkid_be6acd76:
 translate French Axel_bullkid_72e94c19:
 
 
-    a "…"
+    a "..."
 
 
 translate French Axel_bullkid_c2f2cc97:
@@ -2170,7 +2170,7 @@ translate French Axel_bullkid_b6e61cd8:
 translate French Axel_bullkid_b17cc8ee:
 
 
-    "Small calf" "I’m sorry… "
+    "Small calf" "I’m sorry... "
 
 
 translate French Axel_bullkid_11071646:
@@ -2182,7 +2182,7 @@ translate French Axel_bullkid_11071646:
 translate French Axel_bullkid_d51e48c5:
 
 
-    "Small calf" "Don’t take my big brother away…"
+    "Small calf" "Don’t take my big brother away..."
 
 
 translate French Axel_bullkid_ea66174e:
@@ -2206,7 +2206,7 @@ translate French Axel_bullkid_7c3f24ec:
 translate French Axel_bullkid_146b43b8:
 
 
-    "Small calf" "I’m sorry…"
+    "Small calf" "I’m sorry..."
 
 
 translate French Axel_bullkid_9b792797:
@@ -2356,7 +2356,7 @@ translate French Axel_bullkid_2f7f4cb0:
 translate French Axel_bullkid_c21f6a66:
 
 
-    e 1 "Your methods are… risky."
+    e 1 "Your methods are... risky."
 
 
 translate French Axel_bullkid_179f5c6d:

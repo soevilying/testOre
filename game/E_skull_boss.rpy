@@ -206,7 +206,7 @@ label battle_skull_boss_lose:
     "The skulls demon plunges its claws into your chest. "
     show red1 at center with dissolve
     play sound "music/blood.ogg"
-    "You hear something break… was it your ribs?"
+    "You hear something break... was it your ribs?"
     "You fall onto the ground a bloodied mess."
     "[name]" "Ahhhhh!!!!"
     "Excruciating pain cripples your body. You can't move."
@@ -218,8 +218,8 @@ label battle_skull_boss_lose:
     play sound "music/blood.ogg"
     "[name]" "N-!"
     "You feel something go through you again{w}...but where’s the pain?"
-    "Everything’s just{w} fading away…"
-    "Not like this…"
+    "Everything’s just{w} fading away..."
+    "Not like this..."
     scene black with vslow_dissolve
     "{color=#7d0004}???{/color}" "{b}{color=#7d0004}Oh shit, you really killed him.{/color}{/b}"
     "Who is it? Your consciousness is fading, even their voice is barely audible."

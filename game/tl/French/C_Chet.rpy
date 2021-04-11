@@ -64,7 +64,7 @@ translate French Chet_7e05b764:
 translate French Chet_3882bc78:
 
 
-    ro "Hmm…"
+    ro "Hmm..."
 
 
 translate French Chet_0f634547:
@@ -106,7 +106,7 @@ translate French Chet_01c28e7e:
 translate French Chet_099ec7db:
 
 
-    c "Hmm… I can give you 20 coins for it."
+    c "Hmm... I can give you 20 coins for it."
 
 
 translate French Chet_74d0f85f:
@@ -664,7 +664,7 @@ translate French Chet_talk_e7a370b5:
 translate French Chet_talk_05e02e9e:
 
 
-    e 6 "Right… and how did you know that from down here?"
+    e 6 "Right... and how did you know that from down here?"
 
 
 translate French Chet_talk_fb257b91:
@@ -700,7 +700,7 @@ translate French Chet_talk_626a7c37:
 translate French Chet_talk_622668b8:
 
 
-    e 4 "Err… maybe later."
+    e 4 "Err... maybe later."
 
 
 translate French Chet_talk_958a1ed7:
@@ -802,7 +802,7 @@ translate French Chet_talk_f22e7499:
 translate French Chet_talk_215476db:
 
 
-    c "Just… something felt different when I opened up to Witer, it felt good."
+    c "Just... something felt different when I opened up to Witer, it felt good."
 
 
 translate French Chet_talk_8ccba95e:
@@ -862,7 +862,7 @@ translate French Chet_talk_b21da63c:
 translate French Chet_talk_57f22de4:
 
 
-    c "Home… I never had a home."
+    c "Home... I never had a home."
 
 
 translate French Chet_talk_cac64f1b:
@@ -892,7 +892,7 @@ translate French Chet_talk_ce47c3d9:
 translate French Chet_talk_a067d2b5:
 
 
-    c "Then there were the beatings… if he wasn’t hitting my mother."
+    c "Then there were the beatings... if he wasn’t hitting my mother."
 
 
 translate French Chet_talk_ce717c88:
@@ -1216,7 +1216,7 @@ translate French Chet_talk_3c655609:
 translate French Chet_talk_a88e5b54:
 
 
-    e 1 "… What will it take?"
+    e 1 "... What will it take?"
 
 
 translate French Chet_talk_aa81730d:
@@ -1588,7 +1588,7 @@ translate French Chet_talk_f9d9982c:
 translate French Chet_talk_b107a847:
 
 
-    e 13 "Err… yeah I already know that."
+    e 13 "Err... yeah I already know that."
 
 
 translate French Chet_talk_95e51256:
@@ -2212,7 +2212,7 @@ translate French Chet_talk_28ad8cfb:
 translate French Chet_talk_147f5acb:
 
 
-    "[name]" "Mmm… ah! No, not there."
+    "[name]" "Mmm... ah! No, not there."
 
 
 translate French Chet_talk_78747e9d:
@@ -2230,7 +2230,7 @@ translate French Chet_talk_08acafd0:
 translate French Chet_talk_1c60e0ee:
 
 
-    "[name]" "Noooooo, so slimy and wet… please slow down Chet."
+    "[name]" "Noooooo, so slimy and wet... please slow down Chet."
 
 
 translate French Chet_talk_e5ff0b96:
@@ -2254,7 +2254,7 @@ translate French Chet_talk_4766c2fb:
 translate French Chet_talk_b8ecd8ac:
 
 
-    "[name]" "Hah...hah... hah… hah!"
+    "[name]" "Hah...hah... hah... hah!"
 
 
 translate French Chet_talk_12e75478:
@@ -2290,7 +2290,7 @@ translate French Chet_talk_5b2f3dfe:
 translate French Chet_talk_66bb4aed:
 
 
-    s "Ehem…"
+    s "Ehem..."
 
 
 translate French Chet_talk_bbcbd5ec:
@@ -2500,7 +2500,7 @@ translate French Chet_talk_28ad8cfb_1:
 translate French Chet_talk_147f5acb_1:
 
 
-    "[name]" "Mmm… ah! No, not there."
+    "[name]" "Mmm... ah! No, not there."
 
 
 translate French Chet_talk_78747e9d_1:
@@ -2518,7 +2518,7 @@ translate French Chet_talk_08acafd0_1:
 translate French Chet_talk_1c60e0ee_1:
 
 
-    "[name]" "Noooooo, so slimy and wet… please slow down Chet."
+    "[name]" "Noooooo, so slimy and wet... please slow down Chet."
 
 
 translate French Chet_talk_e5ff0b96_1:
@@ -2542,7 +2542,7 @@ translate French Chet_talk_4766c2fb_1:
 translate French Chet_talk_b8ecd8ac_1:
 
 
-    "[name]" "Hah...hah... hah… hah!"
+    "[name]" "Hah...hah... hah... hah!"
 
 
 translate French Chet_talk_12e75478_1:
@@ -2578,7 +2578,7 @@ translate French Chet_talk_5b2f3dfe_1:
 translate French Chet_talk_66bb4aed_1:
 
 
-    s "Ehem…"
+    s "Ehem..."
 
 
 translate French Chet_talk_bbcbd5ec_1:
@@ -2740,7 +2740,7 @@ translate French Chet_talk_6fe5a3da:
 translate French Chet_talk_a32aa4ed:
 
 
-    c "I… can’t say that I do."
+    c "I... can’t say that I do."
 
 
 translate French Chet_talk_29745082:
@@ -2824,7 +2824,7 @@ translate French Chet_talk_e20c73cc:
 translate French Chet_talk_765c4691:
 
 
-    c "I can’t…"
+    c "I can’t..."
 
 
 translate French Chet_talk_0628f521:
@@ -2956,7 +2956,7 @@ translate French Chet_talk_268ef308:
 translate French Chet_talk_e448900c:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate French Chet_talk_13631d8e:
@@ -3022,7 +3022,7 @@ translate French Chet_talk_539c2ef3:
 translate French Chet_talk_6218b584:
 
 
-    c "…"
+    c "..."
 
 
 translate French Chet_talk_c235faab:
@@ -3058,7 +3058,7 @@ translate French Chet_talk_c50a4caf:
 translate French Chet_talk_b3cef16b:
 
 
-    c "I will… and thanks [name]."
+    c "I will... and thanks [name]."
 
 
 translate French Chet_talk_40e10d7c:
@@ -3262,7 +3262,7 @@ translate French Chet_talk_9c22e61e:
 translate French Chet_talk_1c2875fb:
 
 
-    c "And I figured one little peek wouldn’t hurt right… {p}No, that’s not why I took it."
+    c "And I figured one little peek wouldn’t hurt right... {p}No, that’s not why I took it."
 
 
 translate French Chet_talk_da5c173f:
@@ -3400,7 +3400,7 @@ translate French Chet_talk_55c56893:
 translate French Chet_talk_7a0bb516:
 
 
-    c "Then that means… I fixed it for nothing?"
+    c "Then that means... I fixed it for nothing?"
 
 
 translate French Chet_talk_ba2b7e61:
@@ -3562,7 +3562,7 @@ translate French Chet_talk_ca325c2a:
 translate French Chet_talk_e448900c_1:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate French Chet_talk_7f26adf4:
@@ -4090,7 +4090,7 @@ translate French Chet_fear_potion_2aad6d05:
 translate French Chet_fear_potion_4b559003:
 
 
-    c "… "
+    c "... "
 
 
 translate French Chet_fear_potion_a8c1e605:

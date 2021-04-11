@@ -10,7 +10,7 @@ label Axel_meet:
 
     $ Time.mins = Time.mins +5
     if Quest.campb == 1 and Quest.campl < 3:
-        "Стражник кланяется и уходит, оставляя вас с Акселем одних в палатке."
+        "Стражник кланяется и уходит, оставляя вас с Акселем одних в шатре."
         show axel stand at center with dissolve
         a "Давайте пропустим приветствия."
         a "Я получил известие, что племя ящериц делает свой ход."
@@ -72,7 +72,7 @@ label Axel_meet:
         menu:
             "Да" if True:
                 e 1 "Я готов идти."
-                "Аксель вызывает еще четырех быков в свою палатку."
+                "Аксель вызывает еще четырех быков в свой шатер."
                 "Им приказано следовать вашим приказам."
                 "И по вашим командам команда отправится и достигнет лагеря к 11 часам утра."
                 $ Quest.campb = 4
@@ -107,14 +107,14 @@ label Axel_camp_end:
         $ Time.bullkid = Time.days
     if Quest.campb > Quest.campl and Quest.campt >=5:
         $ Time.hours = Time.hours +3
-        "Ты ковыляешь вверх по лестнице к палатке Акселя. Боль в глазах и желудке все еще колет при каждом шаге."
-        "Когда вы входите в палатку, вы видите четвереньки быков, которые составили вашу команду на коленях в ряд."
+        "Ты ковыляешь вверх по лестнице к шатру Акселя. Боль в глазах и желудке все еще колет при каждом шаге."
+        "Когда вы входите в шатре, вы видите четвереньки быков, которые составили вашу команду на коленях в ряд."
         show axel stand at center with dissolve
         "Аксель шагает туда-сюда во время разговора с командой."
         a "То есть, вы говорите, что четверо тренированных бычьих воинов, сбежали, потому что \"гигантский волк\"появился из ниоткуда и начал всех терроризировать."
         "Первый Воин Бык" "Честно, это случилось."
         a "И ты! Где ты был? Почему ты возвращаешься сюда без своей команды."
-        "Он указывает на тебя, стоящего у входа в палатку."
+        "Он указывает на тебя, стоящего у входа в шатер."
         "Быки на коленях поворачиваются к тебе и с удивлением смотрят на тебя."
         "Ты делаешь шаг назад, но говоришь себе не бежать."
         e 13 "Меня вырубило что-то тяжелое, когда я пошёл в разведку впереди."
@@ -129,7 +129,7 @@ label Axel_camp_end:
         a "Если там есть такое опасное существо, вы четверо, отправляйтесь в деревню и расскажите всем, чтобы все держались подальше от этого места. "
         "Все четыре быка" "Да, Вождь Аксель!"
         a "После этого вы посетите местного целителя и проверите себя."
-        "Воины приветствуют своего вождя и покидают палатку."
+        "Воины приветствуют своего вождя и покидают шатер."
         show axel stand at center with dissolve
         "Аксель постукивает по подлокотнику своего трона и бросает на тебя любопытный взгляд."
         a "Таким образом, ни одна из сторон не выигрывает лагерь. Что вы об этом думаете?"
@@ -138,7 +138,7 @@ label Axel_camp_end:
                 e 13 "..."
                 a "..."
                 a "Хорошо, я позову тебя, когда будет работа."
-                "Ты кланяешься и поворачиваешься, чтобы покинуть палатку."
+                "Ты кланяешься и поворачиваешься, чтобы покинуть шатер."
                 a "Привет, Блохастик."
                 "Ты обращаешься к Вождю."
                 a "Ты выглядишь дерьмово, возьми это и принеси лекарство."
@@ -149,7 +149,7 @@ label Axel_camp_end:
                 $ jane_inv.take(coin,200)
                 $ Zalt.points = Zalt.points +1
                 e 13 "Спасибо."
-                "Вы выходите из палатки."
+                "Вы выходите из шатра."
             "Ни один бык не должен был умереть." if True:
                 e 1 "Никто не умер, думаю, этого достаточно."
                 a "Сейчас? Ну, ящерицы тоже не умерли."
@@ -165,7 +165,7 @@ label Axel_camp_end:
                 $ jane_inv.take(coin,200)
                 $ Zalt.points = Zalt.points +1
                 e 13 "Спасибо."
-                "Вы выходите из палатки."
+                "Вы выходите из шатра."
         $ Quest.campb =6
         $ Quest.campt =6
         $ Quest.camp_a = 2
@@ -201,13 +201,13 @@ label Axel_camp_end:
         jump Axel_tribe_talk1
     elif Quest.campl > Quest.campb and Quest.campt <5:
         $ Quest.camp_a = 2
-        "Вы слышите громкий разбивающийся звук и гневное мычание изнутри палатки."
-        "Ты сглатываешь у входа в палатку Акселя. "
+        "Вы слышите громкий разбивающийся звук и гневное мычание изнутри шатра."
+        "Ты сглатываешь у входа в шатер Акселя. "
         "Вождь, должно быть, слышал о том, что случилось с его людьми."
         "Вы не решаетесь войти."
         "И все же есть шанс, что он не знает обо всем."
         "В таком случае отдаленность не поможет."
-        "Ты сжимаешь зубы и входишь в палатку."
+        "Ты сжимаешь зубы и входишь в шатер."
         a "БЛЯТЬ!"
         show axel stand at center with dissolve
         "Бык пнул свой трон на землю."
@@ -218,7 +218,7 @@ label Axel_camp_end:
         a "Если, конечно, следующие слова из твоих уст-это то, что ты собираешься помочь справиться с этими подлыми ящерицами."
         a "Я не хочу это слышать! Убирайся!"
         scene bulltribe 1 with dissolve
-        "Ты выбегаешь из палатки."
+        "Ты выбегаешь из шатра."
         $ Time.aaxel = Time.days
         jump Bull_tribe_map
     elif Quest.campb > Quest.campl and Quest.campt <5:
@@ -364,8 +364,8 @@ label Axel_tribe_talk1:
                 a "И пусть он прочитает мне лекцию о мире, любви и о том, как мне нужно следить за тем, сколько я ем. Пфф. "
                 e 1 "Я действительно не понимаю, как вы двое связаны."
                 a "Ну, он похож на свою мать."
-                a "…"
-                a "Он ворчит, как она, плохо готовит, как она, любит смотреть на деревню, как она.… у него даже ее глаза."
+                a "..."
+                a "Он ворчит, как она, плохо готовит, как она, любит смотреть на деревню, как она.... у него даже ее глаза."
                 hide axel stand with dissolve
                 "Аксель подпирает щеку рукой и глубоко вздыхает."
                 e 13 "Похоже, ты скучаешь по ней."
@@ -449,25 +449,25 @@ label Axel_bullkid:
         $ Time.mins = Time.mins -60
         $ Time.hours = Time.hours +1
     scene bulltent with slow_dissolve
-    "Inside, Chief Axel is scratching his chin while looking at the tent’s ceiling."
+    "Внутри Вождь Аксель почесывает подбородок, глядя на потолок шатра."
     show axel stand at center with dissolve
-    e 1 "You called for me Chief Axel?"
-    a "Hmm…"
-    "His eyes fall on you, his hand drops onto his chest and he scratches the tuft of fur between his pecs."
-    "You avert his powerful gaze."
-    "It feels embarrassing the way he looks at you from top to bottom."
-    a "Alright,I decided where I want to start with you."
-    e 1 "...Pardon?"
-    a "I’ve picked where we’re visiting today."
-    a "You’re going to get a first hand experience of bull culture."
-    e 6 "Bull culture? Aren’t I already experiencing it?"
-    a "What by hanging around my son’s big behind every time?"
-    a "I’m talking about real culture here, Fleabag. "
-    a "Come on! I want to show you a special spot."
+    e 1 "Вы звали меня, Вождь Аксель?"
+    a "Хмм..."
+    "Его взгляд падает на тебя, рука опускается на грудь, и он почесывает клок шерсти между груью."
+    "Ты отводишь его властный взгляд."
+    "Мне неловко, когда он смотрит на меня сверху вниз."
+    a "Ладно,я решил, с чего хочу начать."
+    e 1 "... Прошу прощения?"
+    a "Я выбрал место, где мы сегодня будем."
+    a "Ты получешь из первых рук опыт бычьей культуры."
+    e 6 "Культура быков? Разве я уже не испытываю его?"
+    a "Что, болтаясь вокруг большого зада моего сына каждый раз?"
+    a "Я говорю о настоящей культуре, Блохастик. "
+    a "Ну же! Я хочу показать тебе особое место."
     hide axel stand at center with dissolve
-    "The chief walks past you and out of the tent."
+    "Вождь проходит мимо вас и выходит из шатра."
     $ renpy.music.set_volume(0, 5, channel = "Axel")
-    "Mumbling under your breath you reluctantly follow Axel."
+    "Бормоча себе под нос, ты неохотно следуешь за Акселем."
     $ renpy.music.set_pause(True, channel='Thane')
     $ renpy.music.set_volume(1, 5, channel = "Chan1")
     $ renpy.music.set_volume(0, 0.1, channel = "Chan2")
@@ -475,240 +475,240 @@ label Axel_bullkid:
     $ renpy.music.set_pause(True, channel='Chan2')
 
     scene bulltribe 1 with slow_dissolve
-    "He leads the way with wide strides."
-    "It amazes you how a heavy set bull like him can move so fast. "
-    "The two of you reach the open area right across from the general store, where two wooden bull dummies stand beside a wide empty field."
+    "Он идет впереди широкими шагами."
+    "Вас поражает, как такой крепкий бык, как он, может двигаться так быстро. "
+    "Вы вдвоем выходите на открытую площадку прямо напротив лавки, где возле широкого пустого поля стоят два деревянных манекена-быка."
     scene tribe 1 with slow_dissolve
     show axel stand at center with dissolve
-    a "Welcome to the training area."
-    e 1 "Hmm, ok."
-    "In the distance you can see two calves fighting each other with wooden swords."
-    a "Take a look at that, makes my heart proud to know the youngins are still training."
-    e 6 "Yeah, it’s good to see the kids still can have fun despite the fog."
-    a "That’s what we’re all about Fleabag. Resilience."
+    a "Добро пожаловать на тренировочную площадку."
+    e 1 "Хм, ладно."
+    "Вдалеке вы видите двух телят, сражающихся друг с другом деревянными мечами."
+    a "Взгляни на это, и мое сердце гордится тем, что янгины все еще тренируются."
+    e 6 "Да, приятно видеть, что дети все еще могут веселиться, несмотря на туман."
+    a "Вот что мы делаем Блохастик. Стойкость"
     hide axel stand at center with dissolve
-    "Axel crosses his arms and you both watch side by side as the two youths battle each other. "
-    "One of them has the clearer advantage of being bigger and having longer limbs than the other. "
-    "He easily dodges the smaller calves attacks."
-    "The shorter one whose head barely reaches the taller one’s chest swings his weapon clumsily. "
-    "His slow swings and clumsy posture are unlike a young child who just learnt to hold a weapon."
+    "Аксель скрещивает руки на груди, и вы оба наблюдаете, как двое молодых людей сражаются друг с другом. "
+    "У одного из них есть явное преимущество-он крупнее и имеет более длинные конечности, чем другой. "
+    "Он легко уклоняется от атак меньшего телёнка."
+    "Тот, что пониже ростом, чья голова едва достает до груди более высокого, неуклюже размахивает оружием. "
+    "Его медленные взмахи и неуклюжая поза не похожи на маленького ребенка, который только что научился держать оружие."
     show axel stand at center with dissolve
-    a " This place used to see a whole lot more bulls training here."
-    a "Everyone would try their hand to prove themselves here."
-    a "If you could beat everyone you had the bragging rights to call yourself the strongest, and to challenge the chief even."
-    e 1 "That sounds like you’re putting your job on the line here."
-    a "It’s only fair Fleabag, to claim the title of chief you have to show everyone why they should listen to you, and the battlefield accepts all fighting styles. "
-    e 1 "So, you actually beat all the bulls in the village before?"
-    a "All those that would challenge my claim to the rank of chief. Thane will have to do the same someday…"
-    e 1 "You think he can do it? Prove to everyone he can be chief?"
-    a "…"
+    a " Раньше здесь тренировалось гораздо больше быков."
+    a "Здесь каждый попробует себя проявить."
+    a "Если бы ты мог победить всех, у тебя было бы право хвастаться, что ты самый сильный, и даже бросить вызов вождю."
+    e 1 "Это звучит так, как будто ты ставишь на карту свою работу."
+    a "Это справедливо, Блохастик, чтобы претендовать на звание вождя, ты должен показать всем, почему они должны тебя слушать, а поле боя лучшее для этого место. "
+    e 1 "Значит, ты и раньше бил всех быков в деревне?"
+    a "Всех тех, кто оспаривал бы мои права на звание вождя. Когда-нибудь Тэйну придется сделать то же самое...."
+    e 1 "Ты думаешь, он сможет это сделать? Доказать всем, что он может быть вождем?"
+    a "..."
     hide axel stand at center with dissolve
-    "The old bull looks on ahead, his eyebrows furrow while he watches the battle in front of him."
-    a "I hope so. "
-    "Axel shakes his head, and snorts."
+    "Старый бык смотрит вперед, нахмурив брови, наблюдая за битвой перед собой."
+    a "Я надеюсь, что это так. "
+    "Аксель качает головой и фыркает."
     show axel stand at center with dissolve
-    a "Here’s something interesting about this place, this is also where we settle most of our disagreements."
-    a "You don’t like something about someone, you fight them off here."
-    e 1 "Must everything be solved here with fighting?"
-    "Just then you hear a loud yell."
+    a "В этом месте есть кое-что интересное, и именно здесь мы решаем большинство наших разногласий."
+    a "Если тебе что-то в ком-то не нравится, ты отбиваешься от него здесь."
+    e 1 "Неужели здесь все должно решаться боем?"
+    "И тут вы слышите громкий крик."
     $ renpy.music.set_volume(0.8, 5, channel = "Chan1")
     hide axel stand at center with dissolve
-    "Small calf" "I WILL KILL YOU!!"
+    "Маленький теленок" "Я УБЬЮ ТЕБЯ!!"
     show black2
     show bullkid01 at center with dissolve
-    "The two calves from earlier are now rolling on the floor."
-    "Dust is floating everywhere as the shorter calf relentlessly tries to pound the bigger calf in the face."
-    e 9 "Woah, what the heck, we got to stop them. "
-    "You rush over to the two calves but Axel stops you by pulling you by the arm."
-    a "Just let them fight, that’s how boys settle their problems around here."
-    e 12 "Not like this, they’re going to kill each other. Now let's go!"
-    "Axel releases his hold and rolls his eyes as he follows you towards the duo."
+    "Два теленка, которые были раньше, теперь катаются по полу."
+    "Пыль плавает повсюду, когда более низкорослый теленок безжалостно пытается ударить более крупного теленка в лицо."
+    e 9 "Ого, какого черта, мы должны их остановить. "
+    "Ты бросаешься к двум телятам, но Аксель останавливает тебя, дергая за руку."
+    a "Пусть дерутся, вот как мальчишки здесь решают свои проблемы."
+    e 12 "Не так, они убьют друг друга. А теперь пошли!"
+    "Аксель отпускает твою руку и закатывает глаза, следуя за тобой к дуэту."
     hide bullkid01 with dissolve
     hide black2 with dissolve
-    "You manage to grab the smaller calf by the armpits and pull him off the other one."
-    "Small calf" "I’m going to kill you!"
-    "It takes a lot of energy out of you to drag the calf away as he thrashes about."
-    "Axel helps the other calf up on his feet."
-    "The teenage bull pulls himself up and calmly brushes the dirt off of his face."
-    "Small calf" "Die! Just die you stupid jerk!"
+    "Тебе удается схватить меньшего теленка за подмышки и оттащить его от другого."
+    "Маленький теленок" "Я убью тебя!"
+    "От вас требуется много энергии, чтобы оттащить теленка, пока он мечется."
+    "Аксель помогает другому теленку подняться на ноги."
+    "Подросток-бык подтягивается и спокойно отряхивает грязь с лица."
+    "Маленький теленок" "Умри! Просто умри, тупой придурок!"
     show axel stand at center with dissolve
-    a "What’s all this about?"
-    "Teenage calf" "Chief Axel, I-I’m sorry for the trouble."
-    "Teenage calf" "My little brother is just being a brat."
-    "Small calf" "You shut up!" with vpunch
-    "Small calf" "Tell him the truth! You horrible, terrible, ass fart!"
-    e 5 "Woah, calm down kid."
-    "Small calf" "Let me go! He needs to pay for what he did!"
-    "Teenage calf" "Oh, quit being so dramatic. I apologized for it already."
-    "Teenage calf" "Why can’t you let it go."
-    "Small calf" "You know why!"
-    "Small calf" "You killed what’s left of mommy! Murderer!"
-    a "Enough! Get your tails in line!" with vpunch
+    a "Что все это значит?"
+    "Теленок-подросток" "Вождь Аксель, я ... прошу прощения за беспокойство."
+    "Теленок-подросток" "Мой младший брат просто ведет себя как мальчишка."
+    "Маленький теленок" "Заткнись!" with vpunch
+    "Маленький теленок" "Скажи ему правду! Ты ужасный, ужасный пердун!"
+    e 5 "Ух ты, успокойся, малыш."
+    "Маленький теленок" "Отпусти меня! Он должен заплатить за то, что сделал!"
+    "Теленок-подросток" "О, перестань так драматизировать. Я уже извинился за это."
+    "Теленок подросток" "Почему ты не можешь отпустить его?"
+    "Маленький теленок" "Ты знаешь почему!"
+    "Маленький теленок" "Ты убил то, что осталось от мамы! Убийца!"
+    a "Довольно! Держите свои хвосты в линию!" with vpunch
     hide axel stand at center with dissolve
-    "Chief Axel’s booming voice silences the arguing siblings."
-    "Finally, you can let go of the smaller calf."
-    "The two young boys lined up in front of Axel."
-    "The smaller calf sniffles loudly, fighting back his tears."
-    "His shoulders won’t stop trembling. "
+    "Гулкий голос Вождя Акселя заставляет спорящих братьев и сестер замолчать."
+    "Наконец, вы можете отпустить меньшего теленка."
+    "Два мальчика выстроились перед Акселем."
+    "Маленький теленок громко всхлипывает, борясь со слезами."
+    "Его плечи не перестают дрожать. "
     show axel stand at center with dissolve
-    a "You, the big brother, explain what’s going on."
-    "Taller calf" "My little brother is upset that I broke his toy yesterday by accident."
-    "Small calf" "You lie!" with vpunch
-    "Small calf" "You did it on purpose, you hated mommy, and wanted to break what she left to me!"
-    "Taller calf" "I did not! It was an accident, I didn’t see where you stu- where your toy was!"
+    a "Ты, старший брат, объясни, что происходит."
+    "Теленок повыше" "Мой младший брат расстроен, что я вчера случайно сломал его игрушку."
+    "Маленький теленок" "Ты лжешь!" with vpunch
+    "Маленький теленок" "Ты сделал это нарочно, ты ненавидел маму и хотел сломать то, что она оставила мне!"
+    "Теленок повыше" "А я-нет! Это был несчастный случай, я не видел, где ты ... где твоя игрушка!"
     hide axel stand at center with dissolve
-    e 9 "Was that toy really important? Can’t your parents replace it?"
-    "Small calf" "Mommy’s gone. She left daddy, and left the tribe."
-    "The small calf sobs loudly, he doesn’t try to hide his sadness anymore."
-    "Small calf" "You always hated her. It’s not fair!"
-    "Small calf" "You broke mommy’s gift to me. I hate you! "
-    "Taller calf" "What’s it going to take for you to forgive me? If I could have fixed it I would have."
-    "Taller calf" "Look we’re causing a lot of trouble to the chief as is."
-    "Taller calf" "Quit being such a whiny calf!"
-    "Small calf" "Shut up! I don’t want to see you anymore, I hate you, I hate you!"
+    e 9 "Была ли эта игрушка действительно важна? Разве твои родители не могут заменить его?"
+    "Маленький теленок" "Мама ушла. Она оставила папу и покинула племя."
+    "Маленький теленок громко всхлипывает, он больше не пытается скрыть свою печаль."
+    "Маленький теленок" "Ты всегда ее ненавидел. Это несправедливо!"
+    "Маленький теленок" "Ты сломал мамин подарок мне. Я тебя ненавижу! "
+    "Теленок повыше" "Что тебе нужно, чтобы простить меня? Если бы я мог это исправить, я бы так и сделал."
+    "Теленок повыше" "Послушай, мы и так доставляем много хлопот Вождю."
+    "Теленок повыше" "Перестань быть таким плаксивым теленком!"
+    "Маленький теленок" "Заткнись! Я больше не хочу тебя видеть, я ненавижу тебя, я ненавижу тебя!"
     show axel stand at center with dissolve
-    a "Quiet! I’ve heard enough."
-    "The two calves freeze in their spot and look to the chief with frightened eyes."
-    a "You, the older brother, I hear you are responsible for breaking your little brother’s prized possession."
-    a "Am I right?"
-    "Taller calf" "I.. did."
+    a " Тихо! Я уже достаточно наслушался."
+    "Оба теленка застывают на месте и смотрят на вождя испуганными глазами."
+    a "Ты, старший брат, как я слышал, несешь ответственность за то, что разбил драгоценное имущество своего младшего брата."
+    a "Я прав?"
+    "Теленок повыше" "Это... так."
     $ renpy.music.set_volume(0.3, 5, channel = "Chan1")
-    a "Then it’s decided, the only way to solve this is for your little brother to exact his vengeance."
-    a "As you’ve said little one, he is your brother no more."
-    a "I hereby decree a final battle."
+    a "Тогда решено, что единственный способ решить эту проблему-это отомстить твоему младшему брату."
+    a "Как ты уже сказал, малыш, он больше не твой брат."
+    a "Настоящим я объявляю финальную битву."
     $ renpy.music.set_volume(0, 5, channel = "Chan1")
-    e 5 "What final battle? You want them to kill each other?"
+    e 5 "Какая последняя битва? Ты хочешь, чтобы они убили друг друга?"
     $ renpy.music.set_volume(0.3, 10, channel = "Axel")
-    a "No, the small one, you will strike your older brother down, and in doing so ends your ties with him, you two will be brothers no more!"
-    e 9 "Just hold it, that’s way too drastic."
-    a "Quiet, Fleabag. You wanted an intervention, you got one."
-    a "My word is law. Now ready yourselves!"
-    "The two smaller bulls look at each other with trepidation."
-    "Reluctantly, the taller bull turns to face his sibling. "
-    "His little brother looks to the ground with clenched fists and his tears falling to the ground."
+    a "Нет, маленький, ты ударишь своего старшего брата, и тем самым порвешь с ним все связи, вы двое больше не будете братьями!"
+    e 9 "Подожди, это слишком радикально."
+    a "Тихо, Блохастик. Ты хотел вмешательства, ты его получил."
+    a "Мое слово - закон. А теперь приготовьтесь!"
+    "Два маленьких быка с трепетом смотрят друг на друга."
+    "Высокий бык неохотно поворачивается к брату. "
+    "Его младший брат смотрит в землю, сжав кулаки, и его слезы падают на землю."
     hide axel stand at center with dissolve
-    "Axel twists his head to his side, signaling to you to come over."
-    "You obey, but you give Axel a long and dark stare, questioning his judgement."
-    "The stage falls silent as all eyes are on the two children."
-    "Uneasiness fills the pit of your stomach."
-    "Small calf" "Yaargh!"
-    "The small calf rushes forward his arms in the air, then he throws his punch."
-    "Like the wind the punch flies so quickly you can’t catch sight of it."
+    "Аксель поворачивает голову набок, давая тебе знак подойти."
+    "Ты повинуешься, но смотришь на Акселя долгим и мрачным взглядом, сомневаясь в его суждениях."
+    "Сцена замолкает, все взгляды устремлены на двух детей."
+    "Беспокойство наполняет ваш живот."
+    "Маленький теленок" "Яаргх!"
+    "Маленький теленок бросается вперед, вскидывая руки в воздух, а затем наносит удар."
+    "Как ветер, удар летит так быстро, что его не видно."
     $ renpy.music.set_volume(0, 3, channel = "Axel")
-    "His big brother flinches and closes his eyes."
+    "Его старший брат вздрагивает и закрывает глаза."
     pause 3
-    "Everything ends in a blink of an eye. "
-    "The little brother’s fist hangs in mid-air just inches away from his big brother’s snout. "
-    "His cries cut through the silence, he tries to muster something to say, but all you hear are tears, and the sniffling of a sad child."
+    "Все заканчивается в мгновение ока. "
+    "Кулак младшего брата повис в воздухе всего в нескольких дюймах от морды старшего. "
+    "Его крики прорезают тишину, он пытается что-то сказать, но все, что вы слышите, - это слезы и всхлипывание грустного ребенка."
     $ renpy.music.set_volume(1, 10, channel = "Axel")
-    "Small calf" "I’m sorry… "
-    "He sobs."
-    "Small calf" "Don’t take my big brother away…"
-    "Small calf" "I don’t want to lose anyone anymore."
-    "The taller calf opens his eyes and slowly pulls his brother close, letting him cry into fur."
-    "Taller calf" "Forgive us chief, for the trouble we caused."
-    "Small calf" "I’m sorry…"
+    "Маленький теленок" "Мне очень жаль... "
+    "Он всхлипывает."
+    "Маленький теленок" "Не забирай моего старшего брата..."
+    "Маленький теленок" "Я больше не хочу никого терять."
+    "Более высокий теленок открывает глаза и медленно притягивает брата к себе, позволяя ему плакать в мех."
+    " Прости нас, Вождь, за те неприятности, которые мы причинили."
+    "Маленький теленок" "Мне очень жаль..."
     show axel stand at center with dissolve
-    a "Tell me, what was the broken toy?"
-    "Taller calf" "A small bow our mother made, she gave it to him before she left."
-    "Taller calf" "I could fix it with some materials but I don’t have the coins to buy them."
-    a "Then take this."
+    a "Скажите, что это была за сломанная игрушка?"
+    "Теленок повыше" "Маленький лук, который сделала наша мать, она отдала ему перед уходом."
+    "Теленок повыше" "Я мог бы починить его с помощью материалов, но у меня нет монет, чтобы купить их."
+    a "Тогда возьми это."
     hide axel stand at center with dissolve
-    "Axel hands the older brother a bag of coins."
+    "Аксель протягивает старшему брату мешочек с монетами."
     show axel stand at center with dissolve
-    a "There should be enough there to patch up the bow and to get you two a small snack to share. "
-    "Taller calf" "Thank you Chief Axel. Hey, go on, say thanks."
-    "Small calf" "Thank you, Chief Axel."
-    "The small calf’s eyes are red from all the crying, and his voice is hoarse. "
-    "Axel kneels down and wipes the small calf’s face with his cape."
+    a "Там должно быть достаточно, чтобы залатать лук и приготовить вам двоим небольшую закуску. "
+    "Теленок повыше" "Спасибо, Вождь Аксель. Эй, давай, скажи спасибо."
+    "Маленький теленок" "Спасибо, Вождь Аксель."
+    "Глаза маленького теленка покраснели от слез, а голос охрип. "
+    "Аксель опускается на колени и вытирает лицо маленького теленка своим плащом."
     hide axel stand at center with dissolve
-    a "You’re welcome little one. You did a good thing today giving your brother a chance."
-    a "That kind of strength at such a young age, I think you’ll go far."
-    a "Promise me you’ll try to be kinder to each other."
-    "Small calf" "I promise."
+    a "Всегда пожалуйста, малыш. Сегодня ты хорошо поступил, дав брату шанс."
+    a "С такой силой в столь юном возрасте, я думаю, ты далеко пойдешь."
+    a "Обещай мне, что постараешься быть добрее друг к другу."
+    "Маленький теленок" "Обещаю."
     show axel stand at center with dissolve
-    a "Good, now go on you two. I’ve got a tour to finish with our friend Brother Fleabag here."
-    "Taller calf" "Good bye Chief Axel, Brother Fleabag."
-    "Small calf" "Good bye Chief Axel and Brother Fleabag."
-    e 8 "Ah."
+    a "Хорошо, а теперь идите вдвоем. Мне нужно закончить экскурсию с нашим другом Братом Блохастиком."
+    "Теленок повыше" "Прощай, вождь Аксель, Брат Блохастик."
+    "Маленький теленок" "Прощай, вождь Аксель и Брат Блохастик."
+    e 8 "Ах."
     hide axel stand at center with dissolve
-    "As the children leave, Axel laughs heartily while smacking you in the back three times, you almost fall over from his strong slap."
-    "He then leads the way back to his tent, and you follow from behind."
+    "Когда дети уходят, Аксель от души смеется и трижды шлепает тебя по спине, ты чуть не падаешь от его сильной пощечины."
+    "Затем он ведет вас обратно в свой шатер, а вы следуете за ним сзади."
     scene bulltribe 1 with slow_dissolve
-    e 1 "Did you know the little brother wouldn’t hit his big brother?"
-    a "Like I said the training grounds is where disputes are handled."
-    a "All I did was give them a little push in the right direction."
-    "Axel throws you a cocky grin."
-    e 1 "Your methods are… risky."
-    a "Yeah well it gets the job done."
-    a "Sometimes you need tough love to get people to be honest about their feelings. "
-    a "Action speaks louder than words, that’s something you got to remember Fleabag. "
-    e 13 "I’ll keep that in mind. It was nice of you to pay for the calves to fix the toy."
-    a "Don’t go spreading it around Fleabag, last thing I need is for my men to think I have gold to give around like leaves. "
-    "While Axel walks up ahead, you become aware of his broad back, and you start to see the shadow of a father that the chief is."
-    "You wonder if he sees the village as his child as well, and the way he rules is like a father showing his tough love."
+    e 1 "Ты знал, что младший брат не станет бить старшего?"
+    a "Как я уже сказал, тренировочные площадки-это место, где решаются споры."
+    a "Все, что я сделал, - это слегка подтолкнул их в нужном направлении."
+    "Аксель бросает тебе дерзкую ухмылку."
+    e 1 "Ваши методы... рискованны."
+    a "И они отлично справляются"
+    a "Иногда нужна жесткая любовь, чтобы заставить людей быть честными в своих чувствах. "
+    a "Действие говорит громче слов, это то, что ты должен запомнить, Блохастик. "
+    e 13 "Я буду иметь это в виду. Очень мило с твоей стороны заплатить за телят, чтобы починить игрушку."
+    a "Не распространяйся об этом вокруг Блохастик, последнее, что мне нужно, это чтобы мои люди думали, что у меня есть золото, чтобы раздавать его, как листья. "
+    "Пока Аксель идет впереди, вы замечаете его широкую спину и начинаете видеть тень отца, которым является вождь."
+    "Вы задаетесь вопросом, видит ли он деревню как своего ребенка, и то, как он правит, похоже на то, как отец показывает свою жесткую любовь."
     scene tent 1 with slow_dissolve
     show axel stand at center with dissolve
-    "The moment you both reach the top of the steps. Axel turns to you with arms crossed."
-    a "Alright, that’s the end of the tour for today. Check up with me to see if I’m free for another tour."
-    e 1 "I look forward to it."
-    a "You better, damn stairs make my thighs burn."
+    "В тот момент, когда вы оба достигнете вершины лестницы. Аксель поворачивается к тебе, скрестив руки."
+    a "Ладно, на сегодня экскурсия закончена. Свяжись со мной, чтобы узнать, свободен ли я для еще одного тура."
+    e 1 "Я с нетерпением буду ждать этого"
+    a "Тебе хорошо, проклятые ступеньки заставляют мои бедра гореть."
     hide axel stand at center with dissolve
     scene black with slow_dissolve
-    "You bow and the bovian chief takes his leave into his tent."
-    "<[name] gained one Level-up-point.>"
+    "Вы кланяетесь, и бовианский вождь уходит в свой шатер."
+    "<[name] получено одно очко повышения уровня.>"
     $ Zalt.points = Zalt.points +1
     $ Time.hours = Time.hours + 2
     jump Bull_tribe_map
 
 label Axel_letter:
     if Quest.bomba == 1:
-        e 1 "Chief Axel."
+        e 1 "Вождь Аксель."
         show axel stand at center with dissolve
-        a "You have some balls to keep me waiting Fleabag."
-        e 13 "Right..."
-        a "Let's get down to brass tacks."
-        a "I have a message that needs to be sent to the lizards. One that can only be sent via a catapult."
-        e 1 "A catapult?"
-        a "Yes, making weapons is our tribe’s specialty. We scraped what limited materials we could to make it."
-        e 1 "I don’t get what kind of message you can send with a catapult?"
+        a "У тебя есть яйца, чтобы заставить меня ждать, Блохастый."
+        e 13 "Верно..."
+        a "Давайте перейдем к делу."
+        a "У меня есть сообщение, которое нужно отправить ящерам. Тот, который можно отправить только с помощью катапульты."
+        e 1 "Катапульта?"
+        a "Да, изготовление оружия-специальность нашего племени. Мы соскребли все ограниченные материалы, какие могли, чтобы сделать его."
+        e 1 "Я не понимаю, какое сообщение вы можете отправить с помощью катапульты?"
         hide axel stand at center with dissolve
-        a "They will understand everything, with this."
+        a "С этим они все поймут."
         show bullbomb at center with slow_dissolve
-        "He pulls out from behind his seat what looks like a crudely made spherical bomb wrapped in some kind of paper material, its fuse sticks right up."
+        "Он вытаскивает из-за сиденья что-то похожее на грубо сделанную сферическую бомбу, завернутую в какой-то бумажный материал, ее фетиль торчит прямо вверх."
         hide bullbomb at center with dissolve
         show axel stand at center with dissolve
-        a "Your job is simple, take the bomb to the catapult that’s already set up at the swamp."
-        a "One of my men who’s been scouting the area knows the proper trajectory for the bomb to hit their ceremonial stage."
-        e 5 "If you needed someone to just deliver something for you I’m sure you have many other options besides me."
-        a "You’re a better choice. Faster, smaller, there would be less risk of you getting caught by the lizards."
-        e 13 "Still, this is a dangerous move, innocent people could get hurt."
-        a "It won't, I know of their ceremonial stage, it is mostly unguarded."
-        a "And even if a few lizards are lost that works in our favour."
+        a "Ваша задача проста: доставить бомбу к катапульте, которая уже установлена на болоте."
+        a "Один из моих людей, разведывавших местность, знает, по какой траектории бомба должна попасть в их церемониальное здание."
+        e 5 "Если вам нужен был кто-то, чтобы просто доставить что-то для вас, я уверен, что у вас есть много других вариантов, кроме меня."
+        a "Ты - лучший выбор. Быстрее, меньше, меньше будет риска, что тебя поймают ящеры."
+        e 13 "Тем не менее, это опасный шаг, невинные люди могут пострадать."
+        a "Этого не будет, Я знаю об их церемониальной сцене, она в основном не охраняется."
+        a "И даже если несколько ящериц погибнут, это будет в нашу пользу."
         hide axel stand at center with dissolve
-        "Axel crosses his arms and locks eyes with you. "
+        "Аксель скрещивает руки на груди и смотрит тебе в глаза. "
         show axel stand at center with dissolve
-        a "The lizards brought this upon themselves."
-        a "They should consider themselves lucky that they even get a warning shot."
-        a "The longer I delay, my men will think I am unfit to lead them in this war."
-        a "The lizards already had an upper hand when they sent their spy."
-        e 5 "Wait, did the spy take something important?"
-        a "It’s not what the spy took, it’s what they left."
-        a "It was also Nauxus’s way of saying he could have me killed anytime, and I refuse to have him have the satisfaction thinking I am just a bug dancing on the palm of his hands."
-        e 1 "…"
-        e 13 "I will need some time to think it over."
+        a "Ящерицы сами навлекли на себя это."
+        a "Они должны считать, что им повезло, что они даже получили предупредительный выстрел."
+        a "Чем дольше я буду медлить, тем больше мои люди будут думать, что я не способен вести их в этой войне."
+        a "Ящеры уже одержали верх, когда послали своего шпиона."
+        e 5 "Подожди, шпион взял что-то важное?"
+        a "Это не то, что взял шпион, это то, что они оставили."
+        a "Это был также способ Науксуса сказать, что он может убить меня в любое время, и я отказываюсь, чтобы он получил удовлетворение, думая, что я просто жук, танцующий на его ладони."
+        e 1 "..."
+        e 13 "Мне понадобится некоторое время, чтобы все обдумать."
         if Quest.campw1 == 4:
-            a "Really? After all I just said you’re leaving me with a maybe?"
-            a "If Tomahawk was still around I could rely on him to do this."
-            a "If you won’t do this job out of respect for me, at least have the decency to respect the dead who you abandoned. "
-            a "Now out!"
+            a "Действительно? После всего, что я только что сказал, ты оставляешь меня с \"может быть\"?"
+            a "Если Томагавк все еще здесь, я могу на него положиться."
+            a "Если ты не хочешь выполнять эту работу из уважения ко мне, по крайней мере, имей порядочность уважать мертвых, которых ты бросил. "
+            a "А теперь вон!"
         elif True:
-            a "Really? I just gave a long winded explanation and you’re leaving me with a maybe?"
-            a "Tsk, if only Tomahawk isn’t recovering from his freak blow to the head, I could have him do this job, at least he doesn’t need so much convincing."
-            a "Now out!"
+            a "Действительно? Я только что дал многословное объяснение, а ты оставляешь меня с \"может быть\"?"
+            a "Тск, если только Томагавк не оправился от своего дурацкого удара по голове, я мог бы заставить его сделать эту работу, по крайней мере, его не нужно так сильно убеждать."
+            a "А теперь вон!"
 
         hide axel stand at center with dissolve
-        "You gulp and leave the tent."
+        "Ты сглатываешь и выходишь из шатра."
         $ renpy.music.set_pause(True, channel='Thane')
         $ renpy.music.set_pause(True, channel='Axel')
         scene black with dissolve
@@ -720,12 +720,12 @@ label Axel_letter:
 
         $ Quest.bomba = 2
         if Quest.bombn == 1:
-            e 13 "(So Chief Axel plans to launch an attack on the lizard tribe using a catapult and a bomb."
-            e 1 "(Do I want to go through with it?)"
-            e 1 "No wait, I need to find out what Nauxus wants first."
+            e 13 "(Поэтому вождь Аксель планирует начать атаку на племя ящеров с помощью катапульты и бомбы."
+            e 1 "(Хочу ли я пройти через это?)"
+            e 1 "Нет, подожди, сначала мне нужно выяснить, чего хочет Наукс."
         elif True:
-            e 13 "Great, so I have one chief that wants to bomb a village, and the other wants to recruit more lizards for his army."
-            e 1 "(Do I pick a side or see Thane for his advice?)"
+            e 13 "Отлично, так что у меня есть один вождь, который хочет разбомбить деревню, а другой хочет набрать больше ящеров для своей армии."
+            e 1 "(Выбрать сторону или обратиться к Тейну за советом?)"
             $ Quest.bombt = 1
             $ Quest.bomb = 2
         jump Bull_tribe_map
@@ -733,49 +733,49 @@ label Axel_letter:
 
     elif Quest.bomba == 2 and Quest.bombn == 2 and Quest.bomb == 2:
         show axel stand at center with dissolve
-        a "You ready to send this bomb to those bloody lizards?"
+        a "Ты готов послать эту бомбу этим чертовым ящерам?"
         if Quest.bombt != 3:
-            "{b}{color=#ffd65c}<Warning:{p} You can't change your option anymore after this option.>{/color}"
+            "{b}{color=#ffd65c}<Предупреждение:{p} После этого вы больше не сможете изменить свой вариант.>{/color}"
         menu:
-            "Yes" if True:
-                e 1 "I’m ready."
+            "Да" if True:
+                e 1 "Я готова."
                 $ jane_inv_K.take(real_bomb)
                 show bullbomb at center with slow_dissolve
-                "Axel hands you the bomb."
+                "Аксель протягивает тебе бомбу."
                 hide bullbomb at center with slow_dissolve
-                a "Meet my man at the entrance to the lizard tribe, it’s the swampy area before you enter their village. He knows to expect a delivery."
-                a "He’ll hand you your reward as well. Don’t damage the bomb, it’s the only one we are able to make."
-                e 1 "Alright. I just need to give the bull the bomb, and I’m done."
+                a "Встретимся с моим человеком у входа в племя ящериц, это болотистая местность перед входом в их деревню. Он знает, что нужно ожидать доставки."
+                a "Он вручит тебе и награду. Не повреди бомбу, это единственное, что мы можем сделать."
+                e 1 "Хорошо. Мне просто нужно дать быку бомбу, и все."
                 $ Quest.bomba = 3
                 $ Quest.bomb = 3
                 if Quest.bombt == 3:
                     hide axel stand at center with dissolve
                     scene bulltribe 1 with slow_dissolve
-                    "You leave the tent and casually make your way out of the village."
+                    "Вы выходите из шатра и небрежно направляетесь к выходу из деревни."
                     stop Axel
                     scene forest 3 with slow_dissolve
                     show bullbomb at left with slow_dissolve
                     show bullbomb2 at right with slow_dissolve
-                    "You make sure that you recognize which is the original bomb in your satchel."
+                    "Вы убедилсь, что узнали, какая из бомб находится в вашей сумке."
                     hide bullbomb2 with slow_dissolve
                     show bullbomb at center with slow_dissolve
-                    "Once you are at a decent distance from the bull village and that no one is around you pull out the original bomb."
-                    "With your claws you rip through its shell and let loose the explosive powder inside."
+                    "Как только вы окажетесь на приличном расстоянии от деревни быков и вокруг вас никого не будет, вы вытаскиваете оригинальную бомбу."
+                    "Своими когтями вы разрываете её оболочку и высыпаете взрывчатый порошок."
                     hide bullbomb at center with slow_dissolve
-                    "As long as the powder is not contained in a small space, it should do no harm."
-                    "You then rip apart the bomb’s outer body and scatter its ripped remains among the trees."
-                    "Now all that’s left is to head to the swamp."
+                    "Пока порошок не содержится в небольшом пространстве, он не должен причинять вреда."
+                    "Затем ты разрываешь внешнее тело бомбы и разбрасываешь ее разорванные останки среди деревьев."
+                    "Теперь осталось только направиться к болоту."
                     $ jane_inv_K.drop(real_bomb)
                     jump forest_map
                 elif True:
                     hide axel stand at center with dissolve
                     jump Bull_tribe_tent
-            "No" if True:
-                e 13 "Not yet, I’m still preparing."
-                a "Then don’t waste my time standing here."
+            "Нет" if True:
+                e 13 "Пока нет, я все еще готовлюсь."
+                a "Тогда не трать мое время, стоя здесь."
                 jump Bull_tribe_tent
     elif Quest.bomba == 3 and Quest.bombn == 2 and Quest.bomb == 3:
-        a "Get your tail into gear and deliver that bomb to the swamp! Don’t make me tell you again!"
+        a "Приведи свой хвост в движение и доставь эту бомбу на болото! Не заставляй меня повторять!"
         jump Bull_tribe_tent
     elif Quest.bomb_end == 0 and Quest.bomb == 5 and Quest.bomb_bull ==2:
         $ Axel.talktree = 1
@@ -783,22 +783,22 @@ label Axel_letter:
             $ Time.bomb = Time.days
         $ Quest.bomb_bull =3
         if Quest.bomb_result == Axel:
-            a "I have good news Fleabag."
-            a "The bomb hit its target."
-            a "Those lizards will probably think twice before they try to make a move on us."
-            e 13 "I was just doing my duty, Chief Axel."
-            a "Now I’m in the mood to celebrate!"
-            e 1 "What do you have in mind?"
-            a "The Feast of Fire will come soon. It’ll be the perfect time to rouse the spirits of the bulls."
-            e 1 "I’m not familiar with that festival. "
-            a "It’s what our people have been doing since the ancient days."
-            a "We eat, drink and dance the night away to give thanks to our ancestors."
-            e 6 "It sounds like fun, what do you guys usually do?"
-            a "Typical celebration stuff, we sing songs from our forefathers and usually the women and children would put on a nice stage show."
-            a "You’ll like it. All I have to do is make sure we have enough resources for it."
-            a "I’ll call you if we need any help."
-            "He leans back against his seat."
-            a "Now, I still have some time to kill. Do you need anything Fleabag?"
+            a "У меня хорошие новости, Блохастик."
+            a "Бомба попала в цель."
+            a "Эти ящерицы, вероятно, дважды подумают, прежде чем попытаются напасть на нас."
+            e 13 "Я просто выполнял свой долг, Вождь Аксель."
+            a "Теперь я настроен праздноватт!"
+            e 1 "Что вы имеете в виду?"
+            a "Скоро наступит Праздник Огня. Это будет идеальное время, чтобы поднять дух быков."
+            e 1 "Я не знаком с этим фестивалем. "
+            a "Это то, что наш народ делал с древних времен."
+            a "Мы едим, пьем и танцуем всю ночь напролет, чтобы возблагодарить наших предков."
+            e 6 "Звучит забавно, а чем вы, ребята, обычно занимаетесь?"
+            a "Типичный праздничный хлам, мы поем песни наших предков, и обычно женщины и дети устраивали хорошее сценическое шоу."
+            a "Тебе понравится. Все, что мне нужно сделать, это убедиться, что у нас достаточно ресурсов для этого."
+            a "Я позову тебя, если нам понадобится помощь."
+            "Он откидывается на спинку трона."
+            a "Теперь у меня еще есть немного времени, чтобы убить. Тебе что-нибудь нужно, Блохастый?"
             jump Axel_tribe_talk1
         elif Quest.bomb_result == Nauxus:
             $ Time.aaxel = Time.days
@@ -806,39 +806,39 @@ label Axel_letter:
                 scene tribe 1 with vslow_dissolve
             elif True:
                 scene tribe 1n with vslow_dissolve
-            "You head for the chief’s tent wondering what happened to his plans to attack the lizard village. "
+            "Вы направляетесь к пшатру Вождя, гадая, что случилось с его планами напасть на деревню ящеров. "
             if Time.hours >= 6 and Time.hours <= 17:
                 scene tent 1 with vslow_dissolve
             elif True:
                 scene tent 1n with vslow_dissolve
-            "Strangely the guards who are usually outside of the tent are nowhere to be found."
-            "The moment your hand touches the tent’s door you hear Axel shouting!"
-            a "What kind of an imbecile are you?" with vpunch
-            a "Don’t you realize how much trouble you got yourself into?"
-            a "You’re a fucking traitor now!"
-            a "Do you think it’s easy to cover this up?"
-            t "I don’t need you to cover anything up!"
-            t "I did what I had to do, to stop you from crossing over into becoming a tyrant!"
-            a "Why are you being so difficult? This is a war!"
-            a "I’m doing what it takes to keep you and the village safe!"
-            a "That bomb was a calculated attack, it was just to scare them off our backs!"
-            t "You don’t know it would have worked!"
-            t "And if I didn’t stop you now, you’re just going to escalate, and escalate!"
-            a "Enough! You can plant your ungrateful ass on your rock and sit there until all of this is over! "
-            t "I’m a grown bull, you can’t ground me!"
-            a "Just watch me, I am chief, my word is law! Thane, as of now your tools will be confiscated and locked away. "
-            a "And I’ll make sure if you so much as move from your rock I will come down hard on you like a thunderstorm!"
-            t "This isn’t over!"
+            "Странно, но охранников, которые обычно находятся за пределами шатра, нигде не видно."
+            "В тот момент, когда ваша рука касается двери шатра, вы слышите крик Акселя!"
+            a "Какой же ты идиот?" with vpunch
+            a "Неужели ты не понимаешь, во что вляпался?"
+            a "Теперь ты гребаный предатель!"
+            a "Думаешь, это легко скрыть?"
+            t "Мне не нужно, чтобы ты что-то скрывал!"
+            t "Я сделал то, что должен был сделать, чтобы не дать тебе превратиться в тирана!"
+            a "Почему с тобой так трудно? Это же война!"
+            a "Я делаю все возможное, чтобы обезопасить тебя и деревню!"
+            a "Эта бомба была рассчитанной атакой, просто чтобы спугнуть их с наших спин!"
+            t "Ты же не знаешь, что это сработало бы!"
+            t "И если я не остановлю тебя сейчас, ты будешь только усугублять, и усугублять!"
+            a "Довольно! Ты можешь посадить свою неблагодарную задницу на камень и сидеть там, пока все это не закончится! "
+            t "Я взрослый бык, ты не можешь меня посадить!"
+            a "Просто смотри на меня, я вождь, мое слово-закон! Тэйн, с этого момента ваши инструменты будут конфискованы и заперты. "
+            a "И я позабочусь о том, чтобы, если ты хотя бы сдвинешься со своей скалы, я обрушусь на тебя, как гроза!"
+            t "Это еще не конец!"
             show thane stand at center with dissolve
-            "Thane suddenly bursts out from the tent forcing you to the side."
+            "Тэйн внезапно выскакивает из шатра, отталкивая тебя в сторону."
             hide thane stand at center with dissolve
-            "He doesn’t even notice your presence."
-            a "Thane!" with vpunch
-            "He ignores his father’s call from the tent and continues walking down the lengthy steps. "
-            "You poke your head through the tent’s entrance only to have Axel throw a heavy axe that narrowly misses your head."
-            a "Get out!" with vpunch
-            "You regret doing that."
-            "Best to come back at a later time to talk to Axel and Thane."
+            "Он даже не замечает твоего присутствия."
+            a "Тейн!" with vpunch
+            "Он игнорирует зов отца из шатра и продолжает спускаться по длинным ступеням. "
+            "Ты просовываешь голову через вход в шатер в тот момент, когда Аксель бросает тяжелый топор, который едва не попадает тебе в голову."
+            a "Убирайся!" with vpunch
+            "Ты жалеешь об этом."
+            "Лучше вернуться позже, чтобы поговорить с Акселем и Тейном."
             jump Bull_tribe_map0
         elif Quest.bomb_result == Thane:
             $ Time.aaxel = Time.days
@@ -846,45 +846,45 @@ label Axel_letter:
                 scene tribe 1 with vslow_dissolve
             elif True:
                 scene tribe 1n with vslow_dissolve
-            "Before you can head over to your meeting spot, a bull warrior stops you."
-            "Bull warrior" "Hold it. The chief wants a word with you."
-            e 6 "Can’t he wait? I have a meeting with Thane."
-            "Bull warrior" "More reason for you to come along. Thane’s with him too."
-            "You feel queasy in the stomach. This does not sound good for you or Thane."
-            "You follow the warrior to the chief’s tent."
+            "Прежде чем вы успеваете направиться к месту встречи, вас останавливает воин-бык."
+            "Бык-воин" "Держи его. Вождь хочет поговорить с ним."
+            e 6 "Неужели он не может подождать? У меня встреча с Тейном."
+            "Бык-воин" "Еще одна причина, чтобы ты пошел со мной. Тэйн тоже с ним."
+            "Вы чувствуете тошноту в желудке. Это звучит не очень хорошо ни для тебя, ни для Тэйна."
+            "Ты следуешь за воином в шатер вождя."
             scene bulltent with vslow_dissolve
             show thane stand1 at left with dissolve
             show axel stand at right with dissolve
-            "Thane stands with his hands behind his back while he faces his father."
-            "The chief eyes you with the same angry look Nauxus gave you earlier."
-            e 1 "Chief Axel."
-            a "…"
+            "Тэйн стоит, заложив руки за спину, и смотрит на отца."
+            "Вождь смотрит на тебя таким же сердитым взглядом, каким раньше смотрел на тебя Наукс."
+            e 1 "Вождь Аксель."
+            a "..."
             hide axel stand at right with dissolve
-            "He stands up and passes through you and Thane."
-            "Poking his head out through the tent, you can hear him telling the guards outside to have an early break."
+            "Он встает и проходит сквозь тебя и Тэйна."
+            "Высунув голову из палатки, вы можете услышать, как он говорит охранникам снаружи, чтобы они сделали ранний перерыв."
             show axel stand at right with dissolve
-            a "So, I am not sure if you heard, but the bomb you delivered failed to go off."
-            a "Instead, the scout heard sneezing in the distance."
-            a "Know anything about that, Fleabag?"
-            e 1 "I can’t say. I just dropped the bomb off, the bull checked it and I left."
-            a "Really? You didn’t stop anywhere and maybe switched the bombs?"
-            e 1 "No."
-            "You try to deny it as convincingly as you can."
-            "Axel strokes his chin and looks at you suspiciously."
-            t "Where’s your proof? If you’re going to accuse people of things, you better have evidence."
-            a "Proof?" with vpunch
-            "Axel slams his fist on his armchair."
-            a "You want proof? I was there when the bomb was made!"
-            a "And I am bloody sure I didn’t put sneezing powder in it!"
-            "Axel points accusingly at Thane."
-            a "There’s only one bull in the whole village that I know who has the skills to make a decoy fast enough. "
-            t "…"
-            "Axel stands up, and approaches Thane who evades his gaze."
-            a "Son, tell me you didn’t have something to do with this."
-            t "…"
-            a "Thane!"
-            e 5 "He didn’t do anything. The bomb was just a dud!"
-            t "No, I did it. I switched the bomb when [name] wasn’t looking."
+            a "Так что я не уверен, слышали ли вы, но бомба, которую вы доставили, не сработала."
+            a "Вместо этого разведчик услышал чихание вдалеке."
+            a "Знаешь что-нибудь об этом, Блохастик?"
+            e 1 "- Не могу сказать. Я просто сбросил бомбу, бык проверил ее, и я ушел."
+            a "Действительно? Вы нигде не останавливались и, может быть, подменили бомбы?"
+            e 1 "Нет."
+            "Вы пытаетесь отрицать это так убедительно, как только можете."
+            "Аксель поглаживает подбородок и подозрительно смотрит на тебя."
+            t "Где твои доказательства? Если ты собираешься обвинять людей в чем-то, тебе лучше иметь доказательства."
+            a "Доказательства?" with vpunch
+            "Аксель стучит кулаком по трону."
+            a "Вам нужны доказательства? Я был там, когда делали бомбу!"
+            a "И я чертовски уверен, что не подсыпал в него чихающий порошок!"
+            "Аксель обвиняюще указывает на Тэйна."
+            a "Во всей деревне я знаю только одного быка, у которого есть навыки, чтобы сделать приманку достаточно быстро. "
+            t "..."
+            "Аксель встает и подходит к Тэйну, который избегает его взгляда."
+            a "Сынок, скажи мне, что ты не имеешь к этому никакого отношения."
+            t "..."
+            a "Тэйн!"
+            e 5 "Он ничего не сделал. Бомба была просто пустышкой!"
+            t "Нет, это сделал я. Я подменил бомбу, когда [name] не смотрел."
             e 5 "Thane!"
             "The chief’s son looks at you and shakes his head."
             a "You're lying, he put you up to this didn't he?"
@@ -953,7 +953,7 @@ label Axel_bomb_done:
         "As you trudge through the swamp, you’re unsure where exactly you’re supposed to find this bull."
         "Suddenly, a figure emerges from among the mangrove trees. It’s a bull warrior!"
         "Catapult Bull" "Hey, Brother Fleabag. I was told to expect you."
-        e 1 "Umm… yeah. Where’s the catapult?"
+        e 1 "Umm... yeah. Where’s the catapult?"
         "Catapult Bull" "It’s in position. Had to hide it under some leaves and vines."
         "Catapult Bull" "Now give me the bomb, I’ve been here for so long the mosquitoes are having a buffet with my blood."
         show bullbomb2 at center with slow_dissolve
@@ -968,7 +968,7 @@ label Axel_bomb_done:
         "He approaches, closer and closer."
         "And he pulls out a bag of coins."
         "Catapult Bull" "Here, your payment as Chief Axel instructed."
-        e 5 "Oh… ok."
+        e 5 "Oh... ok."
         "<[name] gained 250 coins>"
         $ jane_inv.take(coin,250)
         "Catapult Bull" "Yup, now get out of here. I have work to do."
@@ -996,7 +996,7 @@ label Axel_bomb_done:
         "As you trudge through the swamp, you’re unsure where exactly you’re supposed to find this bull."
         "Suddenly, a figure emerges from among the mangrove trees. It’s a bull warrior!"
         "Catapult Bull" "Hey, Brother Fleabag. I was told to expect you."
-        e 1 "Umm… yeah. Where’s the catapult?"
+        e 1 "Umm... yeah. Where’s the catapult?"
         "Catapult Bull" "It’s in position. Had to hide it under some leaves and vines."
         "Catapult Bull" "Now give me the bomb, I’ve been here for so long the mosquitoes are having a buffet with my blood."
         show bullbomb at center with slow_dissolve
@@ -1005,7 +1005,7 @@ label Axel_bomb_done:
         "He sniffs and knocks the bomb as though to inspect it."
         "Catapult Bull" "Alright, looks good."
         "Catapult Bull" "You might not want to be here when this thing is lit, this rudimentary catapult might just break and then we both might lose a limb or two."
-        e 13 "Alright, then… Axel mentioned something about collecting my reward from you?"
+        e 13 "Alright, then... Axel mentioned something about collecting my reward from you?"
         "Catapult Bull" "Oh yeah, here."
         "<[name] gained 400 coins>"
         "<[name] gained one Level-up-point.>"
@@ -1019,7 +1019,7 @@ label Axel_bomb_done:
         "You’re careful to distort your footprints left behind on the muddy ground."
         play sound "music/bomb-big.ogg"
         "As you make your way to the entrance of the swamp you hear a loud explosion from behind you, followed by harrowing screams."
-        "You hesitate to turn back… but you don’t."
+        "You hesitate to turn back... but you don’t."
         "Clutching your fists you continue walking."
         "The job is done."
         $ Quest.bombt =5
@@ -1070,15 +1070,15 @@ label Axel_festival:
                     a "You’re looking for around 500 pieces of fruit."
                     a "Also,dispose of this while you’re at it."
                     "He hands you the half eaten apple."
-                    e 1 "Oh…"
+                    e 1 "Oh..."
                     e 1 "I’ll hang on to it, in case I have trouble tracking the criminal."
-                    a "One last thing before you go… it’s about Thane."
+                    a "One last thing before you go... it’s about Thane."
                     if Thane.movein == 0:
                         "Axel hans you a note."
                         "{u}{i}Gone out to hunt. Don’t wait for me.\n——Thane{/i}{/u}"
                         a "We found the note on his rock."
                         a "Did you see him on your way here?"
-                        e 1 "Err… no. "
+                        e 1 "Err... no. "
                         a "Hmm, so my ever defiant son wants to skip out on the festival."
                         a "He has no idea how disgraceful this will look with his seat empty."
                         e 1 "Maybe he needs some space after all that’s happened."
@@ -1092,7 +1092,7 @@ label Axel_festival:
                         e 6 "Coming back? I’m not sure I know what you mean Chief Axel."
                         a "Don’t play dumb, I know he’s staying in the tavern."
                         a "I have my sources."
-                        e 1 "… Fine, he’s in the tavern and no, he didn’t mention anything about coming back."
+                        e 1 "... Fine, he’s in the tavern and no, he didn’t mention anything about coming back."
                         a "Utterly irresponsible. He has no idea how disgraceful this will be with his seat empty during the ceremony."
                         e 13 "Maybe give him some space, a lot has happened recently."
                         a "He can have all the space he wants."
@@ -1106,7 +1106,7 @@ label Axel_festival:
                         $ renpy.music.set_pause(True, channel='Axel')
                         e 13 "Both villages have been hit by the fruit thief."
                         e 13 "The timing is way too perfect to be coincidental."
-                        e 1 "Not to mention…"
+                        e 1 "Not to mention..."
                         "You pull out the half eaten fruits you got from both villages."
                         e 1 "The bite marks on these two fruits are identical."
                         e 13 "So, I’m just dealing with one monster. "

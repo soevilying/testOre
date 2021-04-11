@@ -196,7 +196,7 @@ translate Thai Witer_meet_487a6b81:
 translate Thai Witer_meet_208cdba6:
 
 
-    w "[name], that was… I mean, what can I do for you today?"
+    w "[name], that was... I mean, what can I do for you today?"
 
 
 translate Thai Witer_meet_c6d88565:
@@ -244,7 +244,7 @@ translate Thai Witer_meet_b9177b4b:
 translate Thai Witer_meet_a5fa6f5b:
 
 
-    w "You know, Hakan snores, hehehe… So, what do you need?"
+    w "You know, Hakan snores, hehehe... So, what do you need?"
 
 
 translate Thai Witer_meet_5c70e13a:
@@ -340,7 +340,7 @@ translate Thai Witer_meet_d316821a:
 translate Thai Witer_meet_e1d9eb01:
 
 
-    e 13 "Witer… I-"
+    e 13 "Witer... I-"
 
 
 translate Thai Witer_meet_9b183456:
@@ -364,13 +364,13 @@ translate Thai Witer_meet_84d9d188:
 translate Thai Witer_meet_6d9b9cd7:
 
 
-    w "Is it… is the trouble going to end?"
+    w "Is it... is the trouble going to end?"
 
 
 translate Thai Witer_meet_156ec377:
 
 
-    e 13 "…"
+    e 13 "..."
 
 
 translate Thai Witer_meet_507e2838:
@@ -790,7 +790,7 @@ translate Thai Witer_menu_ce2da688_1:
 translate Thai Witer_chattree_4c5acc60:
 
 
-    e 1 "I err… never got a chance to talk to you last night."
+    e 1 "I err... never got a chance to talk to you last night."
 
 
 translate Thai Witer_chattree_9fb8d09e:
@@ -1132,7 +1132,7 @@ translate Thai Witer_chattree_f3399278:
 translate Thai Witer_chattree_bf48148a:
 
 
-    e 4 "Just now was…"
+    e 4 "Just now was..."
 
 
 translate Thai Witer_chattree_f809c651:
@@ -1210,7 +1210,7 @@ translate Thai Witer_chattree_1487a14b:
 translate Thai Witer_chattree_05be16db:
 
 
-    w "I… I don’t know how they are doing now."
+    w "I... I don’t know how they are doing now."
 
 
 translate Thai Witer_chattree_438d6606:
@@ -1372,7 +1372,7 @@ translate Thai Witer_chattree_c36bb010:
 translate Thai Witer_chattree_5bdc026c:
 
 
-    e 6 "Yeah…"
+    e 6 "Yeah..."
 
 
 translate Thai Witer_chattree_d9f534b2:
@@ -1942,7 +1942,7 @@ translate Thai Witer_chattree_0eed9f47:
 translate Thai Witer_chattree_1f6312b7:
 
 
-    e 13 "Hmm…"
+    e 13 "Hmm..."
 
 
 translate Thai Witer_chattree_40bb587b:
@@ -1990,7 +1990,7 @@ translate Thai Witer_chattree_83820d76:
 translate Thai Witer_chattree_d73d0b3d:
 
 
-    e 7 "More…. Ummm, more like seducing them into not fighting you?"
+    e 7 "More.... Ummm, more like seducing them into not fighting you?"
 
 
 translate Thai Witer_chattree_1048d6da:
@@ -2422,7 +2422,7 @@ translate Thai Witer_bj_c2ecfcb6:
 translate Thai Witer_bj_0d62d196:
 
 
-    w "Smart birdie. So…"
+    w "Smart birdie. So..."
 
 
 translate Thai Witer_bj_6dd06bf7:
@@ -2440,7 +2440,7 @@ translate Thai Witer_bj_270d4983:
 translate Thai Witer_bj_b5bf96a2:
 
 
-    e 6 "Just…Do what you want."
+    e 6 "Just...Do what you want."
 
 
 translate Thai Witer_bj_d6fe0fd9:
@@ -2764,13 +2764,13 @@ translate Thai Witer_bj_b3e73fb0:
 translate Thai Witer_sw_73a06e4b:
 
 
-    w "He doesn’t know…"
+    w "He doesn’t know..."
 
 
 translate Thai Witer_sw_3d987d9d:
 
 
-    w "We’ll get out of here soon…"
+    w "We’ll get out of here soon..."
 
 
 translate Thai Witer_sw_559291b2:
@@ -2830,7 +2830,7 @@ translate Thai Witer_sw_d85405a2:
 translate Thai Witer_sw_e04c6bd3:
 
 
-    w "Oh, heh. Silly me, I must have been having such a wonderful dream I was sleepwalking. Hehehe…"
+    w "Oh, heh. Silly me, I must have been having such a wonderful dream I was sleepwalking. Hehehe..."
 
 
 translate Thai Witer_sw_90b0ed08:
@@ -2872,13 +2872,13 @@ translate Thai Witer_sw_9bd3ba38:
 translate Thai Witer_sw_0d2a0f7c:
 
 
-    w "…"
+    w "..."
 
 
 translate Thai Witer_sw_5ae044a9:
 
 
-    w "… It's stupid. Don't worry about it."
+    w "... It's stupid. Don't worry about it."
 
 
 translate Thai Witer_sw_7aa2df27:
@@ -2902,7 +2902,7 @@ translate Thai Witer_sw_14ced14b:
 translate Thai Witer_sw_73d8f2f1:
 
 
-    w "I think… there's a ghost that wants to kill me."
+    w "I think... there's a ghost that wants to kill me."
 
 
 translate Thai Witer_sw_9cbf006b:
@@ -2944,7 +2944,7 @@ translate Thai Witer_sw_ec804359:
 translate Thai Witer_sw_e91a452d:
 
 
-    w "Then tap… then again and again… the tapping wouldn't stop."
+    w "Then tap... then again and again... the tapping wouldn't stop."
 
 
 translate Thai Witer_sw_c0450448:
@@ -2956,7 +2956,7 @@ translate Thai Witer_sw_c0450448:
 translate Thai Witer_sw_d91caae0:
 
 
-    w "Then I … I saw it!" with vpunch
+    w "Then I ... I saw it!" with vpunch
 
 
 translate Thai Witer_sw_7d8cd195:
@@ -3010,7 +3010,7 @@ translate Thai Witer_sw_d4b3d1a8:
 translate Thai Witer_sw_e1c43efa:
 
 
-    w "I just… I don’t know what to do."
+    w "I just... I don’t know what to do."
 
 
 translate Thai Witer_sw_028db24c:
@@ -3628,7 +3628,7 @@ translate Thai witer_cowboy_059706d3:
 translate Thai witer_cowboy_5203c098:
 
 
-    e 9 "W-Whoa…ah!"
+    e 9 "W-Whoa...ah!"
 
 
 translate Thai witer_cowboy_ceba20cc:
@@ -3736,7 +3736,7 @@ translate Thai witer_cowboy_55bfb013:
 translate Thai witer_cowboy_48357656:
 
 
-    w "A-ah...yes…that’s it."
+    w "A-ah...yes...that’s it."
 
 
 translate Thai witer_cowboy_d48cdd59:
@@ -3838,7 +3838,7 @@ translate Thai witer_cowboy_b1aff357:
 translate Thai witer_cowboy_cea42bfa:
 
 
-    e 0 "I...ah, I'm gonna…"
+    e 0 "I...ah, I'm gonna..."
 
 
 translate Thai witer_cowboy_e9607e97:

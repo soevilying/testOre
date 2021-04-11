@@ -16,7 +16,7 @@ label Parif_meet:
     "Witer is desperately tugging at the other end of his tail trying to break free."
     "Snow is on his knees in front of the deer."
     "His eyes are wide open with horror, ears flat and every part of his body trembles more than a leaf against the wind."
-    e 5 "Stop! Put down your weapon! Your… pan?"
+    e 5 "Stop! Put down your weapon! Your... pan?"
     "Yes, the deer was angrily pointing at Snow with a pan."
     "Deer" "How dare you soil my precious ingredients by using them for your disgusting jerky?!" with vpunch
     s "{size=-7}The recipe was too complicated to follow.{size=-9}So I just simplified it."
@@ -27,7 +27,7 @@ label Parif_meet:
     "Deer" "Don’t think you’re off the hook."
     "Deer" "I taught you how to make my dishes too, and you let him cook up this inedible trash!"
     "Hakan who's sitting next to you is just slapping his knee laughing at the spectacle before him."
-    e 9 "Err… is this still an assault?"
+    e 9 "Err... is this still an assault?"
     h "Not even close. It’s just that Parif’s back."
     "You store away your sword and approach the three of them."
     e 9 "Excuse me-"
@@ -93,7 +93,7 @@ label Parif_meet:
     p "{size=+8}No! You’ve made such a mess of this kitchen you’re the whole{/size}{size=+12} IDIOT SANDWICH!{/size}"
     s "{size=-8}I-"
     p "{size=+8}What are you?{/size}"
-    s "An… {size=-12}Idiot Sandwich...{/size}"
+    s "An... {size=-12}Idiot Sandwich...{/size}"
     p "{size=+12}IDIOT SANDWICH WHAT?{/size}" with vpunch
     s "{size=+12}An Idiot Sandwich, Chef Parif!{/size}" with vpunch
     "Parif pulls the two pieces of bread away and puts them back on the plate."
@@ -117,7 +117,7 @@ label Parif_meet:
     "You think he’s saying, “Idiot Sandwich.”"
     show parif stand at center with slow_dissolve
     p "Don’t worry though, I’ll make new jerkies for everyone and personally take over the cooking role here."
-    e 9 "I guess that’s… great?"
+    e 9 "I guess that’s... great?"
     "You fear saying anything against the deer."
     "He exudes an overwhelming aura."
     p "You know if I take a good look, you bear a heavy resemblance to Snow over there."
@@ -215,7 +215,7 @@ label Parif_talk:
         e 1 "And...wow, I really can’t believe I’m meeting you. "
         p "How so eggshell?"
         e 1 "You’re the chef that left and keeps coming back here."
-        e 13 "I’m sorry, but… are you insane?"
+        e 13 "I’m sorry, but... are you insane?"
         "Parif shrugs nonchalantly."
         p "Maybe, but I didn’t come back for the laughs."
         p "This place is rich with ingredients, perfect for me to come up with new recipes."
@@ -242,7 +242,7 @@ label Parif_talk:
         e 6 "I’m just shocked you suddenly brought it up."
         "Parif laughs loudly."
         p "It’s just a simple comparison."
-        e 8 "(This guy… is a bit eccentric.)"
+        e 8 "(This guy... is a bit eccentric.)"
         e 6 "Looking forward to it, and to getting to know you better."
         p "Well you can ask me anything. I’m an open book."
         p "{color=#19c22a}You can talk to that hyena about the shovel, and the silly puppy should have a spare fishing rod."
@@ -278,7 +278,7 @@ label Parif_talk:
                             p "I just needed a fresh start from my old life."
                             e 1 "What was your old life about?"
                             p "Oh, it’s nothing important. You wouldn’t be interested."
-                            e 1 "Ok…?"
+                            e 1 "Ok...?"
                             "You sense some resistance from the chef."
                         "Where did you learn to cook" if True:
 

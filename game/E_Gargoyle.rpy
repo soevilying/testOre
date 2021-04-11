@@ -127,7 +127,7 @@ label battle_gargoyle_loop:
                     "You keep your guard up ready for its next attack."
                     "Then with a loud thud the gargoyle gets on all four."
                     e 0 "What is this?"
-                    "Gargoyle" "You win… you...stronger… give… mercy… give… heat."
+                    "Gargoyle" "You win... you...stronger... give... mercy... give... heat."
                     "The horny gargoyle turns around and presents its ass to you."
                     menu:
                         "Mate him" if True:
@@ -607,22 +607,22 @@ label battle_gargoyle_sex:
         zoom 1.05
     e 0 "Come here, you. You want this don’t you?"
     "You hold the gargoyle by the neck and turn him towards your face."
-    "Gargoyle" "Yes… warm good."
+    "Gargoyle" "Yes... warm good."
     e 0 "Warm huh, you mean you want my warm cock inside you? Filling you?"
     "The gargoyle whines louder."
     "You reach down and grasp the warm phallic meat between the gargoyle’s legs."
     "His member fills your entire hand and throbs excitedly as you rub it slowly."
-    "Gargoyle" "More warm… better… me like warm."
+    "Gargoyle" "More warm... better... me like warm."
     e 0 "Oh I will make you feel warm. Feel that rubbing against you?"
     "You slide your cock along the gargoyle’s taint."
     "Slowly, letting him feel the hardness of your dick press against his skin."
-    "Gargoyle" "Fuck… give me… warm cock!"
+    "Gargoyle" "Fuck... give me... warm cock!"
     e 0 "Shh, shh. I’m going to take my time with you."
     "With a beastly growl you grip the gargoyle’s cock tightly making him whimper like a beast in heat."
     "The beast tries to turn its head more towards you, you both lock eyes, your lips almost touching."
     "You try to position yourself just right but your dick slips along his ass crack smearing his hole with your pre."
     "Releasing his dick you grab your pulsating erection and guide it into the gargoyle’s waiting hole."
-    "Gargoyle" "Gah… thick!"
+    "Gargoyle" "Gah... thick!"
     show garg win2 with slow_dissolve:
         xpos 0.05 ypos -0.02
         zoom 1.05
@@ -670,7 +670,7 @@ label battle_gargoyle_sex:
     "The gargoyle groans and closes his eyes. "
     "Gently, you set his head on the ground and pull your deflated cock from his butt."
     hide garg win4 with slow_dissolve
-    "Gargoyle" "Warm…"
+    "Gargoyle" "Warm..."
     "Through the light of your torch you can see the gargoyle smiling."
     "Not wanting to take your chances once he wakes up you grab your things, and cut off a piece of the moss growing on the gargoyle’s wings."
     $ persistent.CG_gargoyle_win = True

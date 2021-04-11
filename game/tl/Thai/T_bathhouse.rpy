@@ -472,13 +472,13 @@ translate Thai Ebb_chattree_690bbe9d:
 translate Thai Ebb_chattree_a8ad843d:
 
 
-    eb "Hmm…"
+    eb "Hmm..."
 
 
 translate Thai Ebb_chattree_607438e8:
 
 
-    e 1 "I know you said before it was because he just got back from being kidnapped, but… he doesn’t even call you by name."
+    e 1 "I know you said before it was because he just got back from being kidnapped, but... he doesn’t even call you by name."
 
 
 translate Thai Ebb_chattree_dc857def:
@@ -490,7 +490,7 @@ translate Thai Ebb_chattree_dc857def:
 translate Thai Ebb_chattree_3720e745:
 
 
-    eb "My relationship with Young Master Flo… it’s marred by unfortunate events."
+    eb "My relationship with Young Master Flo... it’s marred by unfortunate events."
 
 
 translate Thai Ebb_chattree_b8887dea:
@@ -664,7 +664,7 @@ translate Thai Flo_chattree_cea1c7de:
 translate Thai Flo_chattree_e4dddd7e:
 
 
-    e 8 "Oh…"
+    e 8 "Oh..."
 
 
 translate Thai Flo_chattree_5a901a1f:
@@ -730,7 +730,7 @@ translate Thai Flo_chattree_a5f0e8de:
 translate Thai Flo_chattree_91020fed:
 
 
-    e 1 "What… what errr is so bad about Ebb?"
+    e 1 "What... what errr is so bad about Ebb?"
 
 
 translate Thai Flo_chattree_47229bf0:
@@ -790,7 +790,7 @@ translate Thai Flo_chattree_0ba2dcda:
 translate Thai Flo_chattree_2189e749:
 
 
-    e 1 "Flo…"
+    e 1 "Flo..."
 
 
 translate Thai Flo_chattree_545af9ba:
@@ -1054,13 +1054,13 @@ translate Thai bathhouse_bath_alone_c8facfc8:
 translate Thai bathhouse_bath_alone_ce617998:
 
 
-    "…"
+    "..."
 
 
 translate Thai bathhouse_bath_alone_ce617998_1:
 
 
-    "…"
+    "..."
 
 
 translate Thai bathhouse_bath_alone_55454af1:
@@ -2830,7 +2830,7 @@ translate Thai bathhouse_witer_bath_together_2d2cf662:
 translate Thai bathhouse_witer_bath_together_df1da0fd:
 
 
-    e 0 "Ah… This is the best."
+    e 0 "Ah... This is the best."
 
 
 translate Thai bathhouse_witer_bath_together_4bc47cec:
@@ -3040,7 +3040,7 @@ translate Thai bathhouse_witer_bath_together_talk_e18484a0:
 translate Thai bathhouse_witer_bath_together_talk_e3a0d4d5:
 
 
-    e 1 "Hmm…"
+    e 1 "Hmm..."
 
 
 translate Thai bathhouse_witer_bath_together_talk_aab0974b:
@@ -3298,7 +3298,7 @@ translate Thai bathhouse_witer_bath_together_talk_b1ff937c:
 translate Thai bathhouse_witer_bath_together_talk_8c518919:
 
 
-    w "I mean after all, you did say you’re happy with me just being safe… "
+    w "I mean after all, you did say you’re happy with me just being safe... "
 
 
 translate Thai bathhouse_witer_bath_together_talk_3b5899fb:
@@ -3340,7 +3340,7 @@ translate Thai bathhouse_witer_bath_together_talk_aece572d:
 translate Thai bathhouse_witer_bath_together_talk_e44f4f45:
 
 
-    w "Hmm…"
+    w "Hmm..."
 
 
 translate Thai bathhouse_witer_bath_together_talk_dc3535da:
@@ -3820,7 +3820,7 @@ translate Thai bathhouse_hakan_sauna_2d786aea:
 translate Thai bathhouse_hakan_sauna_97d22847:
 
 
-    "Several minutes passes… then you hear Hakan’s voice coming from the counter."
+    "Several minutes passes... then you hear Hakan’s voice coming from the counter."
 
 
 translate Thai bathhouse_hakan_sauna_467a1162:
@@ -3958,7 +3958,7 @@ translate Thai bathhouse_hakan_sauna_d625bfac:
 translate Thai bathhouse_hakan_sauna_0fd9e41d:
 
 
-    h "Not if you don’t mind us only being half clean, or perhaps…"
+    h "Not if you don’t mind us only being half clean, or perhaps..."
 
 
 translate Thai bathhouse_hakan_sauna_507acc3b:
@@ -4318,7 +4318,7 @@ translate Thai bathhouse_hakan_talk_13907c2e:
 translate Thai bathhouse_hakan_talk_8b455cce:
 
 
-    h "I… did…"
+    h "I... did..."
 
 
 translate Thai bathhouse_hakan_talk_7ae436d3:
@@ -4354,7 +4354,7 @@ translate Thai bathhouse_hakan_talk_539e1c67:
 translate Thai bathhouse_hakan_talk_5cfb1f3e:
 
 
-    h "… Something… happened."
+    h "... Something... happened."
 
 
 translate Thai bathhouse_hakan_talk_f70a0cde:
@@ -4408,7 +4408,7 @@ translate Thai bathhouse_hakan_talk_ef781838:
 translate Thai bathhouse_hakan_talk_240c9146:
 
 
-    e 9 "I… don’t know."
+    e 9 "I... don’t know."
 
 
 translate Thai bathhouse_hakan_talk_3e71dbbe:
@@ -4546,7 +4546,7 @@ translate Thai bathhouse_hakan_talk_0adfe0f7:
 translate Thai bathhouse_hakan_talk_e448900c:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Thai bathhouse_hakan_talk_2c4c25c6:
@@ -5266,7 +5266,7 @@ translate Thai bathhouse_hakan_sixnine_e2051c6d:
 translate Thai bathhouse_hakan_sixnine_7ae3c9fd:
 
 
-    e 0 "That was…"
+    e 0 "That was..."
 
 
 translate Thai bathhouse_hakan_sixnine_99cf0120:

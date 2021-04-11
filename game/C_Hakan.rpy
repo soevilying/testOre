@@ -23,7 +23,7 @@ label Hakan_meet:
         h "{size=+8}And I am not answering it, damn it. Get a clue.{/size}" with vpunch
         "You flinch back at how angrily Hakan spoke to you."
         "He quickly realizes what he’s doing and pulls himself back."
-        h "Sorry, please… just drop it."
+        h "Sorry, please... just drop it."
         e 1 "Ok, we can talk about other things."
         jump Hakan_talk
     if Roushk.hakan_e == 1:
@@ -74,7 +74,7 @@ label Hakan_meet:
         "You approach the grumpy looking dragon sitting across his unconscious friend."
         "His table reeks of alcohol you feel like someone punched you in the nose with a bottle of beer."
         e 1 "Hi, I’m [name]."
-        h "Muhh… buzz off."
+        h "Muhh... buzz off."
         e 5 "..."
         "The fur behind your back stands erect."
         "That was the opposite effect you expected."
@@ -121,7 +121,7 @@ label Hakan_meet:
                 e 8 "That’s coward’s talk."
                 h "No, that’s how you survive. Ah, enough of this."
                 h "You young blood will never understand. He never understood..."
-                e 1 " … Is this about your partner?"
+                e 1 " ... Is this about your partner?"
                 h "....."
                 e 13 "I understand..."
                 "Hakan turns back to his drink, it seems he is uninterested to continue the topic."
@@ -162,7 +162,7 @@ label Hakan_meet:
                 h "You know, that tussle with the lizard earlier has made me thirsty."
                 h "Heck, we should get a drink after you’re done dealing with them too. "
             elif True:
-                h "Grr…"
+                h "Grr..."
         jump Hakan_talk
     elif True:
 
@@ -228,7 +228,7 @@ label Hakan_talk:
         e 6 "Nothing much really."
         e 6 "You sang a couple of songs, made some lewd jokes and I took you back to your room."
         h "That’s it?"
-        e 13 "Well… you mentioned something about Pierro and a mimic box."
+        e 13 "Well... you mentioned something about Pierro and a mimic box."
         h "Oh."
         hide hakan stand with dissolve
         "The red dragon scratches his head and lets out a disgruntled sigh."
@@ -243,7 +243,7 @@ label Hakan_talk:
         h "Still, did I mention anything about getting into a fight in the tavern?"
         e 1 "No, when did that happen?"
         h "I’m not sure. Maybe it was just a dream."
-        h "A very vivid one, I was in the tavern fighting something off…"
+        h "A very vivid one, I was in the tavern fighting something off..."
         h "I couldn’t quite tell what it was, then we both stabbed each other with our swords. "
         h "There was blood everywhere, and then everything just faded away."
         e 1 "So you had a nightmare of you dying?"
@@ -256,7 +256,7 @@ label Hakan_talk:
         e 10 "Well,Yes. You were drunk. So, people say crazy things when they are drunk."
         "He suddenly leans in close, the smell of beer and vanilla is strong on his body."
         h "I still want to fuck you [name], and I want it now."
-        e 7 "… Wha- You’re joking aren’t you?"
+        e 7 "... Wha- You’re joking aren’t you?"
         e 7 "No, you must have hit your limit again."
         e 7 "You’re drunk, aren’t you?"
         h "I may be buzzed, Fuzz Butt, but I am sober enough to know I want that ass."
@@ -294,7 +294,7 @@ label Hakan_talk:
         e 7 "Plus, it was nice, I’m really glad we got to blow off some steam."
         h "Don’t mention it, I’m up for it again whenever you want."
         e 1 "Thanks, I’ll keep that in mind. And, uhh, about the kiss thing."
-        h "It’s nothing personal, I just… I don’t give out kisses to any bloke."
+        h "It’s nothing personal, I just... I don’t give out kisses to any bloke."
         h "I want it to be someone special who I can call my mate."
         e 13 "I see, does that mean I still have a chance to earn that kiss?"
         "Hakan smiles at you."
@@ -311,7 +311,7 @@ label Hakan_talk:
             e 13 "Not now Hakan."
             e 13 "My head’s all wound up after what happened to Thane in the village."
             h "He didn’t die did he?"
-            e 1 "No, but he could have. He… there was blood everywhere."
+            e 1 "No, but he could have. He... there was blood everywhere."
             h "Hmm."
             "He takes a sip of his beer."
             e 1 "What do I do? I feel so restless."
@@ -346,7 +346,7 @@ label Hakan_talk:
             e 5 "What? After all that’s happened the night, you’re in the mood for a story?"
             h "After the night, it’s exactly what I need. "
             h "No warrior can function if they are all dark and brooding all the time."
-            h "So share… Please?"
+            h "So share... Please?"
             e 13 "Ok!"
             "You join Hakan for a drink and tell him about the lizard festival."
         elif True:
@@ -441,7 +441,7 @@ label Hakan_talk:
                         "Hakan smiles and chuckles."
                         h "He didn’t even know how to hold a sword right."
                         "I had to teach him that and every time he tried to pick one up, he’d topple from its weight."
-                        h "Then he heard that rumor…"
+                        h "Then he heard that rumor..."
                         h "..."
                         "You wait for Hakan to continue but something about the way his forehead furrows tells you that he’s upset."
                         h "Sorry, I’m going to need something stronger to finish this story. "
@@ -471,7 +471,7 @@ label Hakan_talk:
                             "The match ends in minutes. Hakan’s arm barely budged the whole time."
                             e 5 "Best two out of three."
                             h "Hah, I won’t waste my time on you Fuzz Butt."
-                            e 12 "Grr…"
+                            e 12 "Grr..."
                             h "I’m the one who should be mad."
                             h "If you can’t even beat me, how can you say you will protect everyone here."
                             hide hakan stand with dissolve
@@ -488,13 +488,13 @@ label Hakan_talk:
                         elif True:
                             h "Grr..."
                             e 12 "Ngh."
-                            h "Rarghh…"
+                            h "Rarghh..."
                             "{b}{color=#19c22a}<Strength Check success>{/color}"
                             "Both of your arms tremble, neither side wanting to concede."
                             "Hakan’s eyes bulge out at you you almost think they would pop out of his skull."
                             "You let loose a mighty roar and slam Hakan’s hand onto the table, causing his drinking mug to jump a little."
                             h "Fuck, you actually beat me."
-                            e 13 "Huff..huff… I meant it when I said I’m not here for you job."
+                            e 13 "Huff..huff... I meant it when I said I’m not here for you job."
                             e 1 "I just want to help everyone out. Trust me."
                             "Hakan and you exchange strong glares at one another."
                             hide hakan stand with dissolve
@@ -564,7 +564,7 @@ label Hakan_talk:
                         e 1 "Yeah, I’m helping Ebb get Flo back."
                         h "Good, and while you’re at it, try to work in a good price for bringing the kid back."
                         h "Basic mercenary rule, don’t work for free."
-                        e 13 "Honestly I’m not even sure if I can save him in time…"
+                        e 13 "Honestly I’m not even sure if I can save him in time..."
                         h "Hey! "
                         hide hakan stand with dissolve
                         "Hakan slams the table with his mug of beer."
@@ -643,7 +643,7 @@ label Hakan_talk:
             h "Waaaiiii, bring muh drinxx."
             e 5 "You’ve had enough Hakan."
             e 5 "Snow’s not going to serve you any."
-            h "Buh… buh… Eyz. We got to celeplate."
+            h "Buh... buh... Eyz. We got to celeplate."
             stop music fadeout 1
             hide hakan stand with dissolve
             scene black with dissolve
@@ -690,7 +690,7 @@ label Hakan_talk:
             "Hakan has his tongue sticking out while he giggles at you."
             e 7 "I, heh. I’m flattered, but you’re drunk."
             h "Aww come on, lets just fuck."
-            e 10 "…"
+            e 10 "..."
             h "You’re so cute, just like Pierro."
             e 1 "Pierro?"
             "Hakan breaks his hug and pulls a hand back to stroke your face."
@@ -699,7 +699,7 @@ label Hakan_talk:
             h "It should’ve been me, not you."
             h "I let you open that chest without knowing better."
             h "I’m sorry, I couldn’t stop it."
-            e 13 "Hakan…"
+            e 13 "Hakan..."
             h "I wish I could’ve changed things."
             h "I wish I knew how to save you from that ghoul."
             h "I’m sorry."
@@ -886,7 +886,7 @@ label Hakan_ride:
                 "Panting heavily, you both look at each other with longing eyes."
         "You bend down for a kiss, but Hakan moves his head away."
         h "Sorry kid I don’t lock lips with fuck buddies."
-        e 0 "Oh…"
+        e 0 "Oh..."
         "He reaches out and strokes your face before pulling you in for a hug."
         "Hakan’s soft dick slides out of you, leaving you feeling slightly empty inside."
         $ Hakan.quest = 11

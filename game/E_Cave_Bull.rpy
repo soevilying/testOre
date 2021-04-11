@@ -211,7 +211,7 @@ label battle_cave_bull_win:
         hide screen battle_menu
         hide screen battle_skill
         hide screen battle_item
-        "Ghost Bull Warrior" "Finally…"
+        "Ghost Bull Warrior" "Finally..."
         scene cave 1 with dissolve
         "The ghost bull warrior and his brethren fade into nothingness."
         "Their forms disintegrate into dust that fade into oblivion."

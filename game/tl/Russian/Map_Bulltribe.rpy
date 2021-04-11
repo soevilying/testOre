@@ -460,7 +460,7 @@ translate Russian Bull_tribe_map_a5bc6e8e:
 translate Russian Bull_tribe_map_631f588f:
 
 
-    e 9 "I…"
+    e 9 "I..."
 
 
 translate Russian Bull_tribe_map_ad98d103:
@@ -490,7 +490,7 @@ translate Russian Bull_tribe_map_0d0a5b5f:
 translate Russian Bull_tribe_map_d8d3541b:
 
 
-    e 13 "I… I will do it."
+    e 13 "I... I will do it."
 
 
 translate Russian Bull_tribe_map_83c601e8:
@@ -526,13 +526,13 @@ translate Russian Bull_tribe_map_2a2e8ce2:
 translate Russian Bull_tribe_map_2504d4f7:
 
 
-    t "He … he doesn’t usually like meeting outsiders."
+    t "He ... he doesn’t usually like meeting outsiders."
 
 
 translate Russian Bull_tribe_map_55b5b976:
 
 
-    t "I… I shouldn’t have gotten you involved."
+    t "I... I shouldn’t have gotten you involved."
 
 
 translate Russian Bull_tribe_map_b1873c67:
@@ -772,7 +772,7 @@ translate Russian Bull_tribe_map_2ee2381f:
 translate Russian Bull_tribe_map_c54ee461:
 
 
-    t "…"
+    t "..."
 
 
 translate Russian Bull_tribe_map_348cc108:
@@ -790,7 +790,7 @@ translate Russian Bull_tribe_map_da8c4eb0:
 translate Russian Bull_tribe_map_41f00a20:
 
 
-    e 13 "Thanks…"
+    e 13 "Thanks..."
 
 
 translate Russian Bull_tribe_map_12101e07:
@@ -1108,7 +1108,7 @@ translate Russian Bull_tribe_map_ce9a4178:
 translate Russian Bull_tribe_map_f9e02336:
 
 
-    a "But since I’m in a good mood today, I will let you pass …"
+    a "But since I’m in a good mood today, I will let you pass ..."
 
 
 translate Russian Bull_tribe_map_ee1d96fe:
@@ -1966,7 +1966,7 @@ translate Russian Bull_tribe_map_c05bf656:
 translate Russian Bull_tribe_map_3bff6f2e:
 
 
-    "Female bull" "My baby… when will you come home?"
+    "Female bull" "My baby... when will you come home?"
 
 
 translate Russian Bull_tribe_map_6c91d3fe:
@@ -2188,7 +2188,7 @@ translate Russian Room3_b330a84b:
 translate Russian Room3_507deefc:
 
 
-    e 11 "Ugh, I can’t… I can’t hold it in anymore."
+    e 11 "Ugh, I can’t... I can’t hold it in anymore."
 
 
 translate Russian Room3_8f87b139:
@@ -2224,7 +2224,7 @@ translate Russian Room3_432fc67b:
 translate Russian Room3_cf4f85fc:
 
 
-    "Your balls… your balls feels so full."
+    "Your balls... your balls feels so full."
 
 
 translate Russian Room3_8da061e7:
@@ -2236,7 +2236,7 @@ translate Russian Room3_8da061e7:
 translate Russian Room3_52c5aa35:
 
 
-    e 11 "Hngh…"
+    e 11 "Hngh..."
 
 
 translate Russian Room3_dacd1d68:
@@ -2296,7 +2296,7 @@ translate Russian Room3_dd72ff9f:
 translate Russian Room3_bc8c1bbf:
 
 
-    "You pant louder and louder until…"
+    "You pant louder and louder until..."
 
 
 translate Russian Room3_862c2694:
@@ -2338,7 +2338,7 @@ translate Russian bull_lick_1d0ff506:
 translate Russian bull_lick_edc614c8:
 
 
-    "Groggy Voice" "Ugh,,, no more… Cecilia… no more."
+    "Groggy Voice" "Ugh,,, no more... Cecilia... no more."
 
 
 translate Russian bull_lick_6faabb5f:
@@ -2602,7 +2602,7 @@ translate Russian bull_lick_3fe982e7:
 translate Russian bull_lick_37a82873:
 
 
-    "Drunk Bull" "Yeah… suck it…"
+    "Drunk Bull" "Yeah... suck it..."
 
 
 translate Russian bull_lick_6f2cc0df:
@@ -2656,7 +2656,7 @@ translate Russian bull_lick_d2f1f5ec:
 translate Russian bull_lick_3c7e17c0:
 
 
-    "Drunk Bull" "Yeah, that’s it girl, put...your whole… on it… I promise it won’t hurt this time."
+    "Drunk Bull" "Yeah, that’s it girl, put...your whole... on it... I promise it won’t hurt this time."
 
 
 translate Russian bull_lick_477f4dc3:
@@ -2746,7 +2746,7 @@ translate Russian bull_lick_3badfb01:
 translate Russian bull_lick_da680fa5:
 
 
-    e 0 "Mmm...mmm….mmmfff."
+    e 0 "Mmm...mmm....mmmfff."
 
 
 translate Russian bull_lick_9db0e54e:

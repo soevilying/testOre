@@ -16,13 +16,13 @@ translate Russian battle_kid_46b1a9b8:
 translate Russian battle_kid_a367155c:
 
 
-    "It reads…"
+    "It reads..."
 
 
 translate Russian battle_kid_e5b5d8cb:
 
 
-    "{u}{i}{color=#d41b19}Dear GOD…. Help me, they’re still here!{/i}{/u}{/color}"
+    "{u}{i}{color=#d41b19}Dear GOD.... Help me, they’re still here!{/i}{/u}{/color}"
 
 
 translate Russian battle_kid_84eb20ac:
@@ -52,7 +52,7 @@ translate Russian battle_kid_c8e19369:
 translate Russian battle_kid_52d326a8:
 
 
-    "{u}{i}{color=#d41b19}They torment me… the voices… they torment me… {/i}{/u}{/color}"
+    "{u}{i}{color=#d41b19}They torment me... the voices... they torment me... {/i}{/u}{/color}"
 
 
 translate Russian battle_kid_7856283f:

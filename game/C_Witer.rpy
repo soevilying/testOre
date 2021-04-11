@@ -58,7 +58,7 @@ label Witer_meet:
         jump Witer_menu
     if Chet.tree == 1:
         show witer stand1 at center with dissolve
-        w "[name], that was… I mean, what can I do for you today?"
+        w "[name], that was... I mean, what can I do for you today?"
         jump Witer_menu
     elif Time.days >= 6 and Snow.basement >= 2 and Witer.sleep == 0:
         show witer sleep1 at center with dissolve
@@ -71,7 +71,7 @@ label Witer_meet:
         w "Yes uhh, I take orders."
         e 13 "Witer, are you ok? You were asleep while standing there."
         w "I am, I am. Just been tough getting some sleep lately."
-        w "You know, Hakan snores, hehehe… So, what do you need?"
+        w "You know, Hakan snores, hehehe... So, what do you need?"
         "Witer looks like he hasn’t slept in days."
         show witer stand1 at center with dissolve
         $ Witer.sleep = 1
@@ -106,12 +106,12 @@ label Witer_meet:
         $ Quest.fes_witer = 1
         show witer stand at center with dissolve
         if Thane.movein != 2 and Quest.fes_result == Axel:
-            e 13 "Witer… I-"
+            e 13 "Witer... I-"
             "Witer pulls you in for a hug."
             w "Shh, you’re still hurting. I can see the look in your eyes."
             "You don’t say anything, and just rest your eyes while in the alligator’s embrace."
-            w "Is it… is the trouble going to end?"
-            e 13 "…"
+            w "Is it... is the trouble going to end?"
+            e 13 "..."
             e 1 "Not yet, no."
             "Witer breathes deeply."
             w "Then I’ll be here to support you until it is."
@@ -248,7 +248,7 @@ label Witer_meet:
                 label Witer_chattree:
                     menu:
                         "Talk about Witer" if Chet.slime <= 2 and Witer.bj == False and Witer.squat < 4 and Witer.sleep < 7:
-                            e 1 "I err… never got a chance to talk to you last night."
+                            e 1 "I err... never got a chance to talk to you last night."
                             w "Aww, you’re cute but I’m on the clock."
                             w "The old man will not be happy if he catches me chatting up the customers. "
                             w "Maybe next time handsome."
@@ -316,7 +316,7 @@ label Witer_meet:
                             "You play along and toast your imaginary mugs of beer."
                             jump Witer_chattree
                         "Ask about Witer’s escort service" if Witer.bj == True and Witer.squat < 4:
-                            e 4 "Just now was…"
+                            e 4 "Just now was..."
                             "Witer puts a finger to your lips."
                             w "You don’t need to say anything. It would be too awkward."
                             e 4 "Haha, yea. Have you always been an escort before the tavern?"
@@ -331,7 +331,7 @@ label Witer_meet:
                             "Witer looks to the floor with somber eyes."
                             "His voice cracks a little when he starts talking again."
                             show witer stand1 at center with dissolve
-                            w "I… I don’t know how they are doing now."
+                            w "I... I don’t know how they are doing now."
                             w "Walden always acted more mature for his age."
                             w "Always wanting to help me out to get the coins to support our family,"
                             w "But I didn’t want him to abandon his apprenticeship with the local tailor."
@@ -362,7 +362,7 @@ label Witer_meet:
                             e 1 "That raises more questions than answers."
                             w "I find it easier not to think too much about it."
                             w "Just be glad we have a place to sleep in, away from what's outside."
-                            e 6 "Yeah…"
+                            e 6 "Yeah..."
                             w "Anything else you wanted to know?"
                             jump Witer_chattree
                         "Opinion on bull tribe" if Witer.squat >= 4 and Thane.quest >= 5:
@@ -495,7 +495,7 @@ label Witer_meet:
                     w "It’s always the same scene, me running away from some large shadow."
                     w "I keep running through the forest but it keeps bringing me back to the tavern."
                     w "Then it gets me. That’s about it really."
-                    e 13 "Hmm…"
+                    e 13 "Hmm..."
                     w "Thank again [name]. I don’t know how to repay you."
                     e 3 "Just get enough sleep, and be the tavern’s number one waiter again."
                     w "You got it!"
@@ -508,7 +508,7 @@ label Witer_meet:
                     e 1 "Hey, I learnt a new move from Nauxus to defend against monsters, you gotta see it."
                     w "Now why would I do that? I can’t stand fighting."
                     e 6 "Well I won’t really call it fighting."
-                    e 7 "More…. Ummm, more like seducing them into not fighting you?"
+                    e 7 "More.... Ummm, more like seducing them into not fighting you?"
                     w "You seduce the enemy? Now that I have to see."
                     w "I know a thing or two about mesmerizing people to get out of a sticky situation."
                     w "Maybe I can give you some tips."
@@ -621,10 +621,10 @@ label Witer_bj:
     "His protruding brown pecs obscure your view of his face."
     w "How’d you know about my side business?"
     e 4 "A little birdie told me."
-    w "Smart birdie. So…"
+    w "Smart birdie. So..."
     "He leans in close and blows into your right ear."
     w "How can I serve you?"
-    e 6 "Just…Do what you want."
+    e 6 "Just...Do what you want."
     hide witer stand with dissolve
     "The alligator kisses you on the cheek and slides down along your chest."
     "His hand brushes against your nipples."
@@ -713,8 +713,8 @@ label Witer_bj:
 label Witer_sw:
     scene basement 1 with dissolve
     show witer sleep at center with dissolve
-    w "He doesn’t know…"
-    w "We’ll get out of here soon…"
+    w "He doesn’t know..."
+    w "We’ll get out of here soon..."
     "You decide to yell at Witer."
     e 1 "WITER!" with vpunch
     show witer stand at center with dissolve
@@ -725,30 +725,30 @@ label Witer_sw:
     e 13 "I was hoping you’d tell me."
     e 1 "You’ve been acting really weird Witer, and that worries me."
     e 1 "I heard something from down below on my way to the washroom so I came down to check."
-    w "Oh, heh. Silly me, I must have been having such a wonderful dream I was sleepwalking. Hehehe…"
+    w "Oh, heh. Silly me, I must have been having such a wonderful dream I was sleepwalking. Hehehe..."
     "You sigh and cross your arms."
     w "I'm sorry to have made you worry about me."
     w "How about I take you back upstairs and treat you to some one on one time."
     "He tries to reach for your bulge but you grab him by the wrist."
     e 1 "Witer, what's really going on?"
     e 13 "You can't pretend there isn't something bothering you. I'm worried."
-    w "…"
-    w "… It's stupid. Don't worry about it."
+    w "..."
+    w "... It's stupid. Don't worry about it."
     e 1 "Enough with telling me not to worry. Witer, please."
     hide witer stand with dissolve
     "Witer looks you in the eye with a soreful expression, almost teary."
     "The dark rings under his eyes look worse now."
     show witer stand at center with dissolve
-    w "I think… there's a ghost that wants to kill me."
+    w "I think... there's a ghost that wants to kill me."
     e 5 "What?"
     w "It started a few nights ago."
     w "I was asleep as usual with Hakan when I heard a knocking from the basement window."
     w "I'm a light sleeper so I heard it too well."
     w "When I looked up, there was nothing there at first."
     w "So, I figured it was just my imagination."
-    w "Then tap… then again and again… the tapping wouldn't stop."
+    w "Then tap... then again and again... the tapping wouldn't stop."
     w "I kept turning in my bed just wishing it would stop."
-    w "Then I … I saw it!" with vpunch
+    w "Then I ... I saw it!" with vpunch
     w "A stone no bigger than the palm of my hand tapping itself against the glass."
     w "It was moving on its own!"
     w "I couldn't breathe. I tried to wake Hakan up but he just wouldn't budge."
@@ -757,7 +757,7 @@ label Witer_sw:
     w "He wasn't convinced but we gathered as many of the rocks there and tossed it into the river."
     w "But the damn tapping came back the next night. The rock was back!"
     w "Hakan didn't want to help me find it again, he said I was getting paranoid."
-    w "I just… I don’t know what to do."
+    w "I just... I don’t know what to do."
     w "Am I going crazy? Maybe I'm just losing it. "
     "Witer looks to the ground, shoulders drooping."
     "He looks like a completely different person than the alligator you first met."
@@ -924,7 +924,7 @@ label witer_cowboy:
     "His large paw wraps behind your fuzzy orbs and tugs on them gently. "
     w "Give me!"
     "The alligator pushes against you and growls, you gasp at how good his hand feels. "
-    e 9 "W-Whoa…ah!"
+    e 9 "W-Whoa...ah!"
     if Witer.nipplesen == 1:
         "Witer’s other hand rubs across your chest and begins playing with your nipple."
 
@@ -953,7 +953,7 @@ label witer_cowboy:
             play sound "<from 6 to 7>music/Fucking_Wet_Climax_01.ogg"
             "The fat head of your cock pops right into the Witer’s tight ass."
             "Soon all you can feel is the hot and tight muscles of the waiter’s ass engulf your whole length as Witer leans back to sit on your dick."
-            w "A-ah...yes…that’s it."
+            w "A-ah...yes...that’s it."
             show witer cowboyb4 with slow_dissolve
             "The alligator begins to rock his hips on your crotch. "
             "His powerful hands press against your chest to balance himself as he starts to grind into your cock."
@@ -975,7 +975,7 @@ label witer_cowboy:
             "The bed creaks and thumps against the wall of your room as Witer continues to bottom out upon your rod."
             "The slaps of his ass cheeks grow louder as you feel yourself quickly getting close to eruption."
             "You can see the candle light glisten as Witer's own hard cock leaks upon your belly."
-            e 0 "I...ah, I'm gonna…"
+            e 0 "I...ah, I'm gonna..."
             "You feel the gator's hole tighten as Witer slams down, pushing your cock as deep as it would go inside him. "
             w "Oh fuck yeah...fill me!"
             stop music fadeout 0.5

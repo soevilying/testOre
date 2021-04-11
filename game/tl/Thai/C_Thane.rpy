@@ -208,13 +208,13 @@ translate Thai Thane_talk_25059095:
 translate Thai Thane_talk_6e728b5a:
 
 
-    t "As I journeyed through the path I noticed that my…"
+    t "As I journeyed through the path I noticed that my..."
 
 
 translate Thai Thane_talk_691bff0c:
 
 
-    t "That my… stomach was rumbling."
+    t "That my... stomach was rumbling."
 
 
 translate Thai Thane_talk_bfe065e6:
@@ -232,7 +232,7 @@ translate Thai Thane_talk_30c97f71:
 translate Thai Thane_talk_131fead0:
 
 
-    t "Then… errr… I forgot I’m heavier than when I was a calf…"
+    t "Then... errr... I forgot I’m heavier than when I was a calf..."
 
 
 translate Thai Thane_talk_a3c70400:
@@ -628,7 +628,7 @@ translate Thai Thane_tribe_talk_2f2bf67b:
 translate Thai Thane_tribe_talk_ba86f7f5:
 
 
-    t "Hmm…"
+    t "Hmm..."
 
 
 translate Thai Thane_tribe_talk_e6558fce:
@@ -778,7 +778,7 @@ translate Thai Thane_tribe_talk_e6680725:
 translate Thai Thane_tribe_talk_ce617998:
 
 
-    "…"
+    "..."
 
 
 translate Thai Thane_tribe_talk_dc5fd341:
@@ -856,7 +856,7 @@ translate Thai Thane_tribe_talk_94f84543:
 translate Thai Thane_tribe_talk_e4ae3df8:
 
 
-    e 13 "Thane…"
+    e 13 "Thane..."
 
 
 translate Thai Thane_tribe_talk_3edcc884:
@@ -922,7 +922,7 @@ translate Thai Thane_tribe_talk_673998cd:
 translate Thai Thane_tribe_talk_156ec377:
 
 
-    e 13 "…"
+    e 13 "..."
 
 
 translate Thai Thane_tribe_talk_7058f99e:
@@ -952,7 +952,7 @@ translate Thai Thane_tribe_talk_6a716d21:
 translate Thai Thane_tribe_talk_90202e6f:
 
 
-    t "My father and I… we don’t talk much, we prefer to just act like everything’s fine… "
+    t "My father and I... we don’t talk much, we prefer to just act like everything’s fine... "
 
 
 translate Thai Thane_tribe_talk_39e61c1b:
@@ -964,7 +964,7 @@ translate Thai Thane_tribe_talk_39e61c1b:
 translate Thai Thane_tribe_talk_5bb9d156:
 
 
-    e 1 "I think… you two just need to talk to each other more."
+    e 1 "I think... you two just need to talk to each other more."
 
 
 translate Thai Thane_tribe_talk_f0f0ef59:
@@ -976,7 +976,7 @@ translate Thai Thane_tribe_talk_f0f0ef59:
 translate Thai Thane_tribe_talk_a703779d:
 
 
-    t "Maybe… "
+    t "Maybe... "
 
 
 translate Thai Thane_tribe_talk_b23b4b30:
@@ -1030,7 +1030,7 @@ translate Thai Thane_tribe_talk_626b5239:
 translate Thai Thane_tribe_talk_6933cf59:
 
 
-    t "Maybe… the tavern?"
+    t "Maybe... the tavern?"
 
 
 translate Thai Thane_tribe_talk_3bbac487:
@@ -1072,7 +1072,7 @@ translate Thai Thane_tribe_talk_abc9e077:
 translate Thai Thane_tribe_talk_e30bacb7:
 
 
-    t "It’s possible, but maybe we also need some time apart… What do you think?"
+    t "It’s possible, but maybe we also need some time apart... What do you think?"
 
 
 translate Thai Thane_tribe_talk_262fae3f:
@@ -1108,7 +1108,7 @@ translate Thai Thane_tribe_talk_48f1c7c8:
 translate Thai Thane_tribe_talk_c38071bd:
 
 
-    t "No… I just want to be away from him as much as I can."
+    t "No... I just want to be away from him as much as I can."
 
 
 translate Thai Thane_tribe_talk_ab2df59b:
@@ -1252,7 +1252,7 @@ translate Thai Thane_talktree_tribe_6f93dcfb:
 translate Thai Thane_talktree_tribe_e4ae3df8:
 
 
-    e 13 "Thane…"
+    e 13 "Thane..."
 
 
 translate Thai Thane_talktree_tribe_b01dc8fc:
@@ -1300,7 +1300,7 @@ translate Thai Thane_talktree_tribe_82c13da2:
 translate Thai Thane_talktree_tribe_79df3e18:
 
 
-    t "There were… but… Look just give me time to think this over."
+    t "There were... but... Look just give me time to think this over."
 
 
 translate Thai Thane_talktree_tribe_c668a120:
@@ -1984,7 +1984,7 @@ translate Thai Thane_talktree_tribe_9f49c1aa:
 translate Thai Thane_talktree_tribe_c6b14287:
 
 
-    e 9 "Err, I… I'm just trying to get on his good side."
+    e 9 "Err, I... I'm just trying to get on his good side."
 
 
 translate Thai Thane_talktree_tribe_9b961756:
@@ -2002,7 +2002,7 @@ translate Thai Thane_talktree_tribe_c90180c2:
 translate Thai Thane_talktree_tribe_4218e844:
 
 
-    e 6 "Well I… come on give me a chance."
+    e 6 "Well I... come on give me a chance."
 
 
 translate Thai Thane_talktree_tribe_06969397:
@@ -2722,7 +2722,7 @@ translate Thai Thane_talktree_tribe_b6b62336:
 translate Thai Thane_talktree_tribe_e1193613:
 
 
-    t "What? That's… I never expected he would make the first move, father yes, but him?"
+    t "What? That's... I never expected he would make the first move, father yes, but him?"
 
 
 translate Thai Thane_talktree_tribe_fae9b77d:
@@ -2896,7 +2896,7 @@ translate Thai Thane_talktree_tribe_e7b444cf:
 translate Thai Thane_talktree_tribe_b3a0462b:
 
 
-    e 13 "A Fear Potion… maybe Chet knows how to make it."
+    e 13 "A Fear Potion... maybe Chet knows how to make it."
 
 
 translate Thai Thane_talktree_tribe_2acd440b:
@@ -3298,7 +3298,7 @@ translate Thai Thane_talktree_tribe_4158d0f6:
 translate Thai Thane_talktree_tribe_b3a0462b_1:
 
 
-    e 13 "A Fear Potion… maybe Chet knows how to make it."
+    e 13 "A Fear Potion... maybe Chet knows how to make it."
 
 
 translate Thai Thane_talktree_tribe_2acd440b_1:
@@ -3334,7 +3334,7 @@ translate Thai Thane_talktree_tribe_64689220:
 translate Thai Thane_talktree_tribe_1f6312b7:
 
 
-    e 13 "Hmm…"
+    e 13 "Hmm..."
 
 
 translate Thai Thane_talktree_tribe_cc5e3f84:
@@ -4210,7 +4210,7 @@ translate Thai Thane_letter_b873b937:
 translate Thai Thane_letter_62526e9a:
 
 
-    e 1 "Thane… there’s we need to talk about your father and Nauxus."
+    e 1 "Thane... there’s we need to talk about your father and Nauxus."
 
 
 translate Thai Thane_letter_7ad66440:
@@ -4270,7 +4270,7 @@ translate Thai Thane_letter_240e7ed9:
 translate Thai Thane_letter_e448900c:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Thai Thane_letter_b9f5273c:
@@ -4342,7 +4342,7 @@ translate Thai Thane_letter_fb028cf7:
 translate Thai Thane_letter_89d1a203:
 
 
-    e 1 "Thane…"
+    e 1 "Thane..."
 
 
 translate Thai Thane_letter_07a317a5:
@@ -4408,7 +4408,7 @@ translate Thai Thane_letter_527260f0:
 translate Thai Thane_letter_e448900c_1:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Thai Thane_letter_8f0db9c0:
@@ -4426,7 +4426,7 @@ translate Thai Thane_letter_9dc7aec2:
 translate Thai Thane_letter_f98a3d68:
 
 
-    e 13 "It's just that… Nauxus's plan might buff his army, but it also means an end to a war between their own kind."
+    e 13 "It's just that... Nauxus's plan might buff his army, but it also means an end to a war between their own kind."
 
 
 translate Thai Thane_letter_c225171c:
@@ -4450,7 +4450,7 @@ translate Thai Thane_letter_6cdec61b:
 translate Thai Thane_letter_ce63fd2f:
 
 
-    t "Just… I need your help to buy me time so I can gather clues on who the real kidnapper is."
+    t "Just... I need your help to buy me time so I can gather clues on who the real kidnapper is."
 
 
 translate Thai Thane_letter_fd34ca35:
@@ -4486,7 +4486,7 @@ translate Thai Thane_letter_d1ba49a5:
 translate Thai Thane_letter_e448900c_2:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Thai Thane_letter_c8562612:
@@ -4618,13 +4618,13 @@ translate Thai Thane_letter_0af90b6f:
 translate Thai Thane_letter_9269c6e7:
 
 
-    e 13 "Thane, I don’t think I can go through with your plan…"
+    e 13 "Thane, I don’t think I can go through with your plan..."
 
 
 translate Thai Thane_letter_3f708a67:
 
 
-    t "Oh… I see."
+    t "Oh... I see."
 
 
 translate Thai Thane_letter_aa29e798:
@@ -4642,7 +4642,7 @@ translate Thai Thane_letter_b9a329bb:
 translate Thai Thane_letter_e340a87a:
 
 
-    t "Then… I won’t interfere. You do what you think is right, and I’ll keep to my plans."
+    t "Then... I won’t interfere. You do what you think is right, and I’ll keep to my plans."
 
 
 translate Thai Thane_letter_9ebd90d4:
@@ -4918,7 +4918,7 @@ translate Thai Thane_talktree_tavern_f2983ebf:
 translate Thai Thane_talktree_tavern_ac666806:
 
 
-    t "Ah… sure, the others could join… I guess."
+    t "Ah... sure, the others could join... I guess."
 
 
 translate Thai Thane_talktree_tavern_d129a7f9:

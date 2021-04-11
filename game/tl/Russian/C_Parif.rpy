@@ -82,7 +82,7 @@ translate Russian Parif_meet_2912cad5:
 translate Russian Parif_meet_793fd900:
 
 
-    e 5 "Stop! Put down your weapon! Your… pan?"
+    e 5 "Stop! Put down your weapon! Your... pan?"
 
 
 translate Russian Parif_meet_d0f86820:
@@ -148,7 +148,7 @@ translate Russian Parif_meet_dd6d902b:
 translate Russian Parif_meet_cdb92347:
 
 
-    e 9 "Err… is this still an assault?"
+    e 9 "Err... is this still an assault?"
 
 
 translate Russian Parif_meet_7a8943c0:
@@ -442,7 +442,7 @@ translate Russian Parif_meet_645b5b15:
 translate Russian Parif_meet_0ceb1df9:
 
 
-    s "An… {size=-12}Idiot Sandwich...{/size}"
+    s "An... {size=-12}Idiot Sandwich...{/size}"
 
 
 translate Russian Parif_meet_ac06e977:
@@ -544,7 +544,7 @@ translate Russian Parif_meet_be975e25:
 translate Russian Parif_meet_81d07bac:
 
 
-    e 9 "I guess that’s… great?"
+    e 9 "I guess that’s... great?"
 
 
 translate Russian Parif_meet_ad39bede:
@@ -892,7 +892,7 @@ translate Russian Parif_talk_de614ccb:
 translate Russian Parif_talk_081c9e58:
 
 
-    e 13 "I’m sorry, but… are you insane?"
+    e 13 "I’m sorry, but... are you insane?"
 
 
 translate Russian Parif_talk_4aef4c93:
@@ -1054,7 +1054,7 @@ translate Russian Parif_talk_5bb31572:
 translate Russian Parif_talk_1ac7a11e:
 
 
-    e 8 "(This guy… is a bit eccentric.)"
+    e 8 "(This guy... is a bit eccentric.)"
 
 
 translate Russian Parif_talk_a08c5a09:
@@ -1174,7 +1174,7 @@ translate Russian Parif_talk_tree02_e535b899:
 translate Russian Parif_talk_tree02_4661ebcd:
 
 
-    e 1 "Ok…?"
+    e 1 "Ok...?"
 
 
 translate Russian Parif_talk_tree02_b31cbe46:

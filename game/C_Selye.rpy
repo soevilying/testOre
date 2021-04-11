@@ -355,7 +355,7 @@ label Selye_letter:
         show selye stand at center with dissolve
         se "What brings you here, ssssimpleton?"
         "You cross your arms and take a long breath."
-        e 1 "Look, if we’re going to keep working together… you got to get off your high horse, and start talking to me with some respect."
+        e 1 "Look, if we’re going to keep working together... you got to get off your high horse, and start talking to me with some respect."
         se "Respect? For Chief Nauxus’s boytoy?"
         "You stare the naga down."
         e 1 "Watch what you say next, Selye."
@@ -367,7 +367,7 @@ label Selye_letter:
             se "You’re everything that I hate in a person."
             e 1 "What kind of bullshit is that? We don’t even know each other."
             se "Yes, but I know your type. A nobody that comes into the lives of others and disrupts the order of things."
-            se "Ssssoon, friends turn on another, lovers become sssstrangers, and …"
+            se "Ssssoon, friends turn on another, lovers become sssstrangers, and ..."
         elif True:
             "Selye rolls his eyes at you. He leans in and matches your gaze with his wide eyes."
             se "You couldn’t even execute your mission properly."
@@ -377,7 +377,7 @@ label Selye_letter:
             se "People like you are everywhere, and that just makes me detest you even more."
             e 1 "What?"
             se "You’re the kind that waltz into people’s lives and disrupts the order of things."
-            se "Just like a parasite. Eventually, friends turn into enemies, lovers into sssstrangers, and…"
+            se "Just like a parasite. Eventually, friends turn into enemies, lovers into sssstrangers, and..."
 
         e 1 "And?"
         se "It doesn’t concern you for now, ssssimpleton."
@@ -410,9 +410,9 @@ label Selye_letter:
         se "I guess to a ssssimple creature like yourself, these trinkets I make must seem like amazing acts of magic."
         e 1 "Well I’m just curious about your backstory, how did you become so powerful?"
         "His smile suddenly frozen."
-        se "Hmm… I guess it can’t be helped, my greatness draws all to me."
+        se "Hmm... I guess it can’t be helped, my greatness draws all to me."
         se "But if you want to hear my story, wait until you ssssuccessfully carry out this mission, and you best tell Chief Nauxus it’s my magic that helped you do it."
-        e 1 "Ok…?"
+        e 1 "Ok...?"
         se "Now off with you, return to Chief Nauxus. I have things to do."
         hide selye stand with dissolve
         scene black with slow_dissolve
@@ -460,9 +460,9 @@ label Selye_past:
     se "With a beautiful woman in my arms I trained day by day in preparation to take over my father’s title. "
     e 1 "Then why are you here?"
     "He clutches the other glass of wine and his face twists into a dark frown."
-    se "Because… one day, out of nowhere another naga appears."
+    se "Because... one day, out of nowhere another naga appears."
     se "His origins unknown, his body battered and bruised from who knew what."
-    se "We took him in, and…"
+    se "We took him in, and..."
     se "And he took everything from me. "
     e 1 "What do you mean?"
     "Selye leans in close, his pupils widen like a mad man."
@@ -470,7 +470,7 @@ label Selye_past:
     se "Winning everyone over with his hunting sssskills and courageous deeds."
     se "It sssstung me in the heart how every day I would ssssslip further and further into the ssssshadows while he became the village hero, an outsider!"
     se "No matter how hard I trained my body, I was never close to besting him. "
-    se "But I could have forgiven all of that, if only… "
+    se "But I could have forgiven all of that, if only... "
     "He pulls back and his hand forms a fist that rests on the left side of his chest."
     se "If only sssshe hadn’t fallen in love with him."
     e 13 "I’m sorry to hear that."
@@ -487,7 +487,7 @@ label Selye_past:
     hide selye stand at center with dissolve
     "He points to the door signaling to you that it’s time to leave."
     "You take a step towards the exit before turning back to Selye."
-    e 1 "Are you… are you trying to win your old love back?"
+    e 1 "Are you... are you trying to win your old love back?"
     "Selye takes a deep breath and the frills on his neck expand outwards and shake vigorously."
     show selye stand at center with dissolve
     "He stands staring at you."

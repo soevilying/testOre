@@ -58,7 +58,7 @@ translate Russian Hakan_meet_13e9c852:
 translate Russian Hakan_meet_e49cc313:
 
 
-    h "Sorry, please… just drop it."
+    h "Sorry, please... just drop it."
 
 
 translate Russian Hakan_meet_86e25a44:
@@ -238,7 +238,7 @@ translate Russian Hakan_meet_65186c05:
 translate Russian Hakan_meet_2c7f56d7:
 
 
-    h "Muhh… buzz off."
+    h "Muhh... buzz off."
 
 
 translate Russian Hakan_meet_1bc54f41:
@@ -466,7 +466,7 @@ translate Russian Hakan_meet_4b8f3e7f:
 translate Russian Hakan_meet_7d3264ba:
 
 
-    e 1 " … Is this about your partner?"
+    e 1 " ... Is this about your partner?"
 
 
 translate Russian Hakan_meet_94253ada:
@@ -586,7 +586,7 @@ translate Russian Hakan_meet_8c249e67:
 translate Russian Hakan_meet_4483d777:
 
 
-    h "Grr…"
+    h "Grr..."
 
 
 translate Russian Hakan_meet_f896a8b6:
@@ -850,7 +850,7 @@ translate Russian Hakan_talk_4c07b0cc:
 translate Russian Hakan_talk_ab772a0f:
 
 
-    e 13 "Well… you mentioned something about Pierro and a mimic box."
+    e 13 "Well... you mentioned something about Pierro and a mimic box."
 
 
 translate Russian Hakan_talk_d14216c9:
@@ -928,7 +928,7 @@ translate Russian Hakan_talk_d312a497:
 translate Russian Hakan_talk_f6c573cf:
 
 
-    h "A very vivid one, I was in the tavern fighting something off…"
+    h "A very vivid one, I was in the tavern fighting something off..."
 
 
 translate Russian Hakan_talk_092e3a03:
@@ -1006,7 +1006,7 @@ translate Russian Hakan_talk_0196a881:
 translate Russian Hakan_talk_8b07d9aa:
 
 
-    e 7 "… Wha- You’re joking aren’t you?"
+    e 7 "... Wha- You’re joking aren’t you?"
 
 
 translate Russian Hakan_talk_fcfb7bcf:
@@ -1174,7 +1174,7 @@ translate Russian Hakan_talk_feaf422c:
 translate Russian Hakan_talk_e6e5b08f:
 
 
-    h "It’s nothing personal, I just… I don’t give out kisses to any bloke."
+    h "It’s nothing personal, I just... I don’t give out kisses to any bloke."
 
 
 translate Russian Hakan_talk_8081be9a:
@@ -1234,7 +1234,7 @@ translate Russian Hakan_talk_1c6ac836:
 translate Russian Hakan_talk_7cc44c23:
 
 
-    e 1 "No, but he could have. He… there was blood everywhere."
+    e 1 "No, but he could have. He... there was blood everywhere."
 
 
 translate Russian Hakan_talk_65c8f2c0:
@@ -1420,7 +1420,7 @@ translate Russian Hakan_talk_7448752b:
 translate Russian Hakan_talk_0c44673d:
 
 
-    h "So share… Please?"
+    h "So share... Please?"
 
 
 translate Russian Hakan_talk_d4f49bfa:
@@ -1888,7 +1888,7 @@ translate Russian Hakan_chattree_2a4c7324:
 translate Russian Hakan_chattree_7a165c67:
 
 
-    h "Then he heard that rumor…"
+    h "Then he heard that rumor..."
 
 
 translate Russian Hakan_chattree_2fded262:
@@ -2050,7 +2050,7 @@ translate Russian Hakan_chattree_88b63fb5:
 translate Russian Hakan_chattree_70949087:
 
 
-    e 12 "Grr…"
+    e 12 "Grr..."
 
 
 translate Russian Hakan_chattree_80f13bd0:
@@ -2122,7 +2122,7 @@ translate Russian Hakan_chattree_c59b0325:
 translate Russian Hakan_chattree_609d88fc:
 
 
-    h "Rarghh…"
+    h "Rarghh..."
 
 
 translate Russian Hakan_chattree_18d85513:
@@ -2158,7 +2158,7 @@ translate Russian Hakan_chattree_ab5d53f3:
 translate Russian Hakan_chattree_b9f9cc6e:
 
 
-    e 13 "Huff..huff… I meant it when I said I’m not here for you job."
+    e 13 "Huff..huff... I meant it when I said I’m not here for you job."
 
 
 translate Russian Hakan_chattree_b60b691a:
@@ -2476,7 +2476,7 @@ translate Russian Hakan_chattree_54cb2edb:
 translate Russian Hakan_chattree_2340d802:
 
 
-    e 13 "Honestly I’m not even sure if I can save him in time…"
+    e 13 "Honestly I’m not even sure if I can save him in time..."
 
 
 translate Russian Hakan_chattree_39c6b8fe:
@@ -2782,7 +2782,7 @@ translate Russian Hakan_chattree_ed8c3f1b:
 translate Russian Hakan_chattree_20a9ff4b:
 
 
-    h "Buh… buh… Eyz. We got to celeplate."
+    h "Buh... buh... Eyz. We got to celeplate."
 
 
 translate Russian Hakan_chattree_6795f7cf:
@@ -2986,7 +2986,7 @@ translate Russian Hakan_chattree_00b63463:
 translate Russian Hakan_chattree_1c6f3797:
 
 
-    e 10 "…"
+    e 10 "..."
 
 
 translate Russian Hakan_chattree_0daa6651:
@@ -3040,7 +3040,7 @@ translate Russian Hakan_chattree_694a23f4:
 translate Russian Hakan_chattree_11739c0d:
 
 
-    e 13 "Hakan…"
+    e 13 "Hakan..."
 
 
 translate Russian Hakan_chattree_f405b9a2:
@@ -3856,7 +3856,7 @@ translate Russian Hakan_ride_0fd38e27:
 translate Russian Hakan_ride_bd9c6d22:
 
 
-    e 0 "Oh…"
+    e 0 "Oh..."
 
 
 translate Russian Hakan_ride_93aa4580:

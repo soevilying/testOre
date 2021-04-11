@@ -232,7 +232,7 @@ translate Chinese Selye_meet_9ac0b110:
 translate Chinese Selye_meet_a7d28aaa:
 
 
-    e 1 "所以這個……真的是正確的嗎？我是說要發動一場戰爭欸！"
+    e 1 "所以這個......真的是正確的嗎？我是說要發動一場戰爭欸！"
 
 
 translate Chinese Selye_meet_3ecaa9d2:
@@ -1505,7 +1505,7 @@ translate Chinese Selye_letter_ed7934a7:
 translate Chinese Selye_letter_786570b7:
 
 
-    "听着，如果我们要继续合作……你最好收起你的臭架子，对我说话尊重点。"
+    "听着，如果我们要继续合作......你最好收起你的臭架子，对我说话尊重点。"
 
 
 translate Chinese Selye_letter_6f0ea278:
@@ -1571,7 +1571,7 @@ translate Chinese Selye_letter_603a51f3:
 translate Chinese Selye_letter_59bf39f9:
 
 
-    se "嘶嘶，很快，密友间反目成仇，眷侣间恩断义绝，还有……"
+    se "嘶嘶，很快，密友间反目成仇，眷侣间恩断义绝，还有......"
 
 
 translate Chinese Selye_letter_8c88450c:
@@ -1781,7 +1781,7 @@ translate Chinese Selye_letter_deaf6949:
 translate Chinese Selye_letter_b69f6dbb:
 
 
-    se "嗯……我觉得我无法回答，我的伟大让我对一切都轻而易举。"
+    se "嗯......我觉得我无法回答，我的伟大让我对一切都轻而易举。"
 
 
 translate Chinese Selye_letter_ec7379c3:
@@ -1793,7 +1793,7 @@ translate Chinese Selye_letter_ec7379c3:
 translate Chinese Selye_letter_4661ebcd:
 
 
-    e 1 "好…?"
+    e 1 "好...?"
 
 
 translate Chinese Selye_letter_c91cd682:
@@ -1943,7 +1943,7 @@ translate Chinese Selye_past_8cae73ec:
 translate Chinese Selye_past_bb8bd9b6:
 
 
-    se "因为…有一天，不知从那来的娜迦现身了。"
+    se "因为...有一天，不知从那来的娜迦现身了。"
 
 
 translate Chinese Selye_past_3a341fe4:
@@ -1955,7 +1955,7 @@ translate Chinese Selye_past_3a341fe4:
 translate Chinese Selye_past_6c02c90b:
 
 
-    se "我们把他带回了村子，并且…"
+    se "我们把他带回了村子，并且..."
 
 
 translate Chinese Selye_past_6fd2eeaa:
@@ -2003,7 +2003,7 @@ translate Chinese Selye_past_a2615ad1:
 translate Chinese Selye_past_8e088b3b:
 
 
-    se "但我本可对这一切不管不问，只要… "
+    se "但我本可对这一切不管不问，只要... "
 
 
 translate Chinese Selye_past_c2f3ab27:
@@ -2099,7 +2099,7 @@ translate Chinese Selye_past_5a760207:
 translate Chinese Selye_past_c4fdc19a:
 
 
-    e 1 "你是……在试图赢回旧爱的芳心么？"
+    e 1 "你是......在试图赢回旧爱的芳心么？"
 
 
 translate Chinese Selye_past_03ed2748:
@@ -2131,5 +2131,5 @@ translate Chinese Selye_past_2e39132c:
 translate Chinese Selye_letter_80da6655:
 
 
-    e 1 "听着，如果我们要继续合作……你最好收起你的臭架子，对我说话尊重点。"
+    e 1 "听着，如果我们要继续合作......你最好收起你的臭架子，对我说话尊重点。"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

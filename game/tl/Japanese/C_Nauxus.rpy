@@ -196,19 +196,19 @@ translate Japanese Naxuxus_meet_9d9d4063:
 translate Japanese Naxuxus_meet_156ec377:
 
 
-    e 13 "…"
+    e 13 "..."
 
 
 translate Japanese Naxuxus_meet_92249813:
 
 
-    e 14 "I may have… let a thief got away because he was posing as someone who got robbed."
+    e 14 "I may have... let a thief got away because he was posing as someone who got robbed."
 
 
 translate Japanese Naxuxus_meet_a180385b:
 
 
-    e 14 "I… attacked the actual victim who fought him off."
+    e 14 "I... attacked the actual victim who fought him off."
 
 
 translate Japanese Naxuxus_meet_49f76eca:
@@ -250,7 +250,7 @@ translate Japanese Naxuxus_meet_2c368952:
 translate Japanese Naxuxus_meet_e7e0089c:
 
 
-    e 5 "No, wait. I… can take any help I can get. Please teach me."
+    e 5 "No, wait. I... can take any help I can get. Please teach me."
 
 
 translate Japanese Naxuxus_meet_a9d9e012:
@@ -844,7 +844,7 @@ translate Japanese Naxuxus_meet_45c58898:
 translate Japanese Naxuxus_meet_610b11c9:
 
 
-    e 1 "… Fine."
+    e 1 "... Fine."
 
 
 translate Japanese Naxuxus_meet_e10d8d48:
@@ -1066,7 +1066,7 @@ translate Japanese Naxuxus_meet_1fa9904c:
 translate Japanese Naxuxus_meet_4802e1d6:
 
 
-    e 13 "I… oh no..."
+    e 13 "I... oh no..."
 
 
 translate Japanese Naxuxus_meet_1d03d804:
@@ -1102,13 +1102,13 @@ translate Japanese Naxuxus_meet_120fba3d:
 translate Japanese Naxuxus_meet_cdc6c8ce:
 
 
-    n "Stop, I don’t need to hear the rest …"
+    n "Stop, I don’t need to hear the rest ..."
 
 
 translate Japanese Naxuxus_meet_3f0af19f:
 
 
-    n "… How did they get you to do it?"
+    n "... How did they get you to do it?"
 
 
 translate Japanese Naxuxus_meet_ac246ca5:
@@ -1126,7 +1126,7 @@ translate Japanese Naxuxus_meet_1fc091b0:
 translate Japanese Naxuxus_meet_beac2b9f:
 
 
-    n "Typical… "
+    n "Typical... "
 
 
 translate Japanese Naxuxus_meet_01cf56cc:
@@ -1270,7 +1270,7 @@ translate Japanese Naxuxus_meet_d0d0eb71:
 translate Japanese Naxuxus_meet_2360953d:
 
 
-    e 1 "They… they set a trap for him and the moment he was caught in it they ambushed him."
+    e 1 "They... they set a trap for him and the moment he was caught in it they ambushed him."
 
 
 translate Japanese Naxuxus_meet_a397b0e5:
@@ -1330,7 +1330,7 @@ translate Japanese Naxuxus_meet_f2a944ca:
 translate Japanese Naxuxus_meet_43887b91:
 
 
-    n "Well…"
+    n "Well..."
 
 
 translate Japanese Naxuxus_meet_75e5b57f:
@@ -1426,7 +1426,7 @@ translate Japanese Naxuxus_meet_02c89080:
 translate Japanese Naxuxus_meet_9b18ceec:
 
 
-    n "Oh… I see."
+    n "Oh... I see."
 
 
 translate Japanese Naxuxus_meet_06f45695:
@@ -1456,7 +1456,7 @@ translate Japanese Naxuxus_meet_d0d0eb71_1:
 translate Japanese Naxuxus_meet_2360953d_1:
 
 
-    e 1 "They… they set a trap for him and the moment he was caught in it they ambushed him."
+    e 1 "They... they set a trap for him and the moment he was caught in it they ambushed him."
 
 
 translate Japanese Naxuxus_meet_a397b0e5_1:
@@ -1852,7 +1852,7 @@ translate Japanese Naxuxus_event_1_9033ac17:
 translate Japanese Naxuxus_event_1_4d013b6f:
 
 
-    e 13 "I can't forget them…"
+    e 13 "I can't forget them..."
 
 
 translate Japanese Naxuxus_event_1_98f6ef9f:
@@ -1882,7 +1882,7 @@ translate Japanese Naxuxus_event_1_3ecb9c5d:
 translate Japanese Naxuxus_event_1_e448900c:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Japanese Naxuxus_event_1_e76089d2:
@@ -2404,7 +2404,7 @@ translate Japanese Naxuxus_event_1_b226a52a:
 translate Japanese Naxuxus_event_1_37b74430:
 
 
-    n "We do this not only for our future, but for those we've lost… our children."
+    n "We do this not only for our future, but for those we've lost... our children."
 
 
 translate Japanese Naxuxus_event_1_252856c3:
@@ -3040,7 +3040,7 @@ translate Japanese Naxuxus_event_1_eff78095:
 translate Japanese Naxuxus_event_1_27677248:
 
 
-    bl "If it’s for the children… then I support the decision."
+    bl "If it’s for the children... then I support the decision."
 
 
 translate Japanese Naxuxus_event_1_15b13b63:
@@ -3250,7 +3250,7 @@ translate Japanese Naxuxus_event_1_150626bc:
 translate Japanese Naxuxus_event_1_e028bef9:
 
 
-    e 13 "(Then again… do I know him well enough? )"
+    e 13 "(Then again... do I know him well enough? )"
 
 
 translate Japanese Naxuxus_event_1_bce75304:
@@ -3520,7 +3520,7 @@ translate Japanese Naxuxus_camp_end_e100f119:
 translate Japanese Naxuxus_camp_end_a518fab0:
 
 
-    e 13 "I… wouldn't know. Is there anything else?"
+    e 13 "I... wouldn't know. Is there anything else?"
 
 
 translate Japanese Naxuxus_camp_end_82bb9a08:
@@ -3868,7 +3868,7 @@ translate Japanese Naxuxus_camp_end_cb2a5077:
 translate Japanese Naxuxus_camp_end_c9c5de49:
 
 
-    e 6 "Yeah, maybe…"
+    e 6 "Yeah, maybe..."
 
 
 translate Japanese Naxuxus_camp_end_5d0bc709:
@@ -4036,7 +4036,7 @@ translate Japanese Naxuxus_tribe_talk1_44803dbb:
 translate Japanese Naxuxus_tribe_talk1_5f704666:
 
 
-    e 13 "Ummm…"
+    e 13 "Ummm..."
 
 
 translate Japanese Naxuxus_tribe_talk1_f4b45717:
@@ -4054,7 +4054,7 @@ translate Japanese Naxuxus_tribe_talk1_c3061ce7:
 translate Japanese Naxuxus_tribe_talk1_b90de610:
 
 
-    e 13 "We’ve been spending time together, and I get this feeling like…"
+    e 13 "We’ve been spending time together, and I get this feeling like..."
 
 
 translate Japanese Naxuxus_tribe_talk1_ee6d3902:
@@ -4072,7 +4072,7 @@ translate Japanese Naxuxus_tribe_talk1_98ce00fd:
 translate Japanese Naxuxus_tribe_talk1_8eafdafb:
 
 
-    e 14 "Like, like…"
+    e 14 "Like, like..."
 
 
 translate Japanese Naxuxus_tribe_talk1_0d9e65a4:
@@ -4096,7 +4096,7 @@ translate Japanese Naxuxus_tribe_talk1_b0bb6587:
 translate Japanese Naxuxus_tribe_talk1_c10acf62:
 
 
-    e 6 "Well … would you want to… "
+    e 6 "Well ... would you want to... "
 
 
 translate Japanese Naxuxus_tribe_talk1_dcf10631:
@@ -4138,7 +4138,7 @@ translate Japanese Naxuxus_tribe_talk1_c0d29a23:
 translate Japanese Naxuxus_tribe_talk1_8737bf0c:
 
 
-    n "The lake. Hmm… I’ll think about it."
+    n "The lake. Hmm... I’ll think about it."
 
 
 translate Japanese Naxuxus_tribe_talk1_cc81e5a9:
@@ -4264,7 +4264,7 @@ translate Japanese Naxuxus_tribe_talk1_e511a667:
 translate Japanese Naxuxus_tribe_talk1_e3a0d4d5:
 
 
-    e 1 "Hmm…"
+    e 1 "Hmm..."
 
 
 translate Japanese Naxuxus_tribe_talk1_07fb3525:
@@ -4582,13 +4582,13 @@ translate Japanese Naxuxus_tribe_talk1_d420a4fc:
 translate Japanese Naxuxus_tribe_talk1_ec2b0b75:
 
 
-    n "I was so close… and the look in the kid’s eye, he needed me, and I couldn’t save him."
+    n "I was so close... and the look in the kid’s eye, he needed me, and I couldn’t save him."
 
 
 translate Japanese Naxuxus_tribe_talk1_916d904e:
 
 
-    e 13 "Nauxus…"
+    e 13 "Nauxus..."
 
 
 translate Japanese Naxuxus_tribe_talk1_d8fe46cf:
@@ -4624,13 +4624,13 @@ translate Japanese Naxuxus_tribe_talk1_0ff2b3e1:
 translate Japanese Naxuxus_tribe_talk1_e448900c:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Japanese Naxuxus_tribe_talk1_1483da2d:
 
 
-    n "I’m sorry. I… got overly emotional. Can we talk about something else?"
+    n "I’m sorry. I... got overly emotional. Can we talk about something else?"
 
 
 translate Japanese Naxuxus_tribe_talk1_741360c1:
@@ -4678,7 +4678,7 @@ translate Japanese Naxuxus_tribe_talk1_004777f2:
 translate Japanese Naxuxus_tribe_talk1_623bc113:
 
 
-    e 6 "I… I wouldn’t know. I’m not that popular with the girls."
+    e 6 "I... I wouldn’t know. I’m not that popular with the girls."
 
 
 translate Japanese Naxuxus_tribe_talk1_383b74f2:
@@ -4768,7 +4768,7 @@ translate Japanese Naxuxus_tribe_talk1_84c89e39:
 translate Japanese Naxuxus_tribe_talk1_58f57c74:
 
 
-    e 10 "So…"
+    e 10 "So..."
 
 
 translate Japanese Naxuxus_tribe_talk1_bcf1eb20:
@@ -4780,7 +4780,7 @@ translate Japanese Naxuxus_tribe_talk1_bcf1eb20:
 translate Japanese Naxuxus_tribe_talk1_e448900c_1:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Japanese Naxuxus_tribe_talk1_21d338cb:
@@ -5038,7 +5038,7 @@ translate Japanese Nauxus_artwork_6f3965a6:
 translate Japanese Nauxus_artwork_04cbce97:
 
 
-    e 9 "(Lines? They’re all lines…)"
+    e 9 "(Lines? They’re all lines...)"
 
 
 translate Japanese Nauxus_artwork_7a6d71b8:
@@ -5086,7 +5086,7 @@ translate Japanese Nauxus_artwork_6f3965a6_1:
 translate Japanese Nauxus_artwork_04cbce97_1:
 
 
-    e 9 "(Lines? They’re all lines…)"
+    e 9 "(Lines? They’re all lines...)"
 
 
 translate Japanese Nauxus_artwork_93115930:
@@ -5116,7 +5116,7 @@ translate Japanese Nauxus_artwork_13fd2242:
 translate Japanese Nauxus_artwork_153b6880:
 
 
-    e 5 "I… have nothing to say about his art skills."
+    e 5 "I... have nothing to say about his art skills."
 
 
 translate Japanese Nauxus_artwork_0ae9bcd0:
@@ -5230,7 +5230,7 @@ translate Japanese Nauxus_artwork_06e34238:
 translate Japanese Nauxus_artwork_fd12a8d8:
 
 
-    e 9 "Yeah… piece of cake."
+    e 9 "Yeah... piece of cake."
 
 
 translate Japanese Nauxus_artwork_21d47ac1:
@@ -5386,7 +5386,7 @@ translate Japanese Nauxus_artwork_f7cb2c01:
 translate Japanese Nauxus_artwork_78f601e0:
 
 
-    n "No, it’s just… I haven’t been touched for so long. I’m sorry, please continue."
+    n "No, it’s just... I haven’t been touched for so long. I’m sorry, please continue."
 
 
 translate Japanese Nauxus_artwork_30e9ae54:
@@ -5572,7 +5572,7 @@ translate Japanese Nauxus_artwork_06a6ad66:
 translate Japanese Nauxus_artwork_9e517e0c:
 
 
-    e 5 "I… I’d like that."
+    e 5 "I... I’d like that."
 
 
 translate Japanese Nauxus_artwork_65a6bc85:
@@ -5686,7 +5686,7 @@ translate Japanese Nauxus_artwork_2f22d70a:
 translate Japanese Nauxus_artwork_48430956:
 
 
-    e 11 "So… so what do you want me to do?"
+    e 11 "So... so what do you want me to do?"
 
 
 translate Japanese Nauxus_artwork_0e495b64:
@@ -5926,7 +5926,7 @@ translate Japanese Nauxus_roushk_5545f402:
 translate Japanese Nauxus_roushk_562af888:
 
 
-    e 5 "Wait… died out?"
+    e 5 "Wait... died out?"
 
 
 translate Japanese Nauxus_roushk_c8085863:
@@ -5950,7 +5950,7 @@ translate Japanese Nauxus_roushk_3a7f9793:
 translate Japanese Nauxus_roushk_50b7b644:
 
 
-    e 13 "This is … no… I need a minute."
+    e 13 "This is ... no... I need a minute."
 
 
 translate Japanese Nauxus_roushk_aa8c9433:
@@ -5962,7 +5962,7 @@ translate Japanese Nauxus_roushk_aa8c9433:
 translate Japanese Nauxus_roushk_89146ecf:
 
 
-    e 13 "Roushk…"
+    e 13 "Roushk..."
 
 
 translate Japanese Nauxus_roushk_c42032ad:
@@ -6196,7 +6196,7 @@ translate Japanese Naxuxus_letter_7f10783e:
 translate Japanese Naxuxus_letter_e448900c:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Japanese Naxuxus_letter_5b0e9c80:
@@ -6340,7 +6340,7 @@ translate Japanese Naxuxus_letter_b27a8c2a:
 translate Japanese Naxuxus_letter_a2fbd5e1:
 
 
-    e 13 "(I mean, it's good he’s reuniting the tribe but, why for war….)"
+    e 13 "(I mean, it's good he’s reuniting the tribe but, why for war....)"
 
 
 translate Japanese Naxuxus_letter_517ebd4f:
@@ -6772,7 +6772,7 @@ translate Japanese Naxuxus_letter_19d01fdb:
 translate Japanese Naxuxus_letter_6e8dcf91:
 
 
-    e 7 "Oh… do you like it?"
+    e 7 "Oh... do you like it?"
 
 
 translate Japanese Naxuxus_letter_4b2e26c2:
@@ -6880,7 +6880,7 @@ translate Japanese Naxuxus_letter_9ce50df5:
 translate Japanese Naxuxus_letter_f3be8d0a:
 
 
-    n "It’s just… Well I expected when I did bed you, I’d be looking at the real you rather than a lizard copy."
+    n "It’s just... Well I expected when I did bed you, I’d be looking at the real you rather than a lizard copy."
 
 
 translate Japanese Naxuxus_letter_9c830247:
@@ -6970,7 +6970,7 @@ translate Japanese Naxuxus_letter_4272d680:
 translate Japanese Naxuxus_letter_8351c449:
 
 
-    n "Oh… yes."
+    n "Oh... yes."
 
 
 translate Japanese Naxuxus_letter_c45ccdda:
@@ -7006,7 +7006,7 @@ translate Japanese Naxuxus_letter_4272d680_1:
 translate Japanese Naxuxus_letter_8351c449_1:
 
 
-    n "Oh… yes."
+    n "Oh... yes."
 
 
 translate Japanese Naxuxus_letter_c45ccdda_1:
@@ -7150,7 +7150,7 @@ translate Japanese Naxuxus_letter_64fcbffe:
 translate Japanese Naxuxus_letter_684c07e0:
 
 
-    e 13 "Yeah… I saw."
+    e 13 "Yeah... I saw."
 
 
 translate Japanese Naxuxus_letter_578dd36c:
@@ -7174,7 +7174,7 @@ translate Japanese Naxuxus_letter_2c89cfe3:
 translate Japanese Naxuxus_letter_eabec665:
 
 
-    n "…"
+    n "..."
 
 
 translate Japanese Naxuxus_letter_9748e8c0:
@@ -7186,7 +7186,7 @@ translate Japanese Naxuxus_letter_9748e8c0:
 translate Japanese Naxuxus_letter_fdc03c08:
 
 
-    e 9 "I was … out gathering materials."
+    e 9 "I was ... out gathering materials."
 
 
 translate Japanese Naxuxus_letter_9ce33518:
@@ -7216,7 +7216,7 @@ translate Japanese Naxuxus_letter_d2426dd1:
 translate Japanese Naxuxus_letter_9a663ef5:
 
 
-    e 9 "(I thought I covered my tracks…)"
+    e 9 "(I thought I covered my tracks...)"
 
 
 translate Japanese Naxuxus_letter_92975ff7:
@@ -7234,7 +7234,7 @@ translate Japanese Naxuxus_letter_f5fdbcab:
 translate Japanese Naxuxus_letter_abbad48b:
 
 
-    e 13 "You’re probably thinking about the road… that I usually take to get here."
+    e 13 "You’re probably thinking about the road... that I usually take to get here."
 
 
 translate Japanese Naxuxus_letter_0b7b5380:
@@ -7246,7 +7246,7 @@ translate Japanese Naxuxus_letter_0b7b5380:
 translate Japanese Naxuxus_letter_a2776f1c:
 
 
-    n "Hmm…"
+    n "Hmm..."
 
 
 translate Japanese Naxuxus_letter_6e7e5d60:
@@ -7294,7 +7294,7 @@ translate Japanese Naxuxus_letter_64191e24:
 translate Japanese Naxuxus_letter_ede23af2:
 
 
-    e 1 "When we were in the dark swamp… they called you an usurper."
+    e 1 "When we were in the dark swamp... they called you an usurper."
 
 
 translate Japanese Naxuxus_letter_5eeb881d:
@@ -7318,7 +7318,7 @@ translate Japanese Naxuxus_letter_004a4233:
 translate Japanese Naxuxus_letter_66278397:
 
 
-    n "… It’s not something I wish to share right now."
+    n "... It’s not something I wish to share right now."
 
 
 translate Japanese Naxuxus_letter_d4aabbbe:
@@ -7330,7 +7330,7 @@ translate Japanese Naxuxus_letter_d4aabbbe:
 translate Japanese Naxuxus_letter_22895fc1:
 
 
-    e 1 "Nauxus …"
+    e 1 "Nauxus ..."
 
 
 translate Japanese Naxuxus_letter_4ad38f55:
@@ -7378,7 +7378,7 @@ translate Japanese Naxuxus_letter_1800389b:
 translate Japanese Naxuxus_letter_e83de78b:
 
 
-    e 13 "I’m sorry, it’s just… I know how important getting your new recruits were."
+    e 13 "I’m sorry, it’s just... I know how important getting your new recruits were."
 
 
 translate Japanese Naxuxus_letter_6527095a:
@@ -7396,13 +7396,13 @@ translate Japanese Naxuxus_letter_6dcac4aa:
 translate Japanese Naxuxus_letter_59c2e7de:
 
 
-    n "I know you tried… I just need time."
+    n "I know you tried... I just need time."
 
 
 translate Japanese Naxuxus_letter_ed9416b4:
 
 
-    n "Maybe it’s best if we pretend none of this happened…"
+    n "Maybe it’s best if we pretend none of this happened..."
 
 
 translate Japanese Naxuxus_letter_2ac33db1:
@@ -7414,7 +7414,7 @@ translate Japanese Naxuxus_letter_2ac33db1:
 translate Japanese Naxuxus_letter_81125f22:
 
 
-    n "Maybe you should come back after tomorrow. I think I’ll be over it by then …."
+    n "Maybe you should come back after tomorrow. I think I’ll be over it by then ...."
 
 
 translate Japanese Naxuxus_letter_0b61c15b:
@@ -7738,7 +7738,7 @@ translate Japanese Naxuxus_darkswamp_09cce4f9:
 translate Japanese Naxuxus_darkswamp_4173df33:
 
 
-    n "The rite of passage you say… Very well, if that is what it takes to convince you all, I’ll gladly take the rite of passage in front of everyone here. "
+    n "The rite of passage you say... Very well, if that is what it takes to convince you all, I’ll gladly take the rite of passage in front of everyone here. "
 
 
 translate Japanese Naxuxus_darkswamp_55ad93a0:
@@ -7810,7 +7810,7 @@ translate Japanese Naxuxus_darkswamp_fbc7e950:
 translate Japanese Naxuxus_darkswamp_b9198da1:
 
 
-    e 1 "Nauxus… What is this whole rite of passage thing?"
+    e 1 "Nauxus... What is this whole rite of passage thing?"
 
 
 translate Japanese Naxuxus_darkswamp_49101791:
@@ -7822,7 +7822,7 @@ translate Japanese Naxuxus_darkswamp_49101791:
 translate Japanese Naxuxus_darkswamp_dc909e1a:
 
 
-    n "The first one’s a fight, then the other … \nWell, we’ll worry about that when we get there."
+    n "The first one’s a fight, then the other ... \nWell, we’ll worry about that when we get there."
 
 
 translate Japanese Naxuxus_darkswamp_35074e42:
@@ -7984,7 +7984,7 @@ translate Japanese Nauxus_rite1_8f5cd9a5:
 translate Japanese Nauxus_rite1_9abb57e1:
 
 
-    "Rouge Lizard Leader" "Hngh… Toss the cups!"
+    "Rouge Lizard Leader" "Hngh... Toss the cups!"
 
 
 translate Japanese Nauxus_rite1_5ee01e20:
@@ -8440,7 +8440,7 @@ translate Japanese Nauxus_rite1_8df4ade9:
 translate Japanese Nauxus_rite1_86120059:
 
 
-    e 9 "We… we…. Need to get inside. You need the antidote!"
+    e 9 "We... we.... Need to get inside. You need the antidote!"
 
 
 translate Japanese Nauxus_rite1_1d434364:
@@ -8476,7 +8476,7 @@ translate Japanese Nauxus_rite1_aeca2ff7:
 translate Japanese Nauxus_rite1_631f588f:
 
 
-    e 9 "I…"
+    e 9 "I..."
 
 
 translate Japanese Nauxus_rite1_60cc6c69:
@@ -8500,7 +8500,7 @@ translate Japanese Nauxus_rite1_ea772952:
 translate Japanese Nauxus_rite1_3300fa26:
 
 
-    e 5 "…"
+    e 5 "..."
 
 
 translate Japanese Nauxus_rite1_6a3d1f98:
@@ -8518,7 +8518,7 @@ translate Japanese Nauxus_rite1_0358e1a7:
 translate Japanese Nauxus_rite1_916d904e:
 
 
-    e 13 "Nauxus…"
+    e 13 "Nauxus..."
 
 
 translate Japanese Nauxus_rite1_3861f83a:
@@ -8710,7 +8710,7 @@ translate Japanese Nauxus_rite1_b73307e5:
 translate Japanese Nauxus_rite1_0cb911c0:
 
 
-    "Rogue Lizard" "Umm… were you being honest about letting us go back to our families?"
+    "Rogue Lizard" "Umm... were you being honest about letting us go back to our families?"
 
 
 translate Japanese Nauxus_rite1_a65606d7:

@@ -478,7 +478,7 @@ translate Russian courtyard_painting_world_house_737ac73f:
 translate Russian courtyard_painting_world_house_61c7adba:
 
 
-    "Dragon" "…"
+    "Dragon" "..."
 
 
 translate Russian courtyard_painting_world_house_256067f6:
@@ -628,7 +628,7 @@ translate Russian courtyard_painting_world_house_a25f9f99:
 translate Russian courtyard_painting_world_house_288d1fc8:
 
 
-    e 1 "Umm… ok."
+    e 1 "Umm... ok."
 
 
 translate Russian courtyard_painting_world_house_54c1ee01:
@@ -724,7 +724,7 @@ translate Russian courtyard_painting_world_talk_adf97f9c:
 translate Russian courtyard_painting_world_talk_e448900c:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Russian courtyard_painting_world_talk_13946a79:

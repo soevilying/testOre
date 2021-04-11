@@ -40,7 +40,7 @@ translate Russian Chet_56a45422:
 translate Russian Chet_cc8c3114:
 
 
-    c "Just think of this as an additional incentive… plus it’s cheaper than me giving you gold every time."
+    c "Just think of this as an additional incentive... plus it’s cheaper than me giving you gold every time."
 
 
 translate Russian Chet_7c286153:
@@ -154,7 +154,7 @@ translate Russian Chet_7e05b764:
 translate Russian Chet_3882bc78:
 
 
-    ro "Hmm…"
+    ro "Hmm..."
 
 
 translate Russian Chet_0f634547:
@@ -196,7 +196,7 @@ translate Russian Chet_01c28e7e:
 translate Russian Chet_099ec7db:
 
 
-    c "Hmm… I can give you 20 coins for it."
+    c "Hmm... I can give you 20 coins for it."
 
 
 translate Russian Chet_74d0f85f:
@@ -628,7 +628,7 @@ translate Russian Chet_c0990b4a:
 translate Russian Chet_ace9a9f2:
 
 
-    c "Soooo… you remember how last time, you helped with the Witer problem?"
+    c "Soooo... you remember how last time, you helped with the Witer problem?"
 
 
 translate Russian Chet_07fa289b:
@@ -856,13 +856,13 @@ translate Russian Chet_pbag1_ff3147ac:
 translate Russian Chet_pbag1_ce617998:
 
 
-    "…"
+    "..."
 
 
 translate Russian Chet_pbag1_ce617998_1:
 
 
-    "…"
+    "..."
 
 
 translate Russian Chet_pbag1_48ffd22e:
@@ -982,7 +982,7 @@ translate Russian Chet_watch_24639cdd:
 translate Russian Chet_watch_f7ea111a:
 
 
-    e 10 "Maybe…"
+    e 10 "Maybe..."
 
 
 translate Russian Chet_watch_5df73a09:
@@ -1294,7 +1294,7 @@ translate Russian Chet_chattree_e7a370b5:
 translate Russian Chet_chattree_05e02e9e:
 
 
-    e 6 "Right… and how did you know that from down here?"
+    e 6 "Right... and how did you know that from down here?"
 
 
 translate Russian Chet_chattree_fb257b91:
@@ -1330,7 +1330,7 @@ translate Russian Chet_chattree_626a7c37:
 translate Russian Chet_chattree_622668b8:
 
 
-    e 4 "Err… maybe later."
+    e 4 "Err... maybe later."
 
 
 translate Russian Chet_chattree_958a1ed7:
@@ -1432,7 +1432,7 @@ translate Russian Chet_chattree_f22e7499:
 translate Russian Chet_chattree_215476db:
 
 
-    c "Just… something felt different when I opened up to Witer, it felt good."
+    c "Just... something felt different when I opened up to Witer, it felt good."
 
 
 translate Russian Chet_chattree_8ccba95e:
@@ -1492,7 +1492,7 @@ translate Russian Chet_chattree_b21da63c:
 translate Russian Chet_chattree_57f22de4:
 
 
-    c "Home… I never had a home."
+    c "Home... I never had a home."
 
 
 translate Russian Chet_chattree_cac64f1b:
@@ -1522,7 +1522,7 @@ translate Russian Chet_chattree_ce47c3d9:
 translate Russian Chet_chattree_a067d2b5:
 
 
-    c "Then there were the beatings… if he wasn’t hitting my mother."
+    c "Then there were the beatings... if he wasn’t hitting my mother."
 
 
 translate Russian Chet_chattree_ce717c88:
@@ -1630,7 +1630,7 @@ translate Russian Chet_chattree_b21da63c_1:
 translate Russian Chet_chattree_57f22de4_1:
 
 
-    c "Home… I never had a home."
+    c "Home... I never had a home."
 
 
 translate Russian Chet_chattree_cac64f1b_1:
@@ -1660,7 +1660,7 @@ translate Russian Chet_chattree_ce47c3d9_1:
 translate Russian Chet_chattree_a067d2b5_1:
 
 
-    c "Then there were the beatings… if he wasn’t hitting my mother."
+    c "Then there were the beatings... if he wasn’t hitting my mother."
 
 
 translate Russian Chet_chattree_ce717c88_1:
@@ -1762,7 +1762,7 @@ translate Russian Chet_chattree_a4c2ecd7:
 translate Russian Chet_chattree_a2daa0f3:
 
 
-    c "Bring food Chet! Bring the beer Chet! Take off your clothes Chet…"
+    c "Bring food Chet! Bring the beer Chet! Take off your clothes Chet..."
 
 
 translate Russian Chet_chattree_94fe3ad0:
@@ -1810,7 +1810,7 @@ translate Russian Chet_chattree_36cbee97:
 translate Russian Chet_chattree_8546030d:
 
 
-    e 13 "… I can’t imagine what you went through."
+    e 13 "... I can’t imagine what you went through."
 
 
 translate Russian Chet_chattree_44bf107a:
@@ -2176,7 +2176,7 @@ translate Russian Chet_chattree_3c655609:
 translate Russian Chet_chattree_a88e5b54:
 
 
-    e 1 "… What will it take?"
+    e 1 "... What will it take?"
 
 
 translate Russian Chet_chattree_aa81730d:
@@ -2548,7 +2548,7 @@ translate Russian Chet_chattree_f9d9982c:
 translate Russian Chet_chattree_b107a847:
 
 
-    e 13 "Err… yeah I already know that."
+    e 13 "Err... yeah I already know that."
 
 
 translate Russian Chet_chattree_95e51256:
@@ -3142,7 +3142,7 @@ translate Russian Chet_chattree_28ad8cfb:
 translate Russian Chet_chattree_147f5acb:
 
 
-    "[name]" "Mmm… ah! No, not there."
+    "[name]" "Mmm... ah! No, not there."
 
 
 translate Russian Chet_chattree_78747e9d:
@@ -3160,7 +3160,7 @@ translate Russian Chet_chattree_08acafd0:
 translate Russian Chet_chattree_1c60e0ee:
 
 
-    "[name]" "Noooooo, so slimy and wet… please slow down Chet."
+    "[name]" "Noooooo, so slimy and wet... please slow down Chet."
 
 
 translate Russian Chet_chattree_e093da64:
@@ -3184,7 +3184,7 @@ translate Russian Chet_chattree_4766c2fb:
 translate Russian Chet_chattree_b8ecd8ac:
 
 
-    "[name]" "Hah...hah... hah… hah!"
+    "[name]" "Hah...hah... hah... hah!"
 
 
 translate Russian Chet_chattree_12e75478:
@@ -3220,7 +3220,7 @@ translate Russian Chet_chattree_5b2f3dfe:
 translate Russian Chet_chattree_66bb4aed:
 
 
-    s "Ehem…"
+    s "Ehem..."
 
 
 translate Russian Chet_chattree_bbcbd5ec:
@@ -3430,7 +3430,7 @@ translate Russian Chet_chattree_28ad8cfb_1:
 translate Russian Chet_chattree_147f5acb_1:
 
 
-    "[name]" "Mmm… ah! No, not there."
+    "[name]" "Mmm... ah! No, not there."
 
 
 translate Russian Chet_chattree_78747e9d_1:
@@ -3448,7 +3448,7 @@ translate Russian Chet_chattree_08acafd0_1:
 translate Russian Chet_chattree_1c60e0ee_1:
 
 
-    "[name]" "Noooooo, so slimy and wet… please slow down Chet."
+    "[name]" "Noooooo, so slimy and wet... please slow down Chet."
 
 
 translate Russian Chet_chattree_e093da64_1:
@@ -3472,7 +3472,7 @@ translate Russian Chet_chattree_4766c2fb_1:
 translate Russian Chet_chattree_b8ecd8ac_1:
 
 
-    "[name]" "Hah...hah... hah… hah!"
+    "[name]" "Hah...hah... hah... hah!"
 
 
 translate Russian Chet_chattree_12e75478_1:
@@ -3508,7 +3508,7 @@ translate Russian Chet_chattree_5b2f3dfe_1:
 translate Russian Chet_chattree_66bb4aed_1:
 
 
-    s "Ehem…"
+    s "Ehem..."
 
 
 translate Russian Chet_chattree_bbcbd5ec_1:
@@ -3670,7 +3670,7 @@ translate Russian Chet_chattree_6fe5a3da:
 translate Russian Chet_chattree_a32aa4ed:
 
 
-    c "I… can’t say that I do."
+    c "I... can’t say that I do."
 
 
 translate Russian Chet_chattree_29745082:
@@ -3754,7 +3754,7 @@ translate Russian Chet_chattree_e20c73cc:
 translate Russian Chet_chattree_765c4691:
 
 
-    c "I can’t…"
+    c "I can’t..."
 
 
 translate Russian Chet_chattree_0628f521:
@@ -3886,7 +3886,7 @@ translate Russian Chet_chattree_268ef308:
 translate Russian Chet_chattree_e448900c:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Russian Chet_chattree_13631d8e:
@@ -3952,7 +3952,7 @@ translate Russian Chet_chattree_539c2ef3:
 translate Russian Chet_chattree_6218b584:
 
 
-    c "…"
+    c "..."
 
 
 translate Russian Chet_chattree_c235faab:
@@ -3988,7 +3988,7 @@ translate Russian Chet_chattree_c50a4caf:
 translate Russian Chet_chattree_b3cef16b:
 
 
-    c "I will… and thanks [name]."
+    c "I will... and thanks [name]."
 
 
 translate Russian Chet_chattree_40e10d7c:
@@ -4192,7 +4192,7 @@ translate Russian Chet_chattree_9c22e61e:
 translate Russian Chet_chattree_1c2875fb:
 
 
-    c "And I figured one little peek wouldn’t hurt right… {p}No, that’s not why I took it."
+    c "And I figured one little peek wouldn’t hurt right... {p}No, that’s not why I took it."
 
 
 translate Russian Chet_chattree_da5c173f:
@@ -4330,7 +4330,7 @@ translate Russian Chet_chattree_55c56893:
 translate Russian Chet_chattree_7a0bb516:
 
 
-    c "Then that means… I fixed it for nothing?"
+    c "Then that means... I fixed it for nothing?"
 
 
 translate Russian Chet_chattree_ba2b7e61:
@@ -4492,7 +4492,7 @@ translate Russian Chet_chattree_ca325c2a:
 translate Russian Chet_chattree_e448900c_1:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Russian Chet_chattree_7f26adf4:
@@ -4954,7 +4954,7 @@ translate Russian Chet_fear_potion_2aad6d05:
 translate Russian Chet_fear_potion_4b559003:
 
 
-    c "… "
+    c "... "
 
 
 translate Russian Chet_fear_potion_a8c1e605:
@@ -5458,7 +5458,7 @@ translate Russian Chet_snowsfood_35e06855:
 translate Russian Chet_snowsfood_c6b715e1:
 
 
-    c "Hmm…"
+    c "Hmm..."
 
 
 translate Russian Chet_snowsfood_522ef555:
@@ -5890,7 +5890,7 @@ translate Russian Chet_snowsfood_a4c2ecd7:
 translate Russian Chet_snowsfood_a2daa0f3:
 
 
-    c "Bring food Chet! Bring the beer Chet! Take off your clothes Chet…"
+    c "Bring food Chet! Bring the beer Chet! Take off your clothes Chet..."
 
 
 translate Russian Chet_snowsfood_94fe3ad0:
@@ -5938,7 +5938,7 @@ translate Russian Chet_snowsfood_36cbee97:
 translate Russian Chet_snowsfood_8546030d:
 
 
-    e 13 "… I can’t imagine what you went through."
+    e 13 "... I can’t imagine what you went through."
 
 
 translate Russian Chet_snowsfood_44bf107a:

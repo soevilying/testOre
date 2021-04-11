@@ -208,13 +208,13 @@ translate French Thane_talk_25059095:
 translate French Thane_talk_6e728b5a:
 
 
-    t "As I journeyed through the path I noticed that my…"
+    t "As I journeyed through the path I noticed that my..."
 
 
 translate French Thane_talk_691bff0c:
 
 
-    t "That my… stomach was rumbling."
+    t "That my... stomach was rumbling."
 
 
 translate French Thane_talk_bfe065e6:
@@ -232,7 +232,7 @@ translate French Thane_talk_30c97f71:
 translate French Thane_talk_dfb55e7e:
 
 
-    t "Then… err… I forgot I’m heavier than when I was a cub…"
+    t "Then... err... I forgot I’m heavier than when I was a cub..."
 
 
 translate French Thane_talk_a3c70400:
@@ -538,7 +538,7 @@ translate French Thane_tribe_talk_2f2bf67b:
 translate French Thane_tribe_talk_ba86f7f5:
 
 
-    t "Hmm…"
+    t "Hmm..."
 
 
 translate French Thane_tribe_talk_e6558fce:
@@ -1126,7 +1126,7 @@ translate French Thane_tribe_talk_9f49c1aa:
 translate French Thane_tribe_talk_c6b14287:
 
 
-    e 9 "Err, I… I'm just trying to get on his good side."
+    e 9 "Err, I... I'm just trying to get on his good side."
 
 
 translate French Thane_tribe_talk_9b961756:
@@ -1144,7 +1144,7 @@ translate French Thane_tribe_talk_c90180c2:
 translate French Thane_tribe_talk_4218e844:
 
 
-    e 6 "Well I… come on give me a chance."
+    e 6 "Well I... come on give me a chance."
 
 
 translate French Thane_tribe_talk_06969397:
@@ -1768,7 +1768,7 @@ translate French Thane_tribe_talk_b6b62336:
 translate French Thane_tribe_talk_e1193613:
 
 
-    t "What? That's… I never expected he would make the first move, father yes, but him?"
+    t "What? That's... I never expected he would make the first move, father yes, but him?"
 
 
 translate French Thane_tribe_talk_fae9b77d:
@@ -1942,7 +1942,7 @@ translate French Thane_tribe_talk_e7b444cf:
 translate French Thane_tribe_talk_b3a0462b:
 
 
-    e 13 "A Fear Potion… maybe Chet knows how to make it."
+    e 13 "A Fear Potion... maybe Chet knows how to make it."
 
 
 translate French Thane_tribe_talk_2acd440b:
@@ -2248,7 +2248,7 @@ translate French Thane_tribe_talk_4158d0f6:
 translate French Thane_tribe_talk_b3a0462b_1:
 
 
-    e 13 "A Fear Potion… maybe Chet knows how to make it."
+    e 13 "A Fear Potion... maybe Chet knows how to make it."
 
 
 translate French Thane_tribe_talk_2acd440b_1:
@@ -2284,7 +2284,7 @@ translate French Thane_tribe_talk_64689220:
 translate French Thane_tribe_talk_1f6312b7:
 
 
-    e 13 "Hmm…"
+    e 13 "Hmm..."
 
 
 translate French Thane_tribe_talk_cc5e3f84:

@@ -364,7 +364,7 @@ translate Chinese battle_knight_win_3a067d67:
 translate Chinese battle_knight_win_a265d94f:
 
 
-    asm "“殿下…”"
+    asm "“殿下...”"
 
 
 translate Chinese battle_knight_win_dbbb3f7a:

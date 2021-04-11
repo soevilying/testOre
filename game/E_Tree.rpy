@@ -276,7 +276,7 @@ label battle_tree_lose:
     "They're so much stronger and there's no telling what the goo they're excreting could do."
     "You want to scream."
     "You should scream, but the smell- it's incapacitating you."
-    e "What is that? I… It smells… so good."
+    e "What is that? I... It smells... so good."
     "You start to struggle."
     "A lone tentacle slithers up your right thigh and wraps itself around your crotch."
     e "Ahhh!"
@@ -361,7 +361,7 @@ label battle_tree_lose:
     e "(It’s not going to kill me!)"
     e "(It wants to keep me alive to milk me for my life force!)"
     hide tree lose6 with slow_dissolve
-    e "(I… I… want to cum again.)"
+    e "(I... I... want to cum again.)"
     "..."
     "...."
     "......"

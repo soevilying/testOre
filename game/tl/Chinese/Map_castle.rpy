@@ -1138,7 +1138,7 @@ translate Chinese castle_map_e1d20bf8:
 translate Chinese castle_map_e448900c:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Chinese castle_map_23f01cd2:
@@ -4378,7 +4378,7 @@ translate Chinese castle_prison_a0b095ae:
 translate Chinese castle_prison_08bacf86:
 
 
-    "当你看到楼梯底部的时候，你加快了脚步……"
+    "当你看到楼梯底部的时候，你加快了脚步......"
 
 
 translate Chinese castle_prison_53b0cb62:

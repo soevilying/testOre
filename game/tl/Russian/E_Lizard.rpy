@@ -826,7 +826,7 @@ translate Russian battle_lizrad_sex_7ca6393d:
 translate Russian battle_lizrad_sex_2ab27bc1:
 
 
-    "Lizard Warrior" "Ugh…. my ass."
+    "Lizard Warrior" "Ugh.... my ass."
 
 
 translate Russian battle_lizrad_sex_c1ea641a:

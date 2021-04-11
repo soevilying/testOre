@@ -700,7 +700,7 @@ translate Russian battle_ghost_w_lose_4bec7010:
 translate Russian battle_ghost_w_lose_6b43c038:
 
 
-    e 0 "YOU…"
+    e 0 "YOU..."
 
 
 translate Russian battle_ghost_w_lose_cf1bd510:
@@ -712,7 +712,7 @@ translate Russian battle_ghost_w_lose_cf1bd510:
 translate Russian battle_ghost_w_lose_c1bda90f:
 
 
-    e 0 "YOU… GET OUT OF MY BODY!"
+    e 0 "YOU... GET OUT OF MY BODY!"
 
 
 translate Russian battle_ghost_w_lose_475a6b8e:

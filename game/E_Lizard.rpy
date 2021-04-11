@@ -412,7 +412,7 @@ label battle_lizrad_sex:
     "Your hands grasps the lizard’s legs tightly and you pump your hot load into the lizard’s ass."
     "The lizard warrior cums in unison and ropes of cum flies from his double dicks, spraying all over the grass and on his body."
     "Unable to hold in all your cum, some of it drips free from the lizard’s ass."
-    "Lizard Warrior" "Ugh…. my ass."
+    "Lizard Warrior" "Ugh.... my ass."
     "The lizard warrior’s head drops to the ground and he is rendered unconscious."
     e 0 "Good grief."
     "You pull out your cock from the lizard and muster enough energy to grab your things and leave."

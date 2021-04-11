@@ -172,7 +172,7 @@ translate French Hakan_meet_65186c05:
 translate French Hakan_meet_2c7f56d7:
 
 
-    h "Muhh… buzz off."
+    h "Muhh... buzz off."
 
 
 translate French Hakan_meet_1bc54f41:
@@ -400,7 +400,7 @@ translate French Hakan_meet_4b8f3e7f:
 translate French Hakan_meet_7d3264ba:
 
 
-    e 1 " … Is this about your partner?"
+    e 1 " ... Is this about your partner?"
 
 
 translate French Hakan_meet_94253ada:
@@ -520,7 +520,7 @@ translate French Hakan_meet_8c249e67:
 translate French Hakan_meet_4483d777:
 
 
-    h "Grr…"
+    h "Grr..."
 
 
 translate French Hakan_meet_f896a8b6:
@@ -784,7 +784,7 @@ translate French Hakan_talk_4c07b0cc:
 translate French Hakan_talk_ab772a0f:
 
 
-    e 13 "Well… you mentioned something about Pierro and a mimic box."
+    e 13 "Well... you mentioned something about Pierro and a mimic box."
 
 
 translate French Hakan_talk_d14216c9:
@@ -862,7 +862,7 @@ translate French Hakan_talk_d312a497:
 translate French Hakan_talk_f6c573cf:
 
 
-    h "A very vivid one, I was in the tavern fighting something off…"
+    h "A very vivid one, I was in the tavern fighting something off..."
 
 
 translate French Hakan_talk_092e3a03:
@@ -940,7 +940,7 @@ translate French Hakan_talk_0196a881:
 translate French Hakan_talk_8b07d9aa:
 
 
-    e 7 "… Wha- You’re joking aren’t you?"
+    e 7 "... Wha- You’re joking aren’t you?"
 
 
 translate French Hakan_talk_fcfb7bcf:
@@ -1108,7 +1108,7 @@ translate French Hakan_talk_feaf422c:
 translate French Hakan_talk_e6e5b08f:
 
 
-    h "It’s nothing personal, I just… I don’t give out kisses to any bloke."
+    h "It’s nothing personal, I just... I don’t give out kisses to any bloke."
 
 
 translate French Hakan_talk_8081be9a:
@@ -1456,7 +1456,7 @@ translate French Hakan_talk_2a4c7324:
 translate French Hakan_talk_7a165c67:
 
 
-    h "Then he heard that rumor…"
+    h "Then he heard that rumor..."
 
 
 translate French Hakan_talk_2fded262:
@@ -1618,7 +1618,7 @@ translate French Hakan_talk_88b63fb5:
 translate French Hakan_talk_70949087:
 
 
-    e 12 "Grr…"
+    e 12 "Grr..."
 
 
 translate French Hakan_talk_80f13bd0:
@@ -1690,7 +1690,7 @@ translate French Hakan_talk_c59b0325:
 translate French Hakan_talk_609d88fc:
 
 
-    h "Rarghh…"
+    h "Rarghh..."
 
 
 translate French Hakan_talk_18d85513:
@@ -1726,7 +1726,7 @@ translate French Hakan_talk_ab5d53f3:
 translate French Hakan_talk_b9f9cc6e:
 
 
-    e 13 "Huff..huff… I meant it when I said I’m not here for you job."
+    e 13 "Huff..huff... I meant it when I said I’m not here for you job."
 
 
 translate French Hakan_talk_b60b691a:
@@ -2020,7 +2020,7 @@ translate French Hakan_talk_ed8c3f1b:
 translate French Hakan_talk_20a9ff4b:
 
 
-    h "Buh… buh… Eyz. We got to celeplate."
+    h "Buh... buh... Eyz. We got to celeplate."
 
 
 translate French Hakan_talk_6795f7cf:
@@ -2224,7 +2224,7 @@ translate French Hakan_talk_00b63463:
 translate French Hakan_talk_1c6f3797:
 
 
-    e 10 "…"
+    e 10 "..."
 
 
 translate French Hakan_talk_0daa6651:
@@ -2278,7 +2278,7 @@ translate French Hakan_talk_694a23f4:
 translate French Hakan_talk_11739c0d:
 
 
-    e 13 "Hakan…"
+    e 13 "Hakan..."
 
 
 translate French Hakan_talk_f405b9a2:
@@ -2602,7 +2602,7 @@ translate French Hakan_talk_54cb2edb:
 translate French Hakan_talk_2340d802:
 
 
-    e 13 "Honestly I’m not even sure if I can save him in time…"
+    e 13 "Honestly I’m not even sure if I can save him in time..."
 
 
 translate French Hakan_talk_39c6b8fe:
@@ -3424,7 +3424,7 @@ translate French Hakan_ride_0fd38e27:
 translate French Hakan_ride_bd9c6d22:
 
 
-    e 0 "Oh…"
+    e 0 "Oh..."
 
 
 translate French Hakan_ride_93aa4580:

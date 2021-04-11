@@ -94,7 +94,7 @@ translate Russian slimelose_gcg_e1508a79:
 translate Russian slimelose_gcg_3ba7cd15:
 
 
-    e "Ah...ahhh…ahh!"
+    e "Ah...ahhh...ahh!"
 
 
 translate Russian slimelose_gcg_f9230d72:
@@ -178,13 +178,13 @@ translate Russian slimelose_gcg_f0af6fe8:
 translate Russian slimelose_gcg_39ae11d2:
 
 
-    e "No… must fight it!"
+    e "No... must fight it!"
 
 
 translate Russian slimelose_gcg_53b9881c:
 
 
-    e "Too good… I mustn’t give in."
+    e "Too good... I mustn’t give in."
 
 
 translate Russian slimelose_gcg_4b20b227:
@@ -304,7 +304,7 @@ translate Russian Witer_bj_gcg_c2ecfcb6:
 translate Russian Witer_bj_gcg_0d62d196:
 
 
-    w "Smart birdie. So…"
+    w "Smart birdie. So..."
 
 
 translate Russian Witer_bj_gcg_6dd06bf7:
@@ -322,7 +322,7 @@ translate Russian Witer_bj_gcg_270d4983:
 translate Russian Witer_bj_gcg_666e8716:
 
 
-    e 6 "Just…Do what u want"
+    e 6 "Just...Do what u want"
 
 
 translate Russian Witer_bj_gcg_d6fe0fd9:
@@ -730,7 +730,7 @@ translate Russian battle_bull_lose_gcg_87206c1f:
 translate Russian battle_bull_lose_gcg_b2b68d0b:
 
 
-    "[name]" "No…. I mustn't…."
+    "[name]" "No.... I mustn't...."
 
 
 translate Russian battle_bull_lose_gcg_08f5de7b:
@@ -1180,7 +1180,7 @@ translate Russian battle_bull_lose_gcg_cb7f968f:
 translate Russian battle_bull_lose_gcg_f92bfa69:
 
 
-    "Your eyelids are getting heavy…"
+    "Your eyelids are getting heavy..."
 
 
 translate Russian battle_bull_lose_gcg_94d019a6:
@@ -1228,7 +1228,7 @@ translate Russian battle_bull_sex_agcg_2043a3c0:
 translate Russian battle_bull_sex_agcg_f7679117:
 
 
-    "Bull warrior" "Claim me… champion."
+    "Bull warrior" "Claim me... champion."
 
 
 translate Russian battle_bull_sex_agcg_8b020fbf:
@@ -1342,7 +1342,7 @@ translate Russian battle_bull_sex_agcg_e14725aa:
 translate Russian battle_bull_sex_agcg_772bd301:
 
 
-    "Bull warrior" "Yes… please… it feels so warm… I need you inside me."
+    "Bull warrior" "Yes... please... it feels so warm... I need you inside me."
 
 
 translate Russian battle_bull_sex_agcg_21144b0d:
@@ -1576,7 +1576,7 @@ translate Russian battle_bull_sex_bgcg_2043a3c0:
 translate Russian battle_bull_sex_bgcg_f7679117:
 
 
-    "Bull warrior" "Claim me… champion."
+    "Bull warrior" "Claim me... champion."
 
 
 translate Russian battle_bull_sex_bgcg_8b020fbf:
@@ -1690,7 +1690,7 @@ translate Russian battle_bull_sex_bgcg_e14725aa:
 translate Russian battle_bull_sex_bgcg_772bd301:
 
 
-    "Bull warrior" "Yes… please… it feels so warm… I need you inside me."
+    "Bull warrior" "Yes... please... it feels so warm... I need you inside me."
 
 
 translate Russian battle_bull_sex_bgcg_21144b0d:
@@ -2104,7 +2104,7 @@ translate Russian battle_tree_lose_gcg_5eab678c:
 translate Russian battle_tree_lose_gcg_97a49711:
 
 
-    e "What is that? I… It smells… so good."
+    e "What is that? I... It smells... so good."
 
 
 translate Russian battle_tree_lose_gcg_fd35c1e8:
@@ -2500,7 +2500,7 @@ translate Russian battle_tree_lose_gcg_d0b41245:
 translate Russian battle_tree_lose_gcg_5e2cb6bf:
 
 
-    e "(I… I… want to cum again.)"
+    e "(I... I... want to cum again.)"
 
 
 translate Russian battle_tree_lose_gcg_a20cefa7_1:
@@ -2968,7 +2968,7 @@ translate Russian battle_ghost_lose_gcg_4bec7010:
 translate Russian battle_ghost_lose_gcg_6b43c038:
 
 
-    e 0 "YOU…"
+    e 0 "YOU..."
 
 
 translate Russian battle_ghost_lose_gcg_cf1bd510:
@@ -2980,7 +2980,7 @@ translate Russian battle_ghost_lose_gcg_cf1bd510:
 translate Russian battle_ghost_lose_gcg_c1bda90f:
 
 
-    e 0 "YOU… GET OUT OF MY BODY!"
+    e 0 "YOU... GET OUT OF MY BODY!"
 
 
 translate Russian battle_ghost_lose_gcg_475a6b8e:
@@ -4270,7 +4270,7 @@ translate Russian lizrad_sex_gcg_7ca6393d:
 translate Russian lizrad_sex_gcg_2ab27bc1:
 
 
-    "Lizard Warrior" "Ugh…. my ass."
+    "Lizard Warrior" "Ugh.... my ass."
 
 
 translate Russian lizrad_sex_gcg_c1ea641a:
@@ -5074,7 +5074,7 @@ translate Russian bull_lick_gcg_3fe982e7:
 translate Russian bull_lick_gcg_37a82873:
 
 
-    "Drunk Bull" "Yeah… suck it…"
+    "Drunk Bull" "Yeah... suck it..."
 
 
 translate Russian bull_lick_gcg_6f2cc0df:
@@ -5128,7 +5128,7 @@ translate Russian bull_lick_gcg_ae039ecc:
 translate Russian bull_lick_gcg_3c7e17c0:
 
 
-    "Drunk Bull" "Yeah, that’s it girl, put...your whole… on it… I promise it won’t hurt this time."
+    "Drunk Bull" "Yeah, that’s it girl, put...your whole... on it... I promise it won’t hurt this time."
 
 
 translate Russian bull_lick_gcg_477f4dc3:
@@ -5218,7 +5218,7 @@ translate Russian bull_lick_gcg_3badfb01:
 translate Russian bull_lick_gcg_da680fa5:
 
 
-    e 0 "Mmm...mmm….mmmfff."
+    e 0 "Mmm...mmm....mmmfff."
 
 
 translate Russian bull_lick_gcg_9db0e54e:
@@ -5980,7 +5980,7 @@ translate Russian gargoyle_win_gcg_8970dae9:
 translate Russian gargoyle_win_gcg_aff27e19:
 
 
-    "Gargoyle" "Yes… warm good."
+    "Gargoyle" "Yes... warm good."
 
 
 translate Russian gargoyle_win_gcg_2a5cc79e:
@@ -6010,7 +6010,7 @@ translate Russian gargoyle_win_gcg_5affe14a:
 translate Russian gargoyle_win_gcg_645733d7:
 
 
-    "Gargoyle" "More warm… better… me like warm."
+    "Gargoyle" "More warm... better... me like warm."
 
 
 translate Russian gargoyle_win_gcg_4266b53e:
@@ -6034,7 +6034,7 @@ translate Russian gargoyle_win_gcg_0a583ad1:
 translate Russian gargoyle_win_gcg_4c5311f6:
 
 
-    "Gargoyle" "Fuck… give me… warm cock!"
+    "Gargoyle" "Fuck... give me... warm cock!"
 
 
 translate Russian gargoyle_win_gcg_b780dfd5:
@@ -6070,7 +6070,7 @@ translate Russian gargoyle_win_gcg_6a597025:
 translate Russian gargoyle_win_gcg_a1707d5a:
 
 
-    "Gargoyle" "Gah… thick!"
+    "Gargoyle" "Gah... thick!"
 
 
 translate Russian gargoyle_win_gcg_649b06dc:
@@ -6286,7 +6286,7 @@ translate Russian gargoyle_win_gcg_fd642b40:
 translate Russian gargoyle_win_gcg_211e8985:
 
 
-    "Gargoyle" "Warm…"
+    "Gargoyle" "Warm..."
 
 
 translate Russian gargoyle_win_gcg_adbaedb1:
@@ -6430,7 +6430,7 @@ translate Russian roushkbottom_gcg_72714538:
 translate Russian roushkbottom_gcg_3e9644c2:
 
 
-    ro "Shh… just relax and take deep breaths."
+    ro "Shh... just relax and take deep breaths."
 
 
 translate Russian roushkbottom_gcg_fa7c503f:
@@ -6832,7 +6832,7 @@ translate Russian roushktop_gcg_0b6b8c12:
 translate Russian roushktop_gcg_fe4d9a6a:
 
 
-    ro "Ahhh, so… big."
+    ro "Ahhh, so... big."
 
 
 translate Russian roushktop_gcg_979c0505:
@@ -6874,7 +6874,7 @@ translate Russian roushktop_gcg_4517a207:
 translate Russian roushktop_gcg_d4666cf0:
 
 
-    ro "Please… [name], just fuck me."
+    ro "Please... [name], just fuck me."
 
 
 translate Russian roushktop_gcg_febe7e92:
@@ -7000,7 +7000,7 @@ translate Russian roushktop_gcg_e9d2bff0:
 translate Russian roushktop_gcg_67f20e43:
 
 
-    ro "Mph… more just put it all in!"
+    ro "Mph... more just put it all in!"
 
 
 translate Russian roushktop_gcg_f2688d6f:
@@ -7018,7 +7018,7 @@ translate Russian roushktop_gcg_097c6805:
 translate Russian roushktop_gcg_4670cb33:
 
 
-    e 0 "Oh… fuck."
+    e 0 "Oh... fuck."
 
 
 translate Russian roushktop_gcg_efd0457c:
@@ -7660,7 +7660,7 @@ translate Russian eyvindsell_gcg_bb836ee3:
 translate Russian eyvindsell_gcg_bf726f90:
 
 
-    e 0 "Yes…"
+    e 0 "Yes..."
 
 
 translate Russian eyvindsell_gcg_478d146d:
@@ -7684,7 +7684,7 @@ translate Russian eyvindsell_gcg_b9bcc90e:
 translate Russian eyvindsell_gcg_4cf0d8ce:
 
 
-    e 0 "Ngh…"
+    e 0 "Ngh..."
 
 
 translate Russian eyvindsell_gcg_29a4e141:
@@ -7702,7 +7702,7 @@ translate Russian eyvindsell_gcg_c2af171e:
 translate Russian eyvindsell_gcg_3f85a285:
 
 
-    "Second Demon" "Hehe…."
+    "Second Demon" "Hehe...."
 
 
 translate Russian eyvindsell_gcg_cc2f0c23:
@@ -8692,7 +8692,7 @@ translate Russian Hakan_sixnine_gcg_e2051c6d:
 translate Russian Hakan_sixnine_gcg_7ae3c9fd:
 
 
-    e 0 "That was…"
+    e 0 "That was..."
 
 
 translate Russian Hakan_sixnine_gcg_99cf0120:
@@ -8782,7 +8782,7 @@ translate Russian Witer_cowboy_gcg_059706d3:
 translate Russian Witer_cowboy_gcg_5203c098:
 
 
-    e 9 "W-Whoa…ah!"
+    e 9 "W-Whoa...ah!"
 
 
 translate Russian Witer_cowboy_gcg_ceba20cc:
@@ -8890,7 +8890,7 @@ translate Russian Witer_cowboy_gcg_55bfb013:
 translate Russian Witer_cowboy_gcg_48357656:
 
 
-    w "A-ah...yes…that’s it."
+    w "A-ah...yes...that’s it."
 
 
 translate Russian Witer_cowboy_gcg_d48cdd59:
@@ -8992,7 +8992,7 @@ translate Russian Witer_cowboy_gcg_b1aff357:
 translate Russian Witer_cowboy_gcg_cea42bfa:
 
 
-    e 0 "I...ah, I'm gonna…"
+    e 0 "I...ah, I'm gonna..."
 
 
 translate Russian Witer_cowboy_gcg_e9607e97:

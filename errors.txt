@@ -2,17 +2,13 @@
 errors listed below, and try again.
 
 
-File "game/C_Axel.rpy", line 185: end of line expected.
-    a "Если бы вы позаботились, наше племя имеет дело с первой попыткой ящериц захватить это место".
-                                                                                                   ^
+File "game/C_Axel.rpy", line 488: end of line expected.
+    a "Вот что мы делаем Блохастик. Стойкость".
+                                              ^
 
-File "game/C_Axel.rpy", line 411: expecting name after dot.
-    "Он освобождает тебя с минуты на минуту. Ты задыхаешься от воздуха, вонь меха Акселя все еще застряла у тебя на носу".
-                                                                                                                          ^
-
-File "game/C_Axel.rpy", line 415: expecting name after dot.
-    "Аксель смеется и сильно прижимает твою голову к своей выпуклости".
-                                                                       ^
+File "game/C_Axel.rpy", line 583: end of line expected.
+    e 9 "Подожди, это слишком радикально".
+                                         ^
 
 Ren'Py Version: Ren'Py 7.4.4.1439
-Sun Apr 11 14:07:16 2021
+Sun Apr 11 19:05:09 2021

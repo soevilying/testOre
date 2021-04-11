@@ -184,7 +184,7 @@ translate Japanese Room1_b330a84b:
 translate Japanese Room1_507deefc:
 
 
-    e 11 "Ugh, I can’t… I can’t hold it in anymore."
+    e 11 "Ugh, I can’t... I can’t hold it in anymore."
 
 
 translate Japanese Room1_8f87b139:
@@ -220,7 +220,7 @@ translate Japanese Room1_432fc67b:
 translate Japanese Room1_cf4f85fc:
 
 
-    "Your balls… your balls feels so full."
+    "Your balls... your balls feels so full."
 
 
 translate Japanese Room1_8da061e7:
@@ -232,7 +232,7 @@ translate Japanese Room1_8da061e7:
 translate Japanese Room1_52c5aa35:
 
 
-    e 11 "Hngh…"
+    e 11 "Hngh..."
 
 
 translate Japanese Room1_dacd1d68:
@@ -292,7 +292,7 @@ translate Japanese Room1_dd72ff9f:
 translate Japanese Room1_bc8c1bbf:
 
 
-    "You pant louder and louder until…"
+    "You pant louder and louder until..."
 
 
 translate Japanese Room1_862c2694:

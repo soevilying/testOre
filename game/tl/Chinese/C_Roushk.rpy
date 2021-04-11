@@ -40,7 +40,7 @@ translate Chinese Roushk_meet_8f681780:
 translate Chinese Roushk_meet_a20cefa7:
 
 
-    "……"
+    "......"
 
 
 translate Chinese Roushk_meet_6201be98:
@@ -334,7 +334,7 @@ translate Chinese Roushk_meet_c06d0200:
 translate Chinese Roushk_meet_57245488:
 
 
-    w "水……給我！" with vpunch
+    w "水......給我！" with vpunch
 
 
 translate Chinese Roushk_meet_7bab9b73:
@@ -352,7 +352,7 @@ translate Chinese Roushk_meet_36670a22:
 translate Chinese Roushk_meet_8978dee1:
 
 
-    h "你不……你不……" with vpunch
+    h "你不......你不......" with vpunch
 
 
 translate Chinese Roushk_meet_4cc114a0:
@@ -796,7 +796,7 @@ translate Chinese Roushk_meet_0e23cd79:
 translate Chinese Roushk_fight_a20cefa7:
 
 
-    "……"
+    "......"
 
 
 translate Chinese Roushk_fight_19d6d929:
@@ -934,7 +934,7 @@ translate Chinese battle_roushk_loop_5ffe792e:
 translate Chinese battle_roushk_loop_fc623f8a:
 
 
-    e 0 "我沒辦法再戰鬥了……"
+    e 0 "我沒辦法再戰鬥了......"
 
 
 translate Chinese battle_roushk_loop_57bdc818:
@@ -1180,7 +1180,7 @@ translate Chinese battle_roushk_loop_5ffe792e_1:
 translate Chinese battle_roushk_loop_fc623f8a_1:
 
 
-    e 0 "我沒辦法再戰鬥了……"
+    e 0 "我沒辦法再戰鬥了......"
 
 
 translate Chinese battle_roushk_loop_57bdc818_1:
@@ -1414,7 +1414,7 @@ translate Chinese battle_roushk_lose_47098c0a:
 translate Chinese battle_roushk_lose_c3517d60:
 
 
-    "只有一個念頭佔據了你的意識……你此生只為服侍頭領。"
+    "只有一個念頭佔據了你的意識......你此生只為服侍頭領。"
 
 
 translate Chinese battle_roushk_lose_fe0d0cfc:
@@ -1672,7 +1672,7 @@ translate Chinese Roushk_fight_win_1be85ebc:
 translate Chinese Roushk_fight_win_a76f044f:
 
 
-    e 1 "呃，你真該消點肌肉的……"
+    e 1 "呃，你真該消點肌肉的......"
 
 
 translate Chinese Roushk_fight_win_f48dc0e5:
@@ -1690,7 +1690,7 @@ translate Chinese Roushk_fight_win_0769b3d2:
 translate Chinese Roushk_evening_1_a20cefa7:
 
 
-    "……"
+    "......"
 
 
 translate Chinese Roushk_evening_1_4c6dec7b:
@@ -1762,7 +1762,7 @@ translate Chinese Roushk_evening_1_5cd22252:
 translate Chinese Roushk_evening_1_a20cefa7_1:
 
 
-    "……"
+    "......"
 
 
 translate Chinese Roushk_evening_1_12f34372:
@@ -2248,7 +2248,7 @@ translate Chinese Roushk_evening_1_7fcc17a5:
 translate Chinese Roushk_evening_1_32924cb3:
 
 
-    ro "那個……聽起來一點也不像我，一個會吹噓的戰士不是一名真的戰士。"
+    ro "那個......聽起來一點也不像我，一個會吹噓的戰士不是一名真的戰士。"
 
 
 translate Chinese Roushk_evening_1_14c6f211:
@@ -2260,7 +2260,7 @@ translate Chinese Roushk_evening_1_14c6f211:
 translate Chinese Roushk_evening_1_31f379e1:
 
 
-    ro "我不知道……"
+    ro "我不知道......"
 
 
 translate Chinese Roushk_evening_1_41318f90:
@@ -2602,7 +2602,7 @@ translate Chinese Roushk_evening_1_7fcc17a5_1:
 translate Chinese Roushk_evening_1_32924cb3_1:
 
 
-    ro "那個……聽起來一點也不像我，一個會吹噓的戰士不是一名真的戰士。"
+    ro "那個......聽起來一點也不像我，一個會吹噓的戰士不是一名真的戰士。"
 
 
 translate Chinese Roushk_evening_1_14c6f211_1:
@@ -2614,7 +2614,7 @@ translate Chinese Roushk_evening_1_14c6f211_1:
 translate Chinese Roushk_evening_1_31f379e1_1:
 
 
-    ro "我不知道……"
+    ro "我不知道......"
 
 
 translate Chinese Roushk_evening_1_41318f90_1:
@@ -2926,13 +2926,13 @@ translate Chinese Roushk_evening_1_23b03ed6:
 translate Chinese Roushk_evening_1_66d954dd:
 
 
-    ro "好……你不會讓我去和一個危險的傢伙討論，對吧？"
+    ro "好......你不會讓我去和一個危險的傢伙討論，對吧？"
 
 
 translate Chinese Roushk_evening_1_65037ef9:
 
 
-    e 5 "什麼？不？他是……無害的？"
+    e 5 "什麼？不？他是......無害的？"
 
 
 translate Chinese Roushk_evening_1_5a8a1967:
@@ -3040,7 +3040,7 @@ translate Chinese Roushk_evening_1_2259bc3e:
 translate Chinese Roushk_evening_1_e1aadef0:
 
 
-    e 1 "呃……，這位是Roushk。"
+    e 1 "呃......，這位是Roushk。"
 
 
 translate Chinese Roushk_evening_1_ba5520b2:
@@ -3058,7 +3058,7 @@ translate Chinese Roushk_evening_1_22cca40a:
 translate Chinese Roushk_evening_1_4b9b5fd8:
 
 
-    ro "……"
+    ro "......"
 
 
 translate Chinese Roushk_evening_1_9f45a6e6:
@@ -3196,7 +3196,7 @@ translate Chinese Roushk_evening_1_8d6fd660:
 translate Chinese Roushk_evening_1_913572f3:
 
 
-    m "呣……這會花上我一些時間，我要先重學如果下詛咒，再如何解除詛咒，"
+    m "呣......這會花上我一些時間，我要先重學如果下詛咒，再如何解除詛咒，"
 
 
 translate Chinese Roushk_evening_1_1344e5de:
@@ -3244,7 +3244,7 @@ translate Chinese Roushk_evening_1_175782c3:
 translate Chinese Roushk_evening_1_28f22e75:
 
 
-    e 13 "我唯一知道的其他魔法使用者是……"
+    e 13 "我唯一知道的其他魔法使用者是......"
 
 
 translate Chinese Roushk_evening_1_56d1ad56:
@@ -3820,7 +3820,7 @@ translate Chinese Roushk_talk1_fcf08a5f:
 translate Chinese Roushk_lizardtribe_a20cefa7:
 
 
-    "……"
+    "......"
 
 
 translate Chinese Roushk_lizardtribe_e4706ba5:
@@ -3964,7 +3964,7 @@ translate Chinese Roushk_lizardtribe_edce9416:
 translate Chinese Roushk_lizardtribe_b6872f01:
 
 
-    e 1 "嘛……"
+    e 1 "嘛......"
 
 
 translate Chinese Roushk_lizardtribe_75a1ca14:
@@ -3994,7 +3994,7 @@ translate Chinese Roushk_lizardtribe_aed240a2:
 translate Chinese Roushk_lizardtribe_a20cefa7_1:
 
 
-    "……"
+    "......"
 
 
 translate Chinese Roushk_lizardtribe_c44cf626:
@@ -4138,7 +4138,7 @@ translate Chinese Roushk_lizardtribe_4b3f123b:
 translate Chinese Roushk_lizardtribe_2946ccd3:
 
 
-    e 1 "聽著……我才發現到我不知道你們的名字是什麼。"
+    e 1 "聽著......我才發現到我不知道你們的名字是什麼。"
 
 
 translate Chinese Roushk_lizardtribe_f2676f7e:
@@ -4180,7 +4180,7 @@ translate Chinese Roushk_lizardtribe_f00af022:
 translate Chinese Roushk_lizardtribe_52959033:
 
 
-    e 1 "……"
+    e 1 "......"
 
 
 translate Chinese Roushk_lizardtribe_8a7bb47a:
@@ -4360,7 +4360,7 @@ translate Chinese Roushk_lizardtribe_battle_loop_5ffe792e:
 translate Chinese Roushk_lizardtribe_battle_loop_fc623f8a:
 
 
-    e 0 "我沒辦法再戰鬥了……"
+    e 0 "我沒辦法再戰鬥了......"
 
 
 translate Chinese Roushk_lizardtribe_battle_loop_57bdc818:
@@ -4846,7 +4846,7 @@ translate Chinese Roushk_lizardtribe_battle_win_14abda85:
 translate Chinese Roushk_lizardtribe_battle_win_a20cefa7:
 
 
-    "……"
+    "......"
 
 
 translate Chinese Roushk_lizardtribe_battle_win_b690b030:
@@ -4948,7 +4948,7 @@ translate Chinese Roushk_lizardtribe_battle_win_14abda85_1:
 translate Chinese Roushk_lizardtribe_battle_win_a20cefa7_1:
 
 
-    "……"
+    "......"
 
 
 translate Chinese Roushk_lizardtribe_battle_win_b690b030_1:
@@ -5098,7 +5098,7 @@ translate Chinese Roushk_lizardtribe_battle_lose_83811109:
 translate Chinese Roushk_lizardtribe_battle_lose_fe2bc999:
 
 
-    e 9 "這實在……太厲害了！"
+    e 9 "這實在......太厲害了！"
 
 
 translate Chinese Roushk_lizardtribe_battle_lose_2d36120e:
@@ -5122,7 +5122,7 @@ translate Chinese Roushk_lizardtribe_battle_lose_61e58c5c:
 translate Chinese Roushk_lizardtribe_battle_lose_a98f6f3d:
 
 
-    "Nuo" "你……你也沒法，噢，他出門去找符文石了。"
+    "Nuo" "你......你也沒法，噢，他出門去找符文石了。"
 
 
 translate Chinese Roushk_lizardtribe_battle_lose_702d0108:
@@ -5194,7 +5194,7 @@ translate Chinese Roushk_lizardtribe_battle_lose_14abda85:
 translate Chinese Roushk_lizardtribe_battle_lose_a20cefa7:
 
 
-    "……"
+    "......"
 
 
 translate Chinese Roushk_lizardtribe_battle_lose_b690b030:
@@ -5248,7 +5248,7 @@ translate Chinese Roushk_lizardtribe_battle_lose_a7e1c36e:
 translate Chinese Roushk_lizardtribe_battle_lose_41013971:
 
 
-    "蜥蜴勇士" "嗯哼……咪……咪……咪。"
+    "蜥蜴勇士" "嗯哼......咪......咪......咪。"
 
 
 translate Chinese Roushk_lizardtribe_battle_lose_231f494f:
@@ -5362,7 +5362,7 @@ translate Chinese Roushk_lizardtribe_battle_lose_b16e6a9c:
 translate Chinese Roushk_lizardtribe_battle_lose_a20cefa7_1:
 
 
-    "……"
+    "......"
 
 
 translate Chinese Roushk_lizardtribe_battle_lose_b690b030_1:
@@ -5464,7 +5464,7 @@ translate Chinese Roushk_lizardtribe_night_0f71e79e:
 translate Chinese Roushk_lizardtribe_night_fd997fc2:
 
 
-    e 1 "呣……，我並不確定單等著Selye對我們有沒有幫助。"
+    e 1 "呣......，我並不確定單等著Selye對我們有沒有幫助。"
 
 
 translate Chinese Roushk_lizardtribe_night_8c8f3337:
@@ -5488,7 +5488,7 @@ translate Chinese Roushk_lizardtribe_night_fc073558:
 translate Chinese Roushk_lizardtribe_night_408aa545:
 
 
-    e 5 "湖……一座湖，對了！"
+    e 5 "湖......一座湖，對了！"
 
 
 translate Chinese Roushk_lizardtribe_night_0aac640c:
@@ -5782,7 +5782,7 @@ translate Chinese Roushk_bulltribe_5c598270:
 translate Chinese Roushk_bulltribe_e3a0d4d5:
 
 
-    e 1 "嗯……"
+    e 1 "嗯......"
 
 
 translate Chinese Roushk_bulltribe_db460cad:
@@ -5818,7 +5818,7 @@ translate Chinese Roushk_bulltribe_ad66b1a1:
 translate Chinese Roushk_bulltribe_c4d2f99a:
 
 
-    ro "那……那是什麼？"
+    ro "那......那是什麼？"
 
 
 translate Chinese Roushk_bulltribe_dfabc7f9:
@@ -5932,13 +5932,13 @@ translate Chinese Roushk_bulltribe_3339e622:
 translate Chinese Roushk_bulltribe_9de4452d:
 
 
-    ro "最好會有那一天，聽起來像……"
+    ro "最好會有那一天，聽起來像......"
 
 
 translate Chinese Roushk_bulltribe_e1177b4c:
 
 
-    ro "就像……"
+    ro "就像......"
 
 
 translate Chinese Roushk_bulltribe_8718010a:
@@ -5956,7 +5956,7 @@ translate Chinese Roushk_bulltribe_a4e42d92:
 translate Chinese Roushk_bulltribe_a20cefa7:
 
 
-    "……"
+    "......"
 
 
 translate Chinese Roushk_bulltribe_62cd8429:
@@ -6580,7 +6580,7 @@ translate Chinese Roushk_bulltribe_back_0c090935:
 translate Chinese Roushk_bulltribe_back_ba8bc451:
 
 
-    e 9 "說真的這名字……"
+    e 9 "說真的這名字......"
 
 
 translate Chinese Roushk_bulltribe_back_e2c335d6:
@@ -6628,7 +6628,7 @@ translate Chinese Roushk_bulltribe_back_717ea4ec:
 translate Chinese Roushk_bulltribe_back_8957a75a:
 
 
-    ro "……"
+    ro "......"
 
 
 translate Chinese Roushk_bulltribe_back_62078c18:
@@ -6640,7 +6640,7 @@ translate Chinese Roushk_bulltribe_back_62078c18:
 translate Chinese Roushk_bulltribe_back_8957a75a_1:
 
 
-    ro "……"
+    ro "......"
 
 
 translate Chinese Roushk_bulltribe_back_3ff1b7e5:
@@ -6748,7 +6748,7 @@ translate Chinese Roushk_bulltribe_battle_loop_5ffe792e:
 translate Chinese Roushk_bulltribe_battle_loop_fc623f8a:
 
 
-    e 0 "我沒辦法再戰鬥了……"
+    e 0 "我沒辦法再戰鬥了......"
 
 
 translate Chinese Roushk_bulltribe_battle_loop_57bdc818:
@@ -7270,7 +7270,7 @@ translate Chinese Roushk_bulltribe_end_612ebdcc:
 translate Chinese Roushk_bulltribe_end_c8e988e9:
 
 
-    "Tomahawk" "呣……肉……"
+    "Tomahawk" "呣......肉......"
 
 
 translate Chinese Roushk_bulltribe_end_d695c906:
@@ -7312,7 +7312,7 @@ translate Chinese Roushk_bulltribe_end_d7056525:
 translate Chinese Roushk_bulltribe_end_a20cefa7:
 
 
-    "……"
+    "......"
 
 
 translate Chinese Roushk_bulltribe_end_34111a3c:
@@ -7468,7 +7468,7 @@ translate Chinese Roushk_meko_77085d62:
 translate Chinese Roushk_meko_274382c9:
 
 
-    "Meko" "啊，快往我身上砸几下，快点，直到这该死的。。。快放开我！Gaah! You need to hit me. Just hit me… gahh… until this bastard... lets go of … of me."
+    "Meko" "啊，快往我身上砸几下，快点，直到这该死的。。。快放开我！Gaah! You need to hit me. Just hit me... gahh... until this bastard... lets go of ... of me."
 
 
 translate Chinese Roushk_meko_871b41af:
@@ -7888,7 +7888,7 @@ translate Chinese Roushk_meko_battle_win_de916c1e:
 translate Chinese Roushk_meko_battle_win_2649a15e:
 
 
-    m "… 啊，我感觉身上的魔力都被抽干似的。"
+    m "... 啊，我感觉身上的魔力都被抽干似的。"
 
 
 translate Chinese Roushk_meko_battle_win_1cd9433b:
@@ -8140,13 +8140,13 @@ translate Chinese Roushk_meko_battle_win_b1ef0f9d:
 translate Chinese Roushk_meko_battle_win_a20cefa7_1:
 
 
-    "……"
+    "......"
 
 
 translate Chinese Roushk_meko_battle_win_0fd4d656:
 
 
-    "……"
+    "......"
 
 
 translate Chinese Roushk_meko_battle_win_9883728c:
@@ -8284,7 +8284,7 @@ translate Chinese Roushk_meko_battle_lose_f6a9574e:
 translate Chinese Roushk_meko_battle_end_a20cefa7:
 
 
-    "……"
+    "......"
 
 
 translate Chinese Roushk_meko_battle_end_e0f09296:
@@ -8386,7 +8386,7 @@ translate Chinese Roushk_meko_battle_end_24745289:
 translate Chinese Roushk_meko_battle_end_cbd84920:
 
 
-    ro "至於現在……僅管處境艱難但你們總有彼此做為好夥伴，"
+    ro "至於現在......僅管處境艱難但你們總有彼此做為好夥伴，"
 
 
 translate Chinese Roushk_meko_battle_end_af9d23a3:
@@ -8584,7 +8584,7 @@ translate Chinese Roushk_meko_battle_end_80558e00:
 translate Chinese Roushk_meko_battle_end_6ceeddbd:
 
 
-    w "……你為什麼要這樣問我？"
+    w "......你為什麼要這樣問我？"
 
 
 translate Chinese Roushk_meko_battle_end_e22b865b:
@@ -8788,7 +8788,7 @@ translate Chinese Roushk_meko_battle_end_7758a8d8:
 translate Chinese Roushk_meko_battle_end_ef47d252:
 
 
-    c "這實在……"
+    c "這實在......"
 
 
 translate Chinese Roushk_meko_battle_end_e16b16b8:
@@ -8812,7 +8812,7 @@ translate Chinese Roushk_meko_battle_end_e3575829:
 translate Chinese Roushk_meko_battle_end_0eb789ad:
 
 
-    c "哈……哈……我又輸了。"
+    c "哈......哈......我又輸了。"
 
 
 translate Chinese Roushk_meko_battle_end_26c80ac7:
@@ -8830,7 +8830,7 @@ translate Chinese Roushk_meko_battle_end_b53245d7:
 translate Chinese Roushk_meko_battle_end_fb1f7bac:
 
 
-    c "我……我的……錢。"
+    c "我......我的......錢。"
 
 
 translate Chinese Roushk_meko_battle_end_7dac8190:
@@ -8866,13 +8866,13 @@ translate Chinese Roushk_meko_battle_end_95be3602:
 translate Chinese Roushk_meko_battle_end1_a20cefa7:
 
 
-    "……"
+    "......"
 
 
 translate Chinese Roushk_meko_battle_end1_a20cefa7_1:
 
 
-    "……"
+    "......"
 
 
 translate Chinese Roushk_meko_battle_end1_c95e0249:
@@ -8950,7 +8950,7 @@ translate Chinese Roushk_meko_battle_end1_37c626bb:
 translate Chinese Roushk_meko_battle_end1_9bf1298e:
 
 
-    e 1 "嘛，我覺得……"
+    e 1 "嘛，我覺得......"
 
 
 translate Chinese Roushk_meko_battle_end1_c164a2d8:
@@ -10439,7 +10439,7 @@ translate Chinese Roushk_sex_bottom_246eecb0:
 translate Chinese Roushk_sex_bottom_47d959d6:
 
 
-    e 5 "Roushk…"
+    e 5 "Roushk..."
 
 
 translate Chinese Roushk_sex_bottom_59a14282:
@@ -10572,7 +10572,7 @@ translate Chinese Roushk_sex_bottom_0873610d:
 translate Chinese Roushk_sex_bottom_72714538:
 
 
-    e 0 "不……了。 "
+    e 0 "不......了。 "
 
 
 translate Chinese Roushk_sex_bottom_3e9644c2:
@@ -10829,7 +10829,7 @@ translate Chinese Roushk_sex_end_3c4324a1:
 translate Chinese Roushk_sex_end_a20cefa7:
 
 
-    "……"
+    "......"
 
 
 translate Chinese Roushk_sex_end_d14de01a:
@@ -10871,13 +10871,13 @@ translate Chinese Roushk_sex_end_c59d37a4:
 translate Chinese Roushk_sex_end_a20cefa7_1:
 
 
-    "……"
+    "......"
 
 
 translate Chinese Roushk_goodbye_a20cefa7:
 
 
-    "……"
+    "......"
 
 
 translate Chinese Roushk_goodbye_23689f23:
@@ -11111,7 +11111,7 @@ translate Chinese Roushk_meko_battle_end2_886b3b57:
 translate Chinese Roushk_meko_battle_end2_a20cefa7:
 
 
-    "……"
+    "......"
 
 
 translate Chinese Roushk_meko_battle_end2_234f0326:
@@ -11177,7 +11177,7 @@ translate Chinese Roushk_meko_battle_end2_8de30ae6:
 translate Chinese Roushk_goodbye2_a20cefa7:
 
 
-    "……"
+    "......"
 
 
 translate Chinese Roushk_goodbye2_23689f23:
@@ -11237,7 +11237,7 @@ translate Chinese Roushk_goodbye2_82eb3b6a:
 translate Chinese Roushk_goodbye2_658be844:
 
 
-    e 5 "這是……"
+    e 5 "這是......"
 
 
 translate Chinese Roushk_goodbye2_19fa823b:
@@ -11473,7 +11473,7 @@ translate Chinese Roushk_meet_9ffaa5c1:
 translate Chinese Roushk_evening_1_3b068edb:
 
 
-    m "呣……這會需要一些時間，我首先需要重新學習怎麼對東西下詛咒，然後再把詛咒解除。"
+    m "呣......這會需要一些時間，我首先需要重新學習怎麼對東西下詛咒，然後再把詛咒解除。"
 
 
 translate Chinese Roushk_talk_ab9bc0b0:

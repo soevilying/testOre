@@ -70,7 +70,7 @@ translate Chinese Nauxus_meet_2f48c5d8:
 translate Chinese Nauxus_meet_14c31add:
 
 
-    e 9 "我……我叫[name]。"
+    e 9 "我......我叫[name]。"
 
 
 translate Chinese Nauxus_meet_2ff9dda2:
@@ -196,19 +196,19 @@ translate Chinese Nauxus_meet_9d9d4063:
 translate Chinese Nauxus_meet_156ec377:
 
 
-    e 13 "……"
+    e 13 "......"
 
 
 translate Chinese Nauxus_meet_92249813:
 
 
-    e 14 "我過去大概也因此犯了過錯……我曾讓一名偽裝成受害者竊賊逃跑，"
+    e 14 "我過去大概也因此犯了過錯......我曾讓一名偽裝成受害者竊賊逃跑，"
 
 
 translate Chinese Nauxus_meet_a180385b:
 
 
-    e 14 "就因為我……攻擊了和他在爭執的真正的受害人。"
+    e 14 "就因為我......攻擊了和他在爭執的真正的受害人。"
 
 
 translate Chinese Nauxus_meet_49f76eca:
@@ -250,7 +250,7 @@ translate Chinese Nauxus_meet_2c368952:
 translate Chinese Nauxus_meet_e7e0089c:
 
 
-    e 5 "不，等等，我……可以尋求援助，請指導我吧。"
+    e 5 "不，等等，我......可以尋求援助，請指導我吧。"
 
 
 translate Chinese Nauxus_meet_a9d9e012:
@@ -454,7 +454,7 @@ translate Chinese Nauxus_meet_477e1f1f:
 translate Chinese Nauxus_meet_522ff27a:
 
 
-    e 10 "唔……"
+    e 10 "唔......"
 
 
 translate Chinese Nauxus_meet_ac2190d4:
@@ -532,7 +532,7 @@ translate Chinese Nauxus_meet_a0295855:
 translate Chinese Nauxus_meet_1203fa78:
 
 
-    e 5 "抱歉……我──"
+    e 5 "抱歉......我──"
 
 
 translate Chinese Nauxus_meet_7b52c390:
@@ -844,7 +844,7 @@ translate Chinese Nauxus_meet_45c58898:
 translate Chinese Nauxus_meet_610b11c9:
 
 
-    e 1 "……好吧。"
+    e 1 "......好吧。"
 
 
 translate Chinese Nauxus_meet_e10d8d48:
@@ -1024,7 +1024,7 @@ translate Chinese Nauxus_meet_c2955351:
 translate Chinese Nauxus_meet_ee86a976:
 
 
-    e 1 "那……剛才是發生了什麼事？"
+    e 1 "那......剛才是發生了什麼事？"
 
 
 translate Chinese Nauxus_meet_8a4a757f:
@@ -1042,13 +1042,13 @@ translate Chinese Nauxus_meet_5c937be8:
 translate Chinese Nauxus_meet_cd7de4b2:
 
 
-    e 1 "……？"
+    e 1 "......？"
 
 
 translate Chinese Nauxus_meet_3ebc5adc:
 
 
-    e 5 "……！？"
+    e 5 "......！？"
 
 
 translate Chinese Nauxus_meet_f1041c4b:
@@ -1066,7 +1066,7 @@ translate Chinese Nauxus_meet_1fa9904c:
 translate Chinese Nauxus_meet_4802e1d6:
 
 
-    e 13 "我……噢不……"
+    e 13 "我......噢不......"
 
 
 translate Chinese Nauxus_meet_1d03d804:
@@ -1078,7 +1078,7 @@ translate Chinese Nauxus_meet_1d03d804:
 translate Chinese Nauxus_meet_13701dad:
 
 
-    e 13 "我……我想我……"
+    e 13 "我......我想我......"
 
 
 translate Chinese Nauxus_meet_b46312c4:
@@ -1102,13 +1102,13 @@ translate Chinese Nauxus_meet_120fba3d:
 translate Chinese Nauxus_meet_cdc6c8ce:
 
 
-    n "沒說了，我不會想聽的……"
+    n "沒說了，我不會想聽的......"
 
 
 translate Chinese Nauxus_meet_3f0af19f:
 
 
-    n "……他們為什麼要你這麼做？"
+    n "......他們為什麼要你這麼做？"
 
 
 translate Chinese Nauxus_meet_ac246ca5:
@@ -1126,7 +1126,7 @@ translate Chinese Nauxus_meet_1fc091b0:
 translate Chinese Nauxus_meet_beac2b9f:
 
 
-    n "就和很常一樣……"
+    n "就和很常一樣......"
 
 
 translate Chinese Nauxus_meet_01cf56cc:
@@ -1204,7 +1204,7 @@ translate Chinese Nauxus_meet_935f95fa:
 translate Chinese Nauxus_meet_39d3a220:
 
 
-    e 13 "嗯……我大概需要點。"
+    e 13 "嗯......我大概需要點。"
 
 
 translate Chinese Nauxus_meet_e80c15a9:
@@ -1270,7 +1270,7 @@ translate Chinese Nauxus_meet_d0d0eb71:
 translate Chinese Nauxus_meet_2360953d:
 
 
-    e 1 "他們……他們設了陷井埋伏抓住了他。"
+    e 1 "他們......他們設了陷井埋伏抓住了他。"
 
 
 translate Chinese Nauxus_meet_a397b0e5:
@@ -1330,7 +1330,7 @@ translate Chinese Nauxus_meet_f2a944ca:
 translate Chinese Nauxus_meet_43887b91:
 
 
-    n "那……"
+    n "那......"
 
 
 translate Chinese Nauxus_meet_75e5b57f:
@@ -1366,7 +1366,7 @@ translate Chinese Nauxus_meet_afe357fe:
 translate Chinese Nauxus_meet_52959033:
 
 
-    e 1 "……"
+    e 1 "......"
 
 
 translate Chinese Nauxus_meet_e23d7035:
@@ -1414,7 +1414,7 @@ translate Chinese Nauxus_meet_e07390e9_1:
 translate Chinese Nauxus_meet_17412269:
 
 
-    e 13 "……"
+    e 13 "......"
 
 
 translate Chinese Nauxus_meet_02c89080:
@@ -1426,7 +1426,7 @@ translate Chinese Nauxus_meet_02c89080:
 translate Chinese Nauxus_meet_9b18ceec:
 
 
-    n "唉……我明白了。"
+    n "唉......我明白了。"
 
 
 translate Chinese Nauxus_meet_06f45695:
@@ -1456,7 +1456,7 @@ translate Chinese Nauxus_meet_d0d0eb71_1:
 translate Chinese Nauxus_meet_2360953d_1:
 
 
-    e 1 "他們……他們設了陷井埋伏抓住了他。"
+    e 1 "他們......他們設了陷井埋伏抓住了他。"
 
 
 translate Chinese Nauxus_meet_a397b0e5_1:
@@ -1649,8 +1649,8 @@ translate Chinese strings:
     new "那群牛頭人殺人他（說謊）。"
 
 
-    old "……"
-    new "……"
+    old "......"
+    new "......"
 
 
 
@@ -1892,7 +1892,7 @@ translate Chinese Nauxus_event_1_9033ac17:
 translate Chinese Nauxus_event_1_4d013b6f:
 
 
-    e 13 "我無法忘記……"
+    e 13 "我無法忘記......"
 
 
 translate Chinese Nauxus_event_1_98f6ef9f:
@@ -1922,7 +1922,7 @@ translate Chinese Nauxus_event_1_3ecb9c5d:
 translate Chinese Nauxus_event_1_e448900c:
 
 
-    e 1 "……"
+    e 1 "......"
 
 
 translate Chinese Nauxus_event_1_e76089d2:
@@ -2198,7 +2198,7 @@ translate Chinese Nauxus_event_1_602b72ab:
 translate Chinese Nauxus_event_1_52959033:
 
 
-    e 1 "……"
+    e 1 "......"
 
 
 translate Chinese Nauxus_event_1_343074c6:
@@ -2444,7 +2444,7 @@ translate Chinese Nauxus_event_1_b226a52a:
 translate Chinese Nauxus_event_1_37b74430:
 
 
-    n "我們不只是要為了我們的未來，也為了我們所失去的……孩子們。"
+    n "我們不只是要為了我們的未來，也為了我們所失去的......孩子們。"
 
 
 translate Chinese Nauxus_event_1_252856c3:
@@ -2954,7 +2954,7 @@ translate Chinese Nauxus_event_1_6828355c:
 translate Chinese Nauxus_event_1_5689b457:
 
 
-    bl "……"
+    bl "......"
 
 
 translate Chinese Nauxus_event_1_737c985e:
@@ -3062,7 +3062,7 @@ translate Chinese Nauxus_event_1_eff78095:
 translate Chinese Nauxus_event_1_27677248:
 
 
-    bl "如果是為了孩子們……那我支持這項決定。"
+    bl "如果是為了孩子們......那我支持這項決定。"
 
 
 translate Chinese Nauxus_event_1_15b13b63:
@@ -3494,13 +3494,13 @@ translate Chinese Nauxus_camp_end_2f23adc5:
 translate Chinese Nauxus_camp_end_52959033:
 
 
-    e 1 "……"
+    e 1 "......"
 
 
 translate Chinese Nauxus_camp_end_bb2cf764:
 
 
-    n "……"
+    n "......"
 
 
 translate Chinese Nauxus_camp_end_d080bbd0:
@@ -3536,7 +3536,7 @@ translate Chinese Nauxus_camp_end_e100f119:
 translate Chinese Nauxus_camp_end_a518fab0:
 
 
-    e 13 "我……不知道。還有什麼事嗎？"
+    e 13 "我......不知道。還有什麼事嗎？"
 
 
 translate Chinese Nauxus_camp_end_82bb9a08:
@@ -3884,7 +3884,7 @@ translate Chinese Nauxus_camp_end_cb2a5077:
 translate Chinese Nauxus_camp_end_c9c5de49:
 
 
-    e 6 "是啊，大吧……"
+    e 6 "是啊，大吧......"
 
 
 translate Chinese Nauxus_camp_end_5d0bc709:
@@ -4274,13 +4274,13 @@ translate Chinese Nauxus_tribe_talk1_d420a4fc:
 translate Chinese Nauxus_tribe_talk1_ec2b0b75:
 
 
-    n "我就只差一點……而那小孩的眼睛，他需要我，但我救不了他。"
+    n "我就只差一點......而那小孩的眼睛，他需要我，但我救不了他。"
 
 
 translate Chinese Nauxus_tribe_talk1_916d904e:
 
 
-    e 13 "Nauxus……"
+    e 13 "Nauxus......"
 
 
 translate Chinese Nauxus_tribe_talk1_d8fe46cf:
@@ -4316,13 +4316,13 @@ translate Chinese Nauxus_tribe_talk1_0ff2b3e1:
 translate Chinese Nauxus_tribe_talk1_e448900c:
 
 
-    e 1 "……"
+    e 1 "......"
 
 
 translate Chinese Nauxus_tribe_talk1_1483da2d:
 
 
-    n "我很抱我，我……太激動化了，我們能說說其他事嗎？"
+    n "我很抱我，我......太激動化了，我們能說說其他事嗎？"
 
 
 translate Chinese Nauxus_tribe_talk1_741360c1:
@@ -4370,7 +4370,7 @@ translate Chinese Nauxus_tribe_talk1_004777f2:
 translate Chinese Nauxus_tribe_talk1_623bc113:
 
 
-    e 6 "我……我不知道，我對女生們不是很熟。"
+    e 6 "我......我不知道，我對女生們不是很熟。"
 
 
 translate Chinese Nauxus_tribe_talk1_383b74f2:
@@ -4472,7 +4472,7 @@ translate Chinese Nauxus_tribe_talk1_bcf1eb20:
 translate Chinese Nauxus_tribe_talk1_e448900c_1:
 
 
-    e 1 "……"
+    e 1 "......"
 
 
 translate Chinese Nauxus_tribe_talk1_21d338cb:
@@ -4515,13 +4515,13 @@ translate Chinese Nauxus_event_1_1829a5c5:
 translate Chinese Nauxus_event_1_5f9b772e:
 
 
-    "……"
+    "......"
 
 
 translate Chinese Nauxus_event_1_3928a113:
 
 
-    "…………"
+    "............"
 
 
 
@@ -4768,13 +4768,13 @@ translate Chinese Nauxus_artwork_d5270200:
 translate Chinese Nauxus_artwork_52959033:
 
 
-    e 1 "……"
+    e 1 "......"
 
 
 translate Chinese Nauxus_artwork_6546a18f:
 
 
-    e 1 "（呃……）"
+    e 1 "（呃......）"
 
 
 translate Chinese Nauxus_artwork_aad1675d:
@@ -4792,37 +4792,37 @@ translate Chinese Nauxus_artwork_6f3965a6:
 translate Chinese Nauxus_artwork_04cbce97:
 
 
-    e 9 "（線條？全部都是線啊……）"
+    e 9 "（線條？全部都是線啊......）"
 
 
 translate Chinese Nauxus_artwork_7a6d71b8:
 
 
-    e 9 "這個是……呃……一個蜥蜴著火了而旁邊的人躺著避免被燒到？"
+    e 9 "這個是......呃......一個蜥蜴著火了而旁邊的人躺著避免被燒到？"
 
 
 translate Chinese Nauxus_artwork_15a6c73b:
 
 
-    e 9 "這個是……呃……你在訓練蜥蜴做伏地挺身？"
+    e 9 "這個是......呃......你在訓練蜥蜴做伏地挺身？"
 
 
 translate Chinese Nauxus_artwork_e4212b73:
 
 
-    e 9 "這個是……呃……一個有紅毛的蜥蜴在看另一隻蜥蜴做伏地挺身？"
+    e 9 "這個是......呃......一個有紅毛的蜥蜴在看另一隻蜥蜴做伏地挺身？"
 
 
 translate Chinese Nauxus_artwork_52959033_1:
 
 
-    e 1 "……"
+    e 1 "......"
 
 
 translate Chinese Nauxus_artwork_6546a18f_1:
 
 
-    e 1 "（呃……）"
+    e 1 "（呃......）"
 
 
 translate Chinese Nauxus_artwork_aad1675d_1:
@@ -4840,25 +4840,25 @@ translate Chinese Nauxus_artwork_6f3965a6_1:
 translate Chinese Nauxus_artwork_04cbce97_1:
 
 
-    e 9 "（線條？全部都是線啊……）"
+    e 9 "（線條？全部都是線啊......）"
 
 
 translate Chinese Nauxus_artwork_93115930:
 
 
-    e 9 "這個是……呃……你躲在樹後而一隻牛人看著一堆石頭？"
+    e 9 "這個是......呃......你躲在樹後而一隻牛人看著一堆石頭？"
 
 
 translate Chinese Nauxus_artwork_1541f6d6:
 
 
-    e 9 "這個是……呃……你在一個秘密的場所和一隻牛人會面，而這隻牛正看著一個冒著火的營火？"
+    e 9 "這個是......呃......你在一個秘密的場所和一隻牛人會面，而這隻牛正看著一個冒著火的營火？"
 
 
 translate Chinese Nauxus_artwork_4a332693:
 
 
-    e 9 "這個是……呃……你在一隻發現了一堆金幣的牛人後面偵察？"
+    e 9 "這個是......呃......你在一隻發現了一堆金幣的牛人後面偵察？"
 
 
 translate Chinese Nauxus_artwork_13fd2242:
@@ -4870,7 +4870,7 @@ translate Chinese Nauxus_artwork_13fd2242:
 translate Chinese Nauxus_artwork_153b6880:
 
 
-    e 5 "我……對他的繪畫技巧沒什麼可說的。"
+    e 5 "我......對他的繪畫技巧沒什麼可說的。"
 
 
 translate Chinese Nauxus_artwork_0ae9bcd0:
@@ -4882,19 +4882,19 @@ translate Chinese Nauxus_artwork_0ae9bcd0:
 translate Chinese Nauxus_artwork_fbe5b337:
 
 
-    e 9 "……紅色和藍色在親吻，Nauxus在草叢裡看著他們？"
+    e 9 "......紅色和藍色在親吻，Nauxus在草叢裡看著他們？"
 
 
 translate Chinese Nauxus_artwork_f3a846bb:
 
 
-    e 9 "……一個生病一個生氣的蜥蜴在地毯上撞著頭？"
+    e 9 "......一個生病一個生氣的蜥蜴在地毯上撞著頭？"
 
 
 translate Chinese Nauxus_artwork_1e5cc928:
 
 
-    e 9 "……一個戴著紅帽和一個戴著藍帽的蜥蜴握著手在對談？"
+    e 9 "......一個戴著紅帽和一個戴著藍帽的蜥蜴握著手在對談？"
 
 
 translate Chinese Nauxus_artwork_f8801b8b:
@@ -4912,19 +4912,19 @@ translate Chinese Nauxus_artwork_0ae9bcd0_1:
 translate Chinese Nauxus_artwork_94dfbe10:
 
 
-    e 9 "這個是……三個蜥蜴站在一起！"
+    e 9 "這個是......三個蜥蜴站在一起！"
 
 
 translate Chinese Nauxus_artwork_94dfbe10_1:
 
 
-    e 9 "這個是……三個蜥蜴站在一起！"
+    e 9 "這個是......三個蜥蜴站在一起！"
 
 
 translate Chinese Nauxus_artwork_94dfbe10_2:
 
 
-    e 9 "這個是……三個蜥蜴站在一起！"
+    e 9 "這個是......三個蜥蜴站在一起！"
 
 
 translate Chinese Nauxus_artwork_15bb2d0c:
@@ -4984,7 +4984,7 @@ translate Chinese Nauxus_artwork_06e34238:
 translate Chinese Nauxus_artwork_fd12a8d8:
 
 
-    e 9 "是啊……非常簡單。"
+    e 9 "是啊......非常簡單。"
 
 
 translate Chinese Nauxus_artwork_21d47ac1:
@@ -5140,7 +5140,7 @@ translate Chinese Nauxus_artwork_f7cb2c01:
 translate Chinese Nauxus_artwork_78f601e0:
 
 
-    n "沒什麼，只不過……我很久沒有被觸碰了，抱歉，請繼續。"
+    n "沒什麼，只不過......我很久沒有被觸碰了，抱歉，請繼續。"
 
 
 translate Chinese Nauxus_artwork_30e9ae54:
@@ -5242,7 +5242,7 @@ translate Chinese Nauxus_artwork_fdb884f8:
 translate Chinese Nauxus_artwork_a20cefa7:
 
 
-    "……"
+    "......"
 
 
 translate Chinese Nauxus_artwork_c451c246:
@@ -5326,7 +5326,7 @@ translate Chinese Nauxus_artwork_06a6ad66:
 translate Chinese Nauxus_artwork_9e517e0c:
 
 
-    e 5 "我……我會想的。"
+    e 5 "我......我會想的。"
 
 
 translate Chinese Nauxus_artwork_65a6bc85:
@@ -5440,7 +5440,7 @@ translate Chinese Nauxus_artwork_2f22d70a:
 translate Chinese Nauxus_artwork_48430956:
 
 
-    e 11 "所以……所以你想要我做什麼？"
+    e 11 "所以......所以你想要我做什麼？"
 
 
 translate Chinese Nauxus_artwork_0e495b64:
@@ -5608,7 +5608,7 @@ translate Chinese strings:
 
 
     old "..."
-    new "……"
+    new "......"
 
 
     old "A lizard on fire while someone is lying on the ground to not get burnt."
@@ -6000,7 +6000,7 @@ translate Chinese Nauxus_tribe_talk1_44803dbb:
 translate Chinese Nauxus_tribe_talk1_5f704666:
 
 
-    e 13 "嗯…"
+    e 13 "嗯..."
 
 
 translate Chinese Nauxus_tribe_talk1_f4b45717:
@@ -6228,7 +6228,7 @@ translate Chinese Nauxus_tribe_talk1_e511a667:
 translate Chinese Nauxus_tribe_talk1_e3a0d4d5:
 
 
-    e 1 "emmm…"
+    e 1 "emmm..."
 
 
 translate Chinese Nauxus_tribe_talk1_07fb3525:
@@ -6348,7 +6348,7 @@ translate Chinese Nauxus_letter_7f10783e:
 translate Chinese Nauxus_letter_e448900c:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Chinese Nauxus_letter_5b0e9c80:
@@ -7326,7 +7326,7 @@ translate Chinese Nauxus_letter_2c89cfe3:
 translate Chinese Nauxus_letter_eabec665:
 
 
-    n "…"
+    n "..."
 
 
 translate Chinese Nauxus_letter_9748e8c0:
@@ -8647,7 +8647,7 @@ translate Chinese Nauxus_rite1_ea772952:
 translate Chinese Nauxus_rite1_3300fa26:
 
 
-    e 5 "…"
+    e 5 "..."
 
 
 translate Chinese Nauxus_rite1_6a3d1f98:
@@ -8665,7 +8665,7 @@ translate Chinese Nauxus_rite1_0358e1a7:
 translate Chinese Nauxus_rite1_916d904e:
 
 
-    e 13 "Nauxus…"
+    e 13 "Nauxus..."
 
 
 translate Chinese Nauxus_rite1_3861f83a:
@@ -8857,7 +8857,7 @@ translate Chinese Nauxus_rite1_b73307e5:
 translate Chinese Nauxus_rite1_0cb911c0:
 
 
-    "蜥蜴叛党" "Emmm… 你真的会让我们回到家人身边么？"
+    "蜥蜴叛党" "Emmm... 你真的会让我们回到家人身边么？"
 
 
 translate Chinese Nauxus_rite1_a65606d7:

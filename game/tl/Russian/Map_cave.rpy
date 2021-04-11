@@ -724,7 +724,7 @@ translate Russian Cave_map_9c39b0b0:
 translate Russian Cave_map_73f296d4:
 
 
-    e 13 "Right… I just came to check on you."
+    e 13 "Right... I just came to check on you."
 
 
 translate Russian Cave_map_254dcc27:
@@ -742,7 +742,7 @@ translate Russian Cave_map_d27f3e28:
 translate Russian Cave_map_c712b0d1:
 
 
-    e 9 "I… do not have bread."
+    e 9 "I... do not have bread."
 
 
 translate Russian Cave_map_3a297ccf:
@@ -862,7 +862,7 @@ translate Russian Cave_map_1a9efec9:
 translate Russian Cave_map_41919366:
 
 
-    e 1 "I wonder what could be on the other side…"
+    e 1 "I wonder what could be on the other side..."
 
 
 translate Russian Cave_map_8b0f1ba9:
@@ -1054,7 +1054,7 @@ translate Russian Cave_map_40a4c264_4:
 translate Russian Cave_map_658be844:
 
 
-    e 5 "This is…"
+    e 5 "This is..."
 
 
 translate Russian Cave_map_1f6625e6:

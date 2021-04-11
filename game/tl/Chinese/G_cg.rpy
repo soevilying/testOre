@@ -4936,7 +4936,7 @@ translate Chinese lizrad_sex_gcg_7ca6393d:
 translate Chinese lizrad_sex_gcg_2ab27bc1:
 
 
-    "Lizard Warrior" "唔….我的屁股."
+    "Lizard Warrior" "唔....我的屁股."
 
 
 translate Chinese lizrad_sex_gcg_c1ea641a:
@@ -5134,7 +5134,7 @@ translate Chinese bull_lick_gcg_3fe982e7:
 translate Chinese bull_lick_gcg_37a82873:
 
 
-    "Drunk Bull" "是的…吮吸它…"
+    "Drunk Bull" "是的...吮吸它..."
 
 
 translate Chinese bull_lick_gcg_6f2cc0df:
@@ -5314,7 +5314,7 @@ translate Chinese bull_lick_gcg_0462d053:
 translate Chinese bull_lick_gcg_78b45a89:
 
 
-    "Drunk bull" "啊…! !"
+    "Drunk bull" "啊...! !"
 
 
 translate Chinese bull_lick_gcg_edb5c043:
@@ -5429,7 +5429,7 @@ translate Chinese gargoyle_win_gcg_8970dae9:
 translate Chinese gargoyle_win_gcg_aff27e19:
 
 
-    "Gargoyle" "是的…更多，温暖."
+    "Gargoyle" "是的...更多，温暖."
 
 
 translate Chinese gargoyle_win_gcg_2a5cc79e:
@@ -5459,7 +5459,7 @@ translate Chinese gargoyle_win_gcg_5affe14a:
 translate Chinese gargoyle_win_gcg_645733d7:
 
 
-    "Gargoyle" "更多温暖…好… 我喜欢温暖."
+    "Gargoyle" "更多温暖...好... 我喜欢温暖."
 
 
 translate Chinese gargoyle_win_gcg_4266b53e:
@@ -5483,7 +5483,7 @@ translate Chinese gargoyle_win_gcg_0a583ad1:
 translate Chinese gargoyle_win_gcg_4c5311f6:
 
 
-    "Gargoyle" "干…给我…温暖的肉棒!"
+    "Gargoyle" "干...给我...温暖的肉棒!"
 
 
 translate Chinese gargoyle_win_gcg_b780dfd5:
@@ -5519,7 +5519,7 @@ translate Chinese gargoyle_win_gcg_6a597025:
 translate Chinese gargoyle_win_gcg_a1707d5a:
 
 
-    "Gargoyle" "咕…好大!"
+    "Gargoyle" "咕...好大!"
 
 
 translate Chinese gargoyle_win_gcg_649b06dc:
@@ -5735,7 +5735,7 @@ translate Chinese gargoyle_win_gcg_fd642b40:
 translate Chinese gargoyle_win_gcg_211e8985:
 
 
-    "Gargoyle" "温暖…"
+    "Gargoyle" "温暖..."
 
 
 translate Chinese gargoyle_win_gcg_adbaedb1:
@@ -5880,7 +5880,7 @@ translate Chinese roushkbottom_gcg_72714538:
 translate Chinese roushkbottom_gcg_3e9644c2:
 
 
-    ro "Shh… just relax and take deep breaths."
+    ro "Shh... just relax and take deep breaths."
 
 
 translate Chinese roushkbottom_gcg_fa7c503f:
@@ -6282,7 +6282,7 @@ translate Chinese roushktop_gcg_0b6b8c12:
 translate Chinese roushktop_gcg_fe4d9a6a:
 
 
-    ro "Ahhh, so… big."
+    ro "Ahhh, so... big."
 
 
 translate Chinese roushktop_gcg_979c0505:
@@ -6324,7 +6324,7 @@ translate Chinese roushktop_gcg_4517a207:
 translate Chinese roushktop_gcg_d4666cf0:
 
 
-    ro "Please… [name], just fuck me."
+    ro "Please... [name], just fuck me."
 
 
 translate Chinese roushktop_gcg_febe7e92:
@@ -6450,7 +6450,7 @@ translate Chinese roushktop_gcg_e9d2bff0:
 translate Chinese roushktop_gcg_67f20e43:
 
 
-    ro "Mph… more just put it all in!"
+    ro "Mph... more just put it all in!"
 
 
 translate Chinese roushktop_gcg_f2688d6f:
@@ -6468,7 +6468,7 @@ translate Chinese roushktop_gcg_097c6805:
 translate Chinese roushktop_gcg_4670cb33:
 
 
-    e 0 "Oh… fuck."
+    e 0 "Oh... fuck."
 
 
 translate Chinese roushktop_gcg_efd0457c:
@@ -7741,7 +7741,7 @@ translate Chinese eyvindsell_gcg_bb836ee3:
 translate Chinese eyvindsell_gcg_bf726f90:
 
 
-    e 0 "Yes…"
+    e 0 "Yes..."
 
 
 translate Chinese eyvindsell_gcg_478d146d:
@@ -7765,7 +7765,7 @@ translate Chinese eyvindsell_gcg_b9bcc90e:
 translate Chinese eyvindsell_gcg_4cf0d8ce:
 
 
-    e 0 "Ngh…"
+    e 0 "Ngh..."
 
 
 translate Chinese eyvindsell_gcg_29a4e141:
@@ -7783,7 +7783,7 @@ translate Chinese eyvindsell_gcg_c2af171e:
 translate Chinese eyvindsell_gcg_3f85a285:
 
 
-    "Second Demon" "Hehe…."
+    "Second Demon" "Hehe...."
 
 
 translate Chinese eyvindsell_gcg_cc2f0c23:
@@ -8773,7 +8773,7 @@ translate Chinese Hakan_sixnine_gcg_e2051c6d:
 translate Chinese Hakan_sixnine_gcg_7ae3c9fd:
 
 
-    e 0 "That was…"
+    e 0 "That was..."
 
 
 translate Chinese Hakan_sixnine_gcg_99cf0120:
@@ -8865,7 +8865,7 @@ translate Chinese Witer_cowboy_gcg_059706d3:
 translate Chinese Witer_cowboy_gcg_5203c098:
 
 
-    e 9 "W-Whoa…ah!"
+    e 9 "W-Whoa...ah!"
 
 
 translate Chinese Witer_cowboy_gcg_ceba20cc:
@@ -8973,7 +8973,7 @@ translate Chinese Witer_cowboy_gcg_55bfb013:
 translate Chinese Witer_cowboy_gcg_48357656:
 
 
-    w "A-ah...yes…that’s it."
+    w "A-ah...yes...that’s it."
 
 
 translate Chinese Witer_cowboy_gcg_d48cdd59:
@@ -9075,7 +9075,7 @@ translate Chinese Witer_cowboy_gcg_b1aff357:
 translate Chinese Witer_cowboy_gcg_cea42bfa:
 
 
-    e 0 "I...ah, I'm gonna…"
+    e 0 "I...ah, I'm gonna..."
 
 
 translate Chinese Witer_cowboy_gcg_e9607e97:

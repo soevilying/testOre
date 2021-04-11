@@ -31,7 +31,7 @@ label Bread_meet:
     e 9 "Raider? You got the wrong idea bub, and even if I were one, there’s no treasure left here."
     e 1 "This kingdom has been long abandoned, all the people probably died out."
     show bread sad at center with dissolve
-    b "Dead?… No!"
+    b "Dead?... No!"
     b "You’re lying, Aplistia would not fall to anyone."
     b "We’re the greatest kingdom there is."
     e 5 "Listen to me, there’s nobody here and there sure is no treasure left."
@@ -268,7 +268,7 @@ label battle_bread_win:
     "You dodge his swing and trip him with your foot."
     "The knight tumbles forward and crashes into the wall behind you, face first." with vpunch
     "He staggers back a few steps before falling on his butt and then collapsing on his back."
-    e 1 "Err… are you ok?"
+    e 1 "Err... are you ok?"
     "No answer."
     "You walk over towards his body."
     "He’s still breathing, but he does not respond to you even when you kick him in the gut."
@@ -284,12 +284,12 @@ label battle_bread_win:
     "You recall him stating he was the treasure room guardian, but for how long?"
     "There’s not a shred of food or water inside this chamber."
     show bread sad at center with slow_dissolve
-    b "Ughh…"
+    b "Ughh..."
     e 1 "Well hello there sleeping beauty."
     hide bread sad
     show bread stand at center with dissolve
     "His blue eyes flutter as he awakens. "
-    b "Ughh… what happened? Where’s… my mace?"
+    b "Ughh... what happened? Where’s... my mace?"
     "You wave his mace in front of him."
     e 1 "It’s right here, but I’m not giving it back to you until we talk. "
     hide bread stand with dissolve
@@ -298,7 +298,7 @@ label battle_bread_win:
     e 1 "Well yeah, I couldn't just leave you bleeding out here."
     "Bread gasps."
     show bread stand at center with dissolve
-    b "That's…."
+    b "That's...."
     show bread happy at center
     b "THE NICEST THING ANYONE'S DONE FOR ME." with vpunch
     b "THANK YOU BUDDY." with vpunch
@@ -316,7 +316,7 @@ label battle_bread_win:
     show bread happy at center
     b "You helped me up, and good folk always help others, that’s what Nana taught me."
     b "You should meet her."
-    e 13 "Right… Look, Bread I need you to really listen to me."
+    e 13 "Right... Look, Bread I need you to really listen to me."
     hide bread happy with dissolve
     "You hold his shoulders and look soulfully into his eyes."
     show bread stand at center with dissolve
@@ -336,7 +336,7 @@ label battle_bread_win:
     "Descending deeper, you both approach the castle."
     "Bread becomes considerably quieter while the both of you make your way down the belltower."
     "Once the castle comes into view, Bread stands stunned next to you."
-    b "No… this can’t be real."
+    b "No... this can’t be real."
     b "No, no, no!" with vpunch
     "He tries to run towards the castle gates but you grab his hands and hold him back."
     e 9 "Stop Bread! There’s nothing left in there, only monsters and phantoms! "
@@ -399,7 +399,7 @@ label Bread_map_start:
     "Inside the empty chamber that is now the temporary home of the enigmatic Bread."
     "You find the knight slumped against a rock, looking at a piece of paper."
     e 1 "Hey Bread."
-    b "…"
+    b "..."
     "He clutches the paper tighter."
     e 6 "Are you ok?"
     "He doesn’t answer, instead you hear weak sobs coming out of his visor."
@@ -407,7 +407,7 @@ label Bread_map_start:
     show bread sad at center with slow_dissolve
     b "I found the map... but I don’t understand it."
     "You crouch down next to Bread, hesitating to reach out to him."
-    b "I really am stupid. I thought I could find this treasure all on my own then… at least maybe that would make the captain happy in the afterlife."
+    b "I really am stupid. I thought I could find this treasure all on my own then... at least maybe that would make the captain happy in the afterlife."
     b "But I can't-"
     b "I don’t understand this map at all."
     b "Why did I think I could do this? Even Captain Asmund couldn’t solve it."
@@ -474,7 +474,7 @@ label Bread_map_start:
             b "Yes!"
             e 1 "Then pack your things, and let's move out to the tavern."
             show bread stand at center with dissolve
-            b "Err… can I stay here instead Master?"
+            b "Err... can I stay here instead Master?"
             e 5 "Why would you want to stay here?"
             b "I'm scared. You said a lot of years have passed, I don't think I'll fit in."
             e 1 "Bread, there are nice people."
@@ -499,7 +499,7 @@ label Bread_map_start:
             e 1 "Excuse me?"
             b "I’m technically not a full fledged knight, more of a knight in training."
             b "Captain Asmund said I could not have the title of knight until he deemed me ready."
-            b "And I doubt that’s possible now…"
+            b "And I doubt that’s possible now..."
             b "So, could you take me under your wing and allow me to earn the title of knight?"
             e 1 "I mean, I could just give it to you right now."
             b "That’s not how it works."
@@ -522,7 +522,7 @@ label Bread_map_start:
             b "You’ve told me many years have passed, I’m just afraid I won’t fit in with such a different world out there."
             show bread stand at center with dissolve
             b "It’s safer in here."
-            e 1 "Bread…"
+            e 1 "Bread..."
             "It would seem that Bread is against joining the tavern."
             "If only there was something you could give to convince him it isn't all that bad to stay in the tavern."
     "You get up."
@@ -543,7 +543,7 @@ label Bread_talk:
         e 6 "Delicious oatmeal bread from the tavern."
         e 3 "Mmm, bread. Your favourite."
         "You pull out the oatmeal bread and show it to the knight."
-        b "Hmm…"
+        b "Hmm..."
         "You split the bread in half to share it with him."
         "He accepts the bread and holds it to his face."
         "He sniffs the bread."
@@ -554,13 +554,13 @@ label Bread_talk:
         "The bread in his hand is gone."
         e 9 "Mmm, not bad."
         "Your mind is baffled. Did he just eat that whole thing in a blink of an eye?"
-        e 1 "Ah… So, did you enjoy it?"
+        e 1 "Ah... So, did you enjoy it?"
         b "It’s really tasty. "
         e 1 "If you want more you can come to the tavern."
         e 1 "Then you’ll have bread almost every day."
         show bread shock at center with dissolve
         b "Bread every day?!"
-        b "I don’t know… But it was really good. Ugh, no I got to control myself."
+        b "I don’t know... But it was really good. Ugh, no I got to control myself."
         e 1 "What if I bring a sweeter pastry?"
         show bread happy at center with dissolve
         show bread shock at center with dissolve
@@ -580,7 +580,7 @@ label Bread_talk:
         e 1 "Are you sure there is nothing I can do to convince you to come to the tavern?"
         show bread shock at center with dissolve
         b "Absolutely nothing, my will is strong."
-        b "That… and I won’t be able to fit in."
+        b "That... and I won’t be able to fit in."
         e 1 "I’ll come back to you later Bread."
         show bread happy at center with dissolve
         b "See you later, Master."

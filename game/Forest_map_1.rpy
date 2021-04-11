@@ -730,7 +730,7 @@ label bulltribe_1:
         elif True:
             scene tribe 1n with vslow_dissolve
         "You squint and slowly open your eyes to readjust to the sunlight."
-        e 5 "Woah…"
+        e 5 "Woah..."
         "Groups of large scantily clad bull men roam the field."
         "Some stand by huts, talking and selling items to one another."
         "Others are working on weapons, repairing swords, axes and shields."
@@ -1242,7 +1242,7 @@ label bullforest:
                 e 13 "Sorry, I got too excited and forgot to mention two things."
                 e 1 "One, I found you thanks to this cloth one of the bull men gave me."
                 e 1 "They know you’re here, and I’m tasked with bringing your heart back."
-                "Lizard spy" "My heart… well I definitely can’t give you that."
+                "Lizard spy" "My heart... well I definitely can’t give you that."
                 e 13 "I know, that’s why I need something else to prove I did the deed."
                 e 1 "I can say we fought on a cliff and your body fell into who knows where."
                 "Lizard spy" "Possible, then you’ll need this."

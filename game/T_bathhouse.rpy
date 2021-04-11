@@ -210,10 +210,10 @@ label bathhouse_ebbtalk:
                             jump Ebb_chattree
                         "Ebb’s relationship with Flo" if True:
                             e 1 "I know this might sound rude, but it doesn’t look like Flo likes you very much."
-                            eb "Hmm…"
-                            e 1 "I know you said before it was because he just got back from being kidnapped, but… he doesn’t even call you by name."
+                            eb "Hmm..."
+                            e 1 "I know you said before it was because he just got back from being kidnapped, but... he doesn’t even call you by name."
                             eb "It’s complicated."
-                            eb "My relationship with Young Master Flo… it’s marred by unfortunate events."
+                            eb "My relationship with Young Master Flo... it’s marred by unfortunate events."
                             eb "Let’s leave it at that for now."
                             e 1 "I understand Ebb."
                             jump Ebb_chattree
@@ -300,7 +300,7 @@ label bathhouse_flotalk:
                             e 5 "Really? That's amazing!"
                             show flo happy at center with dissolve
                             f "Err, no I was just joking."
-                            e 8 "Oh…"
+                            e 8 "Oh..."
                             "Your ears droop when you find out there are no flying people."
                             show flo stand at center with dissolve
                             f "There's not much to say about where I'm from."
@@ -316,7 +316,7 @@ label bathhouse_flotalk:
                             e 1 "Why are you all the way here?"
                             f "Would you believe me if I say it was to get away from that orca?"
                             "You half expect Flo to say it is a joke but he remains stoically silent."
-                            e 1 "What… what errr is so bad about Ebb?"
+                            e 1 "What... what errr is so bad about Ebb?"
                             show flo stand01 at center with dissolve
                             f "You don't need to know. It's personal."
                             jump Flo_chattree
@@ -332,7 +332,7 @@ label bathhouse_flotalk:
                             f "{size=-12}He is a thief."
                             e 9 "What?"
                             f "Let’s just drop it. I shouldn’t have said anything."
-                            e 1 "Flo…"
+                            e 1 "Flo..."
                             show flo stand at center with dissolve
                             f "It’s ok, just there’s nothing to say about that orca right now."
                             "You wish to find out more, but now isn’t the time."
@@ -422,8 +422,8 @@ label bathhouse_bath_alone:
     e 0 "Ah! So warm."
     "You lean back against the pool and just soak up the ambience."
     "You take your time to indulge in the spring waters, even giving yourself a nice foot rub as well."
-    "…"
-    "…"
+    "..."
+    "..."
     stop sound
     "Satisfied, you come out of the hot spring and head for the sauna."
     scene sauna with slow_dissolve
@@ -1064,7 +1064,7 @@ label bathhouse_witer_bath_together:
     w "Come in, the water’s fine."
     "You didn’t need to be told twice."
     "Matching Witer’s way of handling his tower you fold yours and put it over your head."
-    e 0 "Ah… This is the best."
+    e 0 "Ah... This is the best."
     "The waters’ warm embrace holds you still and you feel your muscles finally release the tension that has been building up inside."
     show witer stand_bath at center with dissolve
     w "Mmhmm. This takes me back to the days I would service my client in such a bath house."
@@ -1106,7 +1106,7 @@ label bathhouse_witer_bath_together:
                 "You nod to indicate that you hear him and that you want to know more."
                 w "Everyone’s doing something big to help out, but I’m just cleaning up stuff or serving people."
                 w "Maybe I’m just dead weight. "
-                e 1 "Hmm…"
+                e 1 "Hmm..."
                 "You raise your right hand and splash hard on the water, sending a wet slap across of Witer’s face."
                 w "Hey! What’s that for?" with vpunch
                 e 1 "That’s for insulting yourself."
@@ -1150,7 +1150,7 @@ label bathhouse_witer_bath_together:
                 e 1 "Yeah, you can totally help out with those smarts of yours."
                 "Witer’s face beams from the compliment."
                 w "I’ll think about it."
-                w "I mean after all, you did say you’re happy with me just being safe… "
+                w "I mean after all, you did say you’re happy with me just being safe... "
                 w "But maybe, if it’ll make you happier."
                 "You smile back at him and give him a thumbs up."
                 w "What else is on your pretty little head?"
@@ -1159,7 +1159,7 @@ label bathhouse_witer_bath_together:
                 e 1 "We’ve been here for quite some time now."
                 w "That we have."
                 e 1 "You ever think about the future? Like what you want after all of this is over?"
-                w "Hmm…"
+                w "Hmm..."
                 hide witer stand_bath at center with slow_dissolve
                 "Witer sinks deeper into the water until only the top half of his head is seen."
                 "He closes his eyes and makes bubbles on the water’s surface."
@@ -1287,7 +1287,7 @@ label bathhouse_hakan_sauna:
     "..."
     scene locker room with slow_dissolve
     "You waited inside the locker room for your companion to arrive. "
-    "Several minutes passes… then you hear Hakan’s voice coming from the counter."
+    "Several minutes passes... then you hear Hakan’s voice coming from the counter."
     "The red dragon then steps through the doorway."
     show hakan stand at center with slow_dissolve
     h "Kept you waiting, huh?"
@@ -1314,7 +1314,7 @@ label bathhouse_hakan_sauna:
     "You bend down and poke through Hakan’s right arm to look."
     e 5 "I never noticed that before. Will it be a pro- ugh!"
     "Hakan locks your neck between his arms."
-    h "Not if you don’t mind us only being half clean, or perhaps…"
+    h "Not if you don’t mind us only being half clean, or perhaps..."
     "He releases your neck from his hold."
     show hakan stand_nude2 at center with slow_dissolve
     "You step back a bit and stand up and he turns to face you."
@@ -1407,14 +1407,14 @@ label bathhouse_hakan_sauna:
                 e 1 "What do you mean?"
                 h "Just a little something I picked up after I left Salekvard."
                 e 1 "Do you ever think about settling down?"
-                h "I… did…"
+                h "I... did..."
                 "His voice softens."
                 h "The thought crossed my mind once or twice."
                 h "I’d go for one big haul and finally retire in some tropical kingdom."
                 e 1 "Why didn’t you?"
                 hide hakan stand_bath at center with dissolve
                 "Hakan’s eyes look away from you."
-                h "… Something… happened."
+                h "... Something... happened."
                 "You sense that discussing this has brought back some unhappy memories for the dragon."
                 e 0 "Sorry."
                 h "No, it’s fine. "
@@ -1424,7 +1424,7 @@ label bathhouse_hakan_sauna:
                 e 13 "It’s not really a job."
                 e 1 "This is just what I need to do now as part of my rite of passage."
                 h "Then what will you do after that? Once it’s all done."
-                e 9 "I… don’t know."
+                e 9 "I... don’t know."
                 h "Something to think about there."
                 h "You might even consider doing something that involves adventuring."
                 h "It seems to suit you."
@@ -1451,7 +1451,7 @@ label bathhouse_hakan_sauna:
                 h "How can I not? Getting drunk is the best!"
                 h "I’ve seen travellers get drunk so often, and I’ve always wondered what it felt like."
                 h "And now I know. All your worries just wash away, and you feel indestructible."
-                e 1 "…"
+                e 1 "..."
                 h "But I think I am running low on my supply of beer. Time to save up!"
             "Ask him about his old partner" if True:
                 e 1 "There’s something I want to ask about Pierro."
@@ -1591,7 +1591,7 @@ label bathhouse_hakan_sauna:
             "Hakan pulls his cock out of your mouth and stands up."
             scene sauna with vslow_dissolve
             "You sit back up and both of you look at each other panting like dogs."
-            e 0 "That was…"
+            e 0 "That was..."
             "There’s cum all over Hakan and yourself. "
             "The entire sauna now smells of sex and sweat."
             "Hakan chuckles softly then breaks out into a rowdy laugh."

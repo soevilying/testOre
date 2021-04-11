@@ -364,7 +364,7 @@ translate Thai battle_lizad_spy_lose_8b832bb3:
 translate Thai battle_lizad_spy_lose_092c9555:
 
 
-    "The pain… you wonder where the pain is."
+    "The pain... you wonder where the pain is."
 
 
 translate Thai battle_lizad_spy_lose_a5eb2988:

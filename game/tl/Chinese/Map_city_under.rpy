@@ -6058,7 +6058,7 @@ translate Chinese undercity_eyvind_sell_b9bcc90e:
 translate Chinese undercity_eyvind_sell_4cf0d8ce:
 
 
-    e 0 "呃啊…"
+    e 0 "呃啊..."
 
 
 translate Chinese undercity_eyvind_sell_29a4e141:

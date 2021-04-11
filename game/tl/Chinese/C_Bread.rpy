@@ -1055,7 +1055,7 @@ translate Chinese Bread_map_start_e3a8ae1e:
 translate Chinese Bread_map_start_8842e641:
 
 
-    b "…"
+    b "..."
 
 
 translate Chinese Bread_map_start_12be643e:
@@ -1085,7 +1085,7 @@ translate Chinese Bread_map_start_36726169:
 translate Chinese Bread_map_start_cbe1a16f:
 
 
-    b "我找到了地图……但是我不明白。"
+    b "我找到了地图......但是我不明白。"
 
 
 translate Chinese Bread_map_start_c1c9f387:
@@ -1145,7 +1145,7 @@ translate Chinese Bread_map_start_94751f21:
 translate Chinese Bread_map_start_a039862d:
 
 
-    b "不可以,这是……这是骑士的财产。"
+    b "不可以,这是......这是骑士的财产。"
 
 
 translate Chinese Bread_map_start_c0a377aa:
@@ -1667,7 +1667,7 @@ translate Chinese Bread_map_start_57bb6f23:
 translate Chinese Bread_map_start_0c7fe101:
 
 
-    e 1 "Bread…"
+    e 1 "Bread..."
 
 
 translate Chinese Bread_map_start_386a4d17_1:

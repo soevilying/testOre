@@ -246,7 +246,7 @@ label battle_lizad_spy_lose:
     "You move in to strike the enemy spy on the head."
     "But he dodges and swiftly plunges his dagger through your heart. "
     play sound "music/blood.ogg"
-    "The pain… you wonder where the pain is."
+    "The pain... you wonder where the pain is."
     play sound "music/blood.ogg"
     show red2 at center with dissolve
     "But just before it hits you the spy is holding your heart out in front of him."

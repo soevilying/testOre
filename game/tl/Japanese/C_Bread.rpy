@@ -166,7 +166,7 @@ translate Japanese Bread_meet_0612ae20:
 translate Japanese Bread_meet_056e0604:
 
 
-    b "Dead?… No!"
+    b "Dead?... No!"
 
 
 translate Japanese Bread_meet_cba5027b:
@@ -556,7 +556,7 @@ translate Japanese battle_bread_win_498a8ec9:
 translate Japanese battle_bread_win_7dc9b1fe:
 
 
-    e 1 "Err… are you ok?"
+    e 1 "Err... are you ok?"
 
 
 translate Japanese battle_bread_win_3512255f:
@@ -628,7 +628,7 @@ translate Japanese battle_bread_win_ddd27bd1:
 translate Japanese battle_bread_win_07e5c77e:
 
 
-    b "Ughh…"
+    b "Ughh..."
 
 
 translate Japanese battle_bread_win_c423cd91:
@@ -646,7 +646,7 @@ translate Japanese battle_bread_win_b307663d:
 translate Japanese battle_bread_win_8dcf28d2:
 
 
-    b "Ughh… what happened? Where’s… my mace?"
+    b "Ughh... what happened? Where’s... my mace?"
 
 
 translate Japanese battle_bread_win_4050a249:
@@ -688,7 +688,7 @@ translate Japanese battle_bread_win_1c1bf2ea:
 translate Japanese battle_bread_win_7f5b3034:
 
 
-    b "That's…."
+    b "That's...."
 
 
 translate Japanese battle_bread_win_4c59193d:
@@ -766,7 +766,7 @@ translate Japanese battle_bread_win_f09e54ff:
 translate Japanese battle_bread_win_b046e4c5:
 
 
-    e 13 "Right… Look, Bread I need you to really listen to me."
+    e 13 "Right... Look, Bread I need you to really listen to me."
 
 
 translate Japanese battle_bread_win_ee12889c:
@@ -850,7 +850,7 @@ translate Japanese battle_bread_win_414b4e44:
 translate Japanese battle_bread_win_ba7effc2:
 
 
-    b "No… this can’t be real."
+    b "No... this can’t be real."
 
 
 translate Japanese battle_bread_win_26afc5fd:

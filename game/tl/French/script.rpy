@@ -154,13 +154,13 @@ translate French start_1_65051b49:
 translate French start_1_16525a5c:
 
 
-    "Its glow…"
+    "Its glow..."
 
 
 translate French start_1_1ab3878f:
 
 
-    "it feels so familiar…"
+    "it feels so familiar..."
 
 
 translate French start_1_5f9b772e_1:
@@ -286,7 +286,7 @@ translate French start_1_20c490b5:
 translate French start_1_00cdcf44:
 
 
-    e 5 "Wait…father?"
+    e 5 "Wait...father?"
 
 
 translate French start_1_3813ed9c:
@@ -358,7 +358,7 @@ translate French start_1_9d381d48:
 translate French start_1_ba97eb90:
 
 
-    e 6 "Father…papa. What are you talking about being a bartender?"
+    e 6 "Father...papa. What are you talking about being a bartender?"
 
 
 translate French start_1_76dfaf79:
@@ -646,7 +646,7 @@ translate French start_1_8db3e079:
 translate French start_1_a2cd1e77:
 
 
-    e 2 " I’m sorry. I… must have you confused with someone I know."
+    e 2 " I’m sorry. I... must have you confused with someone I know."
 
 
 translate French start_1_14a5e2a2:
@@ -868,7 +868,7 @@ translate French map0_c66ff923:
 translate French map0_8da5aa58:
 
 
-    e 7 "No… thanks fa- Snow."
+    e 7 "No... thanks fa- Snow."
 
 
 translate French map0_13a0d64d:
@@ -1078,7 +1078,7 @@ translate French map0_a7272151:
 translate French map0_e541c3a6:
 
 
-    e 3 "…That doesn’t answer anything."
+    e 3 "...That doesn’t answer anything."
 
 
 translate French map0_01f49d36:
@@ -1450,7 +1450,7 @@ translate French map1_669a685c:
 translate French map1_104263ea:
 
 
-    e 9 "Well… I wouldn't really say it wasn’t a big deal."
+    e 9 "Well... I wouldn't really say it wasn’t a big deal."
 
 
 translate French map1_b85f29a3:
@@ -1504,7 +1504,7 @@ translate French map1_db353af3:
 translate French map1_5049a03c:
 
 
-    h "You were slow…"
+    h "You were slow..."
 
 
 translate French map1_75dadc09:
@@ -1660,7 +1660,7 @@ translate French map1_3189f03c:
 translate French map1_ab20e13d:
 
 
-    s "P.D… could it be Pierce Dagon?"
+    s "P.D... could it be Pierce Dagon?"
 
 
 translate French map1_e4788133:
@@ -1756,7 +1756,7 @@ translate French map1_01868959:
 translate French map1_5929cf7b:
 
 
-    e 1 "So, this emblem thing. It’s…"
+    e 1 "So, this emblem thing. It’s..."
 
 
 translate French map1_7c99c57e:
@@ -1996,7 +1996,7 @@ translate French map1_453beb71:
 translate French map1_2e283fa3:
 
 
-    e 10 "ç«çƒ­ä¹Ÿå¦‚ä¹Ÿè¦è±†è…å¹²å¤§èŒƒç”˜è¿ªé«˜é£å‰²è±†è…å¹²è±†è…å¹²å¤§èŒƒç”˜è¿ªè­¦æ–¹ç»è¿‡è­¦æ–¹."
+    e 10 "ç«çƒ­ä¹Ÿå¦‚ä¹Ÿè¦è±†è...å¹²å¤§èŒƒç”˜è¿ªé«˜é£å‰²è±†è...å¹²è±†è...å¹²å¤§èŒƒç”˜è¿ªè­¦æ–¹ç»è¿‡è­¦æ–¹."
 
 
 translate French map1_18205625:

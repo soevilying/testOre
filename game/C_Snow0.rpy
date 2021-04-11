@@ -96,7 +96,7 @@ label Snow_meet:
         s "I was attacked by a trio of slimes."
         s "The thing is the slimes weren’t fighting in their usual pattern."
         s "Usually they came one by one, and could barely hit a barn door with their lunges."
-        s "This time, they were more… organized."
+        s "This time, they were more... organized."
         s "One snuck up on me while the others were keeping me busy."
         e 1 "That doesn’t mean much. It could be you weren’t paying attention."
         hide snow stand
@@ -156,7 +156,7 @@ label Snow_meet:
         show snow happy1 at center with dissolve
         if Thane.movein != 2 and Quest.fes_result == Axel:
             s "You look like shit, did something happen?"
-            e 13 "Thane… he’s badly hurt. He came back to the bull tribe all bloodied."
+            e 13 "Thane... he’s badly hurt. He came back to the bull tribe all bloodied."
             s "Seriously? What could have done that to him?"
             e 13 "I don’t know."
             e 13 "He was muttering something before he lost consciousness, but I can’t quite make sense of it."
@@ -166,14 +166,14 @@ label Snow_meet:
         elif Thane.movein == 2 and Quest.fes_result == Axel:
             s "Good job getting Axel to agree to just send his healers."
             s "I don’t know what I would do if all his men were here."
-            e 13 "…"
+            e 13 "..."
             show snow stand at center with dissolve
             s "What’s wrong?"
-            e 1 "It’s just… he mentioned something about executing the lizard prisoners after what happened to Thane."
+            e 1 "It’s just... he mentioned something about executing the lizard prisoners after what happened to Thane."
             e 13 "I can’t help but feel like that’s the wrong move. What do you think?"
             s "I think the burden of a chief is a heavy one, but the burden of a father is even heavier."
             s "If a chief were to be made to question the value of every enemy he has ever struck down he would not be much of a chief. "
-            s "But… if I was a father like him, I think even I would have been guilty of inflicting such an act because it involves my child."
+            s "But... if I was a father like him, I think even I would have been guilty of inflicting such an act because it involves my child."
             e 1 "..."
             show snow happy1 at center with dissolve
             s "Let’s not speak more of this."
@@ -228,7 +228,7 @@ label Snow_talk:
     scene tavern 1
     show snow stand at center
     if Chet.tree == 1:
-        s "Err… what do you want?"
+        s "Err... what do you want?"
     elif True:
         s "What do you want?"
     label Snow_menu:
@@ -314,7 +314,7 @@ label Snow_talk:
                             hide snow happy
                             show snow stand at center with dissolve
                             s "He was happy with just making the bottom of the stairs his own room."
-                            e 13 "Hmm…"
+                            e 13 "Hmm..."
                             s "I might add more facilities as time goes by, depending on how things go,{p}and if we have the resources."
                             s "Who knows,maybe if you stick around longer I can get you a special room too."
                             e 3 "Thanks for the offer Snow, but let's hope it doesn’t come to that."
@@ -348,7 +348,7 @@ label Snow_talk:
                                 hide snow happy
                                 show snow happy1 at center with dissolve
                                 "He seems to struggle to come up with an answer."
-                                s "I… I think so?"
+                                s "I... I think so?"
                                 e 1 "How can you not be sure?"
                                 s "It’s not something I’ve thought about."
                                 s "I’m usually busy thinking about keeping the tavern going."
@@ -387,7 +387,7 @@ label Snow_talk:
                             hide snow stand
                             show snow happy1 at center with dissolve
                             s "Of course not, Chet and I were more concerned with buffing up the tavern’s defenses in case that lunatic came back and decided he needed our blood for his deity."
-                            e 13 "It just doesn’t make any sense…"
+                            e 13 "It just doesn’t make any sense..."
                             s "Nothing ever does. You’d be better off just rolling with the punches."
                             hide snow happy1 with dissolve
                             "You push the barstool you’re sitting on backward in a huff."
@@ -396,7 +396,7 @@ label Snow_talk:
                             "Snow rolls his eyes at you and sighs."
                             s "Kid, I can tell you want answers, but frustration is your enemy."
                             s "If a warrior lets his emotions get the best of him his blade won’t even cut through butter."
-                            e 1 "(Father… he said something like that before, a long time ago.)"
+                            e 1 "(Father... he said something like that before, a long time ago.)"
                             s "I know it’s not easy to hear that you need to just take it easy."
                             s "No one can, you should have seen Witer when he first arrived."
                             s "The lizard was a mess, we had to tie him down before he calmed down."
@@ -404,7 +404,7 @@ label Snow_talk:
                             show snow laugh1 at center with dissolve
                             s "So, do what you can to relax, you’re not alone in this."
                             "It seems to be the bartender’s go-to technique, to have you not think about the fog or the situation at hand."
-                            e 13 "… I’ll try."
+                            e 13 "... I’ll try."
                             hide snow laugh1
                             show snow stand at center with dissolve
                             s "Good, so what else do you need?"
@@ -490,7 +490,7 @@ label Snow_talk:
                             s "Then tell me if you would have done it?"
                             e 5 "..."
                             show snow stand at center with dissolve
-                            s "… I’m sorry I shouldn’t have spoken like that to you."
+                            s "... I’m sorry I shouldn’t have spoken like that to you."
                             e 13 "No, I’m the one to apologize, I shouldn’t have put you on the spot like that."
                             hide snow stand with dissolve
                             "You look down at your toes while rubbing the back of your arm."
@@ -561,7 +561,7 @@ label Snow_talk:
                     s "Yes, the tree monster uses the flower as a way to lure in its victims."
                     s "Unsuspecting children have been known to follow the sweet scent the flower emanates before being devoured by the creature."
                     s "Leaving nothing but their dried up carcases."
-                    s "…"
+                    s "..."
                     s "Make sure you’ll stay safe."
                     s "Just get back here if things turn messy."
                     menu:
@@ -699,7 +699,7 @@ label Snow_talk:
                 e 3 "Great, I’ll go get him."
                 hide snow stand at center with dissolve
                 scene black with vslow_dissolve
-                "A few hours later…"
+                "A few hours later..."
                 $ Time.hours = Time.hours +2
                 scene tavern 1 with vslow_dissolve
                 show snow stand at left with dissolve
@@ -718,7 +718,7 @@ label Snow_talk:
                 t "Thank you, I’d like that very much. Maybe we can train together one day."
                 w "That would be wonderful."
                 c "That’s a pretty interesting spear you got. How much for it?"
-                t "Err… it’s not for sale, I made it myself."
+                t "Err... it’s not for sale, I made it myself."
                 c "So it’s one of a kind, huh. I’ll give you 100 coins!"
                 hide witer stand
                 show thane stand2 at center with dissolve
@@ -786,10 +786,10 @@ label Snow_lake_bank_chat:
             s "At some point I just wanted to talk to her just to get a glimpse at her smile."
             "You nod."
             show snow stand2 at center with dissolve
-            s "So… one night, we didn’t have much to do."
+            s "So... one night, we didn’t have much to do."
             s "I offered to cook dinner and she said it was one of the best burnt meals she ever had."
             s "We both laughed about it."
-            s "Then at night… she crept into my bed and we hugged, and one thing lead to another and we kissed… before we…"
+            s "Then at night... she crept into my bed and we hugged, and one thing lead to another and we kissed... before we..."
             "You held your breath with anticipation."
             hide snow stand2 with dissolve
             "Snow chuckles and stares longingly at the lake."
@@ -894,14 +894,14 @@ label Snow_lake_bank_chat:
     hide snow stand with dissolve
     "You point towards the fog."
     show snow happy1 at center with dissolve
-    s "Hmm… I don’t see anything."
+    s "Hmm... I don’t see anything."
     e 1 "I swear I saw the glare of someone using something to look at us."
     s "Are you sure it wasn’t just a reflection of the waters?"
     e 13 "I...I think so."
     show snow stand at center with dissolve
     s "Well if you can’t be sure we don’t have a reason to go after it."
     s "Look, we’ll be safer in the tavern, if trouble comes looking we’ll be safer in numbers."
-    e 1 "Ok…"
+    e 1 "Ok..."
     scene black
     play sound "music/foot1.ogg"
     "The two of you head back to the tavern."
@@ -1012,7 +1012,7 @@ label Snow_twoletters:
     show snow stand1 at center with slow_dissolve
     hide snow angrys1
     show snow stand1
-    s "…"
+    s "..."
     "He hands you the two sealed letters."
     hide snow stand1
     show snow happy at center with dissolve
@@ -1021,9 +1021,9 @@ label Snow_twoletters:
     hide snow happy with slow_dissolve
     "Snow leaves you be."
     "You walk over to a corner of the drinking hall and keep your back turned to the rest."
-    "The first letter reads …"
+    "The first letter reads ..."
     n "Come find me in the lizard tribe. We have something to discuss."
-    "The next letter reads …"
+    "The next letter reads ..."
     a "Fleabag, get your ass over here. I have work for you."
     e 13 "(It’s never a good sign when both of them are looking for me. I better check out what they want.)"
     $ Quest.bomb_end = 1
@@ -1038,17 +1038,17 @@ label Snow_Thane:
         e 1 "Snow, do you happen to have any pepper, wheat flour and water you can spare?"
         show snow happy1 at center with dissolve
         s "I might, I do pride myself on having some of the coolest waters you can drink, but what is this for?"
-        e 6 "Umm… I’ve got a friend coming over, we’re making something paper mache."
+        e 6 "Umm... I’ve got a friend coming over, we’re making something paper mache."
         hide snow happy1 with dissolve
         show snow stand1 at center with dissolve
-        s "…"
+        s "..."
         "His good eye falls on you, and you sense he’s trying to read deeper into your plans. "
         "You try to keep up a smile as to avoid getting Snow too involved in this whole debacle. "
         s "Well, I’m definitely not going to give my previous ingredients for art that easily."
         show snow happy1 at center with dissolve
         "Inside your heart, you breathe easily."
         e 1 "Ok, well what do you need?"
-        s "Hmm… I got it. "
+        s "Hmm... I got it. "
         hide snow happy1 at center with dissolve
         "Snow pulls from under his bar, a sword."
         show snow happy at center with dissolve
@@ -1063,12 +1063,12 @@ label Snow_Thane:
         s "Careful, that’s not a toy."
         "Snow pulls out a bag and starts measuring pepper by the spoonful."
         "You get started polishing his sword with a rough cloth."
-        e 1 "…"
+        e 1 "..."
         "*squeak squeak*"
         e 6 "This thing’s bigger and heavier than I expected."
         s "You might need to use both hands, and really rub it good along the length of it."
         "*squeak squeak*"
-        s "That’s it… rub the tip real good."
+        s "That’s it... rub the tip real good."
         e 5 "This is so hard, it’s just too big."
         "*squeak squeak*"
         s "Most men say the same when they get a good look at my sword."
@@ -1105,7 +1105,7 @@ label Snow_Thane:
         show thane stand at right with slow_dissolve
         w "Welcome to the Tavern of Spear."
         w "I’m Witer, would you be ordering anything today?"
-        t "Oh… ah, no. I’m good."
+        t "Oh... ah, no. I’m good."
         t "Thank you, I’m Thane. I just need to talk to [name]."
         "Thane waves at you from the entrance."
         hide witer stand with slow_dissolve

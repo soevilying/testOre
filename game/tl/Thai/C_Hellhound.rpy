@@ -484,7 +484,7 @@ translate Thai Hellhound_meet_84845650:
 translate Thai Hellhound_meet_38b115e5:
 
 
-    h1 "What? No, that wasn't a yawn. I was just… uh… biting the air!"
+    h1 "What? No, that wasn't a yawn. I was just... uh... biting the air!"
 
 
 translate Thai Hellhound_meet_5f5342b0:
@@ -706,7 +706,7 @@ translate Thai Hellhound_meet_7c62ede5:
 translate Thai Hellhound_meet_d8608e66:
 
 
-    e 1 "Hmm… I'd take the job, but I want something more concrete than just a better future."
+    e 1 "Hmm... I'd take the job, but I want something more concrete than just a better future."
 
 
 translate Thai Hellhound_meet_1bc7ec4e:
@@ -1060,7 +1060,7 @@ translate Thai Hellhound_meet_425825de:
 translate Thai Hellhound_meet_55dac8ec:
 
 
-    e 9 "Heh, cheers…"
+    e 9 "Heh, cheers..."
 
 
 translate Thai Hellhound_meet_503a0b51:
@@ -1186,7 +1186,7 @@ translate Thai Hellhound_meet_156951fc:
 translate Thai Hellhound_meet_f8f98501:
 
 
-    e 1 "Well sorry to hear that. Umm…"
+    e 1 "Well sorry to hear that. Umm..."
 
 
 translate Thai Hellhound_meet_b3a6edc0:

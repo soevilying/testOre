@@ -196,19 +196,19 @@ translate French Naxuxus_meet_9d9d4063:
 translate French Naxuxus_meet_156ec377:
 
 
-    e 13 "…"
+    e 13 "..."
 
 
 translate French Naxuxus_meet_92249813:
 
 
-    e 14 "I may have… let a thief got away because he was posing as someone who got robbed."
+    e 14 "I may have... let a thief got away because he was posing as someone who got robbed."
 
 
 translate French Naxuxus_meet_a180385b:
 
 
-    e 14 "I… attacked the actual victim who fought him off."
+    e 14 "I... attacked the actual victim who fought him off."
 
 
 translate French Naxuxus_meet_49f76eca:
@@ -250,7 +250,7 @@ translate French Naxuxus_meet_2c368952:
 translate French Naxuxus_meet_e7e0089c:
 
 
-    e 5 "No, wait. I… can take any help I can get. Please teach me."
+    e 5 "No, wait. I... can take any help I can get. Please teach me."
 
 
 translate French Naxuxus_meet_a9d9e012:
@@ -844,7 +844,7 @@ translate French Naxuxus_meet_45c58898:
 translate French Naxuxus_meet_610b11c9:
 
 
-    e 1 "… Fine."
+    e 1 "... Fine."
 
 
 translate French Naxuxus_meet_e10d8d48:
@@ -1066,7 +1066,7 @@ translate French Naxuxus_meet_1fa9904c:
 translate French Naxuxus_meet_4802e1d6:
 
 
-    e 13 "I… oh no..."
+    e 13 "I... oh no..."
 
 
 translate French Naxuxus_meet_1d03d804:
@@ -1102,13 +1102,13 @@ translate French Naxuxus_meet_120fba3d:
 translate French Naxuxus_meet_cdc6c8ce:
 
 
-    n "Stop, I don’t need to hear the rest …"
+    n "Stop, I don’t need to hear the rest ..."
 
 
 translate French Naxuxus_meet_3f0af19f:
 
 
-    n "… How did they get you to do it?"
+    n "... How did they get you to do it?"
 
 
 translate French Naxuxus_meet_ac246ca5:
@@ -1126,7 +1126,7 @@ translate French Naxuxus_meet_1fc091b0:
 translate French Naxuxus_meet_beac2b9f:
 
 
-    n "Typical… "
+    n "Typical... "
 
 
 translate French Naxuxus_meet_01cf56cc:
@@ -1270,7 +1270,7 @@ translate French Naxuxus_meet_d0d0eb71:
 translate French Naxuxus_meet_2360953d:
 
 
-    e 1 "They… they set a trap for him and the moment he was caught in it they ambushed him."
+    e 1 "They... they set a trap for him and the moment he was caught in it they ambushed him."
 
 
 translate French Naxuxus_meet_a397b0e5:
@@ -1330,7 +1330,7 @@ translate French Naxuxus_meet_f2a944ca:
 translate French Naxuxus_meet_43887b91:
 
 
-    n "Well…"
+    n "Well..."
 
 
 translate French Naxuxus_meet_75e5b57f:
@@ -1426,7 +1426,7 @@ translate French Naxuxus_meet_02c89080:
 translate French Naxuxus_meet_9b18ceec:
 
 
-    n "Oh… I see."
+    n "Oh... I see."
 
 
 translate French Naxuxus_meet_06f45695:
@@ -1456,7 +1456,7 @@ translate French Naxuxus_meet_d0d0eb71_1:
 translate French Naxuxus_meet_2360953d_1:
 
 
-    e 1 "They… they set a trap for him and the moment he was caught in it they ambushed him."
+    e 1 "They... they set a trap for him and the moment he was caught in it they ambushed him."
 
 
 translate French Naxuxus_meet_a397b0e5_1:
@@ -1852,7 +1852,7 @@ translate French Naxuxus_event_1_9033ac17:
 translate French Naxuxus_event_1_4d013b6f:
 
 
-    e 13 "I can't forget them…"
+    e 13 "I can't forget them..."
 
 
 translate French Naxuxus_event_1_98f6ef9f:
@@ -1882,7 +1882,7 @@ translate French Naxuxus_event_1_3ecb9c5d:
 translate French Naxuxus_event_1_e448900c:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate French Naxuxus_event_1_e76089d2:
@@ -2404,7 +2404,7 @@ translate French Naxuxus_event_1_b226a52a:
 translate French Naxuxus_event_1_37b74430:
 
 
-    n "We do this not only for our future, but for those we've lost… our children."
+    n "We do this not only for our future, but for those we've lost... our children."
 
 
 translate French Naxuxus_event_1_252856c3:
@@ -3040,7 +3040,7 @@ translate French Naxuxus_event_1_eff78095:
 translate French Naxuxus_event_1_27677248:
 
 
-    bl "If it’s for the children… then I support the decision."
+    bl "If it’s for the children... then I support the decision."
 
 
 translate French Naxuxus_event_1_15b13b63:
@@ -3250,7 +3250,7 @@ translate French Naxuxus_event_1_150626bc:
 translate French Naxuxus_event_1_e028bef9:
 
 
-    e 13 "(Then again… do I know him well enough? )"
+    e 13 "(Then again... do I know him well enough? )"
 
 
 translate French Naxuxus_event_1_bce75304:
@@ -3520,7 +3520,7 @@ translate French Naxuxus_camp_end_e100f119:
 translate French Naxuxus_camp_end_a518fab0:
 
 
-    e 13 "I… wouldn't know. Is there anything else?"
+    e 13 "I... wouldn't know. Is there anything else?"
 
 
 translate French Naxuxus_camp_end_82bb9a08:
@@ -3868,7 +3868,7 @@ translate French Naxuxus_camp_end_cb2a5077:
 translate French Naxuxus_camp_end_c9c5de49:
 
 
-    e 6 "Yeah, maybe…"
+    e 6 "Yeah, maybe..."
 
 
 translate French Naxuxus_camp_end_5d0bc709:
@@ -4258,13 +4258,13 @@ translate French Naxuxus_tribe_talk1_d420a4fc:
 translate French Naxuxus_tribe_talk1_ec2b0b75:
 
 
-    n "I was so close… and the look in the kid’s eye, he needed me, and I couldn’t save him."
+    n "I was so close... and the look in the kid’s eye, he needed me, and I couldn’t save him."
 
 
 translate French Naxuxus_tribe_talk1_916d904e:
 
 
-    e 13 "Nauxus…"
+    e 13 "Nauxus..."
 
 
 translate French Naxuxus_tribe_talk1_d8fe46cf:
@@ -4300,13 +4300,13 @@ translate French Naxuxus_tribe_talk1_0ff2b3e1:
 translate French Naxuxus_tribe_talk1_e448900c:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate French Naxuxus_tribe_talk1_1483da2d:
 
 
-    n "I’m sorry. I… got overly emotional. Can we talk about something else?"
+    n "I’m sorry. I... got overly emotional. Can we talk about something else?"
 
 
 translate French Naxuxus_tribe_talk1_741360c1:
@@ -4354,7 +4354,7 @@ translate French Naxuxus_tribe_talk1_004777f2:
 translate French Naxuxus_tribe_talk1_623bc113:
 
 
-    e 6 "I… I wouldn’t know. I’m not that popular with the girls."
+    e 6 "I... I wouldn’t know. I’m not that popular with the girls."
 
 
 translate French Naxuxus_tribe_talk1_383b74f2:
@@ -4444,7 +4444,7 @@ translate French Naxuxus_tribe_talk1_84c89e39:
 translate French Naxuxus_tribe_talk1_58f57c74:
 
 
-    e 10 "So…"
+    e 10 "So..."
 
 
 translate French Naxuxus_tribe_talk1_bcf1eb20:
@@ -4456,7 +4456,7 @@ translate French Naxuxus_tribe_talk1_bcf1eb20:
 translate French Naxuxus_tribe_talk1_e448900c_1:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate French Naxuxus_tribe_talk1_21d338cb:
@@ -4714,7 +4714,7 @@ translate French Nauxus_artwork_6f3965a6:
 translate French Nauxus_artwork_04cbce97:
 
 
-    e 9 "(Lines? They’re all lines…)"
+    e 9 "(Lines? They’re all lines...)"
 
 
 translate French Nauxus_artwork_7a6d71b8:
@@ -4762,7 +4762,7 @@ translate French Nauxus_artwork_6f3965a6_1:
 translate French Nauxus_artwork_04cbce97_1:
 
 
-    e 9 "(Lines? They’re all lines…)"
+    e 9 "(Lines? They’re all lines...)"
 
 
 translate French Nauxus_artwork_93115930:
@@ -4792,7 +4792,7 @@ translate French Nauxus_artwork_13fd2242:
 translate French Nauxus_artwork_153b6880:
 
 
-    e 5 "I… have nothing to say about his art skills."
+    e 5 "I... have nothing to say about his art skills."
 
 
 translate French Nauxus_artwork_0ae9bcd0:
@@ -4906,7 +4906,7 @@ translate French Nauxus_artwork_06e34238:
 translate French Nauxus_artwork_fd12a8d8:
 
 
-    e 9 "Yeah… piece of cake."
+    e 9 "Yeah... piece of cake."
 
 
 translate French Nauxus_artwork_21d47ac1:
@@ -5062,7 +5062,7 @@ translate French Nauxus_artwork_f7cb2c01:
 translate French Nauxus_artwork_78f601e0:
 
 
-    n "No, it’s just… I haven’t been touched for so long. I’m sorry, please continue."
+    n "No, it’s just... I haven’t been touched for so long. I’m sorry, please continue."
 
 
 translate French Nauxus_artwork_30e9ae54:
@@ -5248,7 +5248,7 @@ translate French Nauxus_artwork_06a6ad66:
 translate French Nauxus_artwork_9e517e0c:
 
 
-    e 5 "I… I’d like that."
+    e 5 "I... I’d like that."
 
 
 translate French Nauxus_artwork_65a6bc85:
@@ -5362,7 +5362,7 @@ translate French Nauxus_artwork_2f22d70a:
 translate French Nauxus_artwork_48430956:
 
 
-    e 11 "So… so what do you want me to do?"
+    e 11 "So... so what do you want me to do?"
 
 
 translate French Nauxus_artwork_0e495b64:
@@ -5602,7 +5602,7 @@ translate French Nauxus_roushk_5545f402:
 translate French Nauxus_roushk_562af888:
 
 
-    e 5 "Wait… died out?"
+    e 5 "Wait... died out?"
 
 
 translate French Nauxus_roushk_c8085863:
@@ -5626,7 +5626,7 @@ translate French Nauxus_roushk_3a7f9793:
 translate French Nauxus_roushk_50b7b644:
 
 
-    e 13 "This is … no… I need a minute."
+    e 13 "This is ... no... I need a minute."
 
 
 translate French Nauxus_roushk_aa8c9433:
@@ -5638,7 +5638,7 @@ translate French Nauxus_roushk_aa8c9433:
 translate French Nauxus_roushk_89146ecf:
 
 
-    e 13 "Roushk…"
+    e 13 "Roushk..."
 
 
 translate French Nauxus_roushk_c42032ad:

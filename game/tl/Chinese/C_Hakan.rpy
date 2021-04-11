@@ -4234,7 +4234,7 @@ translate Chinese Hakan_talk_54cb2edb:
 translate Chinese Hakan_talk_2340d802:
 
 
-    e 13 "老實說我現在甚至不確定我能不能即時救回他……"
+    e 13 "老實說我現在甚至不確定我能不能即時救回他......"
 
 
 translate Chinese Hakan_talk_39c6b8fe:
@@ -5840,7 +5840,7 @@ translate Chinese Hakan_chattree_00b63463:
 translate Chinese Hakan_chattree_1c6f3797:
 
 
-    e 10 "…"
+    e 10 "..."
 
 
 translate Chinese Hakan_chattree_0daa6651:
@@ -5894,7 +5894,7 @@ translate Chinese Hakan_chattree_694a23f4:
 translate Chinese Hakan_chattree_11739c0d:
 
 
-    e 13 "Hakan…"
+    e 13 "Hakan..."
 
 
 translate Chinese Hakan_chattree_f405b9a2:

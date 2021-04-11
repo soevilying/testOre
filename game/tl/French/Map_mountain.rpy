@@ -52,7 +52,7 @@ translate French Mountain_map_8853d425:
 translate French Mountain_map_c9269478:
 
 
-    t "This is the shrine we erected to our fallen warriors… and to the children that were taken."
+    t "This is the shrine we erected to our fallen warriors... and to the children that were taken."
 
 
 translate French Mountain_map_22a83643:
@@ -364,7 +364,7 @@ translate French Mountain_map_759fa4b8:
 translate French Mountain_map_e4ae3df8:
 
 
-    e 13 "Thane…"
+    e 13 "Thane..."
 
 
 translate French Mountain_map_101811af:
@@ -742,7 +742,7 @@ translate French Mountain_map_db3d42f5:
 translate French Mountain_map_997e7f9f:
 
 
-    t "And I… I can’t let that happen again."
+    t "And I... I can’t let that happen again."
 
 
 translate French Mountain_map_00b6465f:

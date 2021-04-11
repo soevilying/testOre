@@ -1030,7 +1030,7 @@ translate Russian Axel_tribe_talk1_5d540b67:
 translate Russian Axel_tribe_talk1_362985e9:
 
 
-    e 6 "I mean I could…"
+    e 6 "I mean I could..."
 
 
 translate Russian Axel_tribe_talk1_531395c2:
@@ -1096,7 +1096,7 @@ translate Russian Axel_tribe_talk1_549cb806:
 translate Russian Axel_tribe_talk1_a4ba234c:
 
 
-    e 5 "… Oh, look at the time. I should be heading back out there."
+    e 5 "... Oh, look at the time. I should be heading back out there."
 
 
 translate Russian Axel_tribe_talk1_1865595e:
@@ -1132,7 +1132,7 @@ translate Russian Axel_tribe_talk1_cdd261ee:
 translate Russian Axel_tribe_talk1_33220765:
 
 
-    a "So, I sent a few scouts to find the forest exit, around then we made contact with the tavern, it was only that hyena and…"
+    a "So, I sent a few scouts to find the forest exit, around then we made contact with the tavern, it was only that hyena and..."
 
 
 translate Russian Axel_tribe_talk1_8385c43e:
@@ -1306,7 +1306,7 @@ translate Russian Axel_tribe_talk1_5ba84b9b:
 translate Russian Axel_tribe_talk1_001572e4:
 
 
-    a "Then I thought, what if that happened to Thane, and I just… I. Argh! "
+    a "Then I thought, what if that happened to Thane, and I just... I. Argh! "
 
 
 translate Russian Axel_tribe_talk1_260276bb:
@@ -1378,13 +1378,13 @@ translate Russian Axel_tribe_talk1_c2b8c070:
 translate Russian Axel_tribe_talk1_72e94c19:
 
 
-    a "…"
+    a "..."
 
 
 translate Russian Axel_tribe_talk1_b26f9191:
 
 
-    a "He nags like her, he cooks badly like her, he likes watching the village like her… he even has her eyes."
+    a "He nags like her, he cooks badly like her, he likes watching the village like her... he even has her eyes."
 
 
 translate Russian Axel_tribe_talk1_b4c6358b:
@@ -1702,7 +1702,7 @@ translate Russian Axel_bullkid_7bf3dee8:
 translate Russian Axel_bullkid_3c57816c:
 
 
-    a "Hmm…"
+    a "Hmm..."
 
 
 translate Russian Axel_bullkid_8f51d847:
@@ -1906,7 +1906,7 @@ translate Russian Axel_bullkid_615532ea:
 translate Russian Axel_bullkid_5d221de0:
 
 
-    a "All those that would challenge my claim to the rank of chief. Thane will have to do the same someday…"
+    a "All those that would challenge my claim to the rank of chief. Thane will have to do the same someday..."
 
 
 translate Russian Axel_bullkid_be6acd76:
@@ -1918,7 +1918,7 @@ translate Russian Axel_bullkid_be6acd76:
 translate Russian Axel_bullkid_72e94c19:
 
 
-    a "…"
+    a "..."
 
 
 translate Russian Axel_bullkid_c2f2cc97:
@@ -2398,7 +2398,7 @@ translate Russian Axel_bullkid_b6e61cd8:
 translate Russian Axel_bullkid_b17cc8ee:
 
 
-    "Small calf" "I’m sorry… "
+    "Small calf" "I’m sorry... "
 
 
 translate Russian Axel_bullkid_11071646:
@@ -2410,7 +2410,7 @@ translate Russian Axel_bullkid_11071646:
 translate Russian Axel_bullkid_d51e48c5:
 
 
-    "Small calf" "Don’t take my big brother away…"
+    "Small calf" "Don’t take my big brother away..."
 
 
 translate Russian Axel_bullkid_ea66174e:
@@ -2434,7 +2434,7 @@ translate Russian Axel_bullkid_7c3f24ec:
 translate Russian Axel_bullkid_146b43b8:
 
 
-    "Small calf" "I’m sorry…"
+    "Small calf" "I’m sorry..."
 
 
 translate Russian Axel_bullkid_9b792797:
@@ -2584,7 +2584,7 @@ translate Russian Axel_bullkid_2f7f4cb0:
 translate Russian Axel_bullkid_c21f6a66:
 
 
-    e 1 "Your methods are… risky."
+    e 1 "Your methods are... risky."
 
 
 translate Russian Axel_bullkid_179f5c6d:
@@ -2818,7 +2818,7 @@ translate Russian Axel_letter_a64d3c49:
 translate Russian Axel_letter_e448900c:
 
 
-    e 1 "…"
+    e 1 "..."
 
 
 translate Russian Axel_letter_e3c7e1d7:
@@ -3328,7 +3328,7 @@ translate Russian Axel_letter_341123f1_1:
 translate Russian Axel_letter_72e94c19:
 
 
-    a "…"
+    a "..."
 
 
 translate Russian Axel_letter_ef929461:
@@ -3436,7 +3436,7 @@ translate Russian Axel_letter_ea3213eb:
 translate Russian Axel_letter_c54ee461:
 
 
-    t "…"
+    t "..."
 
 
 translate Russian Axel_letter_58dfdf4a:
@@ -3454,7 +3454,7 @@ translate Russian Axel_letter_c24ecd92:
 translate Russian Axel_letter_c54ee461_1:
 
 
-    t "…"
+    t "..."
 
 
 translate Russian Axel_letter_76ad6374:
@@ -3814,7 +3814,7 @@ translate Russian Axel_bomb_done_1564b595:
 translate Russian Axel_bomb_done_fa78b880:
 
 
-    e 1 "Umm… yeah. Where’s the catapult?"
+    e 1 "Umm... yeah. Where’s the catapult?"
 
 
 translate Russian Axel_bomb_done_de186078:
@@ -3892,7 +3892,7 @@ translate Russian Axel_bomb_done_73a53979:
 translate Russian Axel_bomb_done_73127e07:
 
 
-    e 5 "Oh… ok."
+    e 5 "Oh... ok."
 
 
 translate Russian Axel_bomb_done_8454d24f:
@@ -4018,7 +4018,7 @@ translate Russian Axel_bomb_done_1564b595_1:
 translate Russian Axel_bomb_done_fa78b880_1:
 
 
-    e 1 "Umm… yeah. Where’s the catapult?"
+    e 1 "Umm... yeah. Where’s the catapult?"
 
 
 translate Russian Axel_bomb_done_de186078_1:
@@ -4060,7 +4060,7 @@ translate Russian Axel_bomb_done_584f3e92:
 translate Russian Axel_bomb_done_eaec1da3:
 
 
-    e 13 "Alright, then… Axel mentioned something about collecting my reward from you?"
+    e 13 "Alright, then... Axel mentioned something about collecting my reward from you?"
 
 
 translate Russian Axel_bomb_done_60ec8069:
@@ -4102,7 +4102,7 @@ translate Russian Axel_bomb_done_48ceaca3:
 translate Russian Axel_bomb_done_4f4e7159:
 
 
-    "You hesitate to turn back… but you don’t."
+    "You hesitate to turn back... but you don’t."
 
 
 translate Russian Axel_bomb_done_a9d8a450:
@@ -4300,7 +4300,7 @@ translate Russian Axel_festival_start_153698c0:
 translate Russian Axel_festival_start_bfd2eea8:
 
 
-    e 1 "Oh…"
+    e 1 "Oh..."
 
 
 translate Russian Axel_festival_start_fd6f02f7:
@@ -4312,7 +4312,7 @@ translate Russian Axel_festival_start_fd6f02f7:
 translate Russian Axel_festival_start_826146ba:
 
 
-    a "One last thing before you go… it’s about Thane."
+    a "One last thing before you go... it’s about Thane."
 
 
 translate Russian Axel_festival_start_d309aa42:
@@ -4342,7 +4342,7 @@ translate Russian Axel_festival_start_ca48ecc0:
 translate Russian Axel_festival_start_e7e1427f:
 
 
-    e 1 "Err… no. "
+    e 1 "Err... no. "
 
 
 translate Russian Axel_festival_start_dc790a0a:
@@ -4420,7 +4420,7 @@ translate Russian Axel_festival_start_037a8f74:
 translate Russian Axel_festival_start_62068765:
 
 
-    e 1 "… Fine, he’s in the tavern and no, he didn’t mention anything about coming back."
+    e 1 "... Fine, he’s in the tavern and no, he didn’t mention anything about coming back."
 
 
 translate Russian Axel_festival_start_d317c08e:
@@ -4474,7 +4474,7 @@ translate Russian Axel_festival_start_cab8bc02:
 translate Russian Axel_festival_start_606ddc98:
 
 
-    e 1 "Not to mention…"
+    e 1 "Not to mention..."
 
 
 translate Russian Axel_festival_start_c949f22c:

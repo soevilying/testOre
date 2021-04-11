@@ -128,12 +128,12 @@ label Roushk_meet:
     show snow angrys1 at center with dissolve
     s "Witer I don’t know what you’re trying to say."
     show witer stand at right with dissolve
-    w "Water… please!" with vpunch
+    w "Water... please!" with vpunch
     show snow angrys1 at center with dissolve
     s "What happened to you two?"
     "Snow reaches below his counter and pulls out a mug and starts pouring from a bottle of water."
     show hakan stand at left with dissolve
-    h "You won’t… you won’t…" with vpunch
+    h "You won’t... you won’t..." with vpunch
     "Hakan coughs, and signals to the rest to wait with his forefinger."
     "He takes a few deep breaths."
     "Just as Snow hands the drink to Witer, the lizard downs the whole mug in one go."
@@ -629,7 +629,7 @@ label battle_roushk_lose:
         "You wanted to scream but your eyes widen at the sight of the creature’s glowing yellow eyes. "
         with flashbulb
         "Its light envelopes your face, and all traces of who you are is gone."
-        "Only one idea fills your consciousness… you live to serve the boss."
+        "Only one idea fills your consciousness... you live to serve the boss."
         scene black with vslow_dissolve
         "{b}{color=#c22719}<GAME OVER>{/color}"
         menu:
@@ -871,9 +871,9 @@ label Roushk_evening_1:
             ro "I found an odd looking artifact during an expedition, and after a bright flash of light I ended up awakening here."
             e 5 "That’s not possible, don’t you remember fighting me just now in the swamp?"
             e 5 "You were declaring yourself ruler of this forest and soon the entire kingdom."
-            ro "That… doesn’t sound like me at all. A boastful warrior is no warrior at all. "
+            ro "That... doesn’t sound like me at all. A boastful warrior is no warrior at all. "
             e 1 "Then who was I fighting earlier?"
-            ro "I don’t know…"
+            ro "I don’t know..."
             "Roushk’s forehead furrows and he shakes his head trying to recall what happened to him."
             ro "This is all so confusing, what did this thing do to me?"
             hide roushk stand with dissolve
@@ -943,9 +943,9 @@ label Roushk_evening_1:
             ro "I found an odd looking artifact during an expedition, and after a bright flash of light I ended up awakening here."
             e 5 "That’s not possible, don’t you remember fighting me just now in the swamp?"
             e 5 "You were declaring yourself ruler of this forest and soon the entire kingdom."
-            ro "That… doesn’t sound like me at all. A boastful warrior is no warrior at all. "
+            ro "That... doesn’t sound like me at all. A boastful warrior is no warrior at all. "
             e 1 "Then who was I fighting earlier?"
-            ro "I don’t know…"
+            ro "I don’t know..."
             "Roushk’s forehead furrows and he shakes his head trying to recall what happened to him."
             ro "This is all so confusing, what did this thing do to me?"
             hide roushk stand with dissolve
@@ -1020,7 +1020,7 @@ label Roushk_evening_1:
     ro "So what is this plan that you won’t let your other friends in on it?"
     e 6 "It’s complicated to explain, but I know someone who might be able to help us."
     e 1 "But you need to play along and don’t say anything to anyone about who I’m going to introduce you to."
-    ro "Ok… you’re not sending me to speak some dangerous character are you?"
+    ro "Ok... you’re not sending me to speak some dangerous character are you?"
     e 5 "What? No? He’s....harmless?"
     e 1 "But he’s good with magic. Helped me out a few times already."
     e 1 "Now come with me and remember, just play along."
@@ -1089,7 +1089,7 @@ label Roushk_evening_1:
     ro "This thing won’t come off!"
     m "I figured as much. Whatever curse is on that thing must be strong. "
     e 1 "Can you remove the curse though?"
-    m "Hmm… it will take me some time. I first need to relearn how to curse items, then to remove the curses."
+    m "Hmm... it will take me some time. I first need to relearn how to curse items, then to remove the curses."
     m "Maybe it’ll take a few days."
     e 9 "A few days? But is there a chance the bracelet’s curse will activate again?"
     m "It might, you beating Roushk once probably just weakened it."
@@ -1097,7 +1097,7 @@ label Roushk_evening_1:
     m "We won’t know when that is though."
     ro "Then you need to lock me up, it is too risky, I won’t be able to control my actions."
     m "Instead of that, I suggest you two try to find other magic users around the area to see if they can get the curse removed quickly before I am ready."
-    e 13 "The only other magic user I know is… "
+    e 13 "The only other magic user I know is... "
     "You place your hand to your forehead and shake your head."
     e 8 "Why did it have to be him, but it’s not like I have a choice."
     e 1 "Tomorrow morning we will head out to the lizard tribe, that’s the best chance to find Selye."
@@ -1319,7 +1319,7 @@ label Roushk_lizardtribe:
         ro "Unlike me she has powerful patience and wisdom. "
         e 1 "She sounds like a nice person."
         ro "Yes she is. Do you have someone you are mated to?"
-        e 1 "Well…"
+        e 1 "Well..."
         ro "Perhaps one of your tavern mates?"
         hide roushk stand at center with dissolve
         "You blush and let out a fake cough. "
@@ -1360,7 +1360,7 @@ label Roushk_lizardtribe:
             hide roushk stand at center with dissolve
             "Roushk leans in near you and whispers."
             ro "Try to butter them up, maybe they’ll let us through then."
-            e 1 "Look… I just realized I have no idea what your names are."
+            e 1 "Look... I just realized I have no idea what your names are."
             "The first lizard guard sneers. He beats his chest with one fist."
             "First Lizard Guard" "Then get ready for a proper introduction, Wolf."
             "First Lizard Guard" "I’m the leader of the group, Nuo!" with vpunch
@@ -1719,11 +1719,11 @@ label Roushk_lizardtribe:
                 "Roushk signals to you to get up. You walk over to him."
                 show roushk stand at center with dissolve
                 ro "You forgot that I was here."
-                e 9 "That was… amazing!"
+                e 9 "That was... amazing!"
                 "Roushk smiles at you."
                 ro "Yes, well I was more surprised you left me out of a fight. I am here to help you out you know."
                 ro "There, the three of you have been defeated. I take it you won’t have any issues with us going to see Selye now?"
-                "Nuo" "You… can’t. Ouch. He’s gone out to find runestones."
+                "Nuo" "You... can’t. Ouch. He’s gone out to find runestones."
                 "Nuo" "He-ngh! We don’t know when he’ll be back."
                 e 5 "What? Why didn’t you three just say that from the start?"
                 e 5 "We’ll have to go find Nauxus, and see if he can help bring Selye back."
@@ -1801,11 +1801,11 @@ label Roushk_lizardtribe_night:
     e 6 "That’s the spirit."
     ro "But first, any plans on how to deal with this corrupted item?"
     "You cross your arms and think hard."
-    e 1 "Hmm… I’m not really sure waiting for Selye will do us much good."
+    e 1 "Hmm... I’m not really sure waiting for Selye will do us much good."
     ro "If only we were back in my tribe."
     ro "There’s a legend that somewhere near the old temple there is a magical lake that has magical cleansing properties."
     ro "I wonder if that would have worked on this artifact."
-    e 5 "Lake… a lake! That’s it."
+    e 5 "Lake... a lake! That’s it."
     ro "Excuse me?"
     e 1 "There’s a pool in the bull village. It has the power to cure corruptions."
     e 1 "This might be a long shot, but I think we should try it."
@@ -1869,13 +1869,13 @@ label Roushk_bulltribe:
     e 1 "No, no. There’s lots to see."
     e 13 "My village especially, has a nice river nearby where you can go fishing."
     e 13 "Plus the wolves there are all friendly, especially my father."
-    e 1 "Hmm…"
+    e 1 "Hmm..."
     ro "Something on your mind?"
     e 1 "I just miss home I guess, haven’t seen anyone from there in forever."
     e 13 "There’s so much I want to tell them."
     ro "Tell me more about your tribe. Is there something special about it?"
     e 1 "Well, we have the blessing ritual."
-    ro "And… what’s that?"
+    ro "And... what’s that?"
     "Roushk yawns, your eyelids also start to feel heavy."
     e 1 "It’s a ritual where the warriors of the village receive a blessing from the elders."
     e 1 "The ritual involves the elder mating with the younger wolf. "
@@ -1895,7 +1895,7 @@ label Roushk_bulltribe:
     ro "You’re crazy."
     e 13 "Crazy for adventure. Yeah, maybe I’ll be able to go to another world someday."
     ro "That would be the day. It sounds like... "
-    ro "Like a…"
+    ro "Like a..."
     ro "Zzz."
     "Roushk is snoring now. You chuckle a bit and close your eyes too."
     scene black with dissolve
@@ -2027,7 +2027,7 @@ label Roushk_bulltribe_back:
         "Upon reaching the stone where Thane would usually be sitting on, an imposing figure blocks your way."
         "Tomahawk" "If it isn’t Brother Fleabag."
         "Tomahawk" "What the heck are you doing coming from the bull temple?"
-        e 9 "Honestly that name… "
+        e 9 "Honestly that name... "
         "Tomahawk" "What the heck were you doing up in the temple grounds?"
         e 5 "What? What’s so weird about me going up to the temple?"
         "Tomahawk" "It’s weird because I’ve been guarding the spot since this morning, but I never saw you go up."
@@ -2035,9 +2035,9 @@ label Roushk_bulltribe_back:
         e 9 "I came last night, what’s it to you?"
         e 9 "You suddenly take an interest in everyone going to the temple?"
         "Tomahawk" "Oh yeah, and who’s your cloaked friend here?"
-        ro "…"
+        ro "..."
         "Tomahawk" "Hey, I’m talking to you. Who the heck are you?"
-        ro "…"
+        ro "..."
         e 1 "My friend is sick now, we got to go."
         "Roushk sniffs the air."
         "Tomahawk" "He smells like a lizard! Take off that cloak!"
@@ -2344,7 +2344,7 @@ label Roushk_bulltribe_end:
     t "You two better head out of the village now before father returns."
     t "I’ll deal with Tomahawk when he wakes up."
     e 13 "Thank you Thane, I’ll come back once this is all settled. "
-    "Tomahawk" "Mmm… meat..."
+    "Tomahawk" "Mmm... meat..."
     t "He’s ok, go on before he comes to."
     "Wait, please use this to help him recover."
     hide thane stand at center with dissolve
@@ -2415,7 +2415,7 @@ label Roushk_meko:
     ro "The curse is alive? Who the hell are you?"
     "Boss" "Oh, I’m more than just a curse, and you can call me The Boss, because that’s what I’m going to be, the boss of everything in this kingdom!"
     "Boss" "I’ve been trapped in that damn bracelet for thousands of years, and with this new form I’m going to enjoy taking over this kingdom starting with you two!"
-    "Meko" "Gaah! You need to hit me. Just hit me… gahh… until this bastard... lets go of … of me."
+    "Meko" "Gaah! You need to hit me. Just hit me... gahh... until this bastard... lets go of ... of me."
     "Meko" "Don’t hold back!"
     ro "Don’t lose focus, we need to defeat that evil spirit or Meko is as good as dead, again."
     "Boss" "Shut up lizard breath, I don’t need a broken toy anymore."
@@ -2586,10 +2586,10 @@ label Roushk_meko:
         "You grab Meko’s horn. The crack you made is no longer on his body."
         e 5 "Meko! Meko! Tell me you’re alive. Meko!"
         "You hold Meko close to your chest."
-        m "Mmm...eh…"
+        m "Mmm...eh..."
         e 5 "Roushk!"
         "You run over to his unconscious body and shake him hard."
-        ro "Mmm… [name]?"
+        ro "Mmm... [name]?"
         "Roushk’s eyes flutters open."
         show roushk stand at center with dissolve
         ro "What happened? Did you beat the evil spirit?"
@@ -2609,12 +2609,12 @@ label Roushk_meko:
         "Giving into the tiredness, you sit on the floor still clutching Meko’s horn."
         show meko stand70 at left with dissolve
         show roushk stand at right with dissolve
-        m "Mmm… is it over yet?"
+        m "Mmm... is it over yet?"
         e 13 "Yeah, we’re back buddy. It’s over."
         hide meko stand70
         hide roushk stand at right with dissolve
         "Meko floats away from your hands back onto the barrel he usually sits."
-        m "… Ugh, I feel so drained."
+        m "... Ugh, I feel so drained."
         ro "That was no easy fight, but is it truly over?"
         m "Yes, I don’t sense the curse anywhere. As for the artifact-"
         "You spot the bracelet on the floor and pick it up."
@@ -2798,7 +2798,7 @@ label Roushk_meko_battle_end:
     ro "Witer, you couldn’t have imagined it, bodies slamming hard against one another."
     ro "At one point the avatar was just pounding our ass with his fists. "
     ro "You ever experienced that Witer?"
-    w "…Why are you saying that to me? "
+    w "...Why are you saying that to me? "
     hide witer stand at left with dissolve
     "Witer frantically shakes his head while blushing."
     "He turns away and runs off with his drink to the food table."
@@ -2839,16 +2839,16 @@ label Roushk_meko_battle_end:
     "Every time a round ends, Chet’s sly smile fades slowly away."
     "You’re now in the final round. Chet’s hands are trembling."
     "He has only one card in his hand while Roushk has none."
-    c "It’s a…"
+    c "It’s a..."
     c "It’s a lie!"
     ro "Nope, it was true."
     "Chet slumps back against the chair, with an empty stare."
-    c "Ha... ha… I lost again."
+    c "Ha... ha... I lost again."
     show hakan stand at left
     show roushk stand at right with dissolve
     ro "Here Hakan, you can have my winnings, I just want a few coins to take back."
     h "You’re alright Roushk, I especially liked how you gave Chet a thrashing."
-    c "My… my … money."
+    c "My... my ... money."
     e 6 "There, there."
     "You pat Chet on the head."
     "The party continues until the late hours of the night."
@@ -2879,7 +2879,7 @@ label Roushk_meko_battle_end1:
     e 1 "Makes sense."
     e 13 "You know, I have a lot of mixed feelings knowing you’re going home so soon."
     ro "What kind of feelings?"
-    e 1 "Well, I feel…"
+    e 1 "Well, I feel..."
     menu:
         "I feel happy" if True:
             e 13 "I’m happy you’re able to go back, that’s what I’ve been searching for so long to do."
@@ -3049,14 +3049,14 @@ label Roushk_sex_top:
     e 0 "Do you want me to stop?"
     ro "No, you can keep going."
     "You smile and slide your middle finger into his slit."
-    ro "Ahhh, so… big."
+    ro "Ahhh, so... big."
     "Roushk squirms as you slide your finger deeper inside him."
     "You lick your lips hungrily as you pull your finger out and plunge it back inside him."
     "Roushk practically howls in ecstasy."
     "Pressing deeper, you feel your finger brushing against the tip of Roushk’s dick."
     e 0 "Is that?"
     ro "Y...yes."
-    ro "Please… [name], just fuck me."
+    ro "Please... [name], just fuck me."
     menu:
         "Fuck Roushk in the ass" if True:
             e 0 "Not yet, I want to see what you’re packing in there."
@@ -3090,10 +3090,10 @@ label Roushk_sex_top:
             "He grits his teeth to stifle his loud groans."
             "You growl softly from the tightness of Roushk’s hole clamping around the head of your dick."
             e 0 "Fuck, you’re tight."
-            ro "Mph… more just put it all in!"
+            ro "Mph... more just put it all in!"
             "You force your entire weight onto Roushk , pushing the whole length of your cock inside him."
             "He twists his head and gasps like he has been without air."
-            e 0 "Oh… fuck."
+            e 0 "Oh... fuck."
             "Thank goodness for the lube or this would be much harder for the both of you."
             "Your back muscles tighten and you hold onto Roushk’s ankles for dear life."
             "You pull your pre soaked dick out of his ass and ram it back in with intense force."
@@ -3233,7 +3233,7 @@ label Roushk_sex_bottom:
     "His finger catches the strap of your scabbard and pulls off your almost naked form. "
     "Blowing into your ear, you shudder. "
     "With his other hand he reaches down and pulls your loincloth free. "
-    e 5 "Roushk…"
+    e 5 "Roushk..."
     ro "Now, do me."
     scene black with dissolve
     "He holds your hands and guides them to the side of his rear."
@@ -3261,7 +3261,7 @@ label Roushk_sex_bottom:
     "Roushk grabs his hard cock and taps his large dickhead against your hole."
     ro "Ready?"
     e 0 "N...no. "
-    ro "Shh… just relax and take deep breaths."
+    ro "Shh... just relax and take deep breaths."
     show rtop 2 with slow_dissolve:
         xpos 0.114 ypos 0
         zoom 1
@@ -3479,7 +3479,7 @@ label Roushk_goodbye2:
     ro "Listen, I have to go now, the portal won’t stay up for long."
     ro "Keep this, as my parting gift to you."
     "You receive a bracelet from Roushk."
-    e 5 "This is…"
+    e 5 "This is..."
     ro "It should just work as a regular bracelet, don’t worry."
     ro "Thank you for all your help for the past few days my friend."
     ro "Goodbye."

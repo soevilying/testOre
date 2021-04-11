@@ -378,11 +378,11 @@ label Cave_map:
                 show bread happy at center with dissolve
                 b "Just that I can’t remember where I buried it."
                 "He starts laughing."
-                e 13 "Right… I just came to check on you."
+                e 13 "Right... I just came to check on you."
                 e 1 "Do you need anything? Food? Water?"
                 show bread stand at center with dissolve
                 b "Oh, do you have Bread?"
-                e 9 "I… do not have bread."
+                e 9 "I... do not have bread."
                 b "Aww shame, that’s ok. I’m not that hungry anyways."
                 e 1 "Ok, but if I see any I’ll bring you some."
                 b "Thanks Buddy."
@@ -426,7 +426,7 @@ label Cave_map:
         play sound "music/foot1.ogg"
         if Map.ca14 == 1:
             "You walk to the back of the empty room, there’s a pile of boulders closing what looks like a path to another room."
-            e 1 "I wonder what could be on the other side…"
+            e 1 "I wonder what could be on the other side..."
             "You place a hand on a boulder imagining what could be over there."
             "Unknown Voice" "How long have I been in here? A week? Two?"
             e 5 "Huh? Hello? Who’s there?"
@@ -518,7 +518,7 @@ label Cave_map:
         $ Time.mins = Time.mins +10
         play sound "music/foot1.ogg"
         if Map.ca19 == 1:
-            e 5 "This is…"
+            e 5 "This is..."
             "The pyramid turns out not to be a pyramid at all."
             "This whole thing is made out of wood. "
             "Circling around the structure you find a hole that lets you peer inside."
