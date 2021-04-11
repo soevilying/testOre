@@ -1118,106 +1118,106 @@ label start_1:
             "Гиена улыбается тебе, и вы оба обмениваетесь жестами."
             show snow angrys1 at center with q_dissolve
             "Повернувшись к бармену, вы видите, что он скрестил руки на груди и бросает на вас недовольный взгляд."
-            e 6 "Father please, you need to remember I’m your son."
-            e 6 "You made me this sword. You-"
+            e 6 "Отец, пожалуйста, ты должен помнить, что я твой сын."
+            e 6 "Ты сделал мне этот меч. Ты-"
             hide snow angrys1
             show snow happy at center with q_dissolve
-            s "Oh,crap.."
-            "He raises a hand and cuts you off."
-            s "You know what? Sure, I’m your father"
-            s "Now be a good boy and buy something already!"
+            s "Вот дерьмо.."
+            "Он поднимает руку и обрывает тебя."
+            s "Знаешь что? Конечно, я твой отец."
+            s "А теперь будь хорошим мальчиком и купи уже что-нибудь!"
             hide snow happy
             show snow happy1 at center with q_dissolve
-            "The older wolf’s voice catches the attention of the others in the tavern."
-            "All eyes are on you two now."
+            "Голос старого волка привлекает внимание остальных в таверне."
+            "Теперь все взгляды устремлены на вас двоих."
             e 1 "...."
             e 1 "....?!"
-            "You gulp and reach for your pouch, but it’s not there."
-            e 5 "Where’s my coin pouch?"
-            s "Well here’s a life lesson for you, “son”."
-            s "No money, no service."
+            "Ты сглатываешь и тянешься за сумкой, но ее там нет."
+            e 5 "Где мой мешочек с монетами?"
+            s "Ну вот тебе и жизненный урок,\"сынок\" "
+            s "Нет денег, нет услуг."
             e 5 "...."
             hide snow happy
             show snow stand1 at center with q_dissolve
-            s "Since, I’m feeling very 'fatherly'."
+            s "С тех пор я чувствую себя очень \"по-отцовски\"."
 
             $ renpy.music.set_volume(0, 5, channel = "Chan1")
             $ renpy.music.set_volume(1, 5, channel = "Chan2")
 
-            s "I’ll give you a few pieces of coin if you head out and take down a few monsters."
-            e 1 "Monsters? What kind?"
+            s "Я дам тебе несколько монет, если ты пойдешь и убьешь нескольких монстров."
+            e 1 "Чудовища? Какого рода?"
             hide snow stand1
             show snow happy1 at center with q_dissolve
-            s "Just a few small ones, nothing to worry about."
-            s "Hakan over there’s the one that usually deals with them so they leave the tavern alone."
-            s "Hey, Hakan! Tell him what happened!"
+            s "Всего несколько маленьких, не о чем беспокоиться."
+            s "Хакан вон тот, который обычно имеет с ними дело, поэтому они оставляют таверну в покое."
+            s "Эй, Хакан! Расскажи ему, что случилось!"
             show hakan stand at left with q_dissolve
-            "Hakan" "...."
-            "The red dragon scowls back at Snow and turns back to his drink."
+            "Хакан" "...."
+            "Красный дракон хмуро смотрит на Сноу и возвращается к своему напитку."
             hide hakan stand with q_dissolve
-            s "Long story short he sprained his knee the last time out."
-            s "So why don’t you get out there and put that sword of yours to good use."
-            e 1 "Fine, but this isn’t over father."
-            s "Well maybe those monsters can knock some sense into you before you come back. I’m not your father, kid."
-            s "If you survive we can continue our “father-son” time."
+            s "Короче говоря, в последний раз он вывихнул колено."
+            s "Так почему бы тебе не отправиться туда и не использовать свой меч с пользой?"
+            e 1 "Хорошо, но это еще не конец, отец."
+            s "Что ж, может быть, эти монстры сумеют вбить в тебя немного здравого смысла, прежде чем ты вернешься. Я тебе не отец, малыш."
+            s "Если ты выживешь, мы сможем продолжить наше время \"отец-сын\""
             hide snow stand1 with moveoutright
-            "Your ears droop, and you walk away from the bar."
+            "Твои уши опускаются, и ты уходишь от бара."
             scene black with dissolve
             stop music fadeout 1
-            "It looks like your “father” is fully committed to not knowing who you are."
-            "Best to come back later to talk to him."
+            "Похоже, ваш “отец” полностью привержен тому, чтобы не знать, кто вы."
+            "Лучше вернуться попозже и поговорить с ним."
             play sound "music/door.mp3"
 
 
             jump battle_game_1
-        "Play along with the bartender" if True:
+        "Подыграть бармену" if True:
 
 
-            e 2 " I’m sorry. I… must have you confused with someone I know."
+            e 2 " Мне жаль. Я... должно быть, перепутал тебя с кем-то из моих знакомых."
             hide snow angrys
             show snow happy at center with q_dissolve
-            s " No problem stranger."
-            s "Can I get you a drink or maybe you’re looking for a place to stay?"
-            e 1 "Where is here actually? I can’t remember much except for a –"
+            s " Нет проблем, пацан."
+            s "Могу я предложить тебе выпить или, может быть, ты ищешь место для ночлега?"
+            e 1 "Где же здесь на самом деле? Я почти ничего не помню, кроме –"
             hide snow happy
             show snow stand1 at center with q_dissolve
-            s "A yellow light. Most of the travelers that come here say the same thing."
-            s "Well, this is the Tavern of Spear, we provide meals and a warm bed for any who can afford it."
-            "You search your belt for your coin pouch but turn up empty"
-            e 5 "I could have sworn I came with money, but it’s missing."
-            s "No surprise, you came staggering in like an undead."
-            s "I was considering having Hakan and Witer over there toss you back out if you so much as scratched the floorboards"
-            "Snow points to the people behind you."
+            s "Желтый свет. Большинство путешественников, которые приезжают сюда, говорят то же самое."
+            s "Что ж, это Таверна Копья, мы обеспечиваем едой и теплой постелью всех, кто может себе это позволить."
+            "Вы обыскиваете свой пояс в поисках кошелька с монетами, но обнаруживаете, что он пуст"
+            e 5 "Я мог бы поклясться, что пришел с деньгами, но они пропали."
+            s "Неудивительно, что ты пришел, шатаясь, как нежить."
+            s "Я подумывал о том, чтобы Хакан и Уинтер вышвырнули тебя обратно, если ты хотя бы поцарапаешь половицы."
+            "Сноу указывает на людей позади тебя."
             hide snow stand1 with q_dissolve
-            "A green muscular alligator in a loincloth serves a grumpy looking red dragon a mug of beer."
-            "You notice the leather shoulder pads the dragon wears are covered in deep scratches."
-            "The dragon eyes you menacingly from the corner of his eye. "
-            "You try to avoid his gaze and turn back only to nearly bump into Snow’s face. He inches closer and whispers into your ear."
+            "Зеленый мускулистый аллигатор в набедренной повязке подает сварливому красному дракону кружку пива."
+            "Вы заметили, что кожаные наплечники, которые носит дракон, покрыты глубокими царапинами."
+            "Дракон грозно смотрит на тебя краем глаза. "
+            "Ты стараешься избегать его взгляда и поворачиваешься только для того, чтобы чуть не врезаться в лицо Сноу. Он придвигается ближе и шепчет тебе на ухо:"
             show snow happy1 at center with q_dissolve
-            s "Don’t worry, he’s much nicer once you get to know him.Anyway——"
-            "The bartender pulls himself back and points at you."
+            s "Не волнуйся, он станет намного лучше, когда ты узнаешь его получше.В любом случае——"
+            "Бармен отстраняется и показывает на тебя."
 
             $ renpy.music.set_volume(0, 5, channel = "Chan1")
             $ renpy.music.set_volume(1, 5, channel = "Chan2")
-            s "I have a proposition. Since you are short on coins I have a small job you can take."
-            e 1 "A job? "
-            e 7 "Hmm, I am kind of hungry. What do you need?"
-            s "The monster around the forest have been moving closer to the tavern than I prefer."
-            s "Hakan’s been out of action since his last encounter with them. "
-            s "So, I need you to kill a few of these creatures so the rest of them will understand to stay away."
-            s "I’ll pay you some coin for your help."
-            e 1 "Sounds simple enough. Alright, I’ll take the job."
+            s "У меня есть предложение. Поскольку у тебя мало монет, у меня есть небольшая работа, которую ты можешь взять."
+            e 1 "Работа? "
+            e 7 "Хм, я вроде как проголодался. Что тебе нужно?"
+            s "Чудовище вокруг леса приблежвется ближе к таверне, чем я надеялся."
+            s "Хакан вне игры с момента последней встречи с ними. "
+            s "Итак, мне нужно, чтобы ты убил это существо, чтобы остальные поняли, что нужно держаться подальше."
+            s "Я заплачу тебе монетой за помощь."
+            e 1 "Звучит достаточно просто. Хорошо, я возьмусь за эту работу."
             hide snow happy1
             show snow laugh at center with q_dissolve
-            s "Good on you stranger."
-            s "Once you're done, then we can have a proper introduction, and get you settled for the next few days."
-            e 1 "'Next few days?'"
+            s "Молодец, пацан."
+            s "Как только ты закончишь, я смогу представить вас друг другу и устроить на несколько дней."
+            e 1 " \"Несколько дней?\""
             hide snow laugh with moveoutright
             scene black with dissolve
             stop music fadeout 1
             play sound "music/door.mp3"
-            "Snow seems pretty confident that you will be here for a while."
-            "What is he not telling? Best to come back later to find out."
+            "Сноу, похоже, вполне уверен, что вы пробудете здесь какое-то время."
+            "О чем он умалчивает? Лучше вернуться позже, чтобы узнать."
             jump battle_game_1
 
 
@@ -1435,111 +1435,111 @@ label map0:
 
     if Zalt.tut_win == True:
         show snow stand at center with dissolve
-        s "You’re back. By the way things sounded from here it must have been a big slime."
-        e 1 "It wasn’t a slime. I’m not sure what it was. "
-        e 1 "Some kind of massive beast with a skull for a head.."
+        s "Ты вернулся. Судя по тому, как все звучало отсюда, это, должно быть, была большая слизь."
+        e 1 "Это была не слизь. Я не уверен, что это было. "
+        e 1 "Какой - то огромный зверь с черепом вместо головы.."
         hide snow stand
         show snow stand1 at center with q_dissolve
-        s "Huh, that’s something new. At least you dealt with it."
-        s "We’ll worry more about that later."
+        s "Ха, это что-то новенькое. По крайней мере, ты справился."
+        s "Об этом мы побеспокоимся позже."
     elif True:
         show snow angrys at center with dissolve
-        s "...It's weird,the monster has never been so close to the tavern."
+        s "..Странно,чудовище еще никогда не было так близко к таверне."
         hide snow angrys
         show snow stand1 at center with q_dissolve
-        s "Anything broken?"
-        e 7 "No… thanks fa- Snow."
-        s "I’m sorry I kind of put your life at risk there."
-        s "Wasn’t expecting such a powerful enemy to appear."
+        s "Что-нибудь сломано?"
+        e 7 "Нет… спасибо От - Сноу."
+        s "Мне жаль, что я подверг твою жизнь риску."
+        s "Не ожидал, что появится такой могущественный враг."
 
 
-    s "Anyways, here’s your reward."
-    "[name] gains 200 coins."
+    s "В любом случае, вот твоя награда."
+    "[name] получено 200 монет."
     hide snow stand1
     show snow happy at center with q_dissolve
-    s "Now, you’re just in luck."
-    s "You have enough to rent a room for a night."
-    e 1 "That will be more than enough. "
-    e 1 "The weather was mostly foggy, it should be gone by tomorrow."
+    s "Сейчас тебе просто повезло."
+    s "У тебя достаточно денег, чтобы снять комнату на ночь."
+    e 1 "Этого будет более чем достаточно. "
+    e 1 "Погода была в основном туманной, к завтрашнему дню она должна была исчезнуть."
     hide snow happy
-    "Snow bangs the table with his good hand and laughs loudly.{p}You sense the eyes of the others in the tavern falling on your shoulder."
+    "Сноу стучит здоровой рукой по столу и громко смеется.{p}Ты чувствуешь, как взгляды остальных в таверне падают тебе на плечо."
     show snow laugh at center with q_dissolve
-    s "That’s hilarious,do you really think you can leave the forest by tomorrow?"
+    s "Ты действительно думаешь,что сможешь покинуть лес к завтрашнему дню?"
     hide snow laugh
     show snow laugh1 at center with q_dissolve
-    s "Boy, that fog is no ordinary fog."
-    e 5 "....What do you mean?"
-    "Snow points to the barstool and you take a seat."
+    s "Пацан, этот туман-не обычный туман."
+    e 5 "...- Что ты имеешь в виду?"
+    "Сноу указывает на барный стул, и ты садишься."
     hide snow laugh1
-    "Your left leg twitches and you wonder what bad news your father’s doppelganger is about to say."
-    "He pulls out a mug and starts to clean it with a clean rag attached to his hook hand."
+    "Его левая нога дергается, и ты задаешься вопросом, какие плохие новости собирается сообщить двойник твоего отца."
+    "Он достает кружку и начинает протирать ее чистой тряпкой, прикрепленной к крюку."
     show snow happy at center with q_dissolve
-    s "The fog is like a living being."
-    s "It decides on its own when to open up the exit out of this forest."
-    s "Sometimes, it may be a few days, a few weeks, or a few months. "
-    s "There’s no telling when really."
-    e 5 "That’s insane. "
-    e 5 "Even if it were true why can’t you just cut through the trees? {p}Eventually you’ll reach the main road."
+    s "Туман подобен живому существу."
+    s "Он сам решает, когда открыть выход из этого леса."
+    s "Иногда это может быть несколько дней, несколько недель или несколько месяцев. "
+    s "Никто не знает, когда именно."
+    e 5 "Это безумие. "
+    e 5 "Даже если бы это было правдой, почему ты не можешь просто прорубиться сквозь деревья? {p}В конце концов вы доберетесь до главной дороги."
     hide snow happy
     show snow stand1 at center with q_dissolve
-    s "You think nobody’s ever tried that?"
-    s "The last person to try it went hacking for four days and ended up back here as the hired muscle. "
-    "He motions to the person he is talking about with a wave of his snout."
-    "You see he means Hakan, now passed out on the table with half a dozen mugs on his table."
-    e 5 "This can’t be, I can’t be here for months! I have people waiting for me back home. "
+    s "Думаешь, никто никогда не пробовал?"
+    s "Последний человек, который попробовал это сделать, пошел пробираться в течение четырех дней и вернулся сюда в качестве наемника. "
+    "Он указывает на человека, о котором говорит, взмахом морды."
+    "Видите ли, он имеет в виду Хакана, который сейчас лежит без сознания на столе с полудюжиной кружек."
+    e 5 "Этого не может быть, я не могу оставаться здесь месяцами! Дома меня ждут. "
     hide snow stand1
     show snow happy1 at center with q_dissolve
-    s "I don’t know what else to tell you boy other than just help around here."
-    s "Keep yourself well fed and comfortable then go home when the fog clears."
-    e 1 "You are way too calm about this."
-    e 1 "How are you not freaking out more about this?"
-    e 6 "More importantly, why are you still here?"
-    "Snow smiles at you, but it feels like he isn’t looking at you but more through you."
+    s "Я не знаю, что еще сказать тебе, мальчик, кроме как просто помочь здесь."
+    s "Держи себя сытым и в комфорте, а затем отправляйся домой, когда туман рассеется."
+    e 1 "Ты слишком спокойно к этому относишься."
+    e 1 "Как ты можешь больше не волноваться из-за этого?"
+    e 6 "И что еще важнее, почему ты все еще здесь?"
+    "Сноу улыбается тебе, но мне кажется, что он смотрит не на тебя, а скорее сквозь тебя."
     hide snow happy1
     show snow stand at center with q_dissolve
-    s "As long as there are lost or abandoned souls."
-    s "The tavern and I will always be here to keep them company."
-    e 3 "…That doesn’t answer anything."
-    "Your statement falls on deaf ears."
-    "Snow puts aside the mug and pulls a key from below the counter. "
-    s "Eh, maybe I’m getting too tired to make any sense."
-    s "I don’t have the vigor of a young wolf like you do."
+    s "Пока есть потерянные или покинутые души."
+    s "Таверна и я всегда будем здесь, чтобы составить им компанию."
+    e 3 "- Это ни на что не отвечает."
+    "Ваше заявление остается без внимания."
+    "Сноу отставляет кружку и достает из-под стойки ключ. "
+    s "Эх, может быть, я слишком устал, чтобы искать хоть какой-то смысл."
+    s "У меня нет энергии молодого волка, как у тебя."
     hide snow stand
     show snow happy at center with q_dissolve
-    s "Here, your room is the third door on the right. "
-    "He places the key in front of you."
+    s "Вот твоя комната-третья дверь справа. "
+    "Он кладет ключ перед тобой."
     hide snow happy
     show snow happy1 at center with q_dissolve
-    s "If you feel hungry well too bad. Kitchen’s closed for the day, and Witer,"
-    s "Witer,get your scaly ass over here!"
-    "You see the green alligator from before is sitting on his own with a piece of paper and pencil near the door."
+    s "Если ты голоден, ну, очень плохо. Кухня закрыта на весь день, а Уинтер,"
+    s "Уинтер,тащи сюда свою чешуйчатую задницу!"
+    "Вы видите, что зеленый аллигатор из прошлого сидит сам по себе с листом бумаги и карандашом возле двери."
     show snow happy1 at left with move
     show witer stand at right with moveinright
-    "He puts down his belongings and makes his way towards the counter. "
+    "Он кладет свои вещи и направляется к прилавку. "
     hide snow happy1
     show snow stand1 at left with q_dissolve
-    s "This here’s Witer, the tavern’s waiter."
-    w "Hi, nice to meet a new face."
-    "The alligator smiles warmly and reaches out for your hand to shake it."
-    "His muscles were not just for show, you can feel his strong grip on the palm of your hand."
-    e 1 "Nice to meet you. I’m [name]."
+    s "Это Уинтер, официант из таверны."
+    w "Привет, приятно познакомиться с новым лицом."
+    "Аллигатор тепло улыбается и протягивает вам руку, чтобы пожать ее."
+    "Его мускулы были не просто выставлены напоказ, ты чувствуешь его сильную хватку на ладони."
+    e 1 "Приятно познакомиться. Я [name]."
     hide snow stand1
     show snow happy at left with q_dissolve
-    s "If you need to order anything you go through him"
-    s "And if you have any more questions to ask about the place you can consult him too."
-    s "Too much talking is exhausting, I rather do things with my hands."
+    s "Если тебе нужно что-то заказать, просто обратись ко мне"
+    s "И если у тебя есть еще какие-то вопросы по поводу этого места, ты  можешь поговорить с ним."
+    s "Слишком много разговоров утомляет, я предпочитаю делать вещи руками."
     hide snow happy with moveoutleft
     show witer stand at center with move
-    "Witer continues to shake your hand until you let go first."
-    "He blushes as he seems to notice what he was doing."
-    "While Snow leaves the counter Witer bends closer, his face is inches away from yours."
-    w "Just knock on my door if you need anything else."
-    "He walks away from you but your eyes trail onto him, transfixed by the motions of his hips and supple bottom."
+    "Уинтер продолжает трясти твою руку, пока ты не отпускаешь ее первой."
+    "Он краснеет, когда, кажется, замечает, что делает."
+    "Пока Сноу покидает стойку, Уинтер наклоняется ближе, его лицо в нескольких дюймах от твоего."
+    w "Просто постучи в мою дверь, если тебе еще что-нибудь понадобится."
+    "Он уходит от тебя, но твои глаза следят за ним, завороженные движениями его бедер и упругой попки."
     hide witer stand with moveoutright
-    "Witer disappears into the top of the stairs and you decide to follow suit."
-    "Hakan is still knocked out on his table."
-    "You consider waking him, but his loud snore tells you to just leave him be."
-    "Best to retire for the night."
+    "Уинтер исчезает на верхней площадке лестницы, и вы решаете последовать его примеру."
+    "Хакан все еще лежит без сознания на своем столе."
+    "Ты думаешь разбудить его, но его громкий храп говорит тебе просто оставить его в покое."
+    "Лучше всего удалиться на ночь."
     play sound "music/door.mp3"
     scene black with vslow_dissolve
 
@@ -1548,30 +1548,30 @@ label map0:
     $ Zalt.hp = Zalt.maxhp
     $ Zalt.mp = Zalt.maxmp
 
-    "It’s a new day, maybe."
-    "There’s no real indication of time around this tavern."
-    "No clocks, no sun dials, nothing. "
-    "You’re not even sure how long you’ve been asleep."
+    "Может быть, это новый день."
+    "Вокруг этой таверны нет никаких реальных признаков времени."
+    "Ни часов, ни солнечных циферблатов, ничего. "
+    "Ты даже не знаешь, сколько времени проспал."
     scene room 1 with dissolve
-    "Every inch of your body feels glued to the bed. "
-    "Blinking at the ceiling a few times you roll about trying to fall asleep again, but to no avail."
-    "You get up and get dressed before heading down to the bar."
+    "Каждый дюйм твоего тела словно приклеен к кровати. "
+    "Моргнув несколько раз в потолок, ты ворочаешься, пытаясь снова заснуть, но безрезультатно."
+    "Ты встаешь и одеваешься, прежде чем спуститься в бар."
     play sound "music/door.mp3"
     scene black with vslow_dissolve
     scene tavern 1 with dissolve
-    "As you walk down the stairs you notice that Snow is not behind the counter. "
-    "Hakan's sitting at the same table as last night but he’s having a hearty breakfast of eggs."
+    "Спускаясь по лестнице, вы замечаете, что Сноу за прилавком нет. "
+    "Хакан сидит за тем же столом, что и вчера вечером, но плотно завтракает яйцами."
     show witer stand at center with dissolve
-    "You walk over to Witer standing next to a hyena sitting underneath the stairs."
-    w "Morning, handsome."
-    e 1 "Morning Witer."
-    e 1 "Where’s Snow?"
-    w "He’s out doing the weekly ingredient hunt."
-    w "So, I’m in charge of the tavern until he comes back. "
-    "The smell of scrambled eggs wafting in the air stirs up your stomach. It growls loudly."
-    e 3 "I’m hungrier than I expected."
-    w "Well, you’re just in luck. What will you have?"
-    "The meal nourishes you with energy to go about your day. "
+    "Вы подходите к Уинтеру, стоящему рядом с гиеной, сидящей под лестницей."
+    w "Доброе утро, красавчик."
+    e 1 "Доброе утро, Уинтер."
+    e 1 "Где Сноу?"
+    w "Он занимается еженедельной охотой за ингредиентами."
+    w "Так что я отвечаю за таверну, пока он не вернется. "
+    "Запах яичницы, витающий в воздухе, будоражит желудок. Он громко рычит."
+    e 3 "Я проголодался больше, чем ожидал."
+    w "Что ж, тебе просто повезло. Что ты будешь есть?"
+    "Еда наполняет тебя энергией для продолжения дня. "
     $ renpy.music.set_pause(True, channel='Snow')
     $ renpy.music.set_pause(True, channel='Hakan')
     $ renpy.music.set_pause(True, channel='Witer')
@@ -1618,15 +1618,15 @@ label map1:
         jump Roushk_meet
     if Roushk.party == 1:
         scene tavern 1 with dissolve
-        "The moment you exit your room, you are met with the smiles of all the tavern mates preparing for the party."
+        "В тот момент, когда вы выходите из своей комнаты, вас встречают улыбки всех товарищей по таверне, готовящихся к вечеринке."
         show snow stand1 at center with dissolve
-        s "Hey, [name]."
-        s "Good, you’re still here, just want you to know the party should be ready by evening."
-        s "Don’t miss it."
-        e 6 "Thanks Snow, need any help setting up?"
-        s "Nah, we have it under control over here."
-        s "Go one and have your day. "
-        e 1 "Right. I’ll just go see Roushk."
+        s "Эй, [name]."
+        s "Хорошо, что ты все еще здесь, просто хочу, чтобы ты знал, что вечеринка должна быть готова к вечеру."
+        s "Не пропусти."
+        e 6 "Спасибо, Сноу, нужна какая-нибудь помощь в подготовке?"
+        s "Нет, у нас тут все под контролем."
+        s "Иди один и наслаждайся своим днем. "
+        e 1 "Верно. Я просто пойду к Рушку."
         hide snow stand1 at center with dissolve
         $ Roushk.party = 2
     if (Roushk.party == 2 or Roushk.party == 3) and Time.days == Roushk.endday and Time.hours >=18 and Time.hours <=22:
@@ -1644,103 +1644,103 @@ label map1:
     if Map.boss1 == 2:
         scene tavern 1 with dissolve
         if Snow.skullmonster != 0 or Time.days >= 6:
-            "You return to the tavern and rush over to report what you found to Snow."
-            e 5 "Snow, I’m back from the slime investigation."
-            s "Well you sure took your sweet time. "
-            s "I can’t even remember when I sent you out to do that."
-            s "Really kid, you need to work on your priorities."
-            s "You’re lucky it wasn’t that big of a deal or someone here could have gotten hurt."
-            e 9 "Well… I wouldn't really say it wasn’t a big deal."
-            "You fake a chuckle but Snow is unamused."
-            "He walks out of the bar and calls everyone together."
-            "You all gather around "
-            s "Listen up, [name] is going tell us what he found about the weird slimes I encountered before."
+            "ТЫ возвращаешься в таверну и спешишь доложить Сноу о том, что нашел."
+            e 5 "Сноу, я вернулся с расследования дела о слизи.."
+            s "Что ж, ты определенно не торопился. "
+            s "Я даже не помню, когда посылал тебя туда."
+            s "Правда, малыш, тебе нужно поработать над своими приоритетами."
+            s "Тебе повезло, что это было не так уж и важно, иначе кто-то здесь мог пострадать."
+            e 9 "Что ж… Я бы не сказал, что в этом не было ничего особенного."
+            "Ты притворно хихикаешь, но Сноу это не забавляет."
+            "Он выходит из бара и зовет всех вместе."
+            "Вы все собрались вокруг "
+            s "Слушайте внимательно, [name] он собирается рассказать нам, что он нашел о странных слизняках, с которыми я сталкивался раньше."
             show snow stand1 at left with dissolve
             show witer stand at right with dissolve
         elif True:
-            "Everyone’s gathered by the bar as you enter."
-            s "There he is."
-            w "You’re back, we were so worried."
-            c "Aha, my business might still survive."
-            h "You were slow…"
+            "Когда вы входите, все уже собрались у бара."
+            s "Вот он."
+            w "Ты вернулся, мы так волновались."
+            c "Ага, мой бизнес еще может выжить."
+            h "Ты был медлителен…"
             show witer stand at center with moveinright
             show witer stand:
                 zoom 1.0
                 linear 0.3 zoom 1.2
                 linear 0.3 zoom 1.0
-            "Witer rushes out and hugs you tightly."
-            "Your heart feels at ease knowing that they were concerned about you. "
+            "Уинтер выбегает и крепко обнимает тебя."
+            "Твое сердце чувствует себя спокойно, зная, что они беспокоились о тебе. "
             show snow stand1 at left with moveinleft
             show witer stand at right with moveoutright
-            "Snow walks over and pulls Witer back."
-            s "So,how’d it went?"
-        e 1 "I found the demon creature while exploring the woods."
-        e 1 "I think it’s the cause of the slimes acting weird, because after taking it down most of them disappeared."
+            "Сноу подходит и тянет Уинтера назад."
+            s "Итак,как все прошло?"
+        e 1 "Я нашел демоническое существо, исследуя лес."
+        e 1 "Я думаю, что ЭТО причина того, что слизняки ведут себя странно, потому что после того, как я утранил его, большинство из них исчезло."
         hide snow stand1
         show snow angry1 at left with dissolve
-        s "You went to fight the demon alone?"
-        s "What is wrong with you? You could have gotten hurt or worse!"
-        e 5 "I didn’t have a choice!"
-        e 5 "It sprang up on me, I didn’t have time to run and get help."
+        s "Ты отправился сражаться с демоном в одиночку?"
+        s "Да что с тобой такое? Ты мог пострадать или еще хуже!"
+        e 5 "У меня не было выбора!"
+        e 5 "Он прыгнул на меня, я не успел побежать за помощью."
         hide snow angry1
         show snow stand at left with dissolve
-        s "You’re lucky you escaped with your tail intact."
-        s "Still, best let Witer check you anyways for injuries."
-        e 1 "That can wait. When the monster was taken out it dropped this."
-        e 1 "It’s some kind of an emblem. Do you recognize it?"
-        "You place the emblem on the bar."
-        "All three of them lean close to examine it."
-        s "Never seen it before. Not even sure what emblem it is supposed to be a piece of."
-        c "Same here."
-        w "What about you, Hakan? Know anything about it?"
-        "Hakan shakes his head."
-        e 1 "Well I also found this at the same place."
-        e 1 "A note by someone with the initials P.D."
-        e 1 "He claimed that to be looking for pieces of an emblem that will free him from the forest."
-        s "Let me see that."
-        "Snow snatches the piece of paper from your hand and looks through{p}its content with the rest standing beside him trying to read it."
+        s "Тебе повезло, что ты ушел с целым хвостом."
+        s "Тем не менее, лучше пусть Уитер все равно проверит тебя на наличие травм."
+        e 1 "Это может подождать. Когда монстр был убит, он обронил вот это."
+        e 1 "Это какая-то эмблема. Вы узнаете её?"
+        "Вы кладете эмблему на стойку."
+        "Все трое наклоняются поближе, чтобы рассмотреть её."
+        s "Никогда её раньше не видел. Даже не знаю, какой эмблемой она должена быть."
+        c "Тоже самое."
+        w "А как же ты, Хакан? Знаешь что-нибудь об этом?"
+        "Хакан качает головой."
+        e 1 "Ну, я тоже нашел это в том же самом месте."
+        e 1 "Записка от кого - то с инициалами П. Д."
+        e 1 "Он утверждал, что ищет кусочки эмблемы, которая освободит его из леса."
+        s "Дай - ка взглянуть."
+        "Сноу выхватывает листок бумаги у тебя из рук и смотрит сквозь него{p}его содержание с остальными, стоящими рядом с ним, пытаясь прочитать его."
         hide snow stand
         show snow happy1 at left with dissolve
-        s "P.D… could it be Pierce Dagon?"
-        s "Haven’t heard that name in a long time"
-        c "Blegh, I never liked him."
-        c "He came in all high and mighty about his clan’s divine connection to the Grand Creator!"
-        "Chet rolls his eyes and does waving motions with his hands in the air."
-        w "I never heard of this Pierce guy before."
-        c "You and Hakan weren't here back then."
-        c "He was this pompous looking antelope dressed in black robes with an eye shaped necklace as big as a fist."
-        c "Came in claiming that his clan’s Grand Creator had summoned him to the tavern to vanquish the evil within. "
+        s "П. Д.... может быть, это Пирс Дагон?"
+        s "Давно не слышал этого имени"
+        c "Блиф, он мне никогда не нравился."
+        c "Он пришел во всем высоком и могущественном о божественной связи своего клана с Великим Создателем!"
+        "Чет закатывает глаза и машет руками в воздухе."
+        w "Я никогда раньше не слышал об этом Пирсе."
+        c "Тебя с Хаканом тогда здесь не было."
+        c "Это была напыщенная антилопа, одетая в черную мантию с ожерельем в форме глаза размером с кулак."
+        c "Пришел, утверждая, что Великий Создатель его клана призвал его в таверну, чтобы победить зло внутри. "
         hide snow happy1
         show snow happy at left with dissolve
-        s "He wouldn’t listen to a thing I said."
-        s "After one night he woke up exclaiming that his Grand Creator spoke to him in a dream about how to destroy the fog."
-        s "The intensity in his eyes was just disturbing."
-        s "He grabbed Chet off the ground and tossed him aside to take his axe and headed out, never to be seen again."
-        h "You had an axe?"
-        c "Emphasis on had, I never saw it again after that."
-        s "We both assumed he just left the forest when the fog cleared, or the monsters took him."
-        e 1 "So, this emblem thing. It’s…"
+        s "Он не слушал ни слова из того, что я говорил."
+        s "Однажды ночью он проснулся и воскликнул, что его Великий Создатель говорил с ним во сне о том, как уничтожить туман."
+        s "Напряженность в его глазах была просто тревожащей."
+        s "Он поднял Чета с земли, отшвырнул в сторону, взял топор и направился к выходу, чтобы никогда больше его не видеть."
+        h "У тебя был топор?"
+        c "С тех пор я его больше никогда не видел."
+        s "Мы оба предположили, что он просто вышел из леса, когда туман рассеялся, или монстры убили его."
+        e 1 "Итак, эта штука с эмблемой. Это…"
         hide snow happy
         show snow stand1 at left with dissolve
-        w "Damn it, I was hoping for something magical to happen."
-        h "Keep wishing green butt. Now, get me some beer."
+        w "Черт возьми, я надеялся, что произойдет что-то волшебное."
+        h "Продолжай желать зеленая задница. А теперь принеси мне пива."
         hide witer stand with dissolve
         show snow happy at center with moveinright
-        s "Before I forget, here’s your reward."
-        "[name] gains 200 coins."
+        s "Пока я не забыл, вот твоя награда."
+        "[name] получено 200 монет."
         $ jane_inv.take(coin,200)
-        s "And as I said,you can keep your room key."
-        s "I decided to let you have your room for free for the rest of your stay here."
-        s "Consider it part of the payment to help protect this place."
-        s "Come see me later for some new work."
-        s "For now, you earned your rest."
+        s "И,как я уже сказал, ключ от номера можешь оставить себе."
+        s "Я решил предоставить тебе комнату бесплатно до конца твоего пребывания здесь."
+        s "Считай это частью оплаты за помощь в защите этого места."
+        s "Приходи ко мне попозже за новой работой."
+        s "А пока ты заслужил отдых."
         hide snow stand1 with dissolve
-        "Chet grabs the emblem and puts it into your hand."
-        c "You know what, I’m feeling a bit sentimental."
-        c "If you have the time and you find these emblems just grab them for me."
-        c "I want some kind of compensation for my lost axe."
-        e 6 "I didn’t take you for the type to collect things you can’t sell."
-        c "I have my moments. Bring it back to me as you go."
+        "Чет хватает эмблему и вкладывает тебе в руку."
+        c "Знаешь что, я чувствую себя немного сентиментальным."
+        c "Если у вас есть время и ты найдешь эти эмблемы, просто принеси их для меня."
+        c "Мне нужна какая - то компенсация за потерянный топор."
+        e 6 "Я не думал, что ты из тех, кто коллекционирует вещи, которые нельзя продать."
+        c "У меня бывают моменты. Принеси их мне, когда будешь уходить."
         $ Map.boss1 = 3
         jump map1
     if Witer.squat == 0 and Time.days > 9 and Time.hours >=4 and Time.hours <=20:
@@ -1755,24 +1755,24 @@ label map1:
         $ renpy.music.set_volume(1, 4, channel = "Snow")
         "Snow talks to you as you enter the tavern."
         if Time.hours >= 6 and Time.hours <= 17:
-            s "Hey, [name]. I’ve got a message for you from Witer."
-            e 1 "A message? Why can’t he just talk to me about it."
-            s "Not my business to pry, kid."
-            s "He just said to meet him in the barn while he’s cleaning the place up."
-            e 1 "Alright, thanks Snow."
-            "Snow grunts affirmatively."
+            s "Эй, [name]. У меня для тебя сообщение от Уинтера."
+            e 1 "Сообщение? Почему он не может просто поговорить со мной об этом?"
+            s "Не мое дело совать нос в чужие дела, малыш."
+            s "Он просто сказал, что бы ты встретился с ним в сарае, пока он будет убираться."
+            e 1 "Хорошо, спасибо, Сноу."
+            "Сноу утвердительно хмыкает."
             $ Witer.squat = 1
             jump map1
         elif True:
-            s "Hey kid, I got something to tell you."
-            e 1 "You need me for something?"
-            s "Not me, Witer. He wants to see you in the barn in the morning."
-            e 1 "Can't he just tell me now? He's literally right there."
-            "You turn to the alligator who's sneaking glances at Chet from behind his board."
-            s "Well he said it's private."
-            s "If you want to know more you go see him in the barn in the from 8 a.m. to noon."
-            s "Just don't get in the way of his cleaning."
-            e 1 "Ok, thanks for letting me know."
+            s "Эй, парень, я должен тебе кое-что сказать."
+            e 1 "Я тебе для чего-то нужен?"
+            s "Не я, Уинтер. Он хочет видеть тебя утром в сарае."
+            e 1 "Неужели он не может сказать мне это сам? Он буквально рядом."
+            "Ты поворачиваешься к аллигатору, который украдкой поглядывает на Чета из-за доски."
+            s "Ну, он сказал, что это личное."
+            s "Если ты хочешь узнать больше, подойди к нему в сарай с 8 утра до полудня."
+            s "Только не мешай ему убираться."
+            e 1 "Хорошо, спасибо, что сказал мне"
             $ Witer.squat = 1
             jump map1
 
@@ -1783,51 +1783,51 @@ label map1:
         $ Map.bathroom_0 = 4
         if Map.bathroom == "EbbFlo":
             scene tavern 1 with dissolve
-            "The drinking hall is dead quiet, absent are its usual occupants."
-            e 1 "Where is everyone?"
-            "The familiar creak of the trap door opening then calls your attention."
-            "Hakan steps out first followed by Witer. "
-            "The alligator looks none too pleased with the sleepy dragon."
-            h "Ugh, quit staring daggers at me."
-            h "Aren’t I paying with my hangover already?"
-            "Witer saunters to Hakan’s side with his hands on his hips. "
-            "A deep furrow forms in the space between his eyebrows if he had any."
-            w "You still reek of beer. Why do you always have to drink until you blackout?"
-            m "Indeed Hakan, moderation is key."
-            "The sight of the ghostly horn resting on Hakan’s right shoulder surprises you."
-            "Then you remember no one should be able to see him."
-            h "Hey, I don’t tell you how much vegetables you can plant around the tavern."
-            w "That’s completely different!"
-            m "I fear this is escalating into something bigger."
-            "You cough loudly to get the two reptiles’ attention."
-            "They turn to you."
+            "В таверне мертвая тишина, буквально никого."
+            e 1 "Где все?"
+            "Знакомый скрип открывающегося люка привлекает твое внимание."
+            "Хакан выходит первым, за ним Уинтер. "
+            "Аллигатор выглядит не слишком довольным сонным драконом."
+            h "Фу, хватит пялиться на меня."
+            h "Разве я уже не расплачиваюсь своим похмельем?"
+            "Уинтер неторопливо подходит к Хакану, уперев руки в бока. "
+            "Между бровями образуется глубокая борозда, если она у него была."
+            w "От тебя все еще разит пивом. Почему ты всегда пьешь до потери сознания?"
+            m "Действительно, Хакан, умеренность-это ключ."
+            "Вид призрачного рога, покоящегося на правом плече Хакана, удивляет тебя."
+            "Тогда вы помните, что никто не должен его видеть."
+            h "Эй, я не говорю тебе, сколько овощей ты можешь посадить вокруг таверны."
+            w "Это совсем другое!"
+            m "Я боюсь, что это перерастает в нечто большее."
+            "Ты громко кашляешь, чтобы привлечь внимание двух рептилий."
+            "Они обращаются к тебе."
             show hakan stand at left with dissolve
             show witer stand at right with dissolve
-            h "Oh hey, Fuzzbutt."
-            w "[name], I was just about to get you."
-            e 1 "Hey there you two. Trouble in paradise?"
-            w "No! It’s just Hakan being his usual stubborn self, again. Hmph!"
-            "Witer crosses his arms in a huff."
-            "Hakan just yawns and acts as though he didn’t hear anything."
-            w "Where is everyone else?"
-            w "They’re waiting outside of the bath house."
-            w "The grand opening ceremony is supposed to start around now."
-            w "That’s why I had to drag this guy over here out of bed."
+            h "О, привет, Пушистик."
+            w "[name], Я как раз собирался сходить до тебя"
+            e 1 "Эй, вы двое. Неприятности в раю?"
+            w "Нет! Просто Хакан снова ведет себя как обычно упрямо. Хм!"
+            "Уитер раздраженно скрещивает руки на груди."
+            "Хакан только зевает и делает вид, что ничего не слышит."
+            w "Где все остальные?"
+            w "Они ждут снаружи бани."
+            w "Торжественная церемония открытия должна начаться примерно сейчас."
+            w "Вот почему мне пришлось вытащить этого парня из постели."
             hide witer stand at right with dissolve
-            m "And I had to come along, it’s been ages since I’ve been to any opening festivities. "
-            "He points with a wave of his thumb at Hakan."
-            h "Well Snow didn’t tell you to talk my ears off in the process."
-            h "Come on, we in a hurry or what?"
+            m "И мне пришлось пойти с ними, ведь я уже целую вечность не был ни на одном празднике открытия. "
+            "Он указывает большим пальцем на Хакана."
+            h "Ну, Сноу не велел тебе затыкать мне уши в процессе."
+            h "Давай, мы торопимся или как?"
             hide hakan stand at left with dissolve
-            "Hakan walks over to the entrance with Meko still on his shoulders."
-            e 1 "Mmm…"
-            "You decide not to say anything about it, and go along with the group to the ceremony."
+            "Хакан идет ко входу с Меко на плечах."
+            e 1 "Ммм…"
+            "Вы решаете ничего не говорить об этом и идете вместе с группой на церемонию."
         elif True:
             scene tavern 1 with dissolve
-            "As you walk down the stairs to the drinking hall, you notice that no one is around, minus Hakan’s drinking buddy who’s passed out as usual."
-            "From the foot of the stairs you see a note on the bar."
-            "You pick up the piece of paper."
-            "'[name], we all went to the bath house for the opening ceremony. Meet us there.'"
+            "Спускаясь по лестнице в питейный зал, вы замечаете, что вокруг никого нет, за исключением собутыльника Хакана, который, как обычно, отключился."
+            "У подножия лестницы вы видите записку на стойке."
+            "Вы поднимаете листок бумаги."
+            "'[name], мы все отправились в баню на церемонию открытия. Встретимся там."
             "..."
 
         play sound "music/foot1.ogg"
@@ -1860,22 +1860,22 @@ label map1:
         scene tavern 1
         if Roushk.passoutguy == 1 and Roushk.barn ==1:
             show roushk stand at center with dissolve
-            ro "Is this guy ok?"
-            ro "Every time I see him, he's just asleep here."
-            e 9 "Well."
-            e 1 "Do you really want to know?"
-            e 13 "To be honest..."
+            ro "С этим парнем все в порядке?"
+            ro "Каждый раз, когда я вижу его, он просто спит здесь."
+            e 9 "Хорошо."
+            e 1 "Ты действительно хочешь знать?"
+            e 13 "Если честно..."
             e 7 "ι©ζ„­ζ†Ύε¨‘ε‰ζ†Ύε¨‘θΉ­η―ƒιƒγƒ§ζ³­ι°η†·εηΌζη�΅ι‚ζ¥€ε½ζµ ο½‡η²―ιΆε©ξ—“ιοΏ½."
             e 6 "åØ‘č¹­ēÆé¸ć§ę³­éˇ°ē†·å."
             e 9 "йђ©ж„­ж†ѕеЁ‘еЏ‰ж†ѕеЁ‘и№­зЇѓж¶”з†·о›§ж¶”з†»о›¦йЏѓгѓ§жі­йЋ°з†·еџЊзј€иЇІгЃ‰йЌ е‚њеЈ’жї®ж—Ђ."
             e 10 "ç«çƒ­ä¹Ÿå¦‚ä¹Ÿè¦è±†è…å¹²å¤§èŒƒç”˜è¿ªé«˜é£å‰²è±†è…å¹²è±†è…å¹²å¤§èŒƒç”˜è¿ªè­¦æ–¹ç»è¿‡è­¦æ–¹."
-            "It seems Roushk is very surprised to hear this."
-            ro "....I find it best not to think about it."
+            "Кажется, Рушк очень удивлен, услышав это."
+            ro "... Я считаю, что лучше об этом не думать ."
             $ Roushk.passoutguy = 2
             hide roushk stand with dissolve
         elif True:
-            e 1 "The guy is still passed out."
-            e 6 "I don't think I can wake him up."
+            e 1 "Парень все еще в отключке."
+            e 6 "Не думаю, что смогу его разбудить."
         jump map1
         return
     if _return == 'Ludiko_meet':
@@ -1903,7 +1903,7 @@ label map1:
         scene tavern 1
         show chet sad at center
         c "...."
-        e 1 "It's Snow's key,I shouldn't touch it."
+        e 1 "Это ключ Сноу,я не должен его трогать."
         jump map1
         return
     if _return == 'outdoor':
@@ -1925,7 +1925,7 @@ label map1:
     return
 label nude_no:
     scene black
-    e 7 "....No,I don't think it's a good idea to take my clothes off in public."
+    e 7 "...Нет,я не думаю, что это хорошая идея-раздеваться на людях."
     play music [ "<silence 1.0>", "music/tavern.ogg" ] fadeout 1
     jump map1
 
@@ -1936,7 +1936,7 @@ screen days:
             xalign 0.01
             yalign 0.01
             if Items.watch ==2:
-                text "Day:[Time.days] / [Time.hours]:[Time.mins]"
+                text "День:[Time.days] / [Time.hours]:[Time.mins]"
                 if Map.undercity_here == True and Map.undercity_auc_start == 1:
                     text ""
                     text "SP: [Map.undercity_worktime_sp] / [Map.undercity_worktime_maxsp]"
@@ -1947,7 +1947,7 @@ screen days:
             xalign 0.01
             yalign 0.01
             if Items.watch ==2:
-                text "Day:[Time.days] / [Time.hours]:00"
+                text "День:[Time.days] / [Time.hours]:00"
             else:
                 text ""
 label after_load:
@@ -1968,13 +1968,13 @@ label after_load:
         $ Time.festival_day = Time.days
     if Map.undercity_auc_start == 1:
         if Time.hours >= 6 and Time.hours <= 11:
-            $ Map.undercity_worktime_time = "Morning"
+            $ Map.undercity_worktime_time = "Утро"
         elif Time.hours >= 12 and Time.hours <= 17:
-            $ Map.undercity_worktime_time = "Afternoon"
+            $ Map.undercity_worktime_time = "После полудня"
         elif Time.hours >= 18 and Time.hours <= 24:
-            $ Map.undercity_worktime_time = "Night"
+            $ Map.undercity_worktime_time = "Ночь"
         elif True:
-            $ Map.undercity_worktime_time = "Sleep"
+            $ Map.undercity_worktime_time = "Спать"
     $ _dismiss_pause = False
     return
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
