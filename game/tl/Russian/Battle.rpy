@@ -4,91 +4,91 @@
 translate Russian battle_game_1_d0109ffa:
 
 
-    "It’s difficult to see outside the tavern, everything is blanketed by grey fog."
+    "Снаружи таверны трудно что-либо разглядеть, все окутано серым туманом."
 
 
 translate Russian battle_game_1_833c30c1:
 
 
-    "Your only source of light is the moon and the glow of the tavern."
+    "Твой единственный источник света - луна и сияние таверны."
 
 
 translate Russian battle_game_1_80deb0c8:
 
 
-    "Snap!"
+    "Щелк!"
 
 
 translate Russian battle_game_1_5a0c0f9c:
 
 
-    "Your ears pick up the sound of twigs breaking."
+    "Твои уши улавливают звук ломающихся веток."
 
 
 translate Russian battle_game_1_5fdfd81c:
 
 
-    "Something is moving about in front of you."
+    "Что-то движется перед вами."
 
 
 translate Russian battle_game_1_7c0a3ebb:
 
 
-    e 5 "Who’s there?"
+    e 5 "- Кто там?"
 
 
 translate Russian battle_game_1_3512255f:
 
 
-    "No answer."
+    "Ответа не последовало."
 
 
 translate Russian battle_game_1_a3b41afd:
 
 
-    "You draw your sword and inch closer and closer towards the forest."
+    "Ты вытаскиваешь меч и медленно приближаешься к лесу."
 
 
 translate Russian battle_game_1_22a7f0f1:
 
 
-    "The air is suddenly silent, but you can feel a presence looking at you."
+    "Воздух внезапно становится тихим, но вы можете почувствовать чье - то присутствие, смотрящее на вас."
 
 
 translate Russian battle_game_1_d1ba57e1:
 
 
-    "Something bursts out of the trees."
+    "Что-то выскакивает из-за деревьев."
 
 
 translate Russian battle_game_1_8494d1b4:
 
 
-    "A hulking black figure with a skull for a head."
+    "Громадная черная фигура с черепом вместо головы."
 
 
 translate Russian battle_game_1_ad400dd3:
 
 
-    "It roars at you."
+    "Он рычит на тебя."
 
 
 translate Russian battle_game_1_1aff1f77:
 
 
-    "The monster raises its massive hand and slams it hard to the ground. "
+    "Чудовище поднимает свою массивную руку и с силой швыряет ее на землю. "
 
 
 translate Russian battle_game_1_148c5f5a:
 
 
-    "You manage to jump back in time and ready a fighting stance. "
+    "Вам удается вовремя отскочить назад и подготовить боевую стойку. "
 
 
 translate Russian battle_game_1_51ad27a9:
 
 
-    "It does not look happy that it missed."
+    "Он не выглядит счастливым, что промахнулся."
 
 
 translate Russian battle_game_1_4f30983b:

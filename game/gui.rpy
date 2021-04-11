@@ -55,13 +55,13 @@ define gui.interface_text_color = '#ffffff'
 
 
 
-define gui.text_font = "Crimson-Semibold.otf"
+define gui.text_font = "Pixel Geo.ttf"
 
 
-define gui.name_text_font = "Crimson-Semibold.otf"
+define gui.name_text_font = "Pixel Geo.ttf"
 
 
-define gui.interface_text_font = "Crimson-Semibold.otf"
+define gui.interface_text_font = "Pixel Geo.ttf"
 
 
 define gui.text_size = 36
@@ -415,58 +415,58 @@ init python:
 
 
     if renpy.variant("touch"):
-        
+
         gui.quick_button_borders = Borders(60, 21, 60, 0)
 
 
 
 
     if renpy.variant("small"):
-        
-        
+
+
         gui.text_size = 45
         gui.name_text_size = 54
         gui.notify_text_size = 40
         gui.interface_text_size = 45
         gui.button_text_size = 45
         gui.label_text_size = 51
-        
-        
+
+
         gui.textbox_height = 300
         gui.name_xpos = 320
         gui.text_xpos = 135
         gui.text_width = 1650
-        
-        
+
+
         gui.slider_size = 54
-        
+
         gui.choice_button_width = 1860
-        
+
         gui.navigation_spacing = 30
         gui.pref_button_spacing = 15
-        
+
         gui.history_height = 285
         gui.history_text_width = 1035
-        
+
         gui.quick_button_text_size = 30
-        
-        
+
+
         gui.file_slot_cols = 2
         gui.file_slot_rows = 2
-        
-        
+
+
         gui.nvl_height = 255
-        
+
         gui.nvl_name_width = 458
         gui.nvl_name_xpos = 488
-        
+
         gui.nvl_text_width = 1373
         gui.nvl_text_xpos = 518
         gui.nvl_text_ypos = 8
-        
+
         gui.nvl_thought_width = 1860
         gui.nvl_thought_xpos = 30
-        
+
         gui.nvl_button_width = 1860
         gui.nvl_button_xpos = 30
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

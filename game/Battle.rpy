@@ -8,7 +8,7 @@ screen simple_stats_screen:
         has vbox
         text "[name]" size 22 xalign 0.5
         null height 5
-        text "HP" size 16
+        text "Здоровье" size 16
         hbox:
             bar:
                 xmaximum 130
@@ -23,7 +23,7 @@ screen simple_stats_screen:
 
 
             text "[Zalt.hp] / [Zalt.maxhp]" size 16
-        text "MP" size 16
+        text "Мана" size 16
         hbox:
 
             bar:
@@ -40,7 +40,7 @@ screen simple_stats_screen:
 
 
             text " {color=#0080c0}[Zalt.mp] / [Zalt.maxmp]{/color}" size 16
-        text "LUST" size 16
+        text "Похоть" size 16
         hbox:
 
             bar:
@@ -64,7 +64,7 @@ screen simple_stats_screen:
         xminimum 250 xmaximum 250
         has vbox
         hbox:
-            text "HP" size 28 xalign 0.5
+            text "Здоровье" size 28 xalign 0.5
             null height 5
             bar:
                 xmaximum 130
@@ -80,7 +80,7 @@ screen simple_stats_screen:
             text "[wolf_hp] / [wolf_max_hp]" size 16
         hbox:
             if Battle.flirt == True:
-                text "LUST" size 14 xalign 0.5
+                text "Похоть" size 14 xalign 0.5
                 null height 5
                 bar:
                     xmaximum 130
@@ -105,45 +105,45 @@ screen battle_menu:
 
             frame:
                 if players_turn:
-                    textbutton "Submit" action Return("Submit") yminimum 40
+                    textbutton "Подчиниться" action Return("Подчиниться") yminimum 40
                 else:
-                    textbutton "Submit" action None yminimum 40
+                    textbutton "Подчиниться" action None yminimum 40
     vbox:
         xalign 0.4 ypos 0.7
         hbox:
 
             frame:
                 if players_turn:
-                    textbutton "Skill" action Show("battle_skill") yminimum 40
+                    textbutton "Навык" action Show("battle_skill") yminimum 40
                 else:
-                    textbutton "Skill" action None yminimum 40
+                    textbutton "Навык" action None yminimum 40
     vbox:
         xalign 0.5 ypos 0.7
         hbox:
 
             frame:
                 if players_turn:
-                    textbutton "Attack" action Return("Attack") yminimum 40
+                    textbutton "Атака" action Return("Атака") yminimum 40
                 else:
-                    textbutton "Attack" action None yminimum 40
+                    textbutton "Атака" action None yminimum 40
     vbox:
         xalign 0.6 ypos 0.7
         hbox:
 
             frame:
                 if players_turn:
-                    textbutton "Items" action Show("battle_item") yminimum 40
+                    textbutton "Предметы" action Show("battle_item") yminimum 40
                 else:
-                    textbutton "Items" action None yminimum 40
+                    textbutton "Предметы" action None yminimum 40
     vbox:
         xalign 0.7 ypos 0.7
         hbox:
 
             frame:
                 if players_turn:
-                    textbutton "Escape" action Return("Escape") yminimum 40
+                    textbutton "Сбежать" action Return("Сбежать") yminimum 40
                 else:
-                    textbutton "Escape" action None yminimum 40
+                    textbutton "Сбежать" action None yminimum 40
 
 
 
@@ -152,33 +152,33 @@ screen battle_skill:
     vbox:
         xalign 0.4 ypos 0.7
         frame:
-            textbutton "Skill" action Hide("battle_skill") yminimum 40
+            textbutton "Навык" action Hide("battle_skill") yminimum 40
     vbox:
         xalign 0.4 ypos 0.6
         hbox:
             frame:
                 if players_turn and Zalt.mp>=20:
-                    textbutton "Bind up" action Return("Bind up") yminimum 40
+                    textbutton "Перевязка" action Return("Перевязка") yminimum 40
                 else:
-                    textbutton "Bind up" action None yminimum 40
+                    textbutton "Перевязка" action None yminimum 40
             frame:
                 if Battle.holyfcd == 0:
                     if players_turn and Zalt.mp>=20 and Battle.holyf == True:
-                        textbutton "Holy Fist" action Return("Holy Fist") yminimum 40
+                        textbutton "Святой Кулак" action Return("Святой Кулак") yminimum 40
                     elif players_turn and Zalt.mp<20 and Battle.holyf == True:
-                        textbutton "Holy Fist" action None yminimum 40
+                        textbutton "Святой Кулак" action None yminimum 40
                     else:
                         textbutton "-" action None yminimum 40
                 else:
                     if players_turn and Zalt.mp>=20 and Battle.holyf == True:
-                        textbutton "Holy Fist(2CD)" action None yminimum 40
+                        textbutton "Святой Кулак(2CD)" action None yminimum 40
                     elif players_turn and Zalt.mp<20 and Battle.holyf == True:
-                        textbutton "Holy Fist(2CD)" action None yminimum 40
+                        textbutton "Святой Кулак(2CD)" action None yminimum 40
                     else:
                         textbutton "-" action None yminimum 40
             frame:
                 if players_turn and Battle.flirt == True:
-                    textbutton "Flirt" action Return("Flirt") yminimum 40
+                    textbutton "Флиртовать" action Return("Флиртовать") yminimum 40
                 else:
                     textbutton "-" action None yminimum 40
 
@@ -186,19 +186,19 @@ screen battle_item:
     vbox:
         xalign 0.6 ypos 0.7
         frame:
-            textbutton "Items" action Hide("battle_item") yminimum 40
+            textbutton "Предметы" action Hide("battle_item") yminimum 40
     vbox:
         xalign 0.6 ypos 0.6
         hbox:
 
             frame:
                 if players_turn and jane_inv.qty(hp_potion) >= 1:
-                    textbutton "Hp potion" action Return("Hp potion") yminimum 40
+                    textbutton "Зелье Здоровья" action Return("Зелье Здоровья") yminimum 40
                 else:
                     textbutton "-" action None yminimum 40
             frame:
                 if players_turn and jane_inv.qty(mp_potion) >= 1:
-                    textbutton "Mp potion" action Return("Mp potion") yminimum 40
+                    textbutton "Зелье Маны" action Return("Заелье Маны") yminimum 40
                 else:
                     textbutton "-" action None yminimum 40
 label battle_game_1:
@@ -217,26 +217,26 @@ label battle_game_1:
     stop Chan1 fadeout 5
     stop Chan2 fadeout 10
     stop Chan3 fadeout 5
-    "It’s difficult to see outside the tavern, everything is blanketed by grey fog."
-    "Your only source of light is the moon and the glow of the tavern."
+    "Снаружи таверны трудно что-либо разглядеть, все окутано серым туманом."
+    "Твой единственный источник света - луна и сияние таверны."
     play sound"music/snap.mp3"
-    "Snap!"
-    "Your ears pick up the sound of twigs breaking."
+    "Щелк!"
+    "Твои уши улавливают звук ломающихся веток."
     play sound"music/foot2.ogg"
-    "Something is moving about in front of you."
-    e 5 "Who’s there?"
-    "No answer."
-    "You draw your sword and inch closer and closer towards the forest."
-    "The air is suddenly silent, but you can feel a presence looking at you."
-    "Something bursts out of the trees."
+    "Что-то движется перед тобой."
+    e 5 "- Кто там?"
+    "Ответа не последовало."
+    "Ты вытаскиваешь меч и медленно приближаешься к лесу."
+    "Воздух внезапно становится тихим, но ты можешь почувствовать чье - то присутствие, смотрящее на тебя."
+    "Что-то выскакивает из-за деревьев."
     play sound"music/roar.ogg"
     show skull at center with fade
-    "A hulking black figure with a skull for a head."
-    "It roars at you."
-    "The monster raises its massive hand and slams it hard to the ground. "
-    "You manage to jump back in time and ready a fighting stance. "
-    "It does not look happy that it missed."
-    "Here it comes."
+    "Громадная черная фигура с черепом вместо головы."
+    "Он рычит на тебя."
+    "Чудовище поднимает свою массивную руку и с силой швыряет ее на землю. "
+    "Тебе удается вовремя отскочить назад и подготовить боевую стойку. "
+    "Он не выглядит счастливым, что промахнулся."
+    "Вот оно."
     hide skull
     $ renpy.music.set_volume(1, 0.5, channel = "music")
     jump battle_1_loop
@@ -260,61 +260,61 @@ label battle_1_loop:
         $ players_turn = True
         $ res = ui.interact()
         $ players_turn = False
-        if res == "Holy Fist":
+        if res == "Святой Кулак":
             $ red_damage = renpy.random.randint(Zalt.MATK*2, int((Zalt.MATK*2.5)+10))
             $ wolf_hp -= red_damage
             $ Zalt.mp = min(Zalt.mp -30, Zalt.maxmp)
             $ Battle.holyfcd = 3
             " (Damage dealt wip - [red_damage]hp)"
 
-        if res == "Items":
+        if res == "Предметы":
             $ Zalt.hp = min(Zalt.hp +5, Zalt.maxhp)
             $ cookies_left -= 1
-            "*Drink* 5hp restored"
+            "*Напиток* 5 Hp восстановлен"
 
-        if res == "Attack":
+        if res == "Атака":
             $ red_damage = renpy.random.randint(max(1,Zalt.ATK-20), Zalt.ATK)
             $ Random = renpy.random.randint(0, 100)
             if Random >= Zalt.CRIT:
                 $ wolf_hp -= red_damage
-                "You draw your sword and lunge in for an attack.\n(Damage dealt- [red_damage]hp)"
+                "Ты выхватываешь меч и бросаешься в атаку.\n(Damage dealt- [red_damage]hp)"
             elif True:
                 $ qty = red_damage*2
                 $ wolf_hp -= red_damage*2
-                "You draw your sword and lunge in for an attack.\n{b}{color=#ffd65c}(Critical damage! -[qty]hp){/color}"
+                "Ты выхватываешь меч и бросаешься в атаку.\n{b}{color=#ffd65c}(Critical damage! -[qty]hp){/color}"
 
 
-        if res == "Submit":
-            "I can't fight anymore.."
+        if res == "Подчиниться":
+            "Я больше не могу драться.."
             jump battle_1_lose
 
-        if res == "Bind up":
+        if res == "Перевязка":
             $ Zalt.heal = renpy.random.randint((Zalt.int*2)+20, (Zalt.int*2)+35)
             $ Zalt.hp = min(Zalt.hp+Zalt.heal, Zalt.maxhp)
             $ Zalt.mp = min(Zalt.mp -20, Zalt.maxmp)
-            "*Bind up* [Zalt.heal]hp restored"
-        if res == "Escape":
+            "*Перевязка* [Zalt.heal]hp restored"
+        if res == "Сбежать":
             $ Random = renpy.random.randint(1, 3)
             if Random == 1:
-                "Escape failed!"
+                "Побег не удался!"
                 pass
             elif Random == 2:
-                "Escape failed!"
+                "Побег не удался!"
                 pass
             elif True:
-                "Escape failed!"
+                "Побег не удался!"
                 pass
         elif True:
             pass
 
         $ Random = renpy.random.randint(1, 100)
         if Random <= Battle.dodge:
-            "???" "RrrrrRRrrrr! {i}*The monster hits you*{/i}"
-            "But you dodged his attack!"
+            "???" "РррррРРрррр! {i}*Монстр бьет тебя*{/i}"
+            "Но ты увернулся от его атаки!"
         elif True:
             $ wolf_damage = renpy.random.randint(15, 20)
             $ Zalt.hp -= max(1,wolf_damage-Zalt.DEF)
-            "???" "RrrrrRRrrrr! {i}*The monster hits you*{/i}"
+            "???" "РррррРРрррр! {i}*Монстр бьет тебя*{/i}"
         if Battle.holyfcd !=0:
             $ Battle.holyfcd = Battle.holyfcd-1
 
@@ -326,7 +326,7 @@ label battle_1_loop:
             jump battle_1_lose
         elif True:
 
-            "???" "RrrrrRRrrrr!"
+            "???" "РррррРРрррр!"
             jump battle_1_win
 
     elif Zalt.hp <= 0:
@@ -342,11 +342,11 @@ label battle_1_win:
     hide screen battle_skill
     hide screen battle_item
     play music "music/forest_fight_boss_end.ogg" noloop
-    "The skull demon buckles and stumbles backwards. {p}It roars and flees into the forest."
-    "It seems he dropped something"
-    e 1 "What's this?"
-    "You get 300 coins"
-    "You feel empowered from taking down an enemy that was almost impossible to defeat."
+    "Демон-череп сгибается и отшатывается назад. {p}Он рычит и убегает в лес."
+    "Кажется он что то уронил"
+    e 1 "- Что это?"
+    "Вы получаете 300 монет"
+    "Ты чувствуете себя сильнее, сражаясь с врагом, которого было почти невозможно победить."
     "{b}{color=#19c22a}<[name] gains 5 lv-points!>{/color}"
     $ Zalt.points = Zalt.points +5
     $ jane_inv.take(coin,300)
@@ -360,12 +360,12 @@ label battle_1_lose:
     hide screen battle_skill
     hide screen battle_item
 
-    e 5 " He’s too strong… what is this power?"
-    "A figure rushes pass you, it’s Snow!"
-    "He wields a sword like yours and jumps at the monster."
-    "His strike lands and cuts the demon across the chest. "
-    "The skull demon buckles and stumbles backwards. {p}It roars and flees into the forest."
-    s "Come on kid, it’s over."
+    e 5 " Он слишком силен… что это за сила?"
+    "Фигура мчится мимо тебя, это Сноу!"
+    "Он владеет таким же мечом, как твой, и прыгает на чудовище."
+    "Его удар достигает цели и рассекает демона поперек груди. "
+    "Демон-череп сгибается и отшатывается назад. {p}Он рычит и убегает в лес."
+    s "Давай, малыш, все кончено."
     $ Zalt.tut_win = False
     jump map0
     return

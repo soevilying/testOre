@@ -12,7 +12,7 @@
 
 
 
-define config.name = _("Tavern of Spear")
+define config.name = _("Таверна Копья")
 
 
 
@@ -35,7 +35,7 @@ define gui.about = _p("""
 
 
 
-define build.name = "Tavern_of_Spear"
+define build.name = "Таверна Копья"
 
 
 

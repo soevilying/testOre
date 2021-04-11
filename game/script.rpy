@@ -902,7 +902,7 @@ label start:
     $ renpy.music.set_volume(0, 0, channel = "Chan3")
     label enter_name:
         python:
-            name = renpy.input(_("Enter your name here.{p}{size=-5}(The default name is 'Eyvind'.){/size}"))
+            name = renpy.input(_("Введи свое имя здесь.{p}{size=-5}(Стандартное имя 'Эйвинд'.){/size}"))
 
             name = name.strip() or __("Eyvind")
 
@@ -928,22 +928,22 @@ label start:
         elif True:
             pass
 
-        "Your name is [name]"
+        "Ваше имя [name]"
         menu:
-            "Yes" if True:
+            "Да" if True:
                 pass
-            "NO" if True:
+            "Нет" if True:
                 jump enter_name
 
 
-    "Choose your stats"
-    "It will determine what you can and can't do in the game."
-    "If you don't know what stats mean..."
-    "Please check the 'About' section in the game's main menu."
+    "Выберите свою статистику"
+    "Это определит, что вы можете и не можете делать в игре."
+    "Если вы не знаете, что такое статистика..."
+    "Пожалуйста, проверьте раздел \"О программе\" в главном меню игры."
     if renpy.variant("pc"):
-        "You can also click 'H' to hide the textbox."
-        "It will be helpful when you want to watch CGs."
-        "And 'Tab' will help you skip the dialogue you've read before."
+        "Вы также можете нажать кнопку \"H\", чтобы скрыть текстовое поле."
+        "Это будет полезно, когда вы захотите посмотреть горячие сцены."
+        "И \" Tab \" поможет вам пропустить диалог, который вы читали раньше."
     elif True:
         pass
     $ renpy.music.set_volume(1, 1, channel = "Chan2")
@@ -985,22 +985,22 @@ label start_1:
 
     $ renpy.music.set_volume(1, 5, channel = "Chan3")
     $ config.rollback_enabled = True
-    "Your name is [name]."
-    "It’s been one whole year since you left the village on your adventure."
-    "This is the tradition of the Lost Spear Tribe,{p}for every male at the age of 23. "
-    "You wonder how everyone back home is doing, especially your father."
-    "How you wish something extraordinary would happen,{p}marking the end of your journey so you can return home to your people."
+    "Твое имя [name]."
+    "Прошел целый год с тех пор, как ты покинул деревню в своем приключении."
+    "Это традиция племени Потерянного Копья,{p}для каждого мужчины в возрасте 23 лет. "
+    "Тебе интересно, как там все дома, особенно твой отец."
+    "Как бы ты хотел, чтобы случилось что-то экстраординарное,{p}ознаменовавшее конец вашего путешествия, чтобы вы могли вернуться домой к своему народу."
 
-    "Some days later...{w}...."
+    "Несколько дней спустя...{w}...."
     $ renpy.music.set_volume(0, 15, channel = "Chan2")
     $ renpy.music.set_volume(0, 5, channel = "Chan3")
     scene start_2
     with vslow_dissolve
 
-    "Your ears perk up at the sound of dark clouds rolling overhead. "
-    "To your back you can see the approaching wall of rain. "
+    "Ваши уши навостряются при звуке темных облаков, катящихся над головой. "
+    "За спиной видна приближающаяся стена дождя. "
 
-    "A frown forms on your face and you try to outrun the roaring footsteps of rain falling, {p}but you are quickly drenched in water."
+    "На твоем лице появляется хмурое выражение, и ты пытаешься убежать от грохочущих шагов падающего дождя., {p}но ты быстро промок в воде."
 
 
     "...."
@@ -1008,14 +1008,14 @@ label start_1:
     play music "music/rainy.mp3" fadeout 1
     scene black
     with dissolve
-    "There’s not a single place to take shelter. "
+    "Нет ни одного места, где можно укрыться. "
     $ renpy.music.play("<loop 5.2978>music/intro_rain1.ogg","Chan1", loop=True,fadein=5)
     $ renpy.music.play("<loop 5.2978>music/intro_rain2.ogg","Chan2", loop=True)
     $ renpy.music.set_volume(1, 5, channel = "Chan1")
     $ renpy.music.set_volume(0, 0, channel = "Chan2")
-    "Faint shadows of trees and shrubs fall into view as you march on forward through the muddy road."
-    "Every step feels heavier and harder to make as the mud grips onto your feet."
-    e 1 "Am I even on the road? "
+    "Слабые тени деревьев и кустарников попадают в поле зрения, когда вы идете вперед по мутной дороге."
+    "Каждый шаг становится тяжелее и труднее сделать, когда грязь окутывает ноги."
+    e 1 "Я вообще на дороге? "
     "....."
     "......"
     $ renpy.music.set_volume(1, 5, channel = "Chan2")
@@ -1027,10 +1027,10 @@ label start_1:
     scene start_3
     with vslow_dissolve
 
-    "The path ahead is a grey blur as the rain keeps pouring heavily."
-    " You keep going until you notice a warm yellow glow coming from the side of the path. "
-    "Its glow…"
-    "it feels so familiar…"
+    "Тропинка впереди расплывается серым пятном, а дождь все льет и льет."
+    "Ты продолжаешь идти, пока не замечаешь теплое желтое свечение, идущее со стороны тропинки. "
+    "Его свечение…"
+    "это кажется таким знакомым…"
     $ renpy.music.set_volume(0, 8, channel = "Chan1")
     $ renpy.music.set_volume(0, 4, channel = "Chan2")
     stop Chan1
@@ -1044,15 +1044,15 @@ label start_1:
     with vslow_dissolve
     "....."
     "......"
-    "Gruff voice" "Hey!"
+    "Грубый голос" "Эй!"
     "......"
-    "Gruff voice" "HEY! GET UP!"
-    e 6 "Huh? Wh-where? What?"
-    "That voice is so familiar. "
-    "It’s just at the back of your head, the name of that voice."
-    "Your head feels heavy as though someone hit you with a rock. "
-    "It takes a while for your vision to come into focus."
-    "Turning your head to the left your snout bumps hard against the leg of a barstool. "
+    "Грубый голос" "ЭЙ! ВСТАВАЙ!"
+    e 6 "А? Ч-где? Что?"
+    "Этот голос мне так знаком. "
+    "Это просто у тебя в голове, имя этого голоса."
+    "Голова тяжелая, как будто кто-то ударил тебя камнем. "
+    "Требуется некоторое время, чтобы ваше видение сфокусировалось."
+    "Повернув голову влево, вы сильно ударяетесь мордой о ножку барного стула. "
     scene tavern 1
     with vslow_dissolve
     $ renpy.music.set_volume(0.8, 10, channel = "Chan1")
@@ -1063,61 +1063,61 @@ label start_1:
     $ renpy.music.play("<loop 5.3194>music/tavern_menu_accordion.ogg","Chan3", loop=True)
     "....."
     "......"
-    "Gruff voice" "Buddy boy, get your ass off the floor."
-    "Gruff voice" "If you want to sleep here it’s going to cost you."
-    e 5 " Ok, ok. Just give me a sec! "
+    "- Дружище, поднимай свою задницу с пола."
+    "- Если ты хочешь спать здесь, это тебе дорого обойдется."
+    e 5 " Ладно, ладно. Просто дай мне секунду! "
     show snow stand at center with fade
-    "You see a burly grey wolf with a mug in one hand, and a hook for his other hand."
-    "Two white braids formed from his beard run down all the way to the middle of his pecs. "
-    "His blue eyes are almost glowing as he looks at you. "
+    "Вы видите крепкого серого волка с кружкой в одной руке и крюком в другой."
+    "Две белые косы, образовавшиеся из его бороды, спускались до середины груди. "
+    "Его голубые глаза почти светятся, когда он смотрит на тебя. "
     $ renpy.music.set_volume(1, 10, channel = "Chan3")
 
-    e 5 "Wait…father?"
+    e 5 "Подожди...отец?"
 
-    "I can't believe what I'm seeing. My father, Snow, he's right in front of me."
-    "There is a peal of laughter in the pub."
-    "Customer A" "Wow Snow! The boy called you Dad!"
-    "Customer B" "Old Snow! I didn't even know you had a child!"
+    "Я не могу поверить в то, что вижу. Мой отец, Сноу, он прямо передо мной."
+    "В пабе раздается взрыв смеха."
+    "Клиент А" "Вау, Сноу! Мальчик назвал тебя папой!"
+    "Клиент Б" "Старый Сноу! Я даже не знал, что у тебя есть ребенок!"
     hide snow stand
     show snow laugh1 at center with q_dissolve
-    s "Father? Boy, that fall must have knocked your brains out."
-    s "I’ve never seen you in my entire life."
-    e 5 "If you’re trying to joke around, it isn’t funny. Father, what are you doing here?"
+    s "Отец? Парень, это падение, должно быть, вышибло тебе мозги."
+    s "Я никогда в жизни тебя не видел."
+    e 5 "Если ты пытаешься шутить, это не смешно. Отец, что ты здесь делаешь?"
     hide snow laugh1
     show snow stand at center with q_dissolve
-    s "I am not your father! The name’s Snow."
-    s "I’m the bartender and owner of this establishment."
-    s "Either you order something or I’m throwing you back out into the woods."
+    s "Я не твой отец! Меня зовут Сноу."
+    s "Я бармен и владелец этого заведения."
+    s "Или ты что-нибудь закажешь, или я вышвырну тебя обратно в лес."
 
-    e 6 "Yeah, I know you are Snow. "
-    e 6 "Father…papa. What are you talking about being a bartender?"
+    e 6 "Да, я знаю, что ты-Снег. "
+    e 6 "Отец...папа. Что ты говоришь о том, чтобы быть барменом?"
     hide snow stand
     show snow happy1 at center with q_dissolve
-    s "Enough of this father crap. I’ve literally just seen you today"
+    s "Хватит этого отцовского дерьма. Я буквально только сегодня тебя увидел"
     hide snow happy1
     show snow angrys at center with q_dissolve
-    s "If you’re the type to go around calling any random stranger your father, you have issues boy!"
+    s "Если ты из тех, кто называет любого случайного незнакомца своим отцом, то у тебя есть проблемы, мальчик!"
 
-    "The person in front of you looks and sounds like your father."
-    "But he doesn’t seem to be lying. "
-    "What do you want to do?"
+    "Человек перед тобой выглядит и говорит как твой отец."
+    "Но он, кажется, не лжет. "
+    "Что ты собираешься делать?"
 
     menu:
-        "Insist he is your father" if True:
+        "Настаивать на том, что он твой отец." if True:
 
-            e 2 "Look, I don’t know how else am I going to convince you. "
-            e 2 "You look like my father; you sound like my father and you smell like my father. "
-            e 1 "Come back with me to the village, we can get someone to look at you and figure out what happened."
-            s "I’m going nowhere with you. Boy."
-            s " Give it a rest already.You’re disturbing the other customers."
+            e 2 "Послушайте, я не знаю, как еще мне убедить вас. "
+            e 2 "Ты выглядишь как мой отец, говоришь как мой отец и пахнешь как мой отец. "
+            e 1 "Пойдем со мной в деревню, мы найдем кого-нибудь, кто посмотрит на тебя и выяснит, что случилось."
+            s "Я никуда с тобой не пойду. Пацан."
+            s " Отдохни уже. Ты мешаешь другим клиентам."
             hide snow angrys
-            "He points to your back. "
-            "You turn to see the back of a red dragon."
-            "A muscular green alligator dressed in brown loincloth walks over to the table and drops off a drink."
-            "Something moves from the right and you see a yawning hyena sitting beneath the spandrel of the stairs."
-            " The hyena smiles at you and you two exchange a wave."
+            "Он показывает на твою спину. "
+            "Ты поворачиваешься и видишь спину красного дракона."
+            "Мускулистый зеленый аллигатор, одетый в коричневую набедренную повязку, подходит к столу и ставит стакан."
+            "Что-то движется справа, и вы видите зевающую гиену, сидящую под шпандрелем лестницы."
+            "Гиена улыбается тебе, и вы оба обмениваетесь жестами."
             show snow angrys1 at center with q_dissolve
-            "Turning your attention back at the bartender you see his arms are crossed and he gives you a disgruntled look."
+            "Повернувшись к бармену, вы видите, что он скрестил руки на груди и бросает на вас недовольный взгляд."
             e 6 "Father please, you need to remember I’m your son."
             e 6 "You made me this sword. You-"
             hide snow angrys1
