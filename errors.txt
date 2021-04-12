@@ -2,13 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/C_Axel.rpy", line 488: end of line expected.
-    a "Вот что мы делаем Блохастик. Стойкость".
-                                              ^
-
-File "game/C_Axel.rpy", line 583: end of line expected.
-    e 9 "Подожди, это слишком радикально".
-                                         ^
+File "game/C_Axel.rpy", line 960: expecting name after dot.
+    "Ты вручаешь быку фальшивую бомбу".
+                                       ^
 
 Ren'Py Version: Ren'Py 7.4.4.1439
-Sun Apr 11 19:05:09 2021
+Mon Apr 12 15:07:04 2021

@@ -1,4 +1,4 @@
-label Ebb_meet:
+Господиномlabel Ebb_meet:
     stop music
 
     $ renpy.music.set_volume(0, 5, channel = "Chan1")
@@ -13,127 +13,127 @@ label Ebb_meet:
     elif True:
         scene cabin 1n with slow_dissolve
     if Ebb.meet == 0:
-        e 1 "Hello?"
-        "The room is a mess, there’s only a couch here and everything else looks like a tornado swept in and smashed everything."
-        "???" "YOU DARE COME BACK DEMON!" with vpunch
-        "A dishevelled looking orca emerges from the side door swinging a wooden bat. "
-        e 9 "Woah, calm down. I’m not a demon!"
-        "You back away towards the exit."
-        "???" "What?"
+        e 1 "Здрасте?"
+        "В комнате беспорядок, здесь только диван, а все остальное выглядит так, как будто торнадо пронесся и все разрушил."
+        "???" "ТЫ ПОСМЕЛ ВЕРНУТЬСЯ, ДЕМОН!" with vpunch
+        "Из боковой двери появляется взъерошенная косатка, размахивая деревянной битой. "
+        e 9 "Ух ты, успокойся. Я не демон!"
+        "Ты отступаешь к выходу."
+        "???" "Что?"
         show ebb stand at center with dissolve
-        "The orca sops swinging his bat and looks at you."
-        "Your eyes are drawn to his wide white eye patches that contort to form an expression of confusion."
-        "Unknown Orca" "Master Snow? Is that you?"
-        e 1 "Umm, no. I’m [name], from the tavern."
+        "косатка размахивает битой и смотрит на тебя."
+        "Твои глаза притягиваются к его широким белым глазным повязкам, которые искажаются, образуя выражение замешательства."
+        "Незнакомая косатка" "Мастер Сноу? - Это ты?"
+        e 1 "М-м-м, нет.  [name], из таверны."
         hide ebb stand at center with dissolve
-        "Upon hearing your introduction the orca sets the bat down, and straightens his coat."
-        "He then tries to adjust an absent necktie, when he realizes what he’s doing he drops his hands and bows."
+        "Услышав ваше представление, косатка опускает биту и поправляет пальто."
+        "Затем он пытается поправить отсутствующий галстук, когда понимает, что делает, опускает руки и кланяется."
         show ebb stand at center with dissolve
-        "Unknown Orca" "A warrior from the tavern! Please, forgive my unruly state."
-        "Unknown Orca" "It would be an honour for me to offer Master [name] a cup of tea."
-        "He gestures towards the beaten up sofa in the living room."
-        "Somehow his silvery and low voice puts you at ease."
-        "Which makes you more cautious of him than before."
-        e 1 "No thank you. This is going pretty quick."
-        e 1 "Before I start having anything from you, explain yourself, who are you and what are you doing here?"
-        eb "Yes, I am Ebb, butler to Young Master Flo."
-        eb "This is our humble abode for the time being until the fog lifts."
-        e 1 "And you know about the tavern?"
-        eb "Of course, it’s the first place we stopped by when we came. Is Master Snow in good health?"
-        e 1 "Yeah, uhh everyone’s fine."
-        "You ease your stance and sheath back your sword."
-        e 1 "Sorry, just had to be careful with new faces around here."
-        eb "It’s understandable, please have a seat at least."
+        "Незнакомая косатка" "Воин из таверны! Пожалуйста, простите мое дурное поведение."
+        "Незнакомая косатка" "Для меня было бы честью предложить Господину [name] чашечку чая."
+        "Он жестом указывает на потрепанный диван в гостиной."
+        "Каким-то образом его серебристый и низкий голос успокаивает."
+        "Что делает тебя более осторожной с ним, чем раньше."
+        e 1 "Нет, спасибо. Все происходит довольно быстро."
+        e 1 "Прежде чем я  что-то от получу от вас, объясните, кто вы и что здесь делаете?"
+        eb "Да, я Эбб, дворецкий молодого господина Фло."
+        eb "Это наша скромная обитель на время, пока туман не рассеется."
+        e 1 "Ты знаешь про таверну?"
+        eb "Конечно, это первое место, где мы остановились, когда приехали. Мастер Сноу в добром здравии?"
+        e 1 "Да, э-э-э, все в порядке."
+        "Ты расслабляешься и убираешь меч в ножны."
+        e 1 "Извини, просто надо быть осторожным с новыми лицами."
+        eb "Это понятно, пожалуйста, присядьте хотя бы."
         hide ebb stand at center with dissolve
         if Time.hours >= 6 and Time.hours <= 17:
             scene ebbroom 1 with slow_dissolve
         elif True:
             scene ebbroom 1n with slow_dissolve
-        "Sensing no malice from the orca you follow the orca into another room."
-        "A loom takes up most of the room, but the interior is far cleaner than the mess you just saw."
-        "You take a seat in an empty chair."
-        "While the orca stands from across the room, his hands folded in front."
-        "Your body sinks into the cushions."
+        "Не чувствуя злобы со стороны косатки, ты следуешь за ним в другую комнату."
+        "Ткацкий станок занимает большую часть комнаты, но интерьер намного чище, чем беспорядок, который ты видел до этого."
+        "Ты садишься в пустое кресло."
+        "В то время как косатка стоит на другом конце комнаты, его руки сложены перед собой."
+        "Твое тело тонет в подушках."
         show ebb stand at center with dissolve
-        e 1 "Aren’t you going to sit down and join me?"
-        eb "Your consideration is appreciated, Master [name], but it would be improper for a butler to sit with the guest."
-        eb "Forgive me for my impudence, but I must ask."
-        eb "Is Master [name]’s presence here means the tavern has decided to help me save my Young Master?"
-        "You flinch back and look at the orca with a raised eyebrow."
-        e 1 "Sorry what? Save who?"
-        eb "I am truly sorry, I was under the impression that Master Snow sent you to help me with my problem."
-        e 1 "Just start back from the beginning, what is this all about?"
+        e 1 "Не хотите ли присесть и присоединиться ко мне?"
+        eb "Ваше внимание ценно, Мастер [name], но дворецкому было бы неприлично сидеть с гостем."
+        eb "Простите мне мою дерзость, но я должен спросить."
+        eb "Мастер [name]’s присутствие здесь означает, что таверна решила помочь мне спасти моего Молодого Господина?"
+        "Ты вздрагиваешь и смотришь на косатку, приподняв бровь."
+        e 1 "Прости,Что? Спасти кого?"
+        eb "Я искренне сожалею, но у меня сложилось впечатление, что мастер Сноу послал вас помочь мне с моей проблемой."
+        e 1 "Просто начни с самого начала, что все это значит?"
         hide ebb stand at center with dissolve
-        "Ebb clutches his hands and walks to the front of you."
-        "He falls to his knees and grovels before you."
-        "The prim and proper stature he had on shatters in an instance."
-        eb "Please, I need help, I beg you, help me save my Young Master."
-        eb "Time is running out, and I am at my wits ends."
-        "You stand up and hold your hands in front of you waving them frantically."
-        e 5 "Ebb, get up, I’ll hear you out, but you need to explain properly."
-        "Ebb pulls himself up. He’s still sitting on his knees, but his face beams with hope."
-        eb "Master [name], thank you. I shouldn’t let my desperation cloud my actions."
-        eb "I still have to uphold Young Master Flo’s name."
+        "Эбб сжимает руки и идет впереди тебя."
+        "Он падает на колени и преклоняется перед тобой."
+        "Чопорная и правильная костюм, который он носил, в одно мгновение разбивается вдребезги."
+        eb "Пожалуйста, мне нужна помощь, умоляю вас, помогите мне спасти моего Молодого Господина."
+        eb "Время на исходе, и я нахожусь в тупике."
+        "Ты встаешь и держишь руки перед собой, отчаянно размахивая ими."
+        e 5 "Эбб, вставай, я тебя выслушаю, но ты должен объяснить все."
+        "Эбб подтягивается. Он все еще сидит на коленях, но его лицо светится надеждой."
+        eb "Мастер [name], спасибо. Я не должен позволять отчаянию омрачать мои действия."
+        eb "Я все еще должен защищать имя молодого мастера Фло."
         show ebb stand at center with dissolve
-        "Ebb takes a deep breath and his face relaxes into his stoic expression again."
-        eb "It happened about a week ago, it was the dead of night when I heard glass breaking from the Young Master’s room."
-        eb "I ran from the couch into his room, and I saw a monster grabbing the terrified Young Master on it’s shoulder."
-        eb "Before I could stop it the creature leapt at me and I fought it."
-        eb "Master Flo was screaming for help but the creature was too strong."
-        eb "It tore through the living room, breaking all our furniture. "
-        eb "After it knocked me down it ran out of the house."
-        eb "I tried to give chase, but I ended up triggering the traps I set on myself."
-        eb "I was left badly injured, but I managed to drag myself to the tavern."
-        eb "Snow and Witer helped to patch me up, but when I asked for their help to save the Young Master."
-        eb "Master Snow refused saying it was too dangerous for him to risk the life of someone from the tavern."
-        e 5 "That’s..."
-        eb "It’s fine, I didn’t blame him, I wasn’t expecting anyone to put their life on the line on a possible suicide mission."
+        "Эбб делает глубокий вдох, и его лицо снова принимает стоическое выражение."
+        eb "Это случилось около недели назад, глубокой ночью, когда я услышал звон разбитого стекла в комнате Молодого Господина."
+        eb "Я побежал с дивана в его комнату и увидел, как чудовище схватило перепуганного Молодого Господина за плечо."
+        eb "Прежде чем я успел остановить его, существо прыгнуло на меня, я отбивался."
+        eb "Мастер Фло звал на помощь, но существо было слишком сильным."
+        eb "Он пронесся по гостиной, ломая всю нашу мебель. "
+        eb "Сбив меня с ног, он выбежал из дома."
+        eb "Я попыталась броситься в погоню, но в итоге сработали ловушки, которые я сама себе поставил."
+        eb "Я был тяжело ранен, но сумел доползти до таверны."
+        eb "Сноу и Уинтер помогли мне залатать рану, но когда я попросил их помочь спасти Молодого Господина, они отказались.."
+        eb "Мастер Сноу отказался, сказав, что для него слишком опасно рисковать жизнью кого-то из таверны."
+        e 5 "Это..."
+        eb "Все в порядке, я не виню его, я не ожидал, что кто-то рискнет своей жизнью ради возможной самоубийственной миссии."
         hide ebb stand at center with dissolve
-        "Ebb covers his eyes with his hands and shakes his head in defeat."
+        "Эбб закрывает глаза руками и разбито качает головой."
         show ebb stand at center with dissolve
-        eb "Every minute that passes by, my heart aches in fear of what will happen to the Young Master."
-        eb "I tried looking for help elsewhere, but the bull lizard attack me with no reason ,and the lizard tribe wouldn’t even let me in to speak to their chief."
+        eb "С каждой минутой мое сердце сжимается от страха перед тем, что случится с Молодым Господином."
+        eb "Я пытался искать помощи в другом месте, но быки напали на меня без всякой причины ,а племя ящериц даже не пустило меня поговорить со своим вождем."
         e 1 "..."
-        eb "Dear god, how will I tell his father how I’ve failed his son."
-        "The orca’s distraught stings your heart."
-        "But even you find it hard to say anything hopeful for fear it will just be empty promises that will break him further."
-        "All you know is that he needs help, and the longer time passes the slimmer the chances of bringing his Young Master back."
-        e 13 "You’re thinking too far Ebb."
-        e 13 "If what you say is true, then we haven’t much time left to save Flo. "
-        eb "You really think he’ll be ok?"
+        eb "Боже милостивый, как я расскажу его отцу, что подвел его сына?"
+        "Обезумевшая косатка трогает твое сердце."
+        "Но даже тебе трудно сказать что-то обнадеживающее, потому что ты боишься, что это будут просто пустые обещания, которые сломают его еще больше."
+        "Все, что ты знаешь, это то, что он нуждается в помощи, и чем дольше проходит время, тем меньше шансов вернуть его Молодого Господина."
+        e 13 "Ты слишком много думаешь Эбб."
+        e 13 "Если то, что ты говоришь, правда, то у нас осталось не так уж много времени, чтобы спасти Фло. "
+        eb "Ты действительно думаешь, что с ним все будет в порядке?"
         hide ebb stand at center with dissolve
-        "You look to the floor, there’s no answer you could give that would make this situation any less dire."
+        "Ты смотришь в пол, и нет никакого ответа, который мог бы сделать эту ситуацию менее ужасной."
         show ebb stand at center with dissolve
-        e 13 "(Oh [name], Why do you always like to involve yourself in unnecessary trouble.)"
-        e 1 "Stay strong Ebb, we’ll worry about his fate when we find him."
-        e 1 "For now, I’ll help you get him back."
+        e 13 "(Ох [name], Почему ты всегда любишь ввязываться в ненужные неприятности?)"
+        e 1 "Оставайся сильным, Эбб, мы будем беспокоиться о его судьбе, когда найдем его."
+        e 1 "А пока я помогу тебе вернуть его."
         hide ebb stand at center with dissolve
-        "Ebb stands back up and pulls you in for a hug."
-        "He starts sobbing and pressing you harder against his chest."
-        eb "Thank you... thank you..."
-        e 1 "Ebb, you’re welcome, but we need to work fast."
-        eb "Right, I apologize, that was unbecoming of a butler."
-        "He pulls away from the hug."
+        "Эбб встает и притягивает тебя к себе, чтобы обнять."
+        "Он начинает всхлипывать и сильнее прижимает тебя к своей груди."
+        eb "Спасибо... спасибо..."
+        e 1 "Эбб, пожалуйста, но нам нужно работать быстро."
+        eb "Да, прошу прощения, это было неподобающе для дворецкого."
+        "Он вырывается из объятий."
         show ebb stand at center with dissolve
-        "Ebb stands up, turns away and looks up to the ceiling for a minute before facing you again."
-        "The orca pulls out a pair of black gloves from his pocket and hands it to you."
-        eb "That is the Young Master’s favourite gloves, you might be able to track him down using his scent."
-        e 1 "What else should I know about Flo to track him down?"
-        eb "He’s a young shark, 19 this year."
-        eb "He should probably stand out if you find him."
-        e 1 "Alright, sit tight, I’ll come back with news."
-        eb "Thank you Master [name], and please hurry."
+        "Эбб встает, отворачивается и с минуту смотрит в потолок, прежде чем снова повернуться к тебе."
+        "Косатка достает из кармана пару черных перчаток и протягивает тебе."
+        eb "Это любимые перчатки Молодого Господина, вы можете выследить его по запаху."
+        e 1 "Что еще я должен знать о Фло, чтобы выследить его?"
+        eb "Это молодая акула, в этом году ей 19."
+        eb "Он, вероятно, должен выделиться, если вы его найдете."
+        e 1 "Ладно, сиди спокойно, я вернусь с новостями."
+        eb "Спасибо Мастер [name], и, пожалуйста, поторопитесь."
         scene black with dissolve
-        "You nod and run out of the hut until you’re out of the forest."
+        "Ты киваешь и выбегаешь из хижины, пока не выберешься из леса."
         if Time.hours >= 6 and Time.hours <= 17:
             scene lakecabin 1 with slow_dissolve
         elif True:
             scene lakecabin 1n with slow_dissolve
-        e 1 "(This fog has taken so much from the people around here.)"
-        e 13 "(I can’t let another person suffer like this. I just hope I make it in time.)"
-        "You take out the pair of gloves and take a deep whiff of its owner’s scent."
-        "It smells like the sea, with a hint of an intoxicating flowery smell."
-        "Sniffing around, your nose picks up the trail, it leads to the bridge behind the tavern."
+        e 1 "(Этот туман так много отнял у здешних людей.)"
+        e 13 "(Я не могу позволить другому человеку так страдать.Надеюсь, что успею вовремя.)"
+        "Ты достаешь пару перчаток и глубоко вдыхаешь запах их владельца."
+        "Он пахнет морем, с оттенком пьянящего цветочного запаха."
+        "Принюхиваясь, твой нос улавливает след, он ведет к мосту за таверной."
         $ Ebb.meet = 1
         $ Ebb.kidnap = 1
         jump forest_map
@@ -142,33 +142,33 @@ label Ebb_talk0:
     show ebb stand at center with dissolve
     if Ebb.necklace == 0 and Map.undercity_auc_start == 1:
 
-        e 1 "Ebb, I found Flo."
-        eb "You did? Where?" with vpunch
-        e 13 "He’s being held hostage as an auction item."
-        eb "An auction item? What demons are these?" with vpunch
-        e 1 "Literal demons, I need to buy his freedom back."
-        eb "Wait, take this with you."
-        "Ebb hands you a necklace."
-        e 1 "What’s this?"
-        eb "The only valuable item we have."
-        eb "It’s a necklace from the Young Master’s family treasury."
-        eb "Maybe you can sell it to get some coins."
-        e 1 "Thanks, I think this will help."
-        eb "Bring him home, [name]."
+        e 1 "Эбб, я нашел Фло."
+        eb "Действительно? Где?" with vpunch
+        e 13 "Его держат в заложниках как предмет аукциона."
+        eb "Предмет аукциона? Что это за демоны?" with vpunch
+        e 1 "Буквально демоны, мне нужно выкупить его."
+        eb "Подожди, возьми это с собой."
+        "Эбб вручает тебе ожерелье."
+        e 1 "Что это?"
+        eb "Единственный ценный предмет, который у нас есть."
+        eb "Это ожерелье из семейной сокровищницы Молодого Господина."
+        eb "Может быть, вы сможете продать его, чтобы получить немного монет."
+        e 1 "Спасибо, я думаю, это поможет."
+        eb "Приведите его домой, [name]."
         $ jane_inv_K.take(ebb_necklace,1)
         $ Ebb.necklace = 1
         hide ebb stand with dissolve
         jump lakecabin_ebbroom
     elif True:
         if Ebb.kidnap == 4:
-            eb "Thank you again Master [name]."
+            eb "Еще раз спасибо Мастер [name]."
         elif True:
 
-            eb "Master [name], any news on the Young Master?"
-            e 1 "Not yet, the search will take some time."
-            eb "Oh, I see. Please let me know if you find anything."
-            eb "The longer the Young Master is missing my heart grows weary. "
-            e 1 "Stay strong Ebb, we’ll get him back."
+            eb "Мастер [name], есть новости о Молодом Господине?"
+            e 1 "Пока нет, поиски займут некоторое время."
+            eb "А, понятно. Пожалуйста, дайте мне знать, если что-нибудь найдете."
+            eb "Чем дольше Молодой Господин отсутствует, тем сильнее болит мое сердце. "
+            e 1 "Оставайся сильным, Эбб, мы вернем его."
 
     hide ebb stand with dissolve
     jump lakecabin_ebbroom
@@ -183,89 +183,89 @@ label Ebb_kidnap_end:
         $ renpy.music.set_volume(0, 0.1, channel = "Chan2")
         $ renpy.music.set_volume(0, 5, channel = "Chan1")
     if Flo.meet == 1:
-        "When you knock on the door of the hut you can hear the hurried footsteps of Ebb running to the door."
+        "Когда ты стучишь в дверь хижины, то слышишь торопливые шаги Эбба, бегущего к двери."
         play sound "music/door.mp3"
-        "The door swings open."
+        "Дверь распахивается."
         show flo stand01 with slow_dissolve:
             xpos -0.1 ypos 0
             xzoom -1
         show ebb stand at right with dissolve
-        eb "Young master! You’re safe!" with vpunch
-        "The orca happily rushes forward and grabs Flo in his arms, swinging the smaller shark from side to side in a tight hug."
-        eb "Young master! I was so worried."
-        "Flo keeps slapping Ebb angrily by the shoulder. "
-        f "Put me down, you!" with vpunch
-        f "I don’t want to be hugged!"
-        "Ebb does as he is commanded and lets go of Flo. "
+        eb "Молодой господин! Вы в безопасности!" with vpunch
+        "косатка радостно бросается вперед и хватает Фло на руки, раскачивая акулу из стороны в сторону в крепких объятиях."
+        eb "Молодой господин! Я так волновалась."
+        "Фло сердито хлопает Эбба по плечу. "
+        f "Отпусти меня, ты!" with vpunch
+        f "Я не хочу, чтобы меня обнимали!"
+        "Эбб делает, как ему приказано, и отпускает Фло. "
         show flo stand01 with slow_dissolve:
             xpos -0.1 ypos 0
             xzoom -1
         show ebb stand at right with dissolve
-        f "Hmph. "
-        "Flo turns to you."
-        f "Thank you [name] for the rescue, I’ll leave it to this orca to carry on his transaction with you. "
-        "He then turns to the orca."
-        f "I’m going to be in my room. I need to sleep."
-        "Flo pushes past his butler and heads into his room."
+        f "Хм. "
+        "Фло поворачивается к тебе."
+        f "Спасибо [name] что касается спасения, то я предоставлю этой косатке вести с вами дела. "
+        "Затем он поворачивается к косатке."
+        f "Я буду в своей комнате. Мне нужно поспать."
+        "Фло протискивается мимо дворецкого и направляется в свою комнату."
         hide flo stand01 with slow_dissolve
         hide ebb stand with dissolve
         pause 2
         play sound "music/door.mp3"
         show ebb stand at center with slow_dissolve
         pause 2
-        eb "Please forgive the young master’s... demeanour."
-        eb "He is a very noble gentleman actually."
-        e 1 "I know it isn’t my business to pry, but are you two going to be ok?"
-        e 13 "He didn’t seem that enthusiastic to come back here."
+        eb "Пожалуйста, простите... поведение молодого господина."
+        eb "На самом деле он очень благородный джентльмен."
+        e 1 "Я знаю, что это не мое дело-совать нос в чужие дела, но вы двое будете в порядке?"
+        e 13 "Он, похоже, не испытывал особого энтузиазма, возвращаясь сюда."
         eb "..."
-        eb "Well, I think the young master is just in shock."
-        eb "He just needs some rest."
-        eb "Now before I forget."
-        eb "Here, it isn’t much but take it as a reward for helping us out."
+        eb "Ну, я думаю, молодой Господин просто в шоке."
+        eb "Ему просто нужно немного отдохнуть."
+        eb "А теперь, пока я не забыл."
+        eb "Здесь не так уж много, но примите это как награду за помощь."
 
-        "<You receive 500 coins from Ebb>."
+        "<Ты получаешь 500 монет от Эбба>."
         $ jane_inv.take(coin,500)
-        "<[name] gained two Level-up-points.>"
+        "<[name] получил два очка повышения уровня.>"
         $ Zalt.points = Zalt.points +2
         $ Flo.room = 1
-        e 1 "Thanks, I’ll head back to the tavern."
-        e 1 "You’ll know where to find us if you need anything."
-        eb "Of course, thank you again Master [name]."
-        "You return to the tavern exhausted from today’s events."
+        e 1 "Спасибо, я вернусь в таверну."
+        e 1 "Вы знаете, где меня найти, если вам что-нибудь понадобится."
+        eb "Конечно, еще раз спасибо, Мастер [name]."
+        "Ты возвращаешься в таверну измученный сегодняшними событиями."
         jump forest_map0
 
 
 
     elif Flo.meet == -1:
 
-        "Upon reaching the dorosteps to Ebb’s hut, you just stand there, lost and afraid."
-        "You failed to keep your promise."
-        "It’s a struggle to even knock on the door, as though you have ice in your veins, choking you, but you know well that is the guilt you feel."
-        "Knock. Knock."
-        "Ebb answers the door."
+        "Дойдя до хижины Эбба, ты просто стоишь там, потерянный и испуганный."
+        "Ты не сдержал своего обещания."
+        "Трудно даже постучать в дверь, как будто в твоих венах лед, который душит тебя, но ты прекрасно знаешь, что это чувство вины."
+        "Стук. Стук."
+        "Эбб открывает дверь."
         play sound "music/door.mp3"
-        "He looks at you hopefully for a second, but he is quick to realize you are on your own."
-        "His weak smile breaks, his mouth hands open slightly."
+        "Он смотрит на тебя с надеждой, но быстро понимает, что ты один."
+        "Его слабая улыбка прерывается, рот слегка приоткрывается."
         show ebb stand at center with slow_dissolve
-        eb "Where... where is the young master?"
-        "His voice breaks near the end, the tears are building in him."
+        eb "Где... где молодой господин?"
+        "Его голос срывается ближе к концу, слезы накапливаются в нем."
         pause 3
-        e 13 "I... I’m sorry Ebb."
+        e 13 "Я... Мне очень жаль, Эбб."
         pause 3
-        eb "No... say it isn’t so. Please say it isn’t so."
+        eb "Нет... скажи, что это не так. Пожалуйста, скажи, что это не так."
         hide ebb stand at center with slow_dissolve
-        "He grabs you by the shoulder and shakes you violently."
-        "The tears start flowing down his cheeks."
-        eb "No... no...no. YOUNG MASTER!"
-        "His hold on you weakens as he collapses to his knees crying."
-        "There’s nothing you can say."
-        eb "I failed you! Why gods why? AGGGHHHH!"
-        e 9 "Ebb-"
-        eb "No! Leave, please... just leave me be..."
+        "Он хватает тебя за плечо и яростно трясет."
+        "По его щекам текут слезы."
+        eb "Нет... нет...нет-МОЛОДОЙ ГОСПОДИН!"
+        "Его хватка ослабевает, когда он падает на колени и плачет."
+        "Ты ничего не можешь сказать."
+        eb "Я подвел тебя! Почему, боги, почему? АГГХХХХ!"
+        e 9 "Отлив-"
+        eb "Нет! Уходите, пожалуйста... просто оставьте меня в покое..."
         play sound "music/door.mp3"
-        "You lower your head."
-        e 13 "I’m sorry."
-        "With that you leave, the sound of Ebb’s tears echoes through the silent woods as you make your way back to the tavern."
+        "Ты опускаешь голову."
+        e 13 "Мне очень жаль."
+        "С этими словами ты уходишь, и звук слез Эбба эхом разносится по безмолвному лесу, когда ты возвращаешься в таверну."
         $ Ebb.cry = Time.days
         jump saveflo_end
     elif True:
@@ -284,7 +284,7 @@ label saveflo_end:
         $ Time.hours = 6
         $ Time.mins = 30
     stop music
-    "Feeling exhausted from the day’s events, you head straight to sleep."
+    "Чувствуя себя измученным событиями дня, вы сразу же отправляетесь спать."
     pause 3
     "The next day."
     play sound "music/door.mp3"
