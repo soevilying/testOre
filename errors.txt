@@ -2,13 +2,29 @@
 errors listed below, and try again.
 
 
-File "game/C_Axel.rpy", line 488: end of line expected.
-    a "Вот что мы делаем Блохастик. Стойкость".
+File "game/C_Hakan.rpy", line 178: end of line expected.
+    h "Ты был хорошим другом".
+                             ^
+
+File "game/C_Hakan.rpy", line 180: end of line expected.
+    e 6 "Ну, всегда весело иметь собутыльника".
                                               ^
 
-File "game/C_Axel.rpy", line 583: end of line expected.
-    e 9 "Подожди, это слишком радикально".
-                                         ^
+File "game/C_Hakan.rpy", line 181: end of line expected.
+    h "Точно, и ты знаешь хорошие напитки".
+                                          ^
+
+File "game/C_Hakan.rpy", line 182: end of line expected.
+    h "Вот почему я знаю, что могу доверить тебе эту работу".
+                                                            ^
+
+File "game/C_Hakan.rpy", line 185: end of line expected.
+    h "В этот раз все по-другому".
+                                 ^
+
+File "game/C_Hakan.rpy", line 186: end of line expected.
+    h "Ты поможешь мне приготовить напиток достаточно крепкий, чтобы напоить дракона".
+                                                                                     ^
 
 Ren'Py Version: Ren'Py 7.4.4.1439
-Sun Apr 11 19:05:09 2021
+Fri Apr 16 23:47:15 2021
