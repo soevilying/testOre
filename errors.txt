@@ -2,29 +2,17 @@
 errors listed below, and try again.
 
 
-File "game/C_Hakan.rpy", line 178: end of line expected.
-    h "Ты был хорошим другом".
-                             ^
+File "game/C_Ebb.rpy", line 1: expected statement.
+    Господиномlabel Ebb_meet:
+                            ^
 
-File "game/C_Hakan.rpy", line 180: end of line expected.
-    e 6 "Ну, всегда весело иметь собутыльника".
-                                              ^
+File "game/C_Hakan.rpy", line 632: expecting name after dot.
+    "Первая выпивка проходит без особого веселья".
+                                                  ^
 
-File "game/C_Hakan.rpy", line 181: end of line expected.
-    h "Точно, и ты знаешь хорошие напитки".
-                                          ^
-
-File "game/C_Hakan.rpy", line 182: end of line expected.
-    h "Вот почему я знаю, что могу доверить тебе эту работу".
-                                                            ^
-
-File "game/C_Hakan.rpy", line 185: end of line expected.
-    h "В этот раз все по-другому".
-                                 ^
-
-File "game/C_Hakan.rpy", line 186: end of line expected.
-    h "Ты поможешь мне приготовить напиток достаточно крепкий, чтобы напоить дракона".
-                                                                                     ^
+File "game/C_Hakan.rpy", line 646: end of line expected.
+    h "Бу... Бу... Эйз. Мы должны стать знаменитостями".
+                                                       ^
 
 Ren'Py Version: Ren'Py 7.4.4.1439
-Fri Apr 16 23:47:15 2021
+Tue Apr 20 13:26:31 2021
