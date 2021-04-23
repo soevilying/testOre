@@ -311,8 +311,8 @@ translate French strings:
     new "Navigate the interface."
 
 
-    old "Escape"
-    new "Escape"
+    old "Сбежать"
+    new "Сбежать"
 
 
     old "Accesses the game menu."

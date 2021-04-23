@@ -43,7 +43,7 @@ label battle_cave_bull_loop:
         $ players_turn = True
         $ res = ui.interact()
         $ players_turn = False
-        if res == "Holy Fist":
+        if res == "Святой Кулак":
             $ red_damage = renpy.random.randint(Zalt.MATK*2, int((Zalt.MATK*2.5)+10))
             $ wolf_hp -= red_damage
             $ Zalt.mp = min(Zalt.mp -20, Zalt.maxmp)
@@ -53,19 +53,19 @@ label battle_cave_bull_loop:
                 pass
             elif True:
                 if Random == 1:
-                    "You dart forward and land a punch on the enemy."
+                    "Ты бросаешься вперед и наносишь удар по врагу."
                 elif Random == 2:
-                    "You hit the enemy with your Holy Fist."
+                    "Ты бьешь врага своим Святым Кулаком."
                 elif True:
-                    "With blazing speed you hit the foe with Holy Fist."
-                " (Damage dealt - [red_damage]hp)"
+                    "С молниеносной скоростью ты поражаешь врага Святым Кулаком."
+                " (Нанесенный урон - [red_damage]hp)"
 
-        if res == "Items":
+        if res == "Предметы":
             $ Zalt.hp = min(Zalt.hp +5, Zalt.maxhp)
             $ cookies_left -= 1
-            "*Drink* 5hp restored"
+            "*Глоток* 5hp восстановлено"
 
-        if res == "Attack":
+        if res == "Атака":
             $ red_damage = renpy.random.randint(max(1,Zalt.ATK-30), Zalt.ATK-5)
             $ Random = renpy.random.randint(0, 100)
             if Random >= Zalt.CRIT:
@@ -73,43 +73,43 @@ label battle_cave_bull_loop:
                 if wolf_hp <= 0:
                     pass
                 elif True:
-                    "You draw your sword and lunge in for an attack.\n(Damage dealt- [red_damage]hp)"
+                    "Ты выхватываешь меч и бросаешься в атаку.\n(Нанесенный урон- [red_damage]hp)"
             elif True:
                 $ qty = red_damage*2
                 $ wolf_hp -= red_damage*2
                 if wolf_hp <= 0:
                     pass
                 elif True:
-                    "You draw your sword and lunge in for an attack.\n{b}{color=#ffd65c}(Critical damage! -[qty]hp){/color}"
+                    "Ты выхватываешь меч и бросаешься в атаку.\n{b}{color=#ffd65c}(Критический урон! -[qty]hp){/color}"
 
-        if res == "Submit":
-            e "I can't fight anymore.."
-            "The enemy is too strong."
-            "You’re knocked onto the ground."
+        if res == "Подчиниться":
+            e "Я больше не могу драться.."
+            "Враг слишком силен."
+            "Тебя сбивают с ног."
             jump battle_cave_bull_lose
 
-        if res == "Bind up":
+        if res == "Бандаж":
             $ Zalt.heal = renpy.random.randint((Zalt.int*2)+20, (Zalt.int*2)+35)
             $ Zalt.hp = min(Zalt.hp+Zalt.heal, Zalt.maxhp)
             $ Zalt.mp = min(Zalt.mp -20, Zalt.maxmp)
-            "*Bind up* [Zalt.heal]hp restored"
-        if res == "Flirt":
-            "Your attempts to seduce the enemy fails, the bull is too overcome with rage to even notice."
+            "*Бандаж* [Zalt.heal]hp восстановлено"
+        if res == "Флиртовать":
+            "Твои попытки соблазнить врага терпят неудачу, бык слишком охвачен яростью, чтобы даже заметить."
 
-        if res == "Hp potion":
+        if res == "Зелье Здоровья":
             $ Zalt.heal = 60
             $ Zalt.hp = min(Zalt.hp+Zalt.heal, Zalt.maxhp)
             $ jane_inv.drop(hp_potion)
-            "*Hp potion* [Zalt.heal]hp restored"
-        if res == "Mp potion":
+            "*Зелье здоровья* [Zalt.heal]hp восстановлено"
+        if res == "Зелье маны":
             $ Zalt.heal = 60
             $ Zalt.mp = min(Zalt.mp+Zalt.heal, Zalt.maxmp)
             $ jane_inv.drop(mp_potion)
-            "*Mp potion* [Zalt.heal]mp restored"
-        if res == "Escape":
+            "*Зелье маны* [Zalt.heal]mp восстановлено"
+        if res == "Сбежать":
             $ Random = renpy.random.randint(1, 2)
             if Random == 1:
-                "You run away."
+                "Ты убегаешь."
                 hide screen simple_stats_screen
                 hide screen battle_menu
                 hide screen battle_skill
@@ -117,7 +117,7 @@ label battle_cave_bull_loop:
                 hide slime
                 jump Cave_map
             elif True:
-                "Escape failed!"
+                "Побег не удался!"
                 pass
         elif True:
             pass
@@ -127,31 +127,31 @@ label battle_cave_bull_loop:
         if Random == 1:
             $ Random = renpy.random.randint(1, 80)
             if Random <= Battle.dodge:
-                "The bull swings his axe and it breaks a nearby boulder."
-                "But you dodged his attack!"
+                "Бык взмахивает топором, и тот разбивает ближайший валун."
+                "Но ты увернулся от его атаки!"
             elif True:
                 $ wolf_damage = renpy.random.randint(30, 55)
                 $ Zalt.hp -= max(1,wolf_damage-Zalt.DEF)
-                "The bull swings his axe and it breaks a nearby boulder, the pieces of rocks fly by and hit you in the gut."
+                "Бык взмахивает топором, и тот разбивает ближайший валун, куски камней пролетают мимо и попадают тебе в живот."
         elif Random == 2:
             $ Random = renpy.random.randint(1, 80)
             if Random <= Battle.dodge:
-                "The bull trys to grab you by the face."
-                "But you dodged his attack!"
+                "Бык пытается схватить тебя за морду."
+                "Но ты увернулся от его атаки!"
             elif True:
                 $ wolf_damage = renpy.random.randint(40, 40)
                 $ Zalt.hp -= max(1,wolf_damage-Zalt.DEF)
-                "The bull grabs you by the face."
-                "You claw at his hand, forcing him to send you flying and hitting the wall behind."
+                "Бык хватает тебя за морду."
+                "Ты цепляешься за его руку, заставляя его отправить тебя в полет и ударить о стену позади."
         elif True:
             $ Random = renpy.random.randint(1, 80)
             if Random <= Battle.dodge:
-                "The bull slams you against the wall with his shoulder."
-                "But you dodged his attack!"
+                "Бык прижимает тебя плечом к стене."
+                "Но ты увернулся от его атаки!"
             elif True:
                 $ wolf_damage = renpy.random.randint(25, 50)
                 $ Zalt.hp -= max(1,wolf_damage-Zalt.DEF)
-                "The bull slams you against the wall with his shoulder."
+                "Бык прижимает тебя плечом к стене."
         if Battle.holyfcd !=0:
             $ Battle.holyfcd = Battle.holyfcd-1
 
@@ -166,12 +166,12 @@ label battle_cave_bull_loop:
             jump battle_cave_bull_win
 
     elif Zalt.hp <= 0:
-        "The enemy is too strong."
-        "You’re knocked onto the ground."
+        "Враг слишком силен."
+        "Тебя сбивают с ног."
         jump battle_cave_bull_lose
     elif Zalt.lust >= Zalt.maxlust:
-        "You're too horny to fight anymore."
-        "You fall to the ground."
+        "Ты слишком возбужден, чтобы драться."
+        "Ты падаешь на землю."
         jump battle_cave_bull_lose
     elif True:
         jump battle_cave_bull_loop
@@ -187,19 +187,19 @@ label battle_cave_bull_win:
         hide screen battle_skill
         hide screen battle_item
         stop music
-        "The bull staggers back."
+        "Бык отшатывается."
         show black2 with dissolve
         hide black2 with dissolve
-        "Angry Bull Warrior" "You won’t take us again! You die demon!"
-        e 9 "Holy crap!"
+        "Злой Бык-воин" "Ты больше не возьмешь нас! Ты умрешь, демон!"
+        e 9 "Срань господня!"
         show black2 with dissolve
-        "The bull warrior’s entire form melts away like goo, revealing its skeletal frame."
-        "You scream in terror and leap away."
+        "Вся фигура воина-быка тает, как слизь, обнажая его скелет."
+        "Ты кричишь от ужаса и отскакиваешь."
         show bullwghost at center with vslow_dissolve
-        "An ethereal form of itself then envelops the skeleton and the bull warrior reforms itself only now with a ghostly appearance."
-        "The eyes of the other bulls glow a haunting blue and with their mouths open they release an ear piercing shriek."
-        "You will yourself to continue fighting."
-        "The bull might be a ghost but under that thing is a physical body you can hit!"
+        "Эфирная форма самого себя затем окутывает скелет, и воин-бык преобразует себя только теперь с призрачным видом."
+        "Глаза других быков светятся призрачной синевой, и с открытыми ртами они издают пронзительный крик."
+        "Вы сами будете продолжать борьбу."
+        "Бык может быть призраком, но под этой штукой находится физическое тело, в которое можно попасть!"
         hide black2 with dissolve
         $ wolf_hp = wolf_max_hp
         jump battle_cave_bull_loop
@@ -211,17 +211,17 @@ label battle_cave_bull_win:
         hide screen battle_menu
         hide screen battle_skill
         hide screen battle_item
-        "Ghost Bull Warrior" "Finally..."
+        "Призрачный Бык-Воин" "Наконец-то..."
         scene cave 1 with dissolve
-        "The ghost bull warrior and his brethren fade into nothingness."
-        "Their forms disintegrate into dust that fade into oblivion."
+        "Призрачный бык-воин и его собратья исчезают в небытии."
+        "Их формы распадаются в пыль, которая исчезает в забвении."
         show black2 with dissolve
         hide black2 with dissolve
-        "Then in one bright flash of light you find yourself standing in front of a pile of bull skeletons."
-        "Did any of that even happen?"
-        "In the palm of your right hand you find some Ectoplasm."
-        "{color=#19c22a}You get 4 Ectoplasm and 400 EXP.{/color}"
-        e 13 "I better work quick, before Flo ends up like that."
+        "Затем в одной яркой вспышке света вы оказываетесь перед грудой бычьих скелетов."
+        "Случалось ли такое вообще?"
+        "В ладони правой руки вы находите немного эктоплазмы."
+        "{color=#19c22a}Ты получаешь 4 эктоплазмы и 400 EXP.{/color}"
+        e 13 "Мне лучше работать побыстрее, пока Фло так же не закончил."
         $ jane_inv_M.take(ectoplasm,4)
         $ Zalt.exp = min(Zalt.exp+400, Zalt.maxlv*250+100*(Zalt.maxlv-1))
         $ Map.ca8 = 4
@@ -243,17 +243,17 @@ label battle_cave_bull_lose:
     hide bullwghost
     stop music
     if Map.ca8bull == 0:
-        "The bull knocks you to the ground and smashes your face in with the blunt end of his axe."
+        "Бык сбивает тебя с ног и разбивает тебе лицо тупым концом своего топора."
         scene black with dissolve
-        "Everything fades to black."
-        "You awaken back outside of the cave."
+        "Все становится черным."
+        "Ты просыпаешься за пределами пещеры."
     elif True:
-        "You didn’t see it coming, the ghost’s phantom axe swings low and hits you by the calves."
-        "The cold blade cuts through you with ease forcing you to fall."
-        e 0 "Wait, no!"
-        "But it’s too late, the ghost bull is already standing over you and he brings down his axe right where your head is."
+        "Ты не заметил, как призрачный топор призрака опустился низко и ударил тебя по икрам."
+        "Холодное лезвие пронзает тебя с легкостью, заставляя упасть."
+        e 0 "Подожди, нет!"
+        "Но слишком поздно, призрачный бык уже стоит над тобой и обрушивает свой топор прямо на твою голову."
         scene black with dissolve
-        "You awaken outside of the cave."
+        "Ты просыпаешься вне пещеры."
 
     $ Zalt.hp = 1
     $ Zalt.Dungeon_leave = True

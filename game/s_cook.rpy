@@ -4,7 +4,7 @@ label cook_wip:
         menu:
             "Cook screen" if True:
                 jump cook_screen
-            "Leave" if True:
+            "Уйти" if True:
                 jump c_code
 label cook_ft_animation:
     scene black with slow_dissolve

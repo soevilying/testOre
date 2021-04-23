@@ -966,5 +966,5 @@ translate Chinese battle_tree_loop_80db1c39:
 translate Chinese battle_tree_loop_435f2cfd:
 
 
-    " (Damage dealt - [red_damage]hp)"
+    " (Нанесенный урон - [red_damage]hp)"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

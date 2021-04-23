@@ -52,25 +52,25 @@ translate Japanese battle_skull_boss_ba26499e:
 translate Japanese battle_skull_boss_loop_834533d4:
 
 
-    "*Drink* 5hp restored"
+    "*Глоток* 5hp восстановлено"
 
 
 translate Japanese battle_skull_boss_loop_543c6dbc:
 
 
-    "You draw your sword and lunge in for an attack.\n(Damage dealt- [red_damage]hp)"
+    "Ты выхватываешь меч и бросаешься в атаку.\n(Нанесенный урон- [red_damage]hp)"
 
 
 translate Japanese battle_skull_boss_loop_e9038599:
 
 
-    "You draw your sword and lunge in for an attack.\n{b}{color=#ffd65c}(Critical damage! -[qty]hp){/color}"
+    "Ты выхватываешь меч и бросаешься в атаку.\n{b}{color=#ffd65c}(Критический урон! -[qty]hp){/color}"
 
 
 translate Japanese battle_skull_boss_loop_f9ce71fe:
 
 
-    "I can't fight anymore.."
+    "Я больше не могу драться.."
 
 
 translate Japanese battle_skull_boss_loop_2db89b4d:
@@ -118,37 +118,37 @@ translate Japanese battle_skull_boss_loop_2e6347da:
 translate Japanese battle_skull_boss_loop_1c1b3af8:
 
 
-    "*Bind up* [Zalt.heal]hp restored"
+    "*Бандаж* [Zalt.heal]hp восстановлено"
 
 
 translate Japanese battle_skull_boss_loop_778a88bb:
 
 
-    "*Hp potion* [Zalt.heal]hp restored"
+    "*Зелье здоровья* [Zalt.heal]hp восстановлено"
 
 
 translate Japanese battle_skull_boss_loop_f156b915:
 
 
-    "*Mp potion* [Zalt.heal]mp restored"
+    "*Зелье маны* [Zalt.heal]mp восстановлено"
 
 
 translate Japanese battle_skull_boss_loop_3c2a98ba:
 
 
-    "Escape failed!"
+    "Побег не удался!"
 
 
 translate Japanese battle_skull_boss_loop_9f1d9dc5:
 
 
-    "You run away."
+    "Ты убегаешь."
 
 
 translate Japanese battle_skull_boss_loop_3c2a98ba_1:
 
 
-    "Escape failed!"
+    "Побег не удался!"
 
 
 translate Japanese battle_skull_boss_loop_e8d696f8:
@@ -160,7 +160,7 @@ translate Japanese battle_skull_boss_loop_e8d696f8:
 translate Japanese battle_skull_boss_loop_0369d5cf:
 
 
-    "But you dodged his attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate Japanese battle_skull_boss_loop_e8d696f8_1:

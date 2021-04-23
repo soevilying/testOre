@@ -6718,7 +6718,7 @@ translate Chinese Roushk_bulltribe_battle_loop_4830c119:
 translate Chinese Roushk_bulltribe_battle_loop_030b4e8e:
 
 
-    "You hit the enemy with your Holy Fist."
+    "Ты бьешь врага своим Святым Кулаком."
 
 
 translate Chinese Roushk_bulltribe_battle_loop_80db1c39:
@@ -7540,19 +7540,19 @@ translate Chinese Roushk_meko_4d53ec88:
 translate Chinese Roushk_meko_battle_loop_4830c119:
 
 
-    "你向前就是一拳，You dart forward and land a punch on the enemy."
+    "你向前就是一拳，Ты бросаешься вперед и наносишь удар по врагу."
 
 
 translate Chinese Roushk_meko_battle_loop_030b4e8e:
 
 
-    "你的圣拳一击命中了敌人。You hit the enemy with your Holy Fist."
+    "你的圣拳一击命中了敌人。Ты бьешь врага своим Святым Кулаком."
 
 
 translate Chinese Roushk_meko_battle_loop_80db1c39:
 
 
-    "电光火石间，你的圣拳击中了敌人。With blazing speed you hit the foe with Holy Fist."
+    "电光火石间，你的圣拳击中了敌人。С молниеносной скоростью ты поражаешь врага Святым Кулаком."
 
 
 translate Chinese Roushk_meko_battle_loop_435f2cfd:

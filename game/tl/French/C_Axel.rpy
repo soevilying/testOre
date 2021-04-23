@@ -2471,6 +2471,6 @@ translate French strings:
     new "Ask about what to do for fun"
 
 
-    old "Leave"
-    new "Leave"
+    old "Уйти"
+    new "Уйти"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

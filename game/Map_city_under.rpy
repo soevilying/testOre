@@ -203,7 +203,7 @@ label undercity_map:
                         "Second Guard" "Many leave their earthly possessions behind there, got to have the coins to survive after all."
                         e 1 "Alright. I’ll check that out."
                         jump undercity_guard_talk
-                    "Leave" if True:
+                    "Уйти" if True:
                         e 1 "I don’t need to know anything more."
                         "Second Guard" "Then it’s your own funeral. Off you go."
                         "He steps aside allowing you to walk through."
@@ -500,7 +500,7 @@ label undercity_map:
                                     jump undercity_pawn
                             "Back" if True:
                                 jump undercity_pawn
-                    "Leave" if True:
+                    "Уйти" if True:
 
                         jump undercity_map
 
@@ -643,7 +643,7 @@ label undercity_map:
                         $ Zalt.lust = 20
                         $ Time.mins = Time.mins+15
                         jump undercity_map
-                    "Leave" if True:
+                    "Уйти" if True:
                         jump undercity_map
 
 
@@ -1786,7 +1786,7 @@ label city_shop:
                 $ jane_inv_K.drop(bevocr,8)
                 $ jane_inv_M.take(coffee_beans)
             jump undercity_map
-        "Leave" if True:
+        "Уйти" if True:
             jump undercity_map
 label undercity_auction_start:
     h1 "Hello? Is this thing on?"

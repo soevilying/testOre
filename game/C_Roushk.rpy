@@ -313,7 +313,7 @@ label battle_roushk_loop:
             $ players_turn = True
             $ res = ui.interact()
             $ players_turn = False
-            if res == "Holy Fist":
+            if res == "Святой Кулак":
                 $ red_damage = renpy.random.randint(Zalt.MATK*2, int((Zalt.MATK*2.5)+10))
                 $ wolf_hp -= red_damage
                 $ Zalt.mp = min(Zalt.mp -20, Zalt.maxmp)
@@ -323,19 +323,19 @@ label battle_roushk_loop:
                     pass
                 elif True:
                     if Random == 1:
-                        "You dart forward and land a punch on the enemy."
+                        "Ты бросаешься вперед и наносишь удар по врагу."
                     elif Random == 2:
-                        "You hit the enemy with your Holy Fist."
+                        "Ты бьешь врага своим Святым Кулаком."
                     elif True:
-                        "With blazing speed you hit the foe with Holy Fist."
-                    " (Damage dealt - [red_damage]hp)"
+                        "С молниеносной скоростью ты поражаешь врага Святым Кулаком."
+                    " (Нанесенный урон - [red_damage]hp)"
 
-            if res == "Items":
+            if res == "Предметы":
                 $ Zalt.hp = min(Zalt.hp +5, Zalt.maxhp)
                 $ cookies_left -= 1
-                "*Drink* 5hp restored"
+                "*Глоток* 5hp восстановлено"
 
-            if res == "Attack":
+            if res == "Атака":
                 $ red_damage = renpy.random.randint(max(1,Zalt.ATK-20), Zalt.ATK)
                 $ Random = renpy.random.randint(0, 100)
                 if Random >= Zalt.CRIT:
@@ -343,22 +343,22 @@ label battle_roushk_loop:
                     if wolf_hp <= 0:
                         pass
                     elif True:
-                        "You draw your sword and lunge in for an attack.\n(Damage dealt- [red_damage]hp)"
+                        "Ты выхватываешь меч и бросаешься в атаку.\n(Нанесенный урон- [red_damage]hp)"
                 elif True:
                     $ qty = red_damage*2
                     $ wolf_hp -= red_damage*2
                     if wolf_hp <= 0:
                         pass
                     elif True:
-                        "You draw your sword and lunge in for an attack.\n{b}{color=#ffd65c}(Critical damage! -[qty]hp){/color}"
+                        "Ты выхватываешь меч и бросаешься в атаку.\n{b}{color=#ffd65c}(Критический урон! -[qty]hp){/color}"
 
 
-            if res == "Submit":
-                e 0 "I can't fight anymore.."
-                "The enemy is too strong."
-                "You’re knocked onto the ground."
+            if res == "Подчиниться":
+                e 0 "Я больше не могу драться.."
+                "Враг слишком силен."
+                "Тебя сбивают с ног."
                 jump battle_roushk_lose
-            if res == "Flirt":
+            if res == "Флиртовать":
                 $ Random = renpy.random.randint(1, 5)
                 if Random == 1:
                     $ Zalt.flirt = renpy.random.randint((Zalt.cha*2)+3, (Zalt.cha*2)+10)
@@ -398,25 +398,25 @@ label battle_roushk_loop:
                     jump Roushk_fight_2
                 elif True:
                     pass
-            if res == "Bind up":
+            if res == "Бандаж":
                 $ Zalt.heal = renpy.random.randint((Zalt.int*2)+20, (Zalt.int*2)+35)
                 $ Zalt.hp = min(Zalt.hp+Zalt.heal, Zalt.maxhp)
                 $ Zalt.mp = min(Zalt.mp -20, Zalt.maxmp)
-                "*Bind up* [Zalt.heal]hp restored"
-            if res == "Hp potion":
+                "*Бандаж* [Zalt.heal]hp восстановлено"
+            if res == "Зелье Здоровья":
                 $ Zalt.heal = 60
                 $ Zalt.hp = min(Zalt.hp+Zalt.heal, Zalt.maxhp)
                 $ jane_inv.drop(hp_potion)
-                "*Hp potion* [Zalt.heal]hp restored"
-            if res == "Mp potion":
+                "*Зелье здоровья* [Zalt.heal]hp восстановлено"
+            if res == "Зелье маны":
                 $ Zalt.heal = 60
                 $ Zalt.mp = min(Zalt.mp+Zalt.heal, Zalt.maxmp)
                 $ jane_inv.drop(mp_potion)
-                "*Mp potion* [Zalt.heal]mp restored"
-            if res == "Escape":
+                "*Зелье маны* [Zalt.heal]mp восстановлено"
+            if res == "Сбежать":
                 $ Random = renpy.random.randint(1, 2)
                 if Random == 1:
-                    "You run away."
+                    "Ты убегаешь."
                     hide lizardw
                     hide screen simple_stats_screen
                     hide screen battle_menu
@@ -424,7 +424,7 @@ label battle_roushk_loop:
                     hide screen battle_item
                     jump forest_map0
                 elif True:
-                    "Escape failed!"
+                    "Побег не удался!"
                     pass
             elif True:
                 pass
@@ -437,7 +437,7 @@ label battle_roushk_loop:
                 $ Random = renpy.random.randint(1, 100)
                 if Random <= Battle.dodge:
                     "The lizard cuts you with his dagger."
-                    "But you dodged his attack!"
+                    "Но ты увернулся от его атаки!"
                 elif True:
                     $ wolf_damage = renpy.random.randint(20, 30)
                     $ Zalt.hp -= max(1,wolf_damage-Zalt.DEF)
@@ -454,7 +454,7 @@ label battle_roushk_loop:
                 $ Random = renpy.random.randint(1, 100)
                 if Random <= Battle.dodge:
                     "The lizard plunges his spear into your arm."
-                    "But you dodged his attack!"
+                    "Но ты увернулся от его атаки!"
                 elif True:
                     $ wolf_damage = renpy.random.randint(10, 20)
                     $ Zalt.hp -= max(1,wolf_damage-Zalt.DEF)
@@ -472,8 +472,8 @@ label battle_roushk_loop:
         elif Zalt.hp <= 0:
             jump battle_roushk_lose
         elif Zalt.lust >= Zalt.maxlust:
-            "You're too horny to fight anymore."
-            "You fall to the ground."
+            "Ты слишком возбужден, чтобы драться."
+            "Ты падаешь на землю."
             jump battle_roushk_lose
         elif True:
             jump battle_roushk_loop
@@ -484,7 +484,7 @@ label battle_roushk_loop:
             $ players_turn = True
             $ res = ui.interact()
             $ players_turn = False
-            if res == "Holy Fist":
+            if res == "Святой Кулак":
                 $ red_damage = renpy.random.randint(Zalt.MATK*2, int((Zalt.MATK*2.5)+10))
                 $ wolf_hp -= red_damage
                 $ Zalt.mp = min(Zalt.mp -20, Zalt.maxmp)
@@ -494,19 +494,19 @@ label battle_roushk_loop:
                     pass
                 elif True:
                     if Random == 1:
-                        "You dart forward and land a punch on the enemy."
+                        "Ты бросаешься вперед и наносишь удар по врагу."
                     elif Random == 2:
-                        "You hit the enemy with your Holy Fist."
+                        "Ты бьешь врага своим Святым Кулаком."
                     elif True:
-                        "With blazing speed you hit the foe with Holy Fist."
-                    " (Damage dealt - [red_damage]hp)"
+                        "С молниеносной скоростью ты поражаешь врага Святым Кулаком."
+                    " (Нанесенный урон - [red_damage]hp)"
 
-            if res == "Items":
+            if res == "Предметы":
                 $ Zalt.hp = min(Zalt.hp +5, Zalt.maxhp)
                 $ cookies_left -= 1
-                "*Drink* 5hp restored"
+                "*Глоток* 5hp восстановлено"
 
-            if res == "Attack":
+            if res == "Атака":
                 $ red_damage = renpy.random.randint(max(1,Zalt.ATK-20), Zalt.ATK)
                 $ Random = renpy.random.randint(0, 100)
                 if Random >= Zalt.CRIT:
@@ -514,40 +514,40 @@ label battle_roushk_loop:
                     if wolf_hp <= 0:
                         pass
                     elif True:
-                        "You draw your sword and lunge in for an attack.\n(Damage dealt- [red_damage]hp)"
+                        "Ты выхватываешь меч и бросаешься в атаку.\n(Нанесенный урон- [red_damage]hp)"
                 elif True:
                     $ qty = red_damage*2
                     $ wolf_hp -= red_damage*2
                     if wolf_hp <= 0:
                         pass
                     elif True:
-                        "You draw your sword and lunge in for an attack.\n{b}{color=#ffd65c}(Critical damage! -[qty]hp){/color}"
+                        "Ты выхватываешь меч и бросаешься в атаку.\n{b}{color=#ffd65c}(Критический урон! -[qty]hp){/color}"
 
-            if res == "Submit":
-                e 0 "I can't fight anymore.."
-                "The enemy is too strong."
-                "You’re knocked onto the ground."
+            if res == "Подчиниться":
+                e 0 "Я больше не могу драться.."
+                "Враг слишком силен."
+                "Тебя сбивают с ног."
                 jump battle_roushk_lose
-            if res == "Flirt":
+            if res == "Флиртовать":
                 "You perform a seductive dance."
                 "The red lizard is too focused on the battle to care about your seductive moves."
                 "He throws a log at you."
-            if res == "Bind up":
+            if res == "Бандаж":
                 $ Zalt.heal = renpy.random.randint((Zalt.int*2)+20, (Zalt.int*2)+35)
                 $ Zalt.hp = min(Zalt.hp+Zalt.heal, Zalt.maxhp)
                 $ Zalt.mp = min(Zalt.mp -20, Zalt.maxmp)
-                "*Bind up* [Zalt.heal]hp restored"
-            if res == "Hp potion":
+                "*Бандаж* [Zalt.heal]hp восстановлено"
+            if res == "Зелье Здоровья":
                 $ Zalt.heal = 60
                 $ Zalt.hp = min(Zalt.hp+Zalt.heal, Zalt.maxhp)
                 $ jane_inv.drop(hp_potion)
-                "*Hp potion* [Zalt.heal]hp restored"
-            if res == "Mp potion":
+                "*Зелье здоровья* [Zalt.heal]hp восстановлено"
+            if res == "Зелье маны":
                 $ Zalt.heal = 60
                 $ Zalt.mp = min(Zalt.mp+Zalt.heal, Zalt.maxmp)
                 $ jane_inv.drop(mp_potion)
-                "*Mp potion* [Zalt.heal]mp restored"
-            if res == "Escape":
+                "*Зелье маны* [Zalt.heal]mp восстановлено"
+            if res == "Сбежать":
                 "You can't escape!"
             elif True:
                 pass
@@ -558,7 +558,7 @@ label battle_roushk_loop:
                 $ Random = renpy.random.randint(1, 100)
                 if Random <= Battle.dodge:
                     "The red lizard rushes towards you with his arms wide open."
-                    "But you dodged his attack!"
+                    "Но ты увернулся от его атаки!"
                 elif True:
                     $ wolf_damage = renpy.random.randint(25, 45)
                     $ Zalt.hp -= max(1,wolf_damage-Zalt.DEF)
@@ -569,7 +569,7 @@ label battle_roushk_loop:
                 if Random <= Battle.dodge:
                     "Despite his large muscular form, the red lizard is surprisingly fast on his feet."
                     "You try to block his right punch but he quickly switches to the left."
-                    "But you dodged his attack!"
+                    "Но ты увернулся от его атаки!"
                 elif True:
                     $ wolf_damage = renpy.random.randint(25, 40)
                     $ Zalt.hp -= max(1,wolf_damage-Zalt.DEF)
@@ -583,7 +583,7 @@ label battle_roushk_loop:
                     "He slams your snout into the muddy earth trying to drown you in the dirt."
                     "You manage to swing the back of your sword knocking him in the head."
                     "He staggers back and releases his hold on you letting you free yourself."
-                    "But you dodged his attack!"
+                    "Но ты увернулся от его атаки!"
                 elif True:
                     $ wolf_damage = renpy.random.randint(25, 40)
                     $ Zalt.hp -= max(1,wolf_damage-Zalt.DEF)
@@ -603,8 +603,8 @@ label battle_roushk_loop:
         elif Zalt.hp <= 0:
             jump battle_roushk_lose
         elif Zalt.lust >= Zalt.maxlust:
-            "You're too horny to fight anymore."
-            "You fall to the ground."
+            "Ты слишком возбужден, чтобы драться."
+            "Ты падаешь на землю."
             jump battle_roushk_lose
         elif True:
             jump battle_roushk_loop
@@ -1230,7 +1230,7 @@ label Roushk_talk:
                                 ro "OK, find me when you're ready."
                         jump Roushk_talk1
                     jump Roushk_talk1
-                "Leave" if True:
+                "Уйти" if True:
                     hide roushk stand with dissolve
                     jump T_barn
         elif True:
@@ -1284,7 +1284,7 @@ label Roushk_talk:
                         jump Roushk_talk1
 
                     jump Roushk_talk1
-                "Leave" if True:
+                "Уйти" if True:
                     hide roushk stand with dissolve
                     jump T_barn
 
@@ -1417,7 +1417,7 @@ label Roushk_lizardtribe:
                     $ players_turn = True
                     $ res = ui.interact()
                     $ players_turn = False
-                    if res == "Holy Fist":
+                    if res == "Святой Кулак":
                         $ red_damage = renpy.random.randint(Zalt.MATK*2, int((Zalt.MATK*2.5)+10))
                         $ wolf_hp -= red_damage
                         $ Zalt.mp = min(Zalt.mp -20, Zalt.maxmp)
@@ -1427,19 +1427,19 @@ label Roushk_lizardtribe:
                             pass
                         elif True:
                             if Random == 1:
-                                "You dart forward and land a punch on the enemy."
+                                "Ты бросаешься вперед и наносишь удар по врагу."
                             elif Random == 2:
-                                "You hit the enemy with your Holy Fist."
+                                "Ты бьешь врага своим Святым Кулаком."
                             elif True:
-                                "With blazing speed you hit the foe with Holy Fist."
-                            " (Damage dealt - [red_damage]hp)"
+                                "С молниеносной скоростью ты поражаешь врага Святым Кулаком."
+                            " (Нанесенный урон - [red_damage]hp)"
 
-                    if res == "Items":
+                    if res == "Предметы":
                         $ Zalt.hp = min(Zalt.hp +5, Zalt.maxhp)
                         $ cookies_left -= 1
-                        "*Drink* 5hp restored"
+                        "*Глоток* 5hp восстановлено"
 
-                    if res == "Attack":
+                    if res == "Атака":
                         $ red_damage = renpy.random.randint(max(1,Zalt.ATK-20), Zalt.ATK)
                         $ Random = renpy.random.randint(0, 100)
                         if Random >= Zalt.CRIT:
@@ -1447,21 +1447,21 @@ label Roushk_lizardtribe:
                             if wolf_hp <= 0:
                                 pass
                             elif True:
-                                "You draw your sword and lunge in for an attack.\n(Damage dealt- [red_damage]hp)"
+                                "Ты выхватываешь меч и бросаешься в атаку.\n(Нанесенный урон- [red_damage]hp)"
                         elif True:
                             $ qty = red_damage*2
                             $ wolf_hp -= red_damage*2
                             if wolf_hp <= 0:
                                 pass
                             elif True:
-                                "You draw your sword and lunge in for an attack.\n{b}{color=#ffd65c}(Critical damage! -[qty]hp){/color}"
+                                "Ты выхватываешь меч и бросаешься в атаку.\n{b}{color=#ffd65c}(Критический урон! -[qty]hp){/color}"
 
-                    if res == "Submit":
-                        e 0 "I can't fight anymore.."
-                        "The enemy is too strong."
-                        "You’re knocked onto the ground."
+                    if res == "Подчиниться":
+                        e 0 "Я больше не могу драться.."
+                        "Враг слишком силен."
+                        "Тебя сбивают с ног."
                         jump Roushk_lizardtribe_battle_lose
-                    if res == "Flirt":
+                    if res == "Флиртовать":
                         $ Random = renpy.random.randint(1, 5)
                         if Random == 1:
                             $ Zalt.flirt = renpy.random.randint((Zalt.cha*2)+3, (Zalt.cha*2)+10)
@@ -1496,22 +1496,22 @@ label Roushk_lizardtribe:
                             jump Roushk_lizardtribe_battle_win
                         elif True:
                             pass
-                    if res == "Bind up":
+                    if res == "Бандаж":
                         $ Zalt.heal = renpy.random.randint((Zalt.int*2)+20, (Zalt.int*2)+35)
                         $ Zalt.hp = min(Zalt.hp+Zalt.heal, Zalt.maxhp)
                         $ Zalt.mp = min(Zalt.mp -20, Zalt.maxmp)
-                        "*Bind up* [Zalt.heal]hp restored"
-                    if res == "Hp potion":
+                        "*Бандаж* [Zalt.heal]hp восстановлено"
+                    if res == "Зелье Здоровья":
                         $ Zalt.heal = 60
                         $ Zalt.hp = min(Zalt.hp+Zalt.heal, Zalt.maxhp)
                         $ jane_inv.drop(hp_potion)
-                        "*Hp potion* [Zalt.heal]hp restored"
-                    if res == "Mp potion":
+                        "*Зелье здоровья* [Zalt.heal]hp восстановлено"
+                    if res == "Зелье маны":
                         $ Zalt.heal = 60
                         $ Zalt.mp = min(Zalt.mp+Zalt.heal, Zalt.maxmp)
                         $ jane_inv.drop(mp_potion)
-                        "*Mp potion* [Zalt.heal]mp restored"
-                    if res == "Escape":
+                        "*Зелье маны* [Zalt.heal]mp восстановлено"
+                    if res == "Сбежать":
                         "You need to protect Roushk!"
                     elif True:
                         pass
@@ -1527,7 +1527,7 @@ label Roushk_lizardtribe:
                             "Now that you’re distracted, the other lizard attempts to strike you from behind."
                             "You try to turn in time but he was just a decoy."
                             "A surprise attack comes from in front, Nuo fires an arrow with his crossbow."
-                            "But you dodged his attack!"
+                            "Но ты увернулся от его атаки!"
                         elif True:
                             $ wolf_damage = renpy.random.randint(15, 45)
                             $ Zalt.hp -= max(1,wolf_damage-Zalt.DEF)
@@ -1553,7 +1553,7 @@ label Roushk_lizardtribe:
                         if Random <= Battle.dodge:
                             "Duo" "Eat this!"
                             "Duo throws a flurry of small knives."
-                            "But you dodged his attack!"
+                            "Но ты увернулся от его атаки!"
                         elif True:
                             $ wolf_damage = renpy.random.randint(20, 30)
                             $ Zalt.hp -= max(1,wolf_damage-Zalt.DEF)
@@ -1599,8 +1599,8 @@ label Roushk_lizardtribe:
                 elif Zalt.hp <= 0:
                     jump Roushk_lizardtribe_battle_lose
                 elif Zalt.lust >= Zalt.maxlust:
-                    "You're too horny to fight anymore."
-                    "You fall to the ground."
+                    "Ты слишком возбужден, чтобы драться."
+                    "Ты падаешь на землю."
                     jump Roushk_lizardtribe_battle_lose
                 elif True:
                     jump Roushk_lizardtribe_battle_loop
@@ -2078,7 +2078,7 @@ label Roushk_bulltribe_back:
                 $ players_turn = True
                 $ res = ui.interact()
                 $ players_turn = False
-                if res == "Holy Fist":
+                if res == "Святой Кулак":
                     $ red_damage = renpy.random.randint(Zalt.MATK*2, int((Zalt.MATK*2.5)+10))
                     $ wolf_hp -= red_damage
                     $ Zalt.mp = min(Zalt.mp -20, Zalt.maxmp)
@@ -2088,19 +2088,19 @@ label Roushk_bulltribe_back:
                         pass
                     elif True:
                         if Random == 1:
-                            "You dart forward and land a punch on the enemy."
+                            "Ты бросаешься вперед и наносишь удар по врагу."
                         elif Random == 2:
-                            "You hit the enemy with your Holy Fist."
+                            "Ты бьешь врага своим Святым Кулаком."
                         elif True:
-                            "With blazing speed you hit the foe with Holy Fist."
-                        " (Damage dealt - [red_damage]hp)"
+                            "С молниеносной скоростью ты поражаешь врага Святым Кулаком."
+                        " (Нанесенный урон - [red_damage]hp)"
 
-                if res == "Items":
+                if res == "Предметы":
                     $ Zalt.hp = min(Zalt.hp +5, Zalt.maxhp)
                     $ cookies_left -= 1
-                    "*Drink* 5hp restored"
+                    "*Глоток* 5hp восстановлено"
 
-                if res == "Attack":
+                if res == "Атака":
                     $ red_damage = renpy.random.randint(max(1,Zalt.ATK-20), Zalt.ATK)
                     $ Random = renpy.random.randint(0, 100)
                     if Random >= Zalt.CRIT:
@@ -2108,21 +2108,21 @@ label Roushk_bulltribe_back:
                         if wolf_hp <= 0:
                             pass
                         elif True:
-                            "You draw your sword and lunge in for an attack.\n(Damage dealt- [red_damage]hp)"
+                            "Ты выхватываешь меч и бросаешься в атаку.\n(Нанесенный урон- [red_damage]hp)"
                     elif True:
                         $ qty = red_damage*2
                         $ wolf_hp -= red_damage*2
                         if wolf_hp <= 0:
                             pass
                         elif True:
-                            "You draw your sword and lunge in for an attack.\n{b}{color=#ffd65c}(Critical damage! -[qty]hp){/color}"
+                            "Ты выхватываешь меч и бросаешься в атаку.\n{b}{color=#ffd65c}(Критический урон! -[qty]hp){/color}"
 
-                if res == "Submit":
-                    e 0 "I can't fight anymore.."
-                    "The enemy is too strong."
-                    "You’re knocked onto the ground."
+                if res == "Подчиниться":
+                    e 0 "Я больше не могу драться.."
+                    "Враг слишком силен."
+                    "Тебя сбивают с ног."
                     jump Roushk_bulltribe_battle_lose
-                if res == "Flirt":
+                if res == "Флиртовать":
                     $ Random = renpy.random.randint(1, 5)
                     if Random == 1:
                         $ Zalt.flirt = renpy.random.randint((Zalt.cha*2)+3, (Zalt.cha*2)+5)
@@ -2164,22 +2164,22 @@ label Roushk_bulltribe_back:
                         jump Roushk_bulltribe_battle_win
                     elif True:
                         pass
-                if res == "Bind up":
+                if res == "Бандаж":
                     $ Zalt.heal = renpy.random.randint((Zalt.int*2)+20, (Zalt.int*2)+35)
                     $ Zalt.hp = min(Zalt.hp+Zalt.heal, Zalt.maxhp)
                     $ Zalt.mp = min(Zalt.mp -20, Zalt.maxmp)
-                    "*Bind up* [Zalt.heal]hp restored"
-                if res == "Hp potion":
+                    "*Бандаж* [Zalt.heal]hp восстановлено"
+                if res == "Зелье Здоровья":
                     $ Zalt.heal = 60
                     $ Zalt.hp = min(Zalt.hp+Zalt.heal, Zalt.maxhp)
                     $ jane_inv.drop(hp_potion)
-                    "*Hp potion* [Zalt.heal]hp restored"
-                if res == "Mp potion":
+                    "*Зелье здоровья* [Zalt.heal]hp восстановлено"
+                if res == "Зелье маны":
                     $ Zalt.heal = 60
                     $ Zalt.mp = min(Zalt.mp+Zalt.heal, Zalt.maxmp)
                     $ jane_inv.drop(mp_potion)
-                    "*Mp potion* [Zalt.heal]mp restored"
-                if res == "Escape":
+                    "*Зелье маны* [Zalt.heal]mp восстановлено"
+                if res == "Сбежать":
                     "You can't leave Roushk alone!"
                 elif True:
                     pass
@@ -2260,8 +2260,8 @@ label Roushk_bulltribe_back:
             elif Zalt.hp <= 0:
                 jump Roushk_bulltribe_battle_lose
             elif Zalt.lust >= Zalt.maxlust:
-                "You're too horny to fight anymore."
-                "You fall to the ground."
+                "Ты слишком возбужден, чтобы драться."
+                "Ты падаешь на землю."
                 jump Roushk_bulltribe_battle_lose
             elif True:
                 jump Roushk_bulltribe_battle_loop
@@ -2453,7 +2453,7 @@ label Roushk_meko:
             $ players_turn = True
             $ res = ui.interact()
             $ players_turn = False
-            if res == "Holy Fist":
+            if res == "Святой Кулак":
                 $ red_damage = renpy.random.randint(Zalt.MATK*2, int((Zalt.MATK*2.5)+10))
                 $ wolf_hp -= red_damage
                 $ Zalt.mp = min(Zalt.mp -20, Zalt.maxmp)
@@ -2463,19 +2463,19 @@ label Roushk_meko:
                     pass
                 elif True:
                     if Random == 1:
-                        "You dart forward and land a punch on the enemy."
+                        "Ты бросаешься вперед и наносишь удар по врагу."
                     elif Random == 2:
-                        "You hit the enemy with your Holy Fist."
+                        "Ты бьешь врага своим Святым Кулаком."
                     elif True:
-                        "With blazing speed you hit the foe with Holy Fist."
-                    " (Damage dealt - [red_damage]hp)"
+                        "С молниеносной скоростью ты поражаешь врага Святым Кулаком."
+                    " (Нанесенный урон - [red_damage]hp)"
 
-            if res == "Items":
+            if res == "Предметы":
                 $ Zalt.hp = min(Zalt.hp +5, Zalt.maxhp)
                 $ cookies_left -= 1
-                "*Drink* 5hp restored"
+                "*Глоток* 5hp восстановлено"
 
-            if res == "Attack":
+            if res == "Атака":
                 $ red_damage = renpy.random.randint(Zalt.ATK+10, Zalt.ATK+20)
                 $ Random = renpy.random.randint(0, 100)
                 if Random >= Zalt.CRIT:
@@ -2483,39 +2483,39 @@ label Roushk_meko:
                     if wolf_hp <= 0:
                         pass
                     elif True:
-                        "You draw your sword and lunge in for an attack.\n(Damage dealt- [red_damage]hp)"
+                        "Ты выхватываешь меч и бросаешься в атаку.\n(Нанесенный урон- [red_damage]hp)"
                 elif True:
                     $ qty = red_damage*2
                     $ wolf_hp -= red_damage*2
                     if wolf_hp <= 0:
                         pass
                     elif True:
-                        "You draw your sword and lunge in for an attack.\n{b}{color=#ffd65c}(Critical damage! -[qty]hp){/color}"
+                        "Ты выхватываешь меч и бросаешься в атаку.\n{b}{color=#ffd65c}(Критический урон! -[qty]hp){/color}"
 
-            if res == "Submit":
-                e 0 "I can't fight anymore.."
-                "The enemy is too strong."
-                "You’re knocked onto the ground."
+            if res == "Подчиниться":
+                e 0 "Я больше не могу драться.."
+                "Враг слишком силен."
+                "Тебя сбивают с ног."
                 jump Roushk_meko_battle_lose
-            if res == "Flirt":
+            if res == "Флиртовать":
                 "Now is not the time to do that!"
 
-            if res == "Bind up":
+            if res == "Бандаж":
                 $ Zalt.heal = renpy.random.randint((Zalt.int*2)+30, (Zalt.int*2)+50)
                 $ Zalt.hp = min(Zalt.hp+Zalt.heal, Zalt.maxhp)
                 $ Zalt.mp = min(Zalt.mp -20, Zalt.maxmp)
-                "*Bind up* [Zalt.heal]hp restored"
-            if res == "Hp potion":
+                "*Бандаж* [Zalt.heal]hp восстановлено"
+            if res == "Зелье Здоровья":
                 $ Zalt.heal = 60
                 $ Zalt.hp = min(Zalt.hp+Zalt.heal, Zalt.maxhp)
                 $ jane_inv.drop(hp_potion)
-                "*Hp potion* [Zalt.heal]hp restored"
-            if res == "Mp potion":
+                "*Зелье здоровья* [Zalt.heal]hp восстановлено"
+            if res == "Зелье маны":
                 $ Zalt.heal = 60
                 $ Zalt.mp = min(Zalt.mp+Zalt.heal, Zalt.maxmp)
                 $ jane_inv.drop(mp_potion)
-                "*Mp potion* [Zalt.heal]mp restored"
-            if res == "Escape":
+                "*Зелье маны* [Zalt.heal]mp восстановлено"
+            if res == "Сбежать":
                 "You can't leave Roushk alone!"
             elif True:
                 pass
@@ -2526,7 +2526,7 @@ label Roushk_meko:
                 $ Random = renpy.random.randint(1, 100)
                 if Random <= Battle.dodge:
                     "The horn spins and forms a blue ring around itself."
-                    "But you dodged his attack!"
+                    "Но ты увернулся от его атаки!"
                 elif True:
                     $ wolf_damage = renpy.random.randint(10, 25)
                     $ Zalt.hp -= max(1,wolf_damage-Zalt.DEF)
@@ -2537,7 +2537,7 @@ label Roushk_meko:
                 $ Random = renpy.random.randint(1, 100)
                 if Random <= Battle.dodge:
                     "The Boss unleashes a volley of fireballs."
-                    "But you dodged his attack!"
+                    "Но ты увернулся от его атаки!"
                 elif True:
                     $ wolf_damage = renpy.random.randint(10, 20)
                     $ Zalt.hp -= max(1,wolf_damage-Zalt.DEF)
@@ -2548,7 +2548,7 @@ label Roushk_meko:
                 $ Random = renpy.random.randint(1, 100)
                 if Random <= Battle.dodge:
                     "The boss summons two golem avatars; they both unleash Holy Fist onto you."
-                    "But you dodged his attack!"
+                    "Но ты увернулся от его атаки!"
                 elif True:
                     $ wolf_damage = renpy.random.randint(10, 25)
                     $ Zalt.hp -= max(1,wolf_damage-Zalt.DEF)
@@ -2565,8 +2565,8 @@ label Roushk_meko:
         elif Zalt.hp <= 0:
             jump Roushk_meko_battle_lose
         elif Zalt.lust >= Zalt.maxlust:
-            "You're too horny to fight anymore."
-            "You fall to the ground."
+            "Ты слишком возбужден, чтобы драться."
+            "Ты падаешь на землю."
             jump Roushk_meko_battle_lose
         elif True:
             jump Roushk_meko_battle_loop

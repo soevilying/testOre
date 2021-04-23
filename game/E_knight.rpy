@@ -67,7 +67,7 @@ label battle_knight_loop:
         $ players_turn = True
         $ res = ui.interact()
         $ players_turn = False
-        if res == "Holy Fist":
+        if res == "Святой Кулак":
             $ red_damage = renpy.random.randint(int((Zalt.MATK*2.1)-10), int((Zalt.MATK*2.5)-10))
             $ wolf_hp -= red_damage
             $ Zalt.mp = min(Zalt.mp -20, Zalt.maxmp)
@@ -77,19 +77,19 @@ label battle_knight_loop:
                 pass
             elif True:
                 if Random == 1:
-                    "You dart forward and land a punch on the enemy."
+                    "Ты бросаешься вперед и наносишь удар по врагу."
                 elif Random == 2:
                     "You unleash Holy Fist."
                 elif True:
-                    "With blazing speed you hit the foe with Holy Fist."
-                " (Damage dealt - [red_damage]hp)"
+                    "С молниеносной скоростью ты поражаешь врага Святым Кулаком."
+                " (Нанесенный урон - [red_damage]hp)"
 
-        if res == "Items":
+        if res == "Предметы":
             $ Zalt.hp = min(Zalt.hp +5, Zalt.maxhp)
             $ cookies_left -= 1
-            "*Drink* 5hp restored"
+            "*Глоток* 5hp восстановлено"
 
-        if res == "Attack":
+        if res == "Атака":
             $ red_damage = renpy.random.randint(max(1,Zalt.ATK-30), Zalt.ATK-5)
             $ Random = renpy.random.randint(0, 100)
             if Random >= Zalt.CRIT:
@@ -97,38 +97,38 @@ label battle_knight_loop:
                 if wolf_hp <= 0:
                     pass
                 elif True:
-                    "You draw your sword and lunge in for an attack.\n(Damage dealt- [red_damage]hp)"
+                    "Ты выхватываешь меч и бросаешься в атаку.\n(Нанесенный урон- [red_damage]hp)"
             elif True:
                 $ qty = red_damage*2
                 $ wolf_hp -= red_damage*2
                 if wolf_hp <= 0:
                     pass
                 elif True:
-                    "You draw your sword and lunge in for an attack.\n{b}{color=#ffd65c}(Critical damage! -[qty]hp){/color}"
+                    "Ты выхватываешь меч и бросаешься в атаку.\n{b}{color=#ffd65c}(Критический урон! -[qty]hp){/color}"
 
-        if res == "Submit":
-            e "I can't fight anymore.."
-            "The enemy is too strong."
-            "You’re knocked onto the ground."
+        if res == "Подчиниться":
+            e "Я больше не могу драться.."
+            "Враг слишком силен."
+            "Тебя сбивают с ног."
             jump battle_knight_lose
-        if res == "Flirt":
+        if res == "Флиртовать":
             "You cannot seduce a non-living creature."
-        if res == "Bind up":
+        if res == "Бандаж":
             $ Zalt.heal = renpy.random.randint((Zalt.int*3)+25, (Zalt.int*3)+40)
             $ Zalt.hp = min(Zalt.hp+Zalt.heal, Zalt.maxhp)
             $ Zalt.mp = min(Zalt.mp -20, Zalt.maxmp)
-            "*Bind up* [Zalt.heal]hp restored"
-        if res == "Hp potion":
+            "*Бандаж* [Zalt.heal]hp восстановлено"
+        if res == "Зелье Здоровья":
             $ Zalt.heal = 60
             $ Zalt.hp = min(Zalt.hp+Zalt.heal, Zalt.maxhp)
             $ jane_inv.drop(hp_potion)
-            "*Hp potion* [Zalt.heal]hp restored"
-        if res == "Mp potion":
+            "*Зелье здоровья* [Zalt.heal]hp восстановлено"
+        if res == "Зелье маны":
             $ Zalt.heal = 60
             $ Zalt.mp = min(Zalt.mp+Zalt.heal, Zalt.maxmp)
             $ jane_inv.drop(mp_potion)
-            "*Mp potion* [Zalt.heal]mp restored"
-        if res == "Escape":
+            "*Зелье маны* [Zalt.heal]mp восстановлено"
+        if res == "Сбежать":
             "You can't run!."
         elif True:
 
@@ -141,7 +141,7 @@ label battle_knight_loop:
             $ Random = renpy.random.randint(1, 100)
             if Random <= Battle.dodge:
                 "The knight swings its sword across your face."
-                "But you dodged its attack!"
+                "Но ты увернулся от его атаки!"
             elif True:
                 $ wolf_damage = renpy.random.randint(40, 60)
                 $ Zalt.hp -= max(1,wolf_damage-Zalt.DEF)
@@ -153,7 +153,7 @@ label battle_knight_loop:
             if Random <= Battle.dodge:
                 "The knight smashes his sword repeatedly on the ground."
                 "The broken pieces of the floor start to levitate with a dark aura and fly towards you at tremendous speed."
-                "But you dodged its attack!"
+                "Но ты увернулся от его атаки!"
             elif True:
                 $ wolf_damage = renpy.random.randint(20, 50)
                 $ Zalt.hp -= max(1,wolf_damage-Zalt.DEF)
@@ -187,8 +187,8 @@ label battle_knight_loop:
     elif Zalt.hp <= 0:
         jump battle_knight_lose
     elif Zalt.lust >= Zalt.maxlust:
-        "You're too horny to fight anymore."
-        "You fall to the ground."
+        "Ты слишком возбужден, чтобы драться."
+        "Ты падаешь на землю."
         jump battle_knight_lose
     elif True:
         jump battle_knight_loop

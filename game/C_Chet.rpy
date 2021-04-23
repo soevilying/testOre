@@ -318,7 +318,7 @@ label Chet:
                     elif True:
                         e 6 "(Nah,I don't have the money.)"
                         jump Chet
-                "Leave" if True:
+                "Уйти" if True:
 
                     e 1 "I’ll think about it."
                     jump Chet
@@ -352,7 +352,7 @@ label Chet:
                             jump Chet
                         elif True:
                             pass
-                    "Leave" if True:
+                    "Уйти" if True:
                         jump Chet
                 if jane_inv.qty(coin) >=40*buy and Zalt.cha <8:
                     $ jane_inv.drop(coin,40*buy)
@@ -367,7 +367,7 @@ label Chet:
                 elif True:
                     e 6 "(Nah,I don't have the money.)"
                     jump Chet
-            "Leave" if True:
+            "Уйти" if True:
                 jump Chet
         return
     if _return == 'mp_potion_buy':
@@ -398,7 +398,7 @@ label Chet:
                             jump Chet
                         elif True:
                             pass
-                    "Leave" if True:
+                    "Уйти" if True:
                         jump Chet
                 if jane_inv.qty(coin) >=45*buy and Zalt.cha <8:
                     $ jane_inv.drop(coin,45*buy)
@@ -413,7 +413,7 @@ label Chet:
                 elif True:
                     e 6 "(Nah,I don't have the money.)"
                     jump Chet
-            "Leave" if True:
+            "Уйти" if True:
                 jump Chet
         jump Chet_dice
         return
@@ -853,7 +853,7 @@ label Chet_talk:
                     elif True:
                         "Bug here,pls report.!"
                         jump Chet_talk
-                "Leave" if True:
+                "Уйти" if True:
                     jump Chet_talk
 
         "Sell monster material" if Chet.slime >= 2:
@@ -1313,7 +1313,7 @@ label Chet_talk:
             c "You and I should help Snow out with taste testing his new recipes."
             c "What do you say?"
             jump Chet_snowsfood
-        "Leave" if True:
+        "Уйти" if True:
 
             hide screen chet
             scene tavern 1
@@ -1458,7 +1458,7 @@ label Chet_sellM:
                     jump Chet_talk
                 "No" if True:
                     jump Chet_talk
-        "Leave" if True:
+        "Уйти" if True:
 
             jump Chet_talk
 
@@ -1492,7 +1492,7 @@ label Chet_accessories:
                     c "Perfect, this shouldn’t take too long."
                     c "You can check my special box of accessories when I’m done and you can buy the item."
                     jump map1
-        "Leave" if True:
+        "Уйти" if True:
 
 
             jump Chet_talk

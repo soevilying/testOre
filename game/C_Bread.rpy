@@ -85,7 +85,7 @@ label battle_bread_loop:
         $ players_turn = True
         $ res = ui.interact()
         $ players_turn = False
-        if res == "Holy Fist":
+        if res == "Святой Кулак":
             $ red_damage = renpy.random.randint(Zalt.MATK*2, int((Zalt.MATK*2.5)+10))
             $ wolf_hp -= red_damage
             $ Zalt.mp = min(Zalt.mp -20, Zalt.maxmp)
@@ -97,14 +97,14 @@ label battle_bread_loop:
                 "Ты бьешь врага своим Святым Кулаком."
             elif True:
                 "С молниеносной скоростью ты поражаешь врага Святым Кулаком."
-            " (Damage dealt - [red_damage]hp)"
+            " (Нанесенный урон - [red_damage]hp)"
 
-        if res == "Items":
+        if res == "Предметы":
             $ Zalt.hp = min(Zalt.hp +5, Zalt.maxhp)
             $ cookies_left -= 1
-            "*Drink* 5hp restored"
+            "*Глоток* 5hp восстановлено"
 
-        if res == "Attack":
+        if res == "Атака":
             $ red_damage = renpy.random.randint(max(1,Zalt.ATK-20), Zalt.ATK)
             $ Random = renpy.random.randint(0, 100)
             if Random >= Zalt.CRIT:
@@ -115,12 +115,12 @@ label battle_bread_loop:
                 $ wolf_hp -= red_damage*2
                 "Ты выхватываешь меч и бросаешься в атаку.\n{b}{color=#ffd65c}(Critical damage! -[qty]hp){/color}"
 
-        if res == "Submit":
+        if res == "Подчиниться":
             e "Я больше не могу драться.."
             "Враг слишком силен."
             "Тебя сбивают с ног."
             jump battle_bread_lose
-        if res == "Flirt":
+        if res == "Флиртовать":
             $ Random = renpy.random.randint(1, 5)
             if Random == 1:
                 $ Zalt.flirt = renpy.random.randint((Zalt.cha*2)+3, (Zalt.cha*2)+5)
@@ -158,22 +158,22 @@ label battle_bread_loop:
                 jump battle_bread_win
             elif True:
                 pass
-        if res == "Bind up":
+        if res == "Бандаж":
             $ Zalt.heal = renpy.random.randint((Zalt.int*2)+20, (Zalt.int*2)+35)
             $ Zalt.hp = min(Zalt.hp+Zalt.heal, Zalt.maxhp)
             $ Zalt.mp = min(Zalt.mp -20, Zalt.maxmp)
-            "*Bind up* [Zalt.heal]hp restored"
-        if res == "Hp potion":
+            "*Бандаж* [Zalt.heal]hp восстановлено"
+        if res == "Зелье Здоровья":
             $ Zalt.heal = 60
             $ Zalt.hp = min(Zalt.hp+Zalt.heal, Zalt.maxhp)
             $ jane_inv.drop(hp_potion)
-            "*Hp potion* [Zalt.heal]hp restored"
-        if res == "Mp potion":
+            "*Зелье здоровья* [Zalt.heal]hp восстановлено"
+        if res == "Зелье маны":
             $ Zalt.heal = 60
             $ Zalt.mp = min(Zalt.mp+Zalt.heal, Zalt.maxmp)
             $ jane_inv.drop(mp_potion)
-            "*Mp potion* [Zalt.heal]mp restored"
-        if res == "Escape":
+            "*Зелье маны* [Zalt.heal]mp восстановлено"
+        if res == "Сбежать":
             "Ты не можешь сбежать!"
         elif True:
             pass

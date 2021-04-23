@@ -580,7 +580,7 @@ translate French bulltribe_1_d8daaa4d:
 translate French bulltribe_1_9f1d9dc5:
 
 
-    "You run away."
+    "Ты убегаешь."
 
 
 translate French forest_map_4_e4b57dbc:

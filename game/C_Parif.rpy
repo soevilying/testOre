@@ -264,7 +264,7 @@ label Parif_talk:
                 e 1 "Let me track down some ingredients."
                 p "Here is the menu. I've got the ingredients I need listed there."
                 menu:
-                    "Leave" if True:
+                    "Уйти" if True:
                         jump Parif_talk_tree01
             "Find some topic to chat" if True:
                 label Parif_talk_tree02:
@@ -339,14 +339,14 @@ label Parif_talk:
                             p "He’s already done it."
                             e 9 "Yikes."
                             p "Don’t worry, I’m charging them extra."
-                        "Leave" if True:
+                        "Уйти" if True:
 
 
 
 
                             jump Parif_talk_tree01
                     jump Parif_talk_tree02
-            "Leave" if True:
+            "Уйти" if True:
                 hide parif stand at center with dissolve
                 scene tavern 1
                 jump map1

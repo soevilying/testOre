@@ -148,7 +148,7 @@ label castle_map:
                 $ Zalt.lust = 0
                 $ Time.mins = Time.mins+15
                 jump castle_map
-            "Leave" if True:
+            "Уйти" if True:
 
                 jump castle_map
 

@@ -211,7 +211,7 @@ label Witer_meet:
                                 $ buy = 5
                             "10" if True:
                                 $ buy = 10
-                            "Leave" if True:
+                            "Уйти" if True:
                                 jump map1
                         if jane_inv.qty(coin) >=20*buy:
                             $ jane_inv.drop(coin,20*buy)
@@ -231,7 +231,7 @@ label Witer_meet:
                                 $ buy = 5
                             "10" if True:
                                 $ buy = 10
-                            "Leave" if True:
+                            "Уйти" if True:
                                 jump map1
                         if jane_inv.qty(coin) >=21*buy:
                             $ jane_inv.drop(coin,21*buy)
@@ -242,7 +242,7 @@ label Witer_meet:
                         elif True:
                             e 6 "(Nah,I don't have the money.)"
                             jump Witer_menu
-                    "Leave" if True:
+                    "Уйти" if True:
                         jump map1
             "Find some topics to chat" if True:
                 label Witer_chattree:
@@ -599,7 +599,7 @@ label Witer_meet:
                     w "Sometimes you might get it wrong but that tells you a lot about them too."
                     $ Witer.cha_p = 1
                     jump Witer_menu
-            "Leave" if True:
+            "Уйти" if True:
                 jump map1
 
 
@@ -897,10 +897,10 @@ label Witer_meal1:
     menu:
         "menu" if True:
             jump rent_room
-        "Leave" if True:
+        "Уйти" if True:
 
             jump map1
-        "Leave" if True:
+        "Уйти" if True:
             jump map1
 
 label Witer_sex:

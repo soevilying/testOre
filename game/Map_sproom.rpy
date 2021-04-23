@@ -46,7 +46,7 @@ label Sproom_map:
         "Check the paintings" if True:
             "There’s nothing to do here. The paintings are all still all blank."
             jump Sproom_map
-        "Leave" if True:
+        "Уйти" if True:
             jump Temple_map
 
 label painting_unlock:
@@ -111,7 +111,7 @@ label painting_unlock:
                     jump painting_choose
                 "{s}Check the fifth painting" if True:
                     jump painting_choose
-                "Leave" if True:
+                "Уйти" if True:
                     jump Temple_map
 label courtyard_painting_world:
     $ renpy.music.set_volume(0, 5.5, channel = "music")
@@ -141,7 +141,7 @@ label courtyard_painting_world:
     menu:
         "Enter the house" if True:
             jump courtyard_painting_world_house
-        "Leave" if Map.first_world >= 1:
+        "Уйти" if Map.first_world >= 1:
             scene black with vslow_dissolve
             pause 3
             jump painting_unlock
@@ -294,7 +294,7 @@ label courtyard_painting_world:
                     "Dragon" "In due time. That is all I can say."
                     "You shake your head in defeat."
                     jump courtyard_painting_world_talk
-                "Leave" if True:
+                "Уйти" if True:
                     e 1 "I have nothing more to ask."
                     "Dragon" "Then to your next visit then."
                     "You stand up and exit through the painting frame."

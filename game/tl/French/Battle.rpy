@@ -106,7 +106,7 @@ translate French battle_1_loop_dcd1510c:
 translate French battle_1_loop_834533d4:
 
 
-    "*Drink* 5hp restored"
+    "*Глоток* 5hp восстановлено"
 
 
 translate French battle_1_loop_dcd1510c_1:
@@ -118,31 +118,31 @@ translate French battle_1_loop_dcd1510c_1:
 translate French battle_1_loop_f9ce71fe:
 
 
-    "I can't fight anymore.."
+    "Я больше не могу драться.."
 
 
 translate French battle_1_loop_1c1b3af8:
 
 
-    "*Bind up* [Zalt.heal]hp restored"
+    "*Бандаж* [Zalt.heal]hp восстановлено"
 
 
 translate French battle_1_loop_3c2a98ba:
 
 
-    "Escape failed!"
+    "Побег не удался!"
 
 
 translate French battle_1_loop_3c2a98ba_1:
 
 
-    "Escape failed!"
+    "Побег не удался!"
 
 
 translate French battle_1_loop_3c2a98ba_2:
 
 
-    "Escape failed!"
+    "Побег не удался!"
 
 
 translate French battle_1_loop_e8d696f8:
@@ -154,7 +154,7 @@ translate French battle_1_loop_e8d696f8:
 translate French battle_1_loop_0369d5cf:
 
 
-    "But you dodged his attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate French battle_1_loop_e8d696f8_1:

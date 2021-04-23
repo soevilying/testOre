@@ -245,7 +245,7 @@ label Temple_map:
                     $ Zalt.MATK = Zalt.MATK +1
 
                     jump Temple_map
-                "Leave" if True:
+                "Уйти" if True:
                     jump Temple_map
 
             jump Temple_map
@@ -568,7 +568,7 @@ label Temple_book:
             "You close the book and leave."
             $ Time.mins = Time.mins +20
             jump Temple_book
-        "Leave" if True:
+        "Уйти" if True:
             jump Temple_map
 
 screen temple_map:

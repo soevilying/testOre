@@ -3601,7 +3601,7 @@ translate Chinese strings:
     new "购买"
 
 
-    old "Leave"
+    old "Уйти"
     new "离开"
 
 

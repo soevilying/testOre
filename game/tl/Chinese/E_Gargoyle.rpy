@@ -1933,25 +1933,25 @@ translate Chinese battle_gargoyle_sex0_6c6c5737:
 translate Chinese battle_gargoyle_sex0_1c1b3af8:
 
 
-    "*Bind up* [Zalt.heal]hp restored"
+    "*Бандаж* [Zalt.heal]hp восстановлено"
 
 
 translate Chinese battle_gargoyle_sex0_778a88bb:
 
 
-    "*Hp potion* [Zalt.heal]hp restored"
+    "*Зелье здоровья* [Zalt.heal]hp восстановлено"
 
 
 translate Chinese battle_gargoyle_sex0_f156b915:
 
 
-    "*Mp potion* [Zalt.heal]mp restored"
+    "*Зелье маны* [Zalt.heal]mp восстановлено"
 
 
 translate Chinese battle_gargoyle_sex0_9f1d9dc5:
 
 
-    "You run away."
+    "Ты убегаешь."
 
 
 translate Chinese battle_gargoyle_sex0_c56bc496:
@@ -1963,7 +1963,7 @@ translate Chinese battle_gargoyle_sex0_c56bc496:
 translate Chinese battle_gargoyle_sex0_0369d5cf:
 
 
-    "But you dodged his attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate Chinese battle_gargoyle_sex0_c56bc496_1:
@@ -1987,7 +1987,7 @@ translate Chinese battle_gargoyle_sex0_06c47229:
 translate Chinese battle_gargoyle_sex0_0369d5cf_1:
 
 
-    "But you dodged his attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate Chinese battle_gargoyle_sex0_82d4eb91_1:
@@ -2041,7 +2041,7 @@ translate Chinese battle_gargoyle_sex0_2672177d:
 translate Chinese battle_gargoyle_sex0_0369d5cf_2:
 
 
-    "But you dodged his attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate Chinese battle_gargoyle_sex0_2672177d_1:
@@ -2053,11 +2053,11 @@ translate Chinese battle_gargoyle_sex0_2672177d_1:
 translate Chinese battle_gargoyle_sex0_55bbfd06:
 
 
-    "You're too horny to fight anymore."
+    "Ты слишком возбужден, чтобы драться."
 
 
 translate Chinese battle_gargoyle_sex0_68c30cdd:
 
 
-    "You fall to the ground."
+    "Ты падаешь на землю."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

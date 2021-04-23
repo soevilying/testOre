@@ -206,7 +206,7 @@ label c_code:
                     $ persistent.CG_hakan_sixnine = True
                     $ persistent.CG_witer_cowboy = True
                     jump c_code1
-                "Leave" if True:
+                "Уйти" if True:
                     $ input_code = ""
                     jump map1
     elif True:

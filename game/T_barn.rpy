@@ -127,7 +127,7 @@ label Anvil_update:
     if Items.weapon >= 4:
         "The weapon has been upgraded to the maximum level of the current version."
         menu:
-            "Leave" if True:
+            "Уйти" if True:
                 jump T_barn
 
     if jane_inv_E.qty(sword) == None:
@@ -318,7 +318,7 @@ label Anvil_update:
                     elif True:
                         "You don't have enough materials."
                         jump Anvil_update_dadsword
-                "Leave" if True:
+                "Уйти" if True:
                     hide screen anvil_need
                     hide screen anvil_need_name
                     jump T_barn

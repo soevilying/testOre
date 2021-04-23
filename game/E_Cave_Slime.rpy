@@ -48,7 +48,7 @@ label battle_cave_slime_loop:
         $ players_turn = True
         $ res = ui.interact()
         $ players_turn = False
-        if res == "Holy Fist":
+        if res == "Святой Кулак":
             $ red_damage = renpy.random.randint(Zalt.MATK*2, int((Zalt.MATK*2.5)+10))
             $ wolf_hp -= red_damage
             $ Zalt.mp = min(Zalt.mp -20, Zalt.maxmp)
@@ -58,19 +58,19 @@ label battle_cave_slime_loop:
                 pass
             elif True:
                 if Random == 1:
-                    "You dart forward and land a punch on the enemy."
+                    "Ты бросаешься вперед и наносишь удар по врагу."
                 elif Random == 2:
-                    "You hit the enemy with your Holy Fist."
+                    "Ты бьешь врага своим Святым Кулаком."
                 elif True:
-                    "With blazing speed you hit the foe with Holy Fist."
-                " (Damage dealt - [red_damage]hp)"
+                    "С молниеносной скоростью ты поражаешь врага Святым Кулаком."
+                " (Нанесенный урон - [red_damage]hp)"
 
-        if res == "Items":
+        if res == "Предметы":
             $ Zalt.hp = min(Zalt.hp +5, Zalt.maxhp)
             $ cookies_left -= 1
-            "*Drink* 5hp restored"
+            "*Глоток* 5hp восстановлено"
 
-        if res == "Attack":
+        if res == "Атака":
             $ red_damage = renpy.random.randint(max(1,Zalt.ATK-20), Zalt.ATK)
             $ Random = renpy.random.randint(0, 100)
             if Random >= Zalt.CRIT:
@@ -78,27 +78,27 @@ label battle_cave_slime_loop:
                 if wolf_hp <= 0:
                     pass
                 elif True:
-                    "You draw your sword and lunge in for an attack.\n(Damage dealt- [red_damage]hp)"
+                    "Ты выхватываешь меч и бросаешься в атаку.\n(Нанесенный урон- [red_damage]hp)"
             elif True:
                 $ qty = red_damage*2
                 $ wolf_hp -= red_damage*2
                 if wolf_hp <= 0:
                     pass
                 elif True:
-                    "You draw your sword and lunge in for an attack.\n{b}{color=#ffd65c}(Critical damage! -[qty]hp){/color}"
+                    "Ты выхватываешь меч и бросаешься в атаку.\n{b}{color=#ffd65c}(Критический урон! -[qty]hp){/color}"
 
-        if res == "Submit":
-            e "I can't fight anymore.."
-            "The enemy is too strong."
-            "You’re knocked onto the ground."
+        if res == "Подчиниться":
+            e "Я больше не могу драться.."
+            "Враг слишком силен."
+            "Тебя сбивают с ног."
             jump battle_cave_slime_lose
 
-        if res == "Bind up":
+        if res == "Бандаж":
             $ Zalt.heal = renpy.random.randint((Zalt.int*2)+20, (Zalt.int*2)+35)
             $ Zalt.hp = min(Zalt.hp+Zalt.heal, Zalt.maxhp)
             $ Zalt.mp = min(Zalt.mp -20, Zalt.maxmp)
-            "*Bind up* [Zalt.heal]hp restored"
-        if res == "Flirt":
+            "*Бандаж* [Zalt.heal]hp восстановлено"
+        if res == "Флиртовать":
             $ Random = renpy.random.randint(1, 3)
             if Random == 1:
                 "You strike a series of poses with a confident smile."
@@ -110,20 +110,20 @@ label battle_cave_slime_loop:
             elif True:
                 "You rub your crotch sensually, letting your cock chub up a bit before flashing your dickhead at the enemy."
                 "The enemy is enraged by your actions."
-        if res == "Hp potion":
+        if res == "Зелье Здоровья":
             $ Zalt.heal = 60
             $ Zalt.hp = min(Zalt.hp+Zalt.heal, Zalt.maxhp)
             $ jane_inv.drop(hp_potion)
-            "*Hp potion* [Zalt.heal]hp restored"
-        if res == "Mp potion":
+            "*Зелье здоровья* [Zalt.heal]hp восстановлено"
+        if res == "Зелье маны":
             $ Zalt.heal = 60
             $ Zalt.mp = min(Zalt.mp+Zalt.heal, Zalt.maxmp)
             $ jane_inv.drop(mp_potion)
-            "*Mp potion* [Zalt.heal]mp restored"
-        if res == "Escape":
+            "*Зелье маны* [Zalt.heal]mp восстановлено"
+        if res == "Сбежать":
             $ Random = renpy.random.randint(1, 2)
             if Random == 1:
-                "You run away."
+                "Ты убегаешь."
                 hide screen simple_stats_screen
                 hide screen battle_menu
                 hide screen battle_skill
@@ -131,7 +131,7 @@ label battle_cave_slime_loop:
                 hide slime
                 jump Cave_map
             elif True:
-                "Escape failed!"
+                "Побег не удался!"
                 pass
         elif True:
             pass
@@ -141,18 +141,18 @@ label battle_cave_slime_loop:
         if Random <= 1:
             $ wolf_damage = renpy.random.randint(10, 30)
             $ Zalt.lust += wolf_damage
-            "Slime's mucus is splattered all over you."
-            "You feel something hot from your crotch."
-            "[name]" "There seems to be something toxic in this mucus..."
+            "Слизь разбрызгана по всему телу."
+            "Ты чувствуешь что-то горячее в промежности."
+            "[name]" "Кажется, в этой слизи есть что-то ядовитое..."
         elif True:
             $ Random = renpy.random.randint(1, 100)
             if Random <= Battle.dodge:
-                "Slime" "RrrrrRRrrrr! {i}*The monster hits you*{/i}"
-                "But you dodged its attack!"
+                "Слизь" "РРРРРРРРРР! {i}*Монстр бьет тебя*{/i}"
+                "Но ты увернулся от его атаки!"
             elif True:
                 $ wolf_damage = renpy.random.randint(20, 40)
                 $ Zalt.hp -= max(1,wolf_damage-Zalt.DEF)
-                "Slime" "RrrrrRRrrrr! {i}*The monster hits you*{/i}"
+                "Слизь" "РРРРРРРРРР! {i}*Монстр бьет тебя*{/i}"
         if Battle.holyfcd !=0:
             $ Battle.holyfcd = Battle.holyfcd-1
 
@@ -164,16 +164,16 @@ label battle_cave_slime_loop:
             jump battle_cave_slime_win
         elif True:
 
-            "Slime" "RrrrrRRrrrr!"
+            "Слизь" "РРРРРРРРРР!"
             jump battle_cave_slime_win
 
     elif Zalt.hp <= 0:
-        "The enemy is too strong."
-        "You’re knocked onto the ground."
+        "Враг слишком силен."
+        "Тебя сбивают с ног."
         jump battle_cave_slime_lose
     elif Zalt.lust >= Zalt.maxlust:
-        "You're too horny to fight anymore."
-        "You fall to the ground."
+        "Ты слишком возбужден, чтобы драться."
+        "Ты падаешь на землю."
         jump battle_cave_slime_lose
     elif True:
         jump battle_cave_slime_loop
@@ -193,15 +193,15 @@ label battle_cave_slime_win:
     stop music
     $ cave_slime_round = cave_slime_round+ 1
     if cave_slime_round != 2:
-        "The slime runs off into a crack in the wall and escapes."
-        "No time for rest, the slime’s companion snuck up during your battle and strikes you from the side."
+        "Слизь стекает в трещину в стене и убегает."
+        "Нет времени на отдых, товарищ слизи подкрался во время вашего боя и ударил тебя сбоку."
         $ wolf_hp = wolf_max_hp
         jump battle_cave_slime_loop
     elif True:
 
-        "Your blade cuts through the slime’s body cutting it in half."
-        "With a loud plop the remains of the slime falls to the ground and dissolves in a loud sizzling sound. "
-        "You get 3 slime jewel and 200 exp."
+        "Твое лезвие рассекает тело слизи, разрезая его пополам."
+        "С громким шлепком остатки слизи падают на землю и растворяются в громком шипящем звуке. "
+        "Ты получаешь 3 камня слизи и 200 exp."
         $ Zalt.exp = min(Zalt.exp+200, Zalt.maxlv*250+100*(Zalt.maxlv-1))
         $ jane_inv_M.take(slime_jewel,3)
         $ Map.ca2 = 1
@@ -222,10 +222,10 @@ label battle_cave_slime_lose:
     hide screen battle_item
     scene black
     stop music
-    "The slime overpowers you and grows to a tremendous size."
-    "You try to run but the creature grabs you by the hand and a cold shock succumbs you."
-    "It’s like every ounce of energy inside you is getting sapped away."
-    "Everything fades to black and you find yourself back outside of the cave."
+    "Слизь одолевает вас и вырастает до огромных размеров."
+    "Ты пытаешься убежать, но существо хватает тебя за руку, и тебя охватывает холодный шок."
+    "Это как будто каждая унция энергии внутри вас высасывается."
+    "Все становится черным, и ты снова оказываешься за пределами пещеры."
     $ Zalt.hp = 1
     $ Zalt.cor = min(Zalt.cor+1,100)
     $ Zalt.Dungeon_leave = True

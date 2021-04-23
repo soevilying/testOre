@@ -70,61 +70,61 @@ translate Japanese battle_slimeT_40892431:
 translate Japanese battle_slime_loopT_4830c119:
 
 
-    "You dart forward and land a punch on the enemy."
+    "Ты бросаешься вперед и наносишь удар по врагу."
 
 
 translate Japanese battle_slime_loopT_030b4e8e:
 
 
-    "You hit the enemy with your Holy Fist."
+    "Ты бьешь врага своим Святым Кулаком."
 
 
 translate Japanese battle_slime_loopT_80db1c39:
 
 
-    "With blazing speed you hit the foe with Holy Fist."
+    "С молниеносной скоростью ты поражаешь врага Святым Кулаком."
 
 
 translate Japanese battle_slime_loopT_435f2cfd:
 
 
-    " (Damage dealt - [red_damage]hp)"
+    " (Нанесенный урон - [red_damage]hp)"
 
 
 translate Japanese battle_slime_loopT_834533d4:
 
 
-    "*Drink* 5hp restored"
+    "*Глоток* 5hp восстановлено"
 
 
 translate Japanese battle_slime_loopT_543c6dbc:
 
 
-    "You draw your sword and lunge in for an attack.\n(Damage dealt- [red_damage]hp)"
+    "Ты выхватываешь меч и бросаешься в атаку.\n(Нанесенный урон- [red_damage]hp)"
 
 
 translate Japanese battle_slime_loopT_e9038599:
 
 
-    "You draw your sword and lunge in for an attack.\n{b}{color=#ffd65c}(Critical damage! -[qty]hp){/color}"
+    "Ты выхватываешь меч и бросаешься в атаку.\n{b}{color=#ffd65c}(Критический урон! -[qty]hp){/color}"
 
 
 translate Japanese battle_slime_loopT_e4df89ec:
 
 
-    e "I can't fight anymore.."
+    e "Я больше не могу драться.."
 
 
 translate Japanese battle_slime_loopT_57bdc818:
 
 
-    "The enemy is too strong."
+    "Враг слишком силен."
 
 
 translate Japanese battle_slime_loopT_28827ee3:
 
 
-    "You’re knocked onto the ground."
+    "Тебя сбивают с ног."
 
 
 translate Japanese battle_slime_loopT_2db89b4d:
@@ -172,19 +172,19 @@ translate Japanese battle_slime_loopT_2e6347da:
 translate Japanese battle_slime_loopT_1c1b3af8:
 
 
-    "*Bind up* [Zalt.heal]hp restored"
+    "*Бандаж* [Zalt.heal]hp восстановлено"
 
 
 translate Japanese battle_slime_loopT_778a88bb:
 
 
-    "*Hp potion* [Zalt.heal]hp restored"
+    "*Зелье здоровья* [Zalt.heal]hp восстановлено"
 
 
 translate Japanese battle_slime_loopT_f156b915:
 
 
-    "*Mp potion* [Zalt.heal]mp restored"
+    "*Зелье маны* [Zalt.heal]mp восстановлено"
 
 
 translate Japanese battle_slime_loopT_1c4c85cf:
@@ -202,67 +202,67 @@ translate Japanese battle_slime_loopT_1c4c85cf_1:
 translate Japanese battle_slime_loopT_58382375:
 
 
-    "Slime's mucus is splattered all over you."
+    "Слизь разбрызгана по всему телу."
 
 
 translate Japanese battle_slime_loopT_15623e1d:
 
 
-    "You feel something hot from your crotch."
+    "Ты чувствуешь что-то горячее в промежности."
 
 
 translate Japanese battle_slime_loopT_21e9a951:
 
 
-    "[name]" "There seems to be something toxic in this mucus..."
+    "[name]" "Кажется, в этой слизи есть что-то ядовитое..."
 
 
 translate Japanese battle_slime_loopT_ace260ea:
 
 
-    "Slime" "RrrrrRRrrrr! {i}*The monster hits you*{/i}"
+    "Слизь" "РРРРРРРРРР! {i}*Монстр бьет тебя*{/i}"
 
 
 translate Japanese battle_slime_loopT_33b38e42:
 
 
-    "But you dodged its attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate Japanese battle_slime_loopT_ace260ea_1:
 
 
-    "Slime" "RrrrrRRrrrr! {i}*The monster hits you*{/i}"
+    "Слизь" "РРРРРРРРРР! {i}*Монстр бьет тебя*{/i}"
 
 
 translate Japanese battle_slime_loopT_2512bf32:
 
 
-    "Slime" "RrrrrRRrrrr!"
+    "Слизь" "РРРРРРРРРР!"
 
 
 translate Japanese battle_slime_loopT_57bdc818_1:
 
 
-    "The enemy is too strong."
+    "Враг слишком силен."
 
 
 translate Japanese battle_slime_loopT_28827ee3_1:
 
 
-    "You’re knocked onto the ground."
+    "Тебя сбивают с ног."
 
 
 translate Japanese battle_slime_loopT_55bbfd06:
 
 
-    "You're too horny to fight anymore."
+    "Ты слишком возбужден, чтобы драться."
 
 
 translate Japanese battle_slime_loopT_68c30cdd:
 
 
-    "You fall to the ground."
+    "Ты падаешь на землю."
 
 
 translate Japanese battle_slime_winT_6d0f344d:

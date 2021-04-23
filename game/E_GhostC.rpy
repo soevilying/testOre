@@ -73,7 +73,7 @@ label battle_GhostC_loop:
         $ players_turn = True
         $ res = ui.interact()
         $ players_turn = False
-        if res == "Holy Fist":
+        if res == "Святой Кулак":
             $ red_damage = renpy.random.randint(Zalt.MATK*2, int((Zalt.MATK*2.5)+15))
             $ wolf_hp -= red_damage
             $ Zalt.mp = min(Zalt.mp -20, Zalt.maxmp)
@@ -83,48 +83,48 @@ label battle_GhostC_loop:
                 pass
             elif True:
                 if Random == 1:
-                    "You dart forward and land a punch on the enemy."
+                    "Ты бросаешься вперед и наносишь удар по врагу."
                 elif Random == 2:
-                    "You hit the enemy with your Holy Fist."
+                    "Ты бьешь врага своим Святым Кулаком."
                 elif True:
-                    "With blazing speed you hit the foe with Holy Fist."
-                " (Damage dealt - [red_damage]hp)"
+                    "С молниеносной скоростью ты поражаешь врага Святым Кулаком."
+                " (Нанесенный урон - [red_damage]hp)"
 
-        if res == "Items":
+        if res == "Предметы":
             $ Zalt.hp = min(Zalt.hp +5, Zalt.maxhp)
             $ cookies_left -= 1
-            "*Drink* 5hp restored"
+            "*Глоток* 5hp восстановлено"
 
-        if res == "Attack":
+        if res == "Атака":
             "You swing your sword but it cannot hurt the phantom."
 
-        if res == "Submit":
-            e "I can't fight anymore.."
-            "The enemy is too strong."
-            "You’re knocked onto the ground."
+        if res == "Подчиниться":
+            e "Я больше не могу драться.."
+            "Враг слишком силен."
+            "Тебя сбивают с ног."
             jump battle_GhostC_lose
 
-        if res == "Bind up":
+        if res == "Бандаж":
             $ Zalt.heal = renpy.random.randint((Zalt.int*2)+20, (Zalt.int*2)+35)
             $ Zalt.hp = min(Zalt.hp+Zalt.heal, Zalt.maxhp)
             $ Zalt.mp = min(Zalt.mp -20, Zalt.maxmp)
-            "*Bind up* [Zalt.heal]hp restored"
-        if res == "Flirt":
+            "*Бандаж* [Zalt.heal]hp восстановлено"
+        if res == "Флиртовать":
             "You cannot seduce a non living creature."
-        if res == "Hp potion":
+        if res == "Зелье Здоровья":
             $ Zalt.heal = 60
             $ Zalt.hp = min(Zalt.hp+Zalt.heal, Zalt.maxhp)
             $ jane_inv.drop(hp_potion)
-            "*Hp potion* [Zalt.heal]hp restored"
-        if res == "Mp potion":
+            "*Зелье здоровья* [Zalt.heal]hp восстановлено"
+        if res == "Зелье маны":
             $ Zalt.heal = 60
             $ Zalt.mp = min(Zalt.mp+Zalt.heal, Zalt.maxmp)
             $ jane_inv.drop(mp_potion)
-            "*Mp potion* [Zalt.heal]mp restored"
-        if res == "Escape":
+            "*Зелье маны* [Zalt.heal]mp восстановлено"
+        if res == "Сбежать":
             $ Random = renpy.random.randint(1, 2)
             if Random == 1:
-                "You run away."
+                "Ты убегаешь."
                 hide screen simple_stats_screen
                 hide screen battle_menu
                 hide screen battle_skill
@@ -137,7 +137,7 @@ label battle_GhostC_loop:
                     jump castle_map
                 jump castle_prison
             elif True:
-                "Escape failed!"
+                "Побег не удался!"
                 pass
         elif True:
             pass
@@ -148,7 +148,7 @@ label battle_GhostC_loop:
             $ Random = renpy.random.randint(1, 100)
             if Random <= Battle.dodge:
                 "The phantom’s long arm extends forward and it grabs a large chunk of wood."
-                "But you dodged its attack!"
+                "Но ты увернулся от его атаки!"
             elif True:
                 $ wolf_damage = renpy.random.randint(20, 40)
                 $ Zalt.hp -= max(1,wolf_damage-Zalt.DEF)
@@ -163,7 +163,7 @@ label battle_GhostC_loop:
             $ Random = renpy.random.randint(1, 100)
             if Random <= Battle.dodge:
                 "The phantom forms a dark energy ball."
-                "But you dodged its attack!"
+                "Но ты увернулся от его атаки!"
             elif True:
                 $ wolf_damage = renpy.random.randint(20, 40)
                 $ Zalt.hp -= max(1,wolf_damage-Zalt.DEF)
@@ -182,12 +182,12 @@ label battle_GhostC_loop:
             jump battle_GhostC_win
 
     elif Zalt.hp <= 0:
-        "The enemy is too strong."
-        "You’re knocked onto the ground."
+        "Враг слишком силен."
+        "Тебя сбивают с ног."
         jump battle_GhostC_lose
     elif Zalt.lust >= Zalt.maxlust:
-        "You're too horny to fight anymore."
-        "You fall to the ground."
+        "Ты слишком возбужден, чтобы драться."
+        "Ты падаешь на землю."
         jump battle_GhostC_lose
     elif True:
         jump battle_GhostC_loop

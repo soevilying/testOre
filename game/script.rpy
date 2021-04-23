@@ -161,7 +161,7 @@ default Time.mins = 30
 default _dismiss_pause = False
 
 
-default res = u"Attack"
+default res = u"Атака"
 default Zalt.str = 0
 default Zalt.agi = 0
 default Zalt.int = 0
@@ -255,8 +255,8 @@ default Items.weapon = 0
 
 
 default coin = Item("Coin", "The coins that are commonly used in many places.", "images/items/coins.png", 1,True, 6, act=Show("inventory_popup", message="This item is only used in crafting"),note="Money,money.")
-default hp_potion = Item("HP potion", "A small bottle of red potion, can restore 60 HP.", "images/items/hp_potion.png", 45,True, 1, act=Show("inventory_popup", message="This item is only used in crafting"),statsChange=[0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0])
-default mp_potion = Item("MP potion", "A small bottle of blue potion, can restore 50 MP.", "images/items/mp_potion.png", 45,True, 1, act=Show("inventory_popup", message="This item is only used in crafting"),statsChange=[0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0])
+default hp_potion = Item("Зелье Здоровья", "A small bottle of red potion, can restore 60 HP.", "images/items/hp_potion.png", 45,True, 1, act=Show("inventory_popup", message="This item is only used in crafting"),statsChange=[0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0])
+default mp_potion = Item("Зелье маны", "A small bottle of blue potion, can restore 50 MP.", "images/items/mp_potion.png", 45,True, 1, act=Show("inventory_popup", message="This item is only used in crafting"),statsChange=[0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0])
 default jerky = Item("Jerky", "A small piece of dried jerky, easy to be preserved, can restore 60 HP.\n(Can't be used in battle)", "images/items/jerky.png", 20,True, 1, act=Show("inventory_popup", message="This item is only used in crafting"),statsChange=[0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0])
 default beer = Item("Beer", "A cup of plain ale, be careful, don't drink too much, can restore 60 MP.\n(Can't be used in battle)", "images/items/beer.png", 30,True, 1, act=Show("inventory_popup", message="This item is only used in crafting"),statsChange=[0,0,0,0,0,0,0,0,0,0,60,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0])
 default rum = Item("Rum", "A bottle of Fire rum, be careful, don't drink too much, can restore 80 MP.\n(Can't be used in battle)", "images/items/rum.png", 50,True, 1, act=Show("inventory_popup", message="This item is only used in crafting"),statsChange=[0,0,0,0,0,0,0,0,0,0,80,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0])

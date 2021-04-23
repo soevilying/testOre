@@ -38,7 +38,7 @@ label battle_bullcamp_loop:
         $ players_turn = True
         $ res = ui.interact()
         $ players_turn = False
-        if res == "Holy Fist":
+        if res == "Святой Кулак":
             $ red_damage = renpy.random.randint(Zalt.MATK*2, int((Zalt.MATK*2.5)+10))
             $ wolf_hp -= red_damage
             $ Zalt.mp = min(Zalt.mp -20, Zalt.maxmp)
@@ -48,18 +48,18 @@ label battle_bullcamp_loop:
                 pass
             elif True:
                 if Random == 1:
-                    "You dart forward and land a punch on the enemy."
+                    "Ты бросаешься вперед и наносишь удар по врагу."
                 elif Random == 2:
-                    "You hit the enemy with your Holy Fist."
+                    "Ты бьешь врага своим Святым Кулаком."
                 elif True:
-                    "With blazing speed you hit the foe with Holy Fist."
-                " (Damage dealt - [red_damage]hp)"
-        if res == "Items":
+                    "С молниеносной скоростью ты поражаешь врага Святым Кулаком."
+                " (Нанесенный урон - [red_damage]hp)"
+        if res == "Предметы":
             $ Zalt.hp = min(Zalt.hp +5, Zalt.maxhp)
             $ cookies_left -= 1
-            "*Drink* 5hp restored"
+            "*Глоток* 5hp восстановлено"
 
-        if res == "Attack":
+        if res == "Атака":
             $ red_damage = renpy.random.randint(max(1,Zalt.ATK-20), Zalt.ATK)
             $ Random = renpy.random.randint(0, 100)
             if Random >= Zalt.CRIT:
@@ -67,50 +67,50 @@ label battle_bullcamp_loop:
                 if wolf_hp <= 0:
                     pass
                 elif True:
-                    "You draw your sword and lunge in for an attack.\n(Damage dealt- [red_damage]hp)"
+                    "Ты выхватываешь меч и бросаешься в атаку.\n(Нанесенный урон- [red_damage]hp)"
             elif True:
                 $ qty = red_damage*2
                 $ wolf_hp -= red_damage*2
                 if wolf_hp <= 0:
                     pass
                 elif True:
-                    "You draw your sword and lunge in for an attack.\n{b}{color=#ffd65c}(Critical damage! -[qty]hp){/color}"
+                    "Ты выхватываешь меч и бросаешься в атаку.\n{b}{color=#ffd65c}(Критический урон! -[qty]hp){/color}"
 
-        if res == "Submit":
-            e "I can't fight anymore.."
-            "The enemy is too strong."
-            "You’re knocked onto the ground."
+        if res == "Подчиниться":
+            e "Я больше не могу драться.."
+            "Враг слишком силен."
+            "Тебя сбивают с ног."
             jump battle_bullcamp_lose
-        if res == "Flirt":
+        if res == "Флиртовать":
             $ Random = renpy.random.randint(1, 4)
             if Random == 1:
                 $ Zalt.flirt = renpy.random.randint((Zalt.cha*2)+3, (Zalt.cha*2)+10)
                 $ wolf_lust = wolf_lust+Zalt.flirt
-                "You strike a series of poses with a confident smile."
-                "The enemy is intrigued by your movements."
+                "Ты принимаешь ряд поз с уверенной улыбкой."
+                "Враг заинтригован твоими движениями."
             elif Random == 2:
                 $ Zalt.flirt = renpy.random.randint((Zalt.cha*2)+3, (Zalt.cha*2)+10)
                 $ wolf_lust = wolf_lust+Zalt.flirt
-                "You tease your opponent by attacking them head on."
-                "Rubbing them sensually on their nipples, crotch, and lightly fingering their backsides."
-                "Your opponent is panting heavily, clutching his obvious erection."
+                "Ты дразнишь своего противника, атакуя его в лоб."
+                "Чувственно потирая соски, промежность и слегка поглаживая ягодицы."
+                "Твой противник тяжело дышит, сжимая свою очевидную эрекцию."
             elif Random == 3:
                 $ Zalt.flirt = renpy.random.randint((Zalt.cha*2)+3, (Zalt.cha*2)+10)
                 $ wolf_lust = wolf_lust+Zalt.flirt
-                "You rub your crotch sensually, letting your cock chub up a bit before flashing your dickhead at the enemy."
-                "Lust fills your opponent, he is immobilized by powerful desire for your cock."
+                "Ты чувственно потираешь промежность, позволяя своему члену немного приподняться, прежде чем показать свой член врагу."
+                "Похоть наполняет твоего противника, он обездвижен мощным желанием твоего члена."
             elif True:
                 $ Random = renpy.random.randint(1, 3)
                 if Random == 1:
-                    "You strike a series of poses with a confident smile."
-                    "The enemy catches you by surprise and throws you back. You barely land on your feet."
+                    "Ты принимаешь ряд поз с уверенной улыбкой."
+                    "Враг застает тебя врасплох и отбрасывает назад. Ты едва держишься на ногах."
                 elif Random == 2:
-                    "You tease your opponent by attacking them head on."
-                    "Rubbing them sensually on their nipples, crotch, and lightly fingering their backsides."
-                    "The enemy ignores your attempts to seduce him."
+                    "Ты дразнишь своего противника, атакуя его в лоб."
+                    "Чувственно потирая соски, промежность и слегка поглаживая ягодицы."
+                    "Враг игнорирует твои попытки соблазнить его."
                 elif True:
-                    "You rub your crotch sensually, letting your cock chub up a bit before flashing your dickhead at the enemy."
-                    "The enemy is enraged by your actions."
+                    "Ты чувственно потираешь промежность, позволяя своему члену немного приподняться, прежде чем показать свой член врагу."
+                    "Враг в ярости от твоих действий."
             if wolf_lust >= 100:
                 hide screen simple_stats_screen
                 hide screen battle_menu
@@ -118,27 +118,27 @@ label battle_bullcamp_loop:
                 hide screen battle_item
 
                 stop music
-                "The bull falls to his knees, his hard cock throbs and leaks pre all over the battlefield."
+                "Бык падает на колени, его твердый член пульсирует и течет по всему полю боя."
                 jump battle_bullcamp_win
             elif True:
                 pass
-        if res == "Bind up":
+        if res == "Бандаж":
             $ Zalt.heal = renpy.random.randint((Zalt.int*2)+20, (Zalt.int*2)+35)
             $ Zalt.hp = min(Zalt.hp+Zalt.heal, Zalt.maxhp)
             $ Zalt.mp = min(Zalt.mp -20, Zalt.maxmp)
-            "*Bind up* [Zalt.heal]hp restored"
-        if res == "Hp potion":
+            "*Бандаж* [Zalt.heal]hp восстановлено"
+        if res == "Зелье здоровья":
             $ Zalt.heal = 60
             $ Zalt.hp = min(Zalt.hp+Zalt.heal, Zalt.maxhp)
             $ jane_inv.drop(hp_potion)
-            "*Hp potion* [Zalt.heal]hp restored"
-        if res == "Mp potion":
+            "*Зелье здоровья* [Zalt.heal]hp восстановлено"
+        if res == "Зелье маны":
             $ Zalt.heal = 60
             $ Zalt.mp = min(Zalt.mp+Zalt.heal, Zalt.maxmp)
             $ jane_inv.drop(mp_potion)
-            "*Mp potion* [Zalt.heal]mp restored"
-        if res == "Escape":
-            "You can't run!"
+            "*Зелье * [Zalt.heal]mp восстановлено"
+        if res == "Сбежать":
+            "Ты не можешь бежать!"
             pass
         elif True:
             pass
@@ -147,12 +147,12 @@ label battle_bullcamp_loop:
             jump battle_bullcamp_win
         $ Random = renpy.random.randint(1, 80)
         if Random <= Battle.dodge:
-            "Bull warrior" "RrrrrRRrrrr! {i}*The monster hits you*{/i}"
-            "But you dodged his attack!"
+            "Бык-воин" "РРРРРРРРРР! {i}*Монстр бьет тебя*{/i}"
+            "Но ты увернулся от его атаки!"
         elif True:
             $ wolf_damage = renpy.random.randint(20, 35)
             $ Zalt.hp -= max(1,wolf_damage-Zalt.DEF)
-            "Bull warrior" "RrrrrRRrrrr! {i}*The monster hits you*{/i}"
+            "Бык-воин" "РРРРРРРРРР! {i}*Монстр бьет тебя*{/i}"
 
         if Battle.holyfcd !=0:
             $ Battle.holyfcd = Battle.holyfcd-1
@@ -168,12 +168,12 @@ label battle_bullcamp_loop:
             jump battle_bullcamp_win
 
     elif Zalt.hp <= 0:
-        "The enemy bull’s fist slams hard onto your gut."
-        "Your body spasms for a second and you are left wobbling on your feet."
+        "Кулак вражеского быка с силой ударяет тебя в живот."
+        "Твое тело на секунду сжимается, и ты остаешься шататься на ногах."
         jump battle_bullcamp_lose
     elif Zalt.lust >= Zalt.maxlust:
-        "You're too horny to fight anymore."
-        "You fall to the ground."
+        "Ты слишком возбужден, чтобы драться."
+        "Ты падаешь на землю."
         jump battle_bullcamp_lose
     elif True:
         jump battle_bullcamp_loop
@@ -189,81 +189,81 @@ label battle_bullcamp_win:
         hide screen battle_skill
         hide screen battle_item
     elif True:
-        "Bull warrior" "Egh..!"
+        "Бык-воин" "Эх...!"
         hide bullw with dissolve
     $ Foe.bullcamp = Foe.bullcamp+1
     if Foe.bullcamp ==1:
-        "You plunge your blade into the bull’s chest."
+        "Ты вонзаешь свой клинок в грудь быка."
         play sound "music/blood.ogg"
-        "Screaming at the top of your lungs you pull hard on the blade, slashing the bull in half."
-        "He falls to the ground-dead."
-        "On the other side, the lizards manage to take out their foe."
-        "The bull’s face turns a dark shade of purple and collapses onto the ground."
-        "He writhes in pain, foam spewing out of his mouth before his entire body stops moving."
-        "You shout at the lizard."
-        e 1 "I will go to set the final stone.Stay here,be careful!"
-        "You run to the final place."
+        "Крича во всю глотку, ты изо всех сил тянешь лезвие, разрубая быка пополам."
+        "Он падает на землю-мертвый."
+        "С другой стороны, ящерицам удается уничтожить своего врага."
+        "Морда быка становится темно-фиолетовой и падает на землю."
+        "Он корчится от боли, изо рта вырывается пена, прежде чем все его тело перестает двигаться."
+        "Ты кричишь на ящерицу."
+        e 1 "Я пойду, чтобы установить последний камень.Оставайтесь здесь,будьте осторожны!"
+        "Ты бежишь к последнему месту."
         scene black with dissolve
-        "Third Lizard Guard" "More are coming!"
+        "Третья гвардия Ящериц" "Идут еще!"
         play sound "music/foot1.ogg"
         scene forest 6 with dissolve
-        "You set the final stone on its place"
+        "ТЫ ставишь последний камень на его место"
         with flashbulb
-        e 9 "Ahhhhhhh"
-        "<Your HP turns to 1>"
-        "<Your MP turns to 1>"
+        e 9 "А-а-а-а"
+        "<Твоё HP превращается в 1>"
+        "<Твоё MP превращается в 1>"
         $ Zalt.hp = 1
         $ Zalt.mp = 1
-        "From the fog two more bulls come running in."
-        "Third Bull Warrior" "Traitor!!"
-        "Fourth Bull Warrior" "Let's take the wolf!"
-        "Dazed and in pain."
-        "No time for respite, you need to beat the bulls."
+        "Из тумана выбегают еще два быка."
+        "Третий Бык-Воин" "Предатель!!"
+        "Четвертый Бык-воин" "Давайте возьмем волка!"
+        "Ошеломленный и страдающий."
+        "Нет времени на передышку, нужно бить быков."
         jump battle_bullcamp
     elif Foe.bullcamp ==2:
-        "Another bulls attack!!"
+        "Еще одна атака быков!!"
         jump battle_bullcamp
     elif True:
-        "Your sword cuts him across his right arm."
-        "All over his body, blood drips from the wounds you’ve inflicted upon him, still the bull will not relent."
-        "His movement is sluggish but he still clutches his weapon for dear life. "
-        "This has gone long enough, you let the bull raise his axe over his head before swiftly stabbing him through the jaw.."
-        "Your blade pierces his skull and a jet of blood fires from it, you barely dodge the torrent of blood."
-        "The larger bull falls to the ground with a heavy thud. "
-        "Third Lizard Warrior" "Look out [name]."
-        e 9 "Huh?"
-        "You leap out of the way just in time as the other bull’s dead body flies across and lands with the bull you just killed."
-        "First Lizard Warrior" "You alright there, [name]?"
-        "You land flat on your back, dazed and in pain."
-        "The lizards try to help you get up."
-        "Second Lizard Warrior" "You handled them like a champ, but boy they looked more pissed than ever."
-        "Third Lizard Warrior" "Yeah, what did you do to them?"
-        e 13 "I don’t know... Look, give me some times to rest."
-        e 1 "Can you guys do something about the bodies?"
-        "First Lizard Warrior" "No problem, two of us can clean up the mess."
-        "You return to the campsite take a rest."
-        "One by one the lizards move the dead body. "
-        "It’s difficult to concentrate on the task at hand, there’s a part of you that worries if the lizards know that you’ve made contact with the bull tribe."
-        "You smack yourself in the head to focus, and find they already plant the third stone when you left."
-        "You turn to the final point and accidentally looked at the first bull you killed."
-        "His dead eyes stare at you with such hatred and malice you have to look away. "
-        "After the last body is removed, the lizards come back."
-        "First Lizard Guard" "How do we even know if this thing works?"
-        "Second Lizard Guard" "Hey, what were you thinking when you used those stones?"
-        e 1 "I was just thinking keep whatever that would harm the lizard tribe and its allies out."
-        "Second Lizard Guard" "Hmm, let me try something. "
-        "The lizard walks away from the group, away from where you planted the first two rune stone and picks up a pebble."
-        "He tosses it at your feet but the pebble hits an invisible wall and falls."
-        "The other two lizards are wowed by what they saw. "
-        e 13 "Guess that means it works."
-        "Second Lizard Guard" "Hey, this is kinda fun."
-        "He keeps finding pebbles to throw at the invisible barrier just to see which one would finally get through."
-        "You roll your eyes and instruct them that it’s time to return to the village. "
+        "Твой меч рассекает ему правую руку."
+        "По всему его телу капает кровь из ран, которые ты ему нанес, но бык не сдается."
+        "Его движения вялые, но он все еще сжимает свое оружие изо всех сил. "
+        "Это продолжалось достаточно долго, ты позволил быку поднять топор над головой, прежде чем быстро ударить его в челюсть.."
+        "Твой клинок пронзает его череп, и из него вылетает струя крови, ты едва уклоняешься от потока крови."
+        "Большой бык с тяжелым стуком падает на землю. "
+        "Третий Воин Ящериц" "Берегись [name]."
+        e 9 "А?"
+        "Ты отскакиваешь в сторону как раз в тот момент, когда мертвое тело другого быка пролетает мимо и приземляется рядом с быком, которого ты только что убил."
+        "Первый Воин Ящериц" "Ты там в порядке, [name]?"
+        "Ты падаешь на спину, ошеломленный и страдающий от боли."
+        "Ящерицы пытаются помочь тебе встать."
+        "Второй Воин Ящериц" "Ты обращался с ними как чемпион, но, боже, они выглядели еще более взбешенными, чем когда-либо."
+        "Третий Воин Ящериц" "Да, что ты с ними сделал?"
+        e 13 "Я не знаю... Послушай, дай мне немного отдохнуть."
+        e 1 "Ребята, вы можете что-нибудь сделать с телами?"
+        "Первый Воин Ящериц" "Нет проблем, вдвоем мы сможем навести порядок."
+        "ТЫ возвращаешься в лагерь и отдыхаешь."
+        "Одна за другой ящерицы передвигают мертвое тело. "
+        "Трудно сконцентрироваться на текущей задаче, какая-то часть тебя волнуется, если ящерицы узнают, что ты вступил в контакт с племенем быков."
+        "Ты бьешь себя по голове, чтобы сосредоточиться, и обнаруживаешь, что они уже установили третий камень, когда ты ушёл."
+        "ТЫ переходишь к последней точке и случайно смотришь на первого убитого тобой быка."
+        "Его мертвые глаза смотрят на тебя с такой ненавистью и злобой, что тебе приходится отвести взгляд. "
+        "После избавления от последнего тела, ящерицы возвращаются."
+        "Первый охранник Ящериц" "Как мы вообще узнаем, работает ли эта штука?"
+        "Второй охранник Ящериц" "Эй, о чем ты думал, когда использовал эти камни?"
+        e 1 "Я просто думал о том, чтобы держать подальше все, что может навредить племени ящериц и их союзникам."
+        "Второй стражник Ящериц" "Хм, давай я кое-что попробую. "
+        "Ящерица отходит от группы, подальше от того места, где ты установил первые два рунных камня, и подбирает камешек."
+        "Он бросает его к твоим ногам, но камешек ударяется о невидимую стену и падает."
+        "Две другие ящерицы потрясены увиденным. "
+        e 13 "Думаю, это означает, что он работает."
+        "Второй охранник ящериц" "Эй, это довольно весело."
+        "Он все время находит камешки, чтобы бросить их в невидимый барьер, просто чтобы посмотреть, какой из них, наконец, пройдет."
+        "Ты закатываешь глаза и говоришь им, что пора возвращаться в деревню. "
         scene black with slow_dissolve
         hide red1
         hide red2
-        "Along the way the lizards share with you some of their concoctions to remove the bull’s blood from the sword and yourself."
-        "There wasn’t enough of it for everyone, but hopefully you are clean."
+        "По пути ящерицы делятся с тобой некоторыми из своих отваров, чтобы удалить бычью кровь с меча и с тебя самого."
+        "Его не хватило бы на всех, но, надеюсь, ты чист."
         jump Nauxus_camp_end
 
     return
@@ -276,41 +276,41 @@ label battle_bullcamp_lose:
     stop music
     if Foe.bullcamp ==0:
 
-        "As your reactions slow from the injuries inflicted on you, the bull warrior wastes no time in finding an opening."
-        "With a roar, the bull uses the blunt knob of his battle axe and smashes it against your knee."
+        "Поскольку твои реакции замедляются из-за нанесенных тебе ранений, воин-бык не тратит времени на поиски выхода."
+        "С ревом бык использует тупой набалдашник своего боевого топора и разбивает его о твое колено."
         show red1 at center with dissolve
         play sound "music/blood.ogg"
-        "You hear a sharp crack followed by a splitting pain as you lose your balance and fall screaming."
+        "Ты слышишь резкий треск, за которым следует раскалывающая боль, когда ты теряешь равновесие и падаешь с криком."
         show red2 at center with dissolve
         play sound "music/blood.ogg"
-        "As you feebly attempt to get back up with your bloodied hands, you look back up to see your foe gleefully smiling as he swings his weapon at your face."
+        "Когда ты слабо пытаешься подняться с окровавленными руками, ты оглядываешься назад, чтобы увидеть, как враг радостно улыбается, когда он замахивается своим оружием на твое лицо."
         scene black with vslow_dissolve
-        "Everything fades to black."
-        "{b}{color=#c22719}<GAME OVER>{/color}"
+        "Все становится черным."
+        "{b}{color=#c22719}<ИГРА ОКОНЧЕНА>{/color}"
         menu:
-            "New game" if True:
+            "Новая игра" if True:
                 return
-            "New game" if True:
+            "Новая игра" if True:
                 return
     elif Foe.bullcamp ==1 or Foe.bullcamp ==2:
-        "Too weak to fight back, your enemy kicks you square in the chest as you feel the wind get knocked out of you."
-        "You land flat on your back, dazed and in pain."
+        "Слишком слабый, чтобы сопротивляться, твой враг бьет тебя прямо в грудь, когда ты чувствуешь, что ветер выбивает из тебя."
+        "Ты падаешь на спину, ошеломленный и страдающий от боли."
         show red1 at center with dissolve
         play sound "music/blood.ogg"
-        "As you try to get back up, the bull doesn't spare you that moment as he brings down his axe onto your chest."
-        "You scream wildly as blood comes out of your mouth."
-        "Coughing up copious amounts of blood as you struggle to breathe."
+        "Когда ты пытаетесь подняться, бык не щадит тебя в этот момент, когда он опускает свой топор на твою грудь."
+        "Ты дико кричишь, когда изо рта у тебя течет кровь."
+        "Кашляя обильным количеством крови, ты изо всех сил пытаешься дышать."
         show red2 at center with dissolve
         play sound "music/blood.ogg"
-        "The bull pulls the axe from your sternum only to bring it down again, and again, and again."
-        "Cries for mercy slowly become garbled as your blood chokes you."
+        "Бык вытаскивает топор из твоей груди только для того, чтобы обрушить его снова, и снова, и снова."
+        "Крики о пощаде постепенно искажаются, когда кровь захлебывается."
         scene black with vslow_dissolve
-        "Everything fades to black."
-        "{b}{color=#c22719}<GAME OVER>{/color}"
+        "Все становится черным."
+        "{b}{color=#c22719}<ИГРА ОКОНЧЕНА>{/color}"
         menu:
-            "New game" if True:
+            "Новая игра" if True:
                 return
-            "New game" if True:
+            "Новая игра" if True:
                 return
     hide bullw with dissolve
 

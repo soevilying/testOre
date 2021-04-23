@@ -71,7 +71,7 @@ label forest_map_1:
                     elif True:
                         "You didn't find anything."
                     jump forest_map_1_menu
-            "Leave" if True:
+            "Уйти" if True:
 
 
                 hide screen f1_goods
@@ -258,7 +258,7 @@ label forest_map_2:
                     "You forge straight ahead, deeper into the forest."
                     hide screen f2_goods
                     jump forest_map
-                "Leave" if True:
+                "Уйти" if True:
                     hide screen f2_goods
                     jump forest_map
     label f2_mushroom:
@@ -496,7 +496,7 @@ label forest_map_3:
                 show thane stand at center with dissolve
                 t "Oh,[name]."
                 jump Thane_talk
-            "Leave" if True:
+            "Уйти" if True:
 
                 jump forest_map
     label f3_mushroom:
@@ -694,7 +694,7 @@ label river_1:
                                 "You stand upon the road that connects the ravine, watching the water run down into the lake."
                                 "There is nothing to do here for now."
                             jump river_1_menu
-                "Leave" if True:
+                "Уйти" if True:
                     jump forest_map
 
 
@@ -762,7 +762,7 @@ label bulltribe_1:
         "Bull B" "Ragh! Stupid outsider, we’ll beat you til you understand we don’t want you!"
         e 9 "It seems they won't listen to me."
         e 9 "I need to find a way to reconcile first."
-        "You run away."
+        "Ты убегаешь."
         jump forest_map
 
 label forest_map_4:
@@ -806,7 +806,7 @@ label forest_map_4:
                 "The tree's corpse is still here,all the flowers on its back have withered away."
                 "It seems there is nothing to do here for now."
                 jump forest_map_4
-            "Leave" if True:
+            "Уйти" if True:
 
                 jump forest_map
     label f4_carrot:
@@ -976,7 +976,7 @@ label crossroad:
                     "You try to find a way in the fog."
                     "But to your surprise,you end up back to the crossroad again."
                     jump crossroad
-        "Leave" if True:
+        "Уйти" if True:
 
             jump forest_map
 label swamp:
@@ -1039,7 +1039,7 @@ label swamp:
             jump Nauxus_meet
         "Find the catapult bull" if Quest.bomba == 3:
             jump Axel_bomb_done
-        "Leave" if True:
+        "Уйти" if True:
             jump forest_map
 
 
@@ -1182,7 +1182,7 @@ label lake_bank:
                 elif True:
                     "You don't have bait."
                     jump lake_bank_menu
-            "Leave" if True:
+            "Уйти" if True:
                 jump forest_map
 
 label bullforest:
@@ -1324,7 +1324,7 @@ label bullforest:
                     elif True:
                         "You didn't find anything."
                     jump bullforest
-            "Leave" if True:
+            "Уйти" if True:
 
                 hide screen f5_goods
                 jump forest_map
@@ -1450,7 +1450,7 @@ label deepswamp:
             elif True:
                 "Nothing in the night for now"
                 jump deepswamp
-        "Leave" if True:
+        "Уйти" if True:
 
 
             jump forest_map
@@ -1516,7 +1516,7 @@ label cave_entrance:
                 jump Cave_map0
         "Enter" if Map.Cavetorch == Time.days:
             jump Cave_map0
-        "Leave" if True:
+        "Уйти" if True:
 
             jump forest_map
 
@@ -1601,7 +1601,7 @@ label lakecabin:
                     hide screen f6_goods
                     jump Ebb_hang
                 jump lakecabin_inside
-            "Leave" if True:
+            "Уйти" if True:
 
                 jump forest_map
 
@@ -1730,7 +1730,7 @@ label lakecabin_inside:
         "Enter Flo's room" if Flo.room != 0:
             "It's closed."
             jump lakecabin_inside
-        "Leave" if True:
+        "Уйти" if True:
             jump lakecabin
 
 label lakecabin_ebbroom:
@@ -1749,6 +1749,6 @@ label lakecabin_ebbroom:
     menu:
         "Talk to Ebb" if True:
             jump Ebb_talk0
-        "Leave" if True:
+        "Уйти" if True:
             jump lakecabin_inside
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -4,43 +4,43 @@
 translate Japanese battle_tree_loop_834533d4:
 
 
-    "*Drink* 5hp restored"
+    "*Глоток* 5hp восстановлено"
 
 
 translate Japanese battle_tree_loop_543c6dbc:
 
 
-    "You draw your sword and lunge in for an attack.\n(Damage dealt- [red_damage]hp)"
+    "Ты выхватываешь меч и бросаешься в атаку.\n(Нанесенный урон- [red_damage]hp)"
 
 
 translate Japanese battle_tree_loop_e9038599:
 
 
-    "You draw your sword and lunge in for an attack.\n{b}{color=#ffd65c}(Critical damage! -[qty]hp){/color}"
+    "Ты выхватываешь меч и бросаешься в атаку.\n{b}{color=#ffd65c}(Критический урон! -[qty]hp){/color}"
 
 
 translate Japanese battle_tree_loop_e4df89ec:
 
 
-    e "I can't fight anymore.."
+    e "Я больше не могу драться.."
 
 
 translate Japanese battle_tree_loop_57bdc818:
 
 
-    "The enemy is too strong."
+    "Враг слишком силен."
 
 
 translate Japanese battle_tree_loop_28827ee3:
 
 
-    "You’re knocked onto the ground."
+    "Тебя сбивают с ног."
 
 
 translate Japanese battle_tree_loop_1c1b3af8:
 
 
-    "*Bind up* [Zalt.heal]hp restored"
+    "*Бандаж* [Zalt.heal]hp восстановлено"
 
 
 translate Japanese battle_tree_loop_51f3fe94:
@@ -82,25 +82,25 @@ translate Japanese battle_tree_loop_5fa5c681_2:
 translate Japanese battle_tree_loop_778a88bb:
 
 
-    "*Hp potion* [Zalt.heal]hp restored"
+    "*Зелье здоровья* [Zalt.heal]hp восстановлено"
 
 
 translate Japanese battle_tree_loop_f156b915:
 
 
-    "*Mp potion* [Zalt.heal]mp restored"
+    "*Зелье маны* [Zalt.heal]mp восстановлено"
 
 
 translate Japanese battle_tree_loop_9f1d9dc5:
 
 
-    "You run away."
+    "Ты убегаешь."
 
 
 translate Japanese battle_tree_loop_3c2a98ba:
 
 
-    "Escape failed!"
+    "Побег не удался!"
 
 
 translate Japanese battle_tree_loop_d1dd8fa9:
@@ -124,7 +124,7 @@ translate Japanese battle_tree_loop_b570d3d3:
 translate Japanese battle_tree_loop_33b38e42:
 
 
-    "But you dodged its attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate Japanese battle_tree_loop_d1dd8fa9_1:
@@ -166,7 +166,7 @@ translate Japanese battle_tree_loop_b570d3d3_2:
 translate Japanese battle_tree_loop_33b38e42_1:
 
 
-    "But you dodged its attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate Japanese battle_tree_loop_d1dd8fa9_3:
@@ -196,25 +196,25 @@ translate Japanese battle_tree_loop_092984a1:
 translate Japanese battle_tree_loop_57bdc818_1:
 
 
-    "The enemy is too strong."
+    "Враг слишком силен."
 
 
 translate Japanese battle_tree_loop_28827ee3_1:
 
 
-    "You’re knocked onto the ground."
+    "Тебя сбивают с ног."
 
 
 translate Japanese battle_tree_loop_55bbfd06:
 
 
-    "You're too horny to fight anymore."
+    "Ты слишком возбужден, чтобы драться."
 
 
 translate Japanese battle_tree_loop_68c30cdd:
 
 
-    "You fall to the ground."
+    "Ты падаешь на землю."
 
 
 translate Japanese battle_tree_win_64ab44ce:

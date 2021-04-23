@@ -856,7 +856,7 @@ translate Russian bulltribe_1_d8daaa4d:
 translate Russian bulltribe_1_9f1d9dc5:
 
 
-    "You run away."
+    "Ты убегаешь."
 
 
 translate Russian forest_map_4_e4b57dbc:

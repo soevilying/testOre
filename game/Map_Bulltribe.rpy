@@ -531,7 +531,7 @@ label Bull_tribe_map:
                         $ buy = 3
                     "5" if True:
                         $ buy = 5
-                    "Leave" if True:
+                    "Уйти" if True:
                         jump Bull_tribe_map
                 if jane_inv.qty(coin) >=30*buy:
                     $ jane_inv.drop(coin,30*buy)
@@ -552,7 +552,7 @@ label Bull_tribe_map:
                         $ buy = 3
                     "5" if True:
                         $ buy = 5
-                    "Leave" if True:
+                    "Уйти" if True:
                         jump Bull_tribe_map
                 if jane_inv.qty(coin) >=60*buy:
                     $ jane_inv.drop(coin,60*buy)
@@ -572,7 +572,7 @@ label Bull_tribe_map:
                         $ buy = 3
                     "5" if True:
                         $ buy = 5
-                    "Leave" if True:
+                    "Уйти" if True:
                         jump Bull_tribe_map
                 if jane_inv.qty(coin) >=80*buy:
                     $ jane_inv.drop(coin,80*buy)
@@ -626,7 +626,7 @@ label Bull_tribe_map:
                             jump Bull_tribe_map
                     "Not now" if True:
                         jump Bull_tribe_map
-            "Leave" if True:
+            "Уйти" if True:
                 jump Bull_tribe_map
         jump Bull_tribe_map
         return
@@ -981,14 +981,14 @@ label Room3:
                         $ Zalt.cha = Zalt.cha +1
                         "Your {color=#19c22a}CHA{/color} now increase to {b}{color=#19c22a}[Zalt.cha]{/color}."
                         jump Room3
-                    "Leave" if True:
+                    "Уйти" if True:
                         jump Room3
             "Exchange 3 AP to 1 lv-point" if Zalt.AP >= 3:
                 "{b}{color=#19c22a}You get 1 lv-point.{/color}."
                 $ Zalt.AP = Zalt.AP -3
                 $ Zalt.points = Zalt.points +1
                 jump Room3
-            "Leave" if True:
+            "Уйти" if True:
                 jump Room3
 
     if _return == 'outroom':
@@ -1057,7 +1057,7 @@ label Room3:
                 $ Zalt.MATK = Zalt.MATK +1
 
                 jump Room3
-            "Leave" if True:
+            "Уйти" if True:
                 jump Room3
 
     if _return == 'eyvind_solo':

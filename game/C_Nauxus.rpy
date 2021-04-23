@@ -984,7 +984,7 @@ label Nauxus_tribe_talk1:
                 n "Let’s just say some people lie to themselves because they desperately want to believe in the truth."
                 n "Now which is which I will let you decide."
                 jump Nauxus_tribe_talk1
-            "Leave" if True:
+            "Уйти" if True:
 
                 jump Lizard_tribe_meetingroom
     elif True:
@@ -1080,7 +1080,7 @@ label Nauxus_tribe_talk1:
                 "Nauxus laughs loudly, and pats you on the back, knocking the wind out of you with just one hit."
                 show nauxus stand at center with dissolve
                 jump Nauxus_tribe_talk1
-            "Leave" if True:
+            "Уйти" if True:
                 jump Lizard_tribe_meetingroom
 label Nauxus_artwork:
     $ renpy.music.set_pause(True, channel='Chan1')

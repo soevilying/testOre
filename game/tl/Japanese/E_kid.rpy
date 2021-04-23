@@ -160,7 +160,7 @@ translate Japanese battle_kid_afe31dcb:
 translate Japanese battle_kid_loop_4830c119:
 
 
-    "You dart forward and land a punch on the enemy."
+    "Ты бросаешься вперед и наносишь удар по врагу."
 
 
 translate Japanese battle_kid_loop_97a6a9e9:
@@ -172,49 +172,49 @@ translate Japanese battle_kid_loop_97a6a9e9:
 translate Japanese battle_kid_loop_80db1c39:
 
 
-    "With blazing speed you hit the foe with Holy Fist."
+    "С молниеносной скоростью ты поражаешь врага Святым Кулаком."
 
 
 translate Japanese battle_kid_loop_435f2cfd:
 
 
-    " (Damage dealt - [red_damage]hp)"
+    " (Нанесенный урон - [red_damage]hp)"
 
 
 translate Japanese battle_kid_loop_834533d4:
 
 
-    "*Drink* 5hp restored"
+    "*Глоток* 5hp восстановлено"
 
 
 translate Japanese battle_kid_loop_543c6dbc:
 
 
-    "You draw your sword and lunge in for an attack.\n(Damage dealt- [red_damage]hp)"
+    "Ты выхватываешь меч и бросаешься в атаку.\n(Нанесенный урон- [red_damage]hp)"
 
 
 translate Japanese battle_kid_loop_e9038599:
 
 
-    "You draw your sword and lunge in for an attack.\n{b}{color=#ffd65c}(Critical damage! -[qty]hp){/color}"
+    "Ты выхватываешь меч и бросаешься в атаку.\n{b}{color=#ffd65c}(Критический урон! -[qty]hp){/color}"
 
 
 translate Japanese battle_kid_loop_e4df89ec:
 
 
-    e "I can't fight anymore.."
+    e "Я больше не могу драться.."
 
 
 translate Japanese battle_kid_loop_57bdc818:
 
 
-    "The enemy is too strong."
+    "Враг слишком силен."
 
 
 translate Japanese battle_kid_loop_28827ee3:
 
 
-    "You’re knocked onto the ground."
+    "Тебя сбивают с ног."
 
 
 translate Japanese battle_kid_loop_93629a42:
@@ -226,19 +226,19 @@ translate Japanese battle_kid_loop_93629a42:
 translate Japanese battle_kid_loop_1c1b3af8:
 
 
-    "*Bind up* [Zalt.heal]hp restored"
+    "*Бандаж* [Zalt.heal]hp восстановлено"
 
 
 translate Japanese battle_kid_loop_778a88bb:
 
 
-    "*Hp potion* [Zalt.heal]hp restored"
+    "*Зелье здоровья* [Zalt.heal]hp восстановлено"
 
 
 translate Japanese battle_kid_loop_f156b915:
 
 
-    "*Mp potion* [Zalt.heal]mp restored"
+    "*Зелье маны* [Zalt.heal]mp восстановлено"
 
 
 translate Japanese battle_kid_loop_b92987be:
@@ -328,13 +328,13 @@ translate Japanese battle_kid_loop_9c980c9f:
 translate Japanese battle_kid_loop_55bbfd06:
 
 
-    "You're too horny to fight anymore."
+    "Ты слишком возбужден, чтобы драться."
 
 
 translate Japanese battle_kid_loop_68c30cdd:
 
 
-    "You fall to the ground."
+    "Ты падаешь на землю."
 
 
 translate Japanese battle_kid_win_a4db5cbd:

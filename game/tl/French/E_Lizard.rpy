@@ -4,31 +4,31 @@
 translate French battle_lizard_loop_4830c119:
 
 
-    "You dart forward and land a punch on the enemy."
+    "Ты бросаешься вперед и наносишь удар по врагу."
 
 
 translate French battle_lizard_loop_030b4e8e:
 
 
-    "You hit the enemy with your Holy Fist."
+    "Ты бьешь врага своим Святым Кулаком."
 
 
 translate French battle_lizard_loop_80db1c39:
 
 
-    "With blazing speed you hit the foe with Holy Fist."
+    "С молниеносной скоростью ты поражаешь врага Святым Кулаком."
 
 
 translate French battle_lizard_loop_435f2cfd:
 
 
-    " (Damage dealt - [red_damage]hp)"
+    " (Нанесенный урон - [red_damage]hp)"
 
 
 translate French battle_lizard_loop_834533d4:
 
 
-    "*Drink* 5hp restored"
+    "*Глоток* 5hp восстановлено"
 
 
 translate French battle_lizard_loop_5ffe792e:
@@ -40,19 +40,19 @@ translate French battle_lizard_loop_5ffe792e:
 translate French battle_lizard_loop_e4df89ec:
 
 
-    e "I can't fight anymore.."
+    e "Я больше не могу драться.."
 
 
 translate French battle_lizard_loop_57bdc818:
 
 
-    "The enemy is too strong."
+    "Враг слишком силен."
 
 
 translate French battle_lizard_loop_28827ee3:
 
 
-    "You’re knocked onto the ground."
+    "Тебя сбивают с ног."
 
 
 translate French battle_lizard_loop_1ee0effe:
@@ -172,31 +172,31 @@ translate French battle_lizard_loop_24a6b154:
 translate French battle_lizard_loop_1c1b3af8:
 
 
-    "*Bind up* [Zalt.heal]hp restored"
+    "*Бандаж* [Zalt.heal]hp восстановлено"
 
 
 translate French battle_lizard_loop_778a88bb:
 
 
-    "*Hp potion* [Zalt.heal]hp restored"
+    "*Зелье здоровья* [Zalt.heal]hp восстановлено"
 
 
 translate French battle_lizard_loop_f156b915:
 
 
-    "*Mp potion* [Zalt.heal]mp restored"
+    "*Зелье маны* [Zalt.heal]mp восстановлено"
 
 
 translate French battle_lizard_loop_9f1d9dc5:
 
 
-    "You run away."
+    "Ты убегаешь."
 
 
 translate French battle_lizard_loop_3c2a98ba:
 
 
-    "Escape failed!"
+    "Побег не удался!"
 
 
 translate French battle_lizard_loop_9e95c91a:
@@ -208,7 +208,7 @@ translate French battle_lizard_loop_9e95c91a:
 translate French battle_lizard_loop_0369d5cf:
 
 
-    "But you dodged his attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate French battle_lizard_loop_bb1ac6e5:
@@ -256,7 +256,7 @@ translate French battle_lizard_loop_ec2cd9c5:
 translate French battle_lizard_loop_0369d5cf_1:
 
 
-    "But you dodged his attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate French battle_lizard_loop_ec2cd9c5_1:
@@ -268,13 +268,13 @@ translate French battle_lizard_loop_ec2cd9c5_1:
 translate French battle_lizard_loop_55bbfd06:
 
 
-    "You're too horny to fight anymore."
+    "Ты слишком возбужден, чтобы драться."
 
 
 translate French battle_lizard_loop_68c30cdd:
 
 
-    "You fall to the ground."
+    "Ты падаешь на землю."
 
 
 translate French battle_lizard_win_529238f0:

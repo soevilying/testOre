@@ -718,7 +718,7 @@ label Hakan_talk:
             $ Time.event1 = Time.days
 
             jump T_basement
-        "Leave" if True:
+        "Уйти" if True:
             jump map1
 
 label Hakan_ride:
@@ -811,7 +811,7 @@ label Hakan_ride:
         "В тот момент, когда ты чувствуешь прикосновение его кончика прямо к твоей дырочке, твои пальцы глубже погружаются в его спину."
         e 0 "Я не...Я не думаю, что это произойдет.-"
         h "Ш-ш-ш, просто поверь мне. Расслабиться."
-        "Хакан достает пузырек со слизью и наливает на него немного жидкости."
+        "Хакан достает пузырек со слизью и выливает из него немного жидкости."
         "Он тянется к тебе сзади и растирает смазку по всему члену."
         h "Ну вот, теперь делай свое дело."
         "Ты снова располагаешься над драконьим членом, медленно опускаешься и позволяешь большому члену касаться твоей ожидающей дырочки."
@@ -853,7 +853,7 @@ label Hakan_ride:
         "Твои пальцы глубоко впиваются в его лопатки, и он в ответ напрягает мышцы спины."
         "Смазка хлещет из твоего члена по всему прессу Хакана."
         "Движения Хакана становятся все более безжалостными и быстрыми."
-        "То, как его глаза туманятся и слегка закатываются к потолку, говорит о том, что он близко."
+        "То, как его глаза застилает пелена и слегка закатываются к потолку, говорит о том, что он близко."
         "Самзка извергается из его члена, как прорванная плотина, смачивая внутренности твоей задницы своим теплом."
         "Твой член кричит, требуя освобождения, когда из твоего кончика извергается еще больше смазки."
         "Дракон просто стонет без остановки, в то время как его хватка на твоей заднице становится все крепче по мере приближения кульминации."
@@ -873,16 +873,16 @@ label Hakan_ride:
                 scene hakan ride6b with vslow_dissolve
                 "Там так много спермы, что струйки ее начинают вытекать из твоей задницы, покрывая яйца и лобок дракона."
                 "Вы оба тяжело дышите и с тоской смотрите друг другу в глаза."
-            "Разбрызгай его по мне" if True:
+            "Разбрызгай по мне" if True:
                 e 0 "Не смей кончать в меня. Ах! Я не могу больше сдерживаться!"
                 with flashbulb
                 "Хакан с громким хлопком вытаскивает свой член из твоего тела."
                 h "Ах! Вот оно!"
                 scene hakan ride6a with vslow_dissolve
-                "Его член стреляет залпами спермы в воздух, сила его спермы настолько сильна, что некоторые из них ударяются о стену напротив кровати."
-                "Звук спермы, падающей на пол, заглушается вашим криками экстаза."
+                "Его член стреляет залпами спермы в воздух, сила его спермы настолько велика, что некоторые из них ударяются о стену напротив кровати."
+                "Звук спермы, падающей на пол, заглушается вашими криками экстаза."
                 "Твой член выстреливает спермой по всей груди Хакана, часть ее попадает на его губы, которые он счастливо облизывает."
-                "Потоки спермы Хакана стекают по его стволу и просачиваются в твою голодную попку."
+                "Потоки спермы Хакана стекают по его стволу и просачивается в твою голодную попку."
                 "Тяжело дыша, вы оба с тоской смотрите друг на друга."
         "Ты наклоняешься для поцелуя, но Хакан отводит голову."
         h "Извини, парень, я не целуюсь с приятелями по траху."
@@ -937,120 +937,120 @@ label Hakan_ride:
         e 0 "Эй!"
 
         "Ты отшатываешься, нет никаких сомнений, что он оставил красный отпечаток руки там, где отшлепал тебя."
-        "Your voluptuous rump jiggles from the impact, but before you can rub your butt cheek."
-        "He rests his hands on the side of your rump, ruffling your fur. "
-        "Almost massaging your bruised ass."
-        "The way he kneads your soft ass makes you grip harder on his shoulders."
-        "He spreads and pushes your butt cheeks together all the while with a cocky grin on his face."
-        "You merely whimper with a look of embarrassment as your dick throbs with excitement."
-        "Your cock slides back and forth from the gentle pushes from your behind, until your cock slides right between his bulging pectorals."
-        "The smoothness of his scales gripping your cock sends an electric jolt of pleasure up your spine."
-        "Your cock blasts a hot wad of pre all over Hakan’s cleavage."
+        "Твоя сладострастная задница покачивается от удара, но прежде чем ты успеваешь потереть ягодицу."
+        "Он кладет руки на твой зад, ероша твою шерсть. "
+        "Почти массируя твою ушибленную задницу."
+        "То, как он разминает твою мягкую попку, заставляет тебя крепче вцепиться в его плечи."
+        "Он раздвигает и толкает твои ягодицы вместе все время с дерзкой ухмылкой на лице."
+        "Ты просто хнычешь от смущения, когда твой член пульсирует от возбуждения."
+        "Твой член скользит взад и вперед от нежных толчков сзади, пока твой член не скользит прямо между его выпуклой грудью."
+        "Гладкость его чешуи, сжимающей твой член, посылает электрический разряд удовольствия вверх по позвоночнику."
+        "Твой член взрывает горячий комок смазки по всему декольте Хакана."
 
 
-        h "Tell me, how much you want it, pup?"
-        e 0 "Please, fuck me. "
-        "You feel Hakan’s dick hardening and pressing against your butthole even more."
+        h "Скажи мне, чего ты хочешь, щенок?"
+        e 0 "Пожалуйста, трахни меня. "
+        "Ты чувствуешь, как член Хакана твердеет и прижимается к твоей заднице еще сильнее."
         scene hakan ride2 with vslow_dissolve
-        "The way the cock pulsates against your ass crack as it slowly rises to its full size makes you howl softly."
-        e 0 "Fuck, this thing never gets easier."
-        h "You know you love it Fuzz Butt."
-        "Hakan’s pecs then clench themselves around your cock with a single flex."
-        e 0 "Aahh!"
-        "You throw your head up towards the ceiling, and you let out a heavy moan."
-        "Hakan’s pecs ripples from the lower pec towards the top."
-        "The movement of his chest muscles massages your cock forcing more pre to spew from your tip."
-        e 0 "Fuck, that trick always gets to me."
-        "Hakan licks his lips."
-        h " No one can resist these pecs."
-        "He bounces his pecs."
-        h "Now open that hole nice and wide."
-        "You rock your hips left and right trying to position your hole right on top of the dragon’s dickhead."
-        "The moment you feel the touch of his tip right on your hole your fingers dig deeper into his back."
-        e 0 "Got the lube?"
-        h "Always, hang on"
-        "Hakan pulls the vial of slime and pours a dollop of the liquid."
-        "He reaches behind you and rubs the lube all over his dick."
-        h "There we go, now do your thing."
-        "You position yourself again over the dragon’s dick, you slowly lower yourself and let the large dickhead brush against your waiting hole."
-        "Its sheer girth stretches your butthole forcing you to take deep breaths."
-        "But the fullness of his rock-hard dick inside you is too much for you to not focus on it."
-        "Your face eases from a tight teeth grinding wince into a satisfied grin as your hole begins to loosen up to Hakan’s member."
+        "То, как член пульсирует в твоей попке, медленно поднимаясь до своего полного размера, заставляет тебя тихо выть."
+        e 0 "Черт, как эта штука может быть такой большой? Это неестественно."
+        h "Ты же знаешь, что тебе это нравится, Пушистая задница."
+        "Затем грудь Хакана сжимаются вокруг твоего члена одним движением."
+        e 0 "А-а-а!"
+        "Ты запрокидываешь голову к потолку и издаешь тяжелый стон."
+        "Грудь Хакана колеблется от нижней к верхней."
+        "Движение его груди массирует твой член, заставляя еще больше смазки извергаться из твоего кончика."
+        e 0 "Черт, что ты со мной делаешь?"
+        "Хакан облизывает губы."
+        h "Никто не может устоять перед этой грудью."
+        "Он подпрыгивает грудью."
+        h "А теперь открой эту дыру хорошенько и пошире."
+        "Ты раскачиваешь бедрами влево и вправо, пытаясь расположить свою дырочку прямо на члене дракона."
+        "В тот момент, когда ты чувствуешь прикосновение его кончика прямо к твоей дырочке, твои пальцы глубже погружаются в его спину."
+        e 0 "Смазка есть?"
+        h "Всегда, держи"
+        "Хакан достает пузырек со слизью и выливает из него немного жидкости."
+        "Он тянется к тебе сзади и растирает смазку по всему члену."
+        h "Ну вот, теперь делай свое дело."
+        "Ты снова располагаешься над драконьим членом, медленно опускаешься и позволяешь большому члену касаться твоей ожидающей дырочке."
+        "Его отвесный обхват растягивает твою задницу, заставляя глубоко дышать."
+        "Но полнота его твердого как камень члена внутри тебя слишком велика, чтобы ты не мог сосредоточиться на нем."
+        "Твое лицо смягчается от напряженного скрежета зубов в удовлетворенной ухмылке, когда твоя дырочка начинает привыкать к члену Хакана."
         scene hakan ride3 with vslow_dissolve
-        "You close your eyes and focus on the sound of Hakan’s breathing."
-        "Slowly, inch by inch Hakan’s dick enters your hole."
-        "Your ass barely reaches the base of his dick."
-        h "That’s it, pup. Take it all in."
+        "Ты закрываешь глаза и сосредотачиваешься на звуке дыхания Хакана."
+        "Медленно, дюйм за дюймом член Хакана входит в тебя."
+        "Твоя задница едва достигает основания его члена."
+        h "Вот и все, щенок. Ты справился."
         scene hakan ride4 with vslow_dissolve
-        e 0 "Aah! Too big!"
+        e 0 "Ааа! Слишком большой!"
         scene hakan ride5 with dissolve
-        h "Hehe, your tight ass feels so good on my cock. Now get ready pup!"
+        h "Хе-хе, твоя тугая попка так хорошо ощущается на моем члене. А теперь приготовься, щенок!"
         scene hakan ride4 with dissolve
-        "Hakan lifts you by the ass, his shaft slides partway out of you before he rams the entire length inside you."
-        "You wince in pain trying to accomodate Hakan’s powerful thrusts. "
+        "Хакан приподнимает тебя за задницу, его член частично выскальзывает из тебя, прежде чем он протаранит тебя на всю длину."
+        "Ты морщишься от боли, пытаясь приспособиться к мощным толчкам Хакана. "
         scene hakan ride5 with dissolve
-        "However, slowly the pain melts away and your body gives in to the waves of pleasure every time Hakan’s dick hits your spot."
-        "You don’t even realize your own body is riding the dragon’s dick with intense vigor."
-        scene hakan ride4 with dissolve
-        scene hakan ride5 with dissolve
-        e 0 "Yes, yes, yes! Fuck me harder!"
-        h "Yeah! Ride that cock!"
+        "Тем не менее, медленно боль тает, и твое тело поддается волнам удовольствия каждый раз, когда член Хакана входит."
+        "Ты даже не осознаешь, что собственное тело скачет на члене дракона с интенсивной энергией."
         scene hakan ride4 with dissolve
         scene hakan ride5 with dissolve
-        "Both your bodies rub and slide off each other from the torrential sweat dripping down your naked forms."
-        "The feeling of your nipples pressing against the dragon’s muscular chest sends tingles down your spine."
-        e 0 "Fuck! Aah! Aah! More, more!"
+        e 0 "Да, да, да! Трахни меня сильнее!"
+        h "Да! Оседлай этот член!"
         scene hakan ride4 with dissolve
         scene hakan ride5 with dissolve
-        "Your glute muscles clench harder on Hakan's dick."
-        "Hakan roars and the bed grunts and squeaks as you both succumb to your desires."
-        "You don't want this moment to end but your body screams for Hakan's load."
+        "Оба ваших тела трутся и соскальзывают друг с друга от проливного пота, стекающего по вашим обнаженным формам."
+        "От ощущения, как твои соски прижимаются к мускулистой груди дракона, по спине пробегают мурашки."
+        e 0 "Черт! Ааа! Ааа! Еще, еще!"
         scene hakan ride4 with dissolve
         scene hakan ride5 with dissolve
-        "The pressure builds up inside your balls, the cum churning and the urge to shoot your hot load is rising with every thrust of Hakan’s cock."
-        "Your fingers dig deep into his shoulder blades and he flexes his back muscles in response."
-        "Pre gushes from your cock all over Hakan’s abs."
-        "Hakan’s movements grow ever more ruthless and faster."
-        "The way his eyes fog up and slightly roll upwards to the ceiling tells you he’s close."
-        "Pre erupts from his cock like a broken dam, wetting the insides of your ass with its warmth."
-        "Your cock screams for release as more pre spews from your tip."
-        "The dragon just groans none stop while his grip on your ass gets tighter as climax approaches."
-        h "Fuck, how you want it, pup?"
+        "Твои ягодицы сильнее сжимаются на члене Хакана."
+        "Хакан рычит, кровать хрюкает и скрипит, когда вы оба поддаетесь своим желаниям."
+        "Ты не хочешь, чтобы этот момент заканчивался, но твое тело кричит о том, чтобы Хакан взял на себя груз."
+        scene hakan ride4 with dissolve
+        scene hakan ride5 with dissolve
+        "Давление нарастает внутри твоих яиц, сперма взбивается, и желание выстрелить своим горячим грузом растет с каждым толчком члена Хакана."
+        "Твои пальцы глубоко впиваются в его лопатки, и он в ответ напрягает мышцы спины."
+        "Смазка хлещет из твоего члена по всему прессу Хакана."
+        "Движения Хакана становятся все более безжалостными и быстрыми."
+        "То, как его глаза застилает пелена и слегка закатываются к потолку, говорит о том, что он близко."
+        "Смазка извергается из его члена, как прорванная плотина, смачивая внутренности твоей задницы своим теплом."
+        "Твой член кричит, требуя освобождения, когда из твоего кончика извергается еще больше смазки."
+        "Дракон просто стонет без остановки, в то время как его хватка на твоей заднице становится все крепче по мере приближения кульминации."
+        h "Черт, как ты этого хочешь, щенок?"
         menu:
-            "Inside me" if True:
-                e 0 "Yes! Cum inside me. Ah, I’m cumming!"
+            "Внутрь меня" if True:
+                e 0 "Да! Кончи в меня. Ах, я кончаю!"
                 with flashbulb
-                "With a mighty roar you both unleash your seed."
+                "С могучим ревом вы оба высвобождаете свое семя."
                 scene hakan ride4 with dissolve
-                "Hakan’s cum explodes inside you, his warm cum fills your insides like a geyser."
+                "Сперма Хакана взрывается внутри тебя, его теплая сперма заполняет твои внутренности, как гейзер."
                 scene hakan ride5 with dissolve
-                "You cum all over Hakan’s hairy chest."
-                "Some of the cum flies into his mouth, and the dragon laps it up hungrily."
+                "Ты кончаешь на волосатую грудь Хакана."
+                "Часть спермы влетает ему в рот, и дракон жадно глотает ее."
                 with flashbulb
-                "Your entire body shudders as he fires another hot load inside you, just as thick and strong before."
+                "Все твое тело содрогается, когда он запускает в тебя еще один горячий заряд, такой же густой и сильный, как раньше."
                 scene hakan ride6b with vslow_dissolve
-                "There’s so much cum that streams of it begins to leak out of your ass, coating the dragon’s balls and pubes."
-                "The both of you breathe heavily and look longingly into each other's eyes."
-            "Spray it all over me" if True:
-                e 0 "Don’t you dare cum inside me. Ahh! I can’t hold it anymore!"
+                "Там так много спермы, что струйки ее начинают вытекать из твоей задницы, покрывая яйца и лобок дракона."
+                "Вы оба тяжело дышите и с тоской смотрите друг другу в глаза."
+            "Разбрызгай её по мне" if True:
+                e 0 "Не смей кончать в меня. Ах! Я не могу больше сдерживаться!"
                 with flashbulb
-                "With a mighty roar you both unleash your seed."
-                h "Argh! Here it comes!"
+                "С могучим ревом вы оба высвобождаете свое семя."
+                h "Ай! Вот оно!"
                 scene hakan ride6a with vslow_dissolve
-                "His cock fires volleys of cum into the air, the force of his cumshot is so strong some of it hits the wall across from the bed."
-                "The sound of cum hitting the floor is drowned out by both of your screams of ecstasy."
-                "Your cock fires its cum all over Hakan’s chest, some of it landing on his lips which he licks up happily."
-                "Streams of Hakan’s cum dribbles along his shaft and leaks into your hungry butt crack."
-                "Panting heavily, you both look at each other with longing eyes."
-        "He pulls you in for a warm hug."
-        "Hakan’s soft dick slides out of you, leaving you feeling slightly empty inside."
+                "Его член стреляет залпами спермы в воздух, сила его спермы настолько велика, что некоторые из них ударяются о стену напротив кровати."
+                "Звук спермы, падающей на пол, заглушается вашими криками экстаза."
+                "Твой член выстреливает спермой по всей груди Хакана, часть ее попадает на его губы, которые он счастливо облизывает."
+                "Потоки спермы Хакана стекают по его стволу и просачивается в твою голодную попку."
+                "Тяжело дыша, вы оба с тоской смотрите друг на друга."
+        "Он притягивает тебя в теплые объятия."
+        "Мягкий член Хакана выскальзывает из тебя, оставляя ощущение легкой пустоты внутри."
     scene black with vslow_dissolve
-    "The two of you fall asleep in each others embrace."
+    "Вы оба засыпаете в объятиях друг друга."
     "..."
     "......"
     scene room 1 with vslow_dissolve
-    "When you wake up, you find yourself lying in bed alone."
-    "After simply cleaning yourself, you get up and set off."
+    "Когда ты просыпаешься, обнаруживаешь, что лежишь в постели один."
+    "Просто приведя себя в порядок, ты встаешь и уходишь."
     $ Zalt.lust = 0
     $ sex = True
     $ Time.hours = Time.hours +4

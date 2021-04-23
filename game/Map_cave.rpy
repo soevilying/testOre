@@ -109,7 +109,7 @@ label Cave_map:
                 $ Zalt.lust = 0
                 $ Time.mins = Time.mins+15
                 jump Cave_map
-            "Leave" if True:
+            "Уйти" if True:
 
                 jump Cave_map
     if _return == 'point 2':
@@ -261,7 +261,7 @@ label Cave_map:
                     $ Map.ca8 = 3
 
                     jump battle_cave_bull
-                "Leave" if True:
+                "Уйти" if True:
                     e 5 "...I don't know why, but I think they are very dangerous."
                     "You decide to leave them alone."
                     $ Map.ca8 = 2
@@ -279,7 +279,7 @@ label Cave_map:
                     "Angry Bull Warrior" "Give us back what’s ours, demon!"
                     $ Map.ca8 = 3
                     jump battle_cave_bull
-                "Leave" if True:
+                "Уйти" if True:
                     e 5 "...I don't know why, but I think they are very dangerous."
                     "You decide to leave them alone."
                     jump Cave_map
@@ -543,7 +543,7 @@ label Cave_map:
                     elif True:
                         e 1 "I need a rope then I can climb down the statue."
                         jump Cave_map
-                "Leave" if True:
+                "Уйти" if True:
                     jump Cave_map
         elif True:
 
@@ -705,13 +705,13 @@ label Cave_ferryman:
                                         "Did you make the right move?"
                                         $ Map.ca5 = 4
                                         jump Cave_map
-                                    "Leave" if True:
+                                    "Уйти" if True:
                                         jump Cave_ferryman
-                            "Leave" if True:
+                            "Уйти" if True:
                                 jump Cave_ferryman
-                    "Leave" if True:
+                    "Уйти" if True:
                         jump Cave_ferryman
-            "Leave" if True:
+            "Уйти" if True:
 
                 e 12 "Yeah, well good luck with that. "
                 "You leave the figure and head back to the crossroad."
@@ -725,7 +725,7 @@ label Cave_ferryman:
                         "You try to grab the cloak but the fabric disintegrates upon your touch and turns to dust."
                         $ Map.ca5 = 5
                         jump ferryman_cloak
-                    "Leave" if True:
+                    "Уйти" if True:
 
                         jump Cave_map
         elif True:
@@ -793,7 +793,7 @@ label Cave_statue:
                     $ PPEXP = 30*Zalt.A_exp_lv
                     "{color=#19c22a}You get {b}[PPEXP]{/b} A-EXP.{/color}"
                     jump Cave_map
-            "Leave" if True:
+            "Уйти" if True:
                 jump Cave_map
 
 
@@ -968,9 +968,9 @@ label Cave_pillars:
                         e 1 "I get a idea."
                         e 13 "I’m going to need 2 ropes to make this plan work. "
                         jump Cave_pillars
-                "Leave" if True:
+                "Уйти" if True:
                     jump Cave_map
-        "Leave" if True:
+        "Уйти" if True:
 
 
             jump Cave_map
@@ -1274,7 +1274,7 @@ label Cave_map_ferryman:
         $ Time.mins = Time.mins +10
         "The ferryman is waiting for you."
         menu:
-            "Leave" if True:
+            "Уйти" if True:
                 e 1 "Time to leave."
                 "The figure bows slightly."
                 $ renpy.music.set_volume(0, 3, channel = "Chan1")
@@ -1315,7 +1315,7 @@ label Cave_map_ferryman:
         play sound "music/foot1.ogg"
         "The ferryman is waiting for you."
         menu:
-            "Leave" if True:
+            "Уйти" if True:
                 e 1 "Time to leave."
                 "The figure bows slightly."
                 $ renpy.music.set_volume(0, 3, channel = "Chan1")

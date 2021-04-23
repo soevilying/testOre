@@ -4551,8 +4551,8 @@ translate Thai strings:
     new "Ask about remarrying"
 
 
-    old "Leave"
-    new "Leave"
+    old "Уйти"
+    new "Уйти"
 
 
     old "Ask about the fog"

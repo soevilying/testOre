@@ -82,7 +82,7 @@ translate Thai battle_knight_7913f4cb:
 translate Thai battle_knight_loop_4830c119:
 
 
-    "You dart forward and land a punch on the enemy."
+    "Ты бросаешься вперед и наносишь удар по врагу."
 
 
 translate Thai battle_knight_loop_97a6a9e9:
@@ -94,49 +94,49 @@ translate Thai battle_knight_loop_97a6a9e9:
 translate Thai battle_knight_loop_80db1c39:
 
 
-    "With blazing speed you hit the foe with Holy Fist."
+    "С молниеносной скоростью ты поражаешь врага Святым Кулаком."
 
 
 translate Thai battle_knight_loop_435f2cfd:
 
 
-    " (Damage dealt - [red_damage]hp)"
+    " (Нанесенный урон - [red_damage]hp)"
 
 
 translate Thai battle_knight_loop_834533d4:
 
 
-    "*Drink* 5hp restored"
+    "*Глоток* 5hp восстановлено"
 
 
 translate Thai battle_knight_loop_543c6dbc:
 
 
-    "You draw your sword and lunge in for an attack.\n(Damage dealt- [red_damage]hp)"
+    "Ты выхватываешь меч и бросаешься в атаку.\n(Нанесенный урон- [red_damage]hp)"
 
 
 translate Thai battle_knight_loop_e9038599:
 
 
-    "You draw your sword and lunge in for an attack.\n{b}{color=#ffd65c}(Critical damage! -[qty]hp){/color}"
+    "Ты выхватываешь меч и бросаешься в атаку.\n{b}{color=#ffd65c}(Критический урон! -[qty]hp){/color}"
 
 
 translate Thai battle_knight_loop_e4df89ec:
 
 
-    e "I can't fight anymore.."
+    e "Я больше не могу драться.."
 
 
 translate Thai battle_knight_loop_57bdc818:
 
 
-    "The enemy is too strong."
+    "Враг слишком силен."
 
 
 translate Thai battle_knight_loop_28827ee3:
 
 
-    "You’re knocked onto the ground."
+    "Тебя сбивают с ног."
 
 
 translate Thai battle_knight_loop_93629a42:
@@ -148,19 +148,19 @@ translate Thai battle_knight_loop_93629a42:
 translate Thai battle_knight_loop_1c1b3af8:
 
 
-    "*Bind up* [Zalt.heal]hp restored"
+    "*Бандаж* [Zalt.heal]hp восстановлено"
 
 
 translate Thai battle_knight_loop_778a88bb:
 
 
-    "*Hp potion* [Zalt.heal]hp restored"
+    "*Зелье здоровья* [Zalt.heal]hp восстановлено"
 
 
 translate Thai battle_knight_loop_f156b915:
 
 
-    "*Mp potion* [Zalt.heal]mp restored"
+    "*Зелье маны* [Zalt.heal]mp восстановлено"
 
 
 translate Thai battle_knight_loop_b92987be:
@@ -178,7 +178,7 @@ translate Thai battle_knight_loop_88a99eea:
 translate Thai battle_knight_loop_33b38e42:
 
 
-    "But you dodged its attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate Thai battle_knight_loop_88a99eea_1:
@@ -214,7 +214,7 @@ translate Thai battle_knight_loop_1143118c:
 translate Thai battle_knight_loop_33b38e42_1:
 
 
-    "But you dodged its attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate Thai battle_knight_loop_67a0d8f3_1:
@@ -262,13 +262,13 @@ translate Thai battle_knight_loop_e95aac3b:
 translate Thai battle_knight_loop_55bbfd06:
 
 
-    "You're too horny to fight anymore."
+    "Ты слишком возбужден, чтобы драться."
 
 
 translate Thai battle_knight_loop_68c30cdd:
 
 
-    "You fall to the ground."
+    "Ты падаешь на землю."
 
 
 translate Thai battle_knight_win_0d661f82:

@@ -1061,7 +1061,7 @@ screen keyboard_help():
         text _("Navigate the interface.")
 
     hbox:
-        label _("Escape")
+        label _("Сбежать")
         text _("Accesses the game menu.")
 
     hbox:

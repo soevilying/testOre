@@ -910,31 +910,31 @@ translate French Roushk_fight_49322c28:
 translate French battle_roushk_loop_4830c119:
 
 
-    "You dart forward and land a punch on the enemy."
+    "Ты бросаешься вперед и наносишь удар по врагу."
 
 
 translate French battle_roushk_loop_030b4e8e:
 
 
-    "You hit the enemy with your Holy Fist."
+    "Ты бьешь врага своим Святым Кулаком."
 
 
 translate French battle_roushk_loop_80db1c39:
 
 
-    "With blazing speed you hit the foe with Holy Fist."
+    "С молниеносной скоростью ты поражаешь врага Святым Кулаком."
 
 
 translate French battle_roushk_loop_435f2cfd:
 
 
-    " (Damage dealt - [red_damage]hp)"
+    " (Нанесенный урон - [red_damage]hp)"
 
 
 translate French battle_roushk_loop_834533d4:
 
 
-    "*Drink* 5hp restored"
+    "*Глоток* 5hp восстановлено"
 
 
 translate French battle_roushk_loop_5ffe792e:
@@ -946,19 +946,19 @@ translate French battle_roushk_loop_5ffe792e:
 translate French battle_roushk_loop_fc623f8a:
 
 
-    e 0 "I can't fight anymore.."
+    e 0 "Я больше не могу драться.."
 
 
 translate French battle_roushk_loop_57bdc818:
 
 
-    "The enemy is too strong."
+    "Враг слишком силен."
 
 
 translate French battle_roushk_loop_28827ee3:
 
 
-    "You’re knocked onto the ground."
+    "Тебя сбивают с ног."
 
 
 translate French battle_roushk_loop_d6041983:
@@ -1048,31 +1048,31 @@ translate French battle_roushk_loop_ba40598b:
 translate French battle_roushk_loop_1c1b3af8:
 
 
-    "*Bind up* [Zalt.heal]hp restored"
+    "*Бандаж* [Zalt.heal]hp восстановлено"
 
 
 translate French battle_roushk_loop_778a88bb:
 
 
-    "*Hp potion* [Zalt.heal]hp restored"
+    "*Зелье здоровья* [Zalt.heal]hp восстановлено"
 
 
 translate French battle_roushk_loop_f156b915:
 
 
-    "*Mp potion* [Zalt.heal]mp restored"
+    "*Зелье маны* [Zalt.heal]mp восстановлено"
 
 
 translate French battle_roushk_loop_9f1d9dc5:
 
 
-    "You run away."
+    "Ты убегаешь."
 
 
 translate French battle_roushk_loop_3c2a98ba:
 
 
-    "Escape failed!"
+    "Побег не удался!"
 
 
 translate French battle_roushk_loop_9e95c91a:
@@ -1084,7 +1084,7 @@ translate French battle_roushk_loop_9e95c91a:
 translate French battle_roushk_loop_0369d5cf:
 
 
-    "But you dodged his attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate French battle_roushk_loop_bb1ac6e5:
@@ -1132,7 +1132,7 @@ translate French battle_roushk_loop_ec2cd9c5:
 translate French battle_roushk_loop_0369d5cf_1:
 
 
-    "But you dodged his attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate French battle_roushk_loop_ec2cd9c5_1:
@@ -1144,43 +1144,43 @@ translate French battle_roushk_loop_ec2cd9c5_1:
 translate French battle_roushk_loop_55bbfd06:
 
 
-    "You're too horny to fight anymore."
+    "Ты слишком возбужден, чтобы драться."
 
 
 translate French battle_roushk_loop_68c30cdd:
 
 
-    "You fall to the ground."
+    "Ты падаешь на землю."
 
 
 translate French battle_roushk_loop_4830c119_1:
 
 
-    "You dart forward and land a punch on the enemy."
+    "Ты бросаешься вперед и наносишь удар по врагу."
 
 
 translate French battle_roushk_loop_030b4e8e_1:
 
 
-    "You hit the enemy with your Holy Fist."
+    "Ты бьешь врага своим Святым Кулаком."
 
 
 translate French battle_roushk_loop_80db1c39_1:
 
 
-    "With blazing speed you hit the foe with Holy Fist."
+    "С молниеносной скоростью ты поражаешь врага Святым Кулаком."
 
 
 translate French battle_roushk_loop_435f2cfd_1:
 
 
-    " (Damage dealt - [red_damage]hp)"
+    " (Нанесенный урон - [red_damage]hp)"
 
 
 translate French battle_roushk_loop_834533d4_1:
 
 
-    "*Drink* 5hp restored"
+    "*Глоток* 5hp восстановлено"
 
 
 translate French battle_roushk_loop_5ffe792e_1:
@@ -1192,19 +1192,19 @@ translate French battle_roushk_loop_5ffe792e_1:
 translate French battle_roushk_loop_fc623f8a_1:
 
 
-    e 0 "I can't fight anymore.."
+    e 0 "Я больше не могу драться.."
 
 
 translate French battle_roushk_loop_57bdc818_1:
 
 
-    "The enemy is too strong."
+    "Враг слишком силен."
 
 
 translate French battle_roushk_loop_28827ee3_1:
 
 
-    "You’re knocked onto the ground."
+    "Тебя сбивают с ног."
 
 
 translate French battle_roushk_loop_f58111da:
@@ -1228,19 +1228,19 @@ translate French battle_roushk_loop_8cfaff2d:
 translate French battle_roushk_loop_1c1b3af8_1:
 
 
-    "*Bind up* [Zalt.heal]hp restored"
+    "*Бандаж* [Zalt.heal]hp восстановлено"
 
 
 translate French battle_roushk_loop_778a88bb_1:
 
 
-    "*Hp potion* [Zalt.heal]hp restored"
+    "*Зелье здоровья* [Zalt.heal]hp восстановлено"
 
 
 translate French battle_roushk_loop_f156b915_1:
 
 
-    "*Mp potion* [Zalt.heal]mp restored"
+    "*Зелье маны* [Zalt.heal]mp восстановлено"
 
 
 translate French battle_roushk_loop_62974653:
@@ -1258,7 +1258,7 @@ translate French battle_roushk_loop_7fe70d33:
 translate French battle_roushk_loop_0369d5cf_2:
 
 
-    "But you dodged his attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate French battle_roushk_loop_7fe70d33_1:
@@ -1288,7 +1288,7 @@ translate French battle_roushk_loop_33d0267a:
 translate French battle_roushk_loop_0369d5cf_3:
 
 
-    "But you dodged his attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate French battle_roushk_loop_736137a3:
@@ -1330,7 +1330,7 @@ translate French battle_roushk_loop_c6320aff:
 translate French battle_roushk_loop_0369d5cf_4:
 
 
-    "But you dodged his attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate French battle_roushk_loop_32e9f61d_1:
@@ -1360,13 +1360,13 @@ translate French battle_roushk_loop_c6320aff_1:
 translate French battle_roushk_loop_55bbfd06_1:
 
 
-    "You're too horny to fight anymore."
+    "Ты слишком возбужден, чтобы драться."
 
 
 translate French battle_roushk_loop_68c30cdd_1:
 
 
-    "You fall to the ground."
+    "Ты падаешь на землю."
 
 
 translate French battle_roushk_lose_8a889f52:
@@ -4336,31 +4336,31 @@ translate French Roushk_lizardtribe_b4d155d1:
 translate French Roushk_lizardtribe_battle_loop_4830c119:
 
 
-    "You dart forward and land a punch on the enemy."
+    "Ты бросаешься вперед и наносишь удар по врагу."
 
 
 translate French Roushk_lizardtribe_battle_loop_030b4e8e:
 
 
-    "You hit the enemy with your Holy Fist."
+    "Ты бьешь врага своим Святым Кулаком."
 
 
 translate French Roushk_lizardtribe_battle_loop_80db1c39:
 
 
-    "With blazing speed you hit the foe with Holy Fist."
+    "С молниеносной скоростью ты поражаешь врага Святым Кулаком."
 
 
 translate French Roushk_lizardtribe_battle_loop_435f2cfd:
 
 
-    " (Damage dealt - [red_damage]hp)"
+    " (Нанесенный урон - [red_damage]hp)"
 
 
 translate French Roushk_lizardtribe_battle_loop_834533d4:
 
 
-    "*Drink* 5hp restored"
+    "*Глоток* 5hp восстановлено"
 
 
 translate French Roushk_lizardtribe_battle_loop_5ffe792e:
@@ -4372,19 +4372,19 @@ translate French Roushk_lizardtribe_battle_loop_5ffe792e:
 translate French Roushk_lizardtribe_battle_loop_fc623f8a:
 
 
-    e 0 "I can't fight anymore.."
+    e 0 "Я больше не могу драться.."
 
 
 translate French Roushk_lizardtribe_battle_loop_57bdc818:
 
 
-    "The enemy is too strong."
+    "Враг слишком силен."
 
 
 translate French Roushk_lizardtribe_battle_loop_28827ee3:
 
 
-    "You’re knocked onto the ground."
+    "Тебя сбивают с ног."
 
 
 translate French Roushk_lizardtribe_battle_loop_f58111da:
@@ -4450,19 +4450,19 @@ translate French Roushk_lizardtribe_battle_loop_b758a446:
 translate French Roushk_lizardtribe_battle_loop_1c1b3af8:
 
 
-    "*Bind up* [Zalt.heal]hp restored"
+    "*Бандаж* [Zalt.heal]hp восстановлено"
 
 
 translate French Roushk_lizardtribe_battle_loop_778a88bb:
 
 
-    "*Hp potion* [Zalt.heal]hp restored"
+    "*Зелье здоровья* [Zalt.heal]hp восстановлено"
 
 
 translate French Roushk_lizardtribe_battle_loop_f156b915:
 
 
-    "*Mp potion* [Zalt.heal]mp restored"
+    "*Зелье маны* [Zalt.heal]mp восстановлено"
 
 
 translate French Roushk_lizardtribe_battle_loop_d956ffd9:
@@ -4504,7 +4504,7 @@ translate French Roushk_lizardtribe_battle_loop_e19fa646:
 translate French Roushk_lizardtribe_battle_loop_0369d5cf:
 
 
-    "But you dodged his attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate French Roushk_lizardtribe_battle_loop_a28a6ba7_1:
@@ -4588,7 +4588,7 @@ translate French Roushk_lizardtribe_battle_loop_2191ba47:
 translate French Roushk_lizardtribe_battle_loop_0369d5cf_1:
 
 
-    "But you dodged his attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate French Roushk_lizardtribe_battle_loop_0ab532af_1:
@@ -4720,13 +4720,13 @@ translate French Roushk_lizardtribe_battle_loop_ed8efc8f:
 translate French Roushk_lizardtribe_battle_loop_55bbfd06:
 
 
-    "You're too horny to fight anymore."
+    "Ты слишком возбужден, чтобы драться."
 
 
 translate French Roushk_lizardtribe_battle_loop_68c30cdd:
 
 
-    "You fall to the ground."
+    "Ты падаешь на землю."
 
 
 translate French Roushk_lizardtribe_battle_win_eeae0efa:
@@ -6724,31 +6724,31 @@ translate French Roushk_bulltribe_back_5f92525b:
 translate French Roushk_bulltribe_battle_loop_4830c119:
 
 
-    "You dart forward and land a punch on the enemy."
+    "Ты бросаешься вперед и наносишь удар по врагу."
 
 
 translate French Roushk_bulltribe_battle_loop_030b4e8e:
 
 
-    "You hit the enemy with your Holy Fist."
+    "Ты бьешь врага своим Святым Кулаком."
 
 
 translate French Roushk_bulltribe_battle_loop_80db1c39:
 
 
-    "With blazing speed you hit the foe with Holy Fist."
+    "С молниеносной скоростью ты поражаешь врага Святым Кулаком."
 
 
 translate French Roushk_bulltribe_battle_loop_435f2cfd:
 
 
-    " (Damage dealt - [red_damage]hp)"
+    " (Нанесенный урон - [red_damage]hp)"
 
 
 translate French Roushk_bulltribe_battle_loop_834533d4:
 
 
-    "*Drink* 5hp restored"
+    "*Глоток* 5hp восстановлено"
 
 
 translate French Roushk_bulltribe_battle_loop_5ffe792e:
@@ -6760,19 +6760,19 @@ translate French Roushk_bulltribe_battle_loop_5ffe792e:
 translate French Roushk_bulltribe_battle_loop_fc623f8a:
 
 
-    e 0 "I can't fight anymore.."
+    e 0 "Я больше не могу драться.."
 
 
 translate French Roushk_bulltribe_battle_loop_57bdc818:
 
 
-    "The enemy is too strong."
+    "Враг слишком силен."
 
 
 translate French Roushk_bulltribe_battle_loop_28827ee3:
 
 
-    "You’re knocked onto the ground."
+    "Тебя сбивают с ног."
 
 
 translate French Roushk_bulltribe_battle_loop_069a1770:
@@ -6868,19 +6868,19 @@ translate French Roushk_bulltribe_battle_loop_d2ebcbf1:
 translate French Roushk_bulltribe_battle_loop_1c1b3af8:
 
 
-    "*Bind up* [Zalt.heal]hp restored"
+    "*Бандаж* [Zalt.heal]hp восстановлено"
 
 
 translate French Roushk_bulltribe_battle_loop_778a88bb:
 
 
-    "*Hp potion* [Zalt.heal]hp restored"
+    "*Зелье здоровья* [Zalt.heal]hp восстановлено"
 
 
 translate French Roushk_bulltribe_battle_loop_f156b915:
 
 
-    "*Mp potion* [Zalt.heal]mp restored"
+    "*Зелье маны* [Zalt.heal]mp восстановлено"
 
 
 translate French Roushk_bulltribe_battle_loop_50554d42:
@@ -7042,13 +7042,13 @@ translate French Roushk_bulltribe_battle_loop_5ae075bf:
 translate French Roushk_bulltribe_battle_loop_55bbfd06:
 
 
-    "You're too horny to fight anymore."
+    "Ты слишком возбужден, чтобы драться."
 
 
 translate French Roushk_bulltribe_battle_loop_68c30cdd:
 
 
-    "You fall to the ground."
+    "Ты падаешь на землю."
 
 
 translate French Roushk_bulltribe_battle_win_d57b402f:
@@ -7552,31 +7552,31 @@ translate French Roushk_meko_4d53ec88:
 translate French Roushk_meko_battle_loop_4830c119:
 
 
-    "You dart forward and land a punch on the enemy."
+    "Ты бросаешься вперед и наносишь удар по врагу."
 
 
 translate French Roushk_meko_battle_loop_030b4e8e:
 
 
-    "You hit the enemy with your Holy Fist."
+    "Ты бьешь врага своим Святым Кулаком."
 
 
 translate French Roushk_meko_battle_loop_80db1c39:
 
 
-    "With blazing speed you hit the foe with Holy Fist."
+    "С молниеносной скоростью ты поражаешь врага Святым Кулаком."
 
 
 translate French Roushk_meko_battle_loop_435f2cfd:
 
 
-    " (Damage dealt - [red_damage]hp)"
+    " (Нанесенный урон - [red_damage]hp)"
 
 
 translate French Roushk_meko_battle_loop_834533d4:
 
 
-    "*Drink* 5hp restored"
+    "*Глоток* 5hp восстановлено"
 
 
 translate French Roushk_meko_battle_loop_5ffe792e:
@@ -7588,19 +7588,19 @@ translate French Roushk_meko_battle_loop_5ffe792e:
 translate French Roushk_meko_battle_loop_fc623f8a:
 
 
-    e 0 "I can't fight anymore.."
+    e 0 "Я больше не могу драться.."
 
 
 translate French Roushk_meko_battle_loop_57bdc818:
 
 
-    "The enemy is too strong."
+    "Враг слишком силен."
 
 
 translate French Roushk_meko_battle_loop_28827ee3:
 
 
-    "You’re knocked onto the ground."
+    "Тебя сбивают с ног."
 
 
 translate French Roushk_meko_battle_loop_0aab06c5:
@@ -7612,19 +7612,19 @@ translate French Roushk_meko_battle_loop_0aab06c5:
 translate French Roushk_meko_battle_loop_1c1b3af8:
 
 
-    "*Bind up* [Zalt.heal]hp restored"
+    "*Бандаж* [Zalt.heal]hp восстановлено"
 
 
 translate French Roushk_meko_battle_loop_778a88bb:
 
 
-    "*Hp potion* [Zalt.heal]hp restored"
+    "*Зелье здоровья* [Zalt.heal]hp восстановлено"
 
 
 translate French Roushk_meko_battle_loop_f156b915:
 
 
-    "*Mp potion* [Zalt.heal]mp restored"
+    "*Зелье маны* [Zalt.heal]mp восстановлено"
 
 
 translate French Roushk_meko_battle_loop_50554d42:
@@ -7642,7 +7642,7 @@ translate French Roushk_meko_battle_loop_597ac8b0:
 translate French Roushk_meko_battle_loop_0369d5cf:
 
 
-    "But you dodged his attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate French Roushk_meko_battle_loop_597ac8b0_1:
@@ -7672,7 +7672,7 @@ translate French Roushk_meko_battle_loop_17eab93a:
 translate French Roushk_meko_battle_loop_0369d5cf_1:
 
 
-    "But you dodged his attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate French Roushk_meko_battle_loop_17eab93a_1:
@@ -7702,7 +7702,7 @@ translate French Roushk_meko_battle_loop_289d6de5:
 translate French Roushk_meko_battle_loop_0369d5cf_2:
 
 
-    "But you dodged his attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate French Roushk_meko_battle_loop_289d6de5_1:
@@ -7714,13 +7714,13 @@ translate French Roushk_meko_battle_loop_289d6de5_1:
 translate French Roushk_meko_battle_loop_55bbfd06:
 
 
-    "You're too horny to fight anymore."
+    "Ты слишком возбужден, чтобы драться."
 
 
 translate French Roushk_meko_battle_loop_68c30cdd:
 
 
-    "You fall to the ground."
+    "Ты падаешь на землю."
 
 
 translate French Roushk_meko_battle_win_38dd643b:

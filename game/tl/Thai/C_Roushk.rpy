@@ -910,61 +910,61 @@ translate Thai Roushk_fight_49322c28:
 translate Thai battle_roushk_loop_4830c119:
 
 
-    "You dart forward and land a punch on the enemy."
+    "Ты бросаешься вперед и наносишь удар по врагу."
 
 
 translate Thai battle_roushk_loop_030b4e8e:
 
 
-    "You hit the enemy with your Holy Fist."
+    "Ты бьешь врага своим Святым Кулаком."
 
 
 translate Thai battle_roushk_loop_80db1c39:
 
 
-    "With blazing speed you hit the foe with Holy Fist."
+    "С молниеносной скоростью ты поражаешь врага Святым Кулаком."
 
 
 translate Thai battle_roushk_loop_435f2cfd:
 
 
-    " (Damage dealt - [red_damage]hp)"
+    " (Нанесенный урон - [red_damage]hp)"
 
 
 translate Thai battle_roushk_loop_834533d4:
 
 
-    "*Drink* 5hp restored"
+    "*Глоток* 5hp восстановлено"
 
 
 translate Thai battle_roushk_loop_543c6dbc:
 
 
-    "You draw your sword and lunge in for an attack.\n(Damage dealt- [red_damage]hp)"
+    "Ты выхватываешь меч и бросаешься в атаку.\n(Нанесенный урон- [red_damage]hp)"
 
 
 translate Thai battle_roushk_loop_e9038599:
 
 
-    "You draw your sword and lunge in for an attack.\n{b}{color=#ffd65c}(Critical damage! -[qty]hp){/color}"
+    "Ты выхватываешь меч и бросаешься в атаку.\n{b}{color=#ffd65c}(Критический урон! -[qty]hp){/color}"
 
 
 translate Thai battle_roushk_loop_fc623f8a:
 
 
-    e 0 "I can't fight anymore.."
+    e 0 "Я больше не могу драться.."
 
 
 translate Thai battle_roushk_loop_57bdc818:
 
 
-    "The enemy is too strong."
+    "Враг слишком силен."
 
 
 translate Thai battle_roushk_loop_28827ee3:
 
 
-    "You’re knocked onto the ground."
+    "Тебя сбивают с ног."
 
 
 translate Thai battle_roushk_loop_d6041983:
@@ -1054,31 +1054,31 @@ translate Thai battle_roushk_loop_ba40598b:
 translate Thai battle_roushk_loop_1c1b3af8:
 
 
-    "*Bind up* [Zalt.heal]hp restored"
+    "*Бандаж* [Zalt.heal]hp восстановлено"
 
 
 translate Thai battle_roushk_loop_778a88bb:
 
 
-    "*Hp potion* [Zalt.heal]hp restored"
+    "*Зелье здоровья* [Zalt.heal]hp восстановлено"
 
 
 translate Thai battle_roushk_loop_f156b915:
 
 
-    "*Mp potion* [Zalt.heal]mp restored"
+    "*Зелье маны* [Zalt.heal]mp восстановлено"
 
 
 translate Thai battle_roushk_loop_9f1d9dc5:
 
 
-    "You run away."
+    "Ты убегаешь."
 
 
 translate Thai battle_roushk_loop_3c2a98ba:
 
 
-    "Escape failed!"
+    "Побег не удался!"
 
 
 translate Thai battle_roushk_loop_9e95c91a:
@@ -1090,7 +1090,7 @@ translate Thai battle_roushk_loop_9e95c91a:
 translate Thai battle_roushk_loop_0369d5cf:
 
 
-    "But you dodged his attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate Thai battle_roushk_loop_bb1ac6e5:
@@ -1138,7 +1138,7 @@ translate Thai battle_roushk_loop_ec2cd9c5:
 translate Thai battle_roushk_loop_0369d5cf_1:
 
 
-    "But you dodged his attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate Thai battle_roushk_loop_ec2cd9c5_1:
@@ -1150,73 +1150,73 @@ translate Thai battle_roushk_loop_ec2cd9c5_1:
 translate Thai battle_roushk_loop_55bbfd06:
 
 
-    "You're too horny to fight anymore."
+    "Ты слишком возбужден, чтобы драться."
 
 
 translate Thai battle_roushk_loop_68c30cdd:
 
 
-    "You fall to the ground."
+    "Ты падаешь на землю."
 
 
 translate Thai battle_roushk_loop_4830c119_1:
 
 
-    "You dart forward and land a punch on the enemy."
+    "Ты бросаешься вперед и наносишь удар по врагу."
 
 
 translate Thai battle_roushk_loop_030b4e8e_1:
 
 
-    "You hit the enemy with your Holy Fist."
+    "Ты бьешь врага своим Святым Кулаком."
 
 
 translate Thai battle_roushk_loop_80db1c39_1:
 
 
-    "With blazing speed you hit the foe with Holy Fist."
+    "С молниеносной скоростью ты поражаешь врага Святым Кулаком."
 
 
 translate Thai battle_roushk_loop_435f2cfd_1:
 
 
-    " (Damage dealt - [red_damage]hp)"
+    " (Нанесенный урон - [red_damage]hp)"
 
 
 translate Thai battle_roushk_loop_834533d4_1:
 
 
-    "*Drink* 5hp restored"
+    "*Глоток* 5hp восстановлено"
 
 
 translate Thai battle_roushk_loop_543c6dbc_1:
 
 
-    "You draw your sword and lunge in for an attack.\n(Damage dealt- [red_damage]hp)"
+    "Ты выхватываешь меч и бросаешься в атаку.\n(Нанесенный урон- [red_damage]hp)"
 
 
 translate Thai battle_roushk_loop_e9038599_1:
 
 
-    "You draw your sword and lunge in for an attack.\n{b}{color=#ffd65c}(Critical damage! -[qty]hp){/color}"
+    "Ты выхватываешь меч и бросаешься в атаку.\n{b}{color=#ffd65c}(Критический урон! -[qty]hp){/color}"
 
 
 translate Thai battle_roushk_loop_fc623f8a_1:
 
 
-    e 0 "I can't fight anymore.."
+    e 0 "Я больше не могу драться.."
 
 
 translate Thai battle_roushk_loop_57bdc818_1:
 
 
-    "The enemy is too strong."
+    "Враг слишком силен."
 
 
 translate Thai battle_roushk_loop_28827ee3_1:
 
 
-    "You’re knocked onto the ground."
+    "Тебя сбивают с ног."
 
 
 translate Thai battle_roushk_loop_f58111da:
@@ -1240,19 +1240,19 @@ translate Thai battle_roushk_loop_8cfaff2d:
 translate Thai battle_roushk_loop_1c1b3af8_1:
 
 
-    "*Bind up* [Zalt.heal]hp restored"
+    "*Бандаж* [Zalt.heal]hp восстановлено"
 
 
 translate Thai battle_roushk_loop_778a88bb_1:
 
 
-    "*Hp potion* [Zalt.heal]hp restored"
+    "*Зелье здоровья* [Zalt.heal]hp восстановлено"
 
 
 translate Thai battle_roushk_loop_f156b915_1:
 
 
-    "*Mp potion* [Zalt.heal]mp restored"
+    "*Зелье маны* [Zalt.heal]mp восстановлено"
 
 
 translate Thai battle_roushk_loop_62974653:
@@ -1270,7 +1270,7 @@ translate Thai battle_roushk_loop_7fe70d33:
 translate Thai battle_roushk_loop_0369d5cf_2:
 
 
-    "But you dodged his attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate Thai battle_roushk_loop_7fe70d33_1:
@@ -1300,7 +1300,7 @@ translate Thai battle_roushk_loop_33d0267a:
 translate Thai battle_roushk_loop_0369d5cf_3:
 
 
-    "But you dodged his attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate Thai battle_roushk_loop_736137a3:
@@ -1342,7 +1342,7 @@ translate Thai battle_roushk_loop_c6320aff:
 translate Thai battle_roushk_loop_0369d5cf_4:
 
 
-    "But you dodged his attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate Thai battle_roushk_loop_32e9f61d_1:
@@ -1372,13 +1372,13 @@ translate Thai battle_roushk_loop_c6320aff_1:
 translate Thai battle_roushk_loop_55bbfd06_1:
 
 
-    "You're too horny to fight anymore."
+    "Ты слишком возбужден, чтобы драться."
 
 
 translate Thai battle_roushk_loop_68c30cdd_1:
 
 
-    "You fall to the ground."
+    "Ты падаешь на землю."
 
 
 translate Thai battle_roushk_lose_8a889f52:
@@ -4348,61 +4348,61 @@ translate Thai Roushk_lizardtribe_b4d155d1:
 translate Thai Roushk_lizardtribe_battle_loop_4830c119:
 
 
-    "You dart forward and land a punch on the enemy."
+    "Ты бросаешься вперед и наносишь удар по врагу."
 
 
 translate Thai Roushk_lizardtribe_battle_loop_030b4e8e:
 
 
-    "You hit the enemy with your Holy Fist."
+    "Ты бьешь врага своим Святым Кулаком."
 
 
 translate Thai Roushk_lizardtribe_battle_loop_80db1c39:
 
 
-    "With blazing speed you hit the foe with Holy Fist."
+    "С молниеносной скоростью ты поражаешь врага Святым Кулаком."
 
 
 translate Thai Roushk_lizardtribe_battle_loop_435f2cfd:
 
 
-    " (Damage dealt - [red_damage]hp)"
+    " (Нанесенный урон - [red_damage]hp)"
 
 
 translate Thai Roushk_lizardtribe_battle_loop_834533d4:
 
 
-    "*Drink* 5hp restored"
+    "*Глоток* 5hp восстановлено"
 
 
 translate Thai Roushk_lizardtribe_battle_loop_543c6dbc:
 
 
-    "You draw your sword and lunge in for an attack.\n(Damage dealt- [red_damage]hp)"
+    "Ты выхватываешь меч и бросаешься в атаку.\n(Нанесенный урон- [red_damage]hp)"
 
 
 translate Thai Roushk_lizardtribe_battle_loop_e9038599:
 
 
-    "You draw your sword and lunge in for an attack.\n{b}{color=#ffd65c}(Critical damage! -[qty]hp){/color}"
+    "Ты выхватываешь меч и бросаешься в атаку.\n{b}{color=#ffd65c}(Критический урон! -[qty]hp){/color}"
 
 
 translate Thai Roushk_lizardtribe_battle_loop_fc623f8a:
 
 
-    e 0 "I can't fight anymore.."
+    e 0 "Я больше не могу драться.."
 
 
 translate Thai Roushk_lizardtribe_battle_loop_57bdc818:
 
 
-    "The enemy is too strong."
+    "Враг слишком силен."
 
 
 translate Thai Roushk_lizardtribe_battle_loop_28827ee3:
 
 
-    "You’re knocked onto the ground."
+    "Тебя сбивают с ног."
 
 
 translate Thai Roushk_lizardtribe_battle_loop_f58111da:
@@ -4468,19 +4468,19 @@ translate Thai Roushk_lizardtribe_battle_loop_b758a446:
 translate Thai Roushk_lizardtribe_battle_loop_1c1b3af8:
 
 
-    "*Bind up* [Zalt.heal]hp restored"
+    "*Бандаж* [Zalt.heal]hp восстановлено"
 
 
 translate Thai Roushk_lizardtribe_battle_loop_778a88bb:
 
 
-    "*Hp potion* [Zalt.heal]hp restored"
+    "*Зелье здоровья* [Zalt.heal]hp восстановлено"
 
 
 translate Thai Roushk_lizardtribe_battle_loop_f156b915:
 
 
-    "*Mp potion* [Zalt.heal]mp restored"
+    "*Зелье маны* [Zalt.heal]mp восстановлено"
 
 
 translate Thai Roushk_lizardtribe_battle_loop_d956ffd9:
@@ -4522,7 +4522,7 @@ translate Thai Roushk_lizardtribe_battle_loop_e19fa646:
 translate Thai Roushk_lizardtribe_battle_loop_0369d5cf:
 
 
-    "But you dodged his attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate Thai Roushk_lizardtribe_battle_loop_a28a6ba7_1:
@@ -4606,7 +4606,7 @@ translate Thai Roushk_lizardtribe_battle_loop_2191ba47:
 translate Thai Roushk_lizardtribe_battle_loop_0369d5cf_1:
 
 
-    "But you dodged his attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate Thai Roushk_lizardtribe_battle_loop_0ab532af_1:
@@ -4738,13 +4738,13 @@ translate Thai Roushk_lizardtribe_battle_loop_ed8efc8f:
 translate Thai Roushk_lizardtribe_battle_loop_55bbfd06:
 
 
-    "You're too horny to fight anymore."
+    "Ты слишком возбужден, чтобы драться."
 
 
 translate Thai Roushk_lizardtribe_battle_loop_68c30cdd:
 
 
-    "You fall to the ground."
+    "Ты падаешь на землю."
 
 
 translate Thai Roushk_lizardtribe_battle_win_eeae0efa:
@@ -6742,61 +6742,61 @@ translate Thai Roushk_bulltribe_back_5f92525b:
 translate Thai Roushk_bulltribe_battle_loop_4830c119:
 
 
-    "You dart forward and land a punch on the enemy."
+    "Ты бросаешься вперед и наносишь удар по врагу."
 
 
 translate Thai Roushk_bulltribe_battle_loop_030b4e8e:
 
 
-    "You hit the enemy with your Holy Fist."
+    "Ты бьешь врага своим Святым Кулаком."
 
 
 translate Thai Roushk_bulltribe_battle_loop_80db1c39:
 
 
-    "With blazing speed you hit the foe with Holy Fist."
+    "С молниеносной скоростью ты поражаешь врага Святым Кулаком."
 
 
 translate Thai Roushk_bulltribe_battle_loop_435f2cfd:
 
 
-    " (Damage dealt - [red_damage]hp)"
+    " (Нанесенный урон - [red_damage]hp)"
 
 
 translate Thai Roushk_bulltribe_battle_loop_834533d4:
 
 
-    "*Drink* 5hp restored"
+    "*Глоток* 5hp восстановлено"
 
 
 translate Thai Roushk_bulltribe_battle_loop_543c6dbc:
 
 
-    "You draw your sword and lunge in for an attack.\n(Damage dealt- [red_damage]hp)"
+    "Ты выхватываешь меч и бросаешься в атаку.\n(Нанесенный урон- [red_damage]hp)"
 
 
 translate Thai Roushk_bulltribe_battle_loop_e9038599:
 
 
-    "You draw your sword and lunge in for an attack.\n{b}{color=#ffd65c}(Critical damage! -[qty]hp){/color}"
+    "Ты выхватываешь меч и бросаешься в атаку.\n{b}{color=#ffd65c}(Критический урон! -[qty]hp){/color}"
 
 
 translate Thai Roushk_bulltribe_battle_loop_fc623f8a:
 
 
-    e 0 "I can't fight anymore.."
+    e 0 "Я больше не могу драться.."
 
 
 translate Thai Roushk_bulltribe_battle_loop_57bdc818:
 
 
-    "The enemy is too strong."
+    "Враг слишком силен."
 
 
 translate Thai Roushk_bulltribe_battle_loop_28827ee3:
 
 
-    "You’re knocked onto the ground."
+    "Тебя сбивают с ног."
 
 
 translate Thai Roushk_bulltribe_battle_loop_069a1770:
@@ -6892,19 +6892,19 @@ translate Thai Roushk_bulltribe_battle_loop_d2ebcbf1:
 translate Thai Roushk_bulltribe_battle_loop_1c1b3af8:
 
 
-    "*Bind up* [Zalt.heal]hp restored"
+    "*Бандаж* [Zalt.heal]hp восстановлено"
 
 
 translate Thai Roushk_bulltribe_battle_loop_778a88bb:
 
 
-    "*Hp potion* [Zalt.heal]hp restored"
+    "*Зелье здоровья* [Zalt.heal]hp восстановлено"
 
 
 translate Thai Roushk_bulltribe_battle_loop_f156b915:
 
 
-    "*Mp potion* [Zalt.heal]mp restored"
+    "*Зелье маны* [Zalt.heal]mp восстановлено"
 
 
 translate Thai Roushk_bulltribe_battle_loop_50554d42:
@@ -7066,13 +7066,13 @@ translate Thai Roushk_bulltribe_battle_loop_5ae075bf:
 translate Thai Roushk_bulltribe_battle_loop_55bbfd06:
 
 
-    "You're too horny to fight anymore."
+    "Ты слишком возбужден, чтобы драться."
 
 
 translate Thai Roushk_bulltribe_battle_loop_68c30cdd:
 
 
-    "You fall to the ground."
+    "Ты падаешь на землю."
 
 
 translate Thai Roushk_bulltribe_battle_win_d57b402f:
@@ -7576,61 +7576,61 @@ translate Thai Roushk_meko_4d53ec88:
 translate Thai Roushk_meko_battle_loop_4830c119:
 
 
-    "You dart forward and land a punch on the enemy."
+    "Ты бросаешься вперед и наносишь удар по врагу."
 
 
 translate Thai Roushk_meko_battle_loop_030b4e8e:
 
 
-    "You hit the enemy with your Holy Fist."
+    "Ты бьешь врага своим Святым Кулаком."
 
 
 translate Thai Roushk_meko_battle_loop_80db1c39:
 
 
-    "With blazing speed you hit the foe with Holy Fist."
+    "С молниеносной скоростью ты поражаешь врага Святым Кулаком."
 
 
 translate Thai Roushk_meko_battle_loop_435f2cfd:
 
 
-    " (Damage dealt - [red_damage]hp)"
+    " (Нанесенный урон - [red_damage]hp)"
 
 
 translate Thai Roushk_meko_battle_loop_834533d4:
 
 
-    "*Drink* 5hp restored"
+    "*Глоток* 5hp восстановлено"
 
 
 translate Thai Roushk_meko_battle_loop_543c6dbc:
 
 
-    "You draw your sword and lunge in for an attack.\n(Damage dealt- [red_damage]hp)"
+    "Ты выхватываешь меч и бросаешься в атаку.\n(Нанесенный урон- [red_damage]hp)"
 
 
 translate Thai Roushk_meko_battle_loop_e9038599:
 
 
-    "You draw your sword and lunge in for an attack.\n{b}{color=#ffd65c}(Critical damage! -[qty]hp){/color}"
+    "Ты выхватываешь меч и бросаешься в атаку.\n{b}{color=#ffd65c}(Критический урон! -[qty]hp){/color}"
 
 
 translate Thai Roushk_meko_battle_loop_fc623f8a:
 
 
-    e 0 "I can't fight anymore.."
+    e 0 "Я больше не могу драться.."
 
 
 translate Thai Roushk_meko_battle_loop_57bdc818:
 
 
-    "The enemy is too strong."
+    "Враг слишком силен."
 
 
 translate Thai Roushk_meko_battle_loop_28827ee3:
 
 
-    "You’re knocked onto the ground."
+    "Тебя сбивают с ног."
 
 
 translate Thai Roushk_meko_battle_loop_0aab06c5:
@@ -7642,19 +7642,19 @@ translate Thai Roushk_meko_battle_loop_0aab06c5:
 translate Thai Roushk_meko_battle_loop_1c1b3af8:
 
 
-    "*Bind up* [Zalt.heal]hp restored"
+    "*Бандаж* [Zalt.heal]hp восстановлено"
 
 
 translate Thai Roushk_meko_battle_loop_778a88bb:
 
 
-    "*Hp potion* [Zalt.heal]hp restored"
+    "*Зелье здоровья* [Zalt.heal]hp восстановлено"
 
 
 translate Thai Roushk_meko_battle_loop_f156b915:
 
 
-    "*Mp potion* [Zalt.heal]mp restored"
+    "*Зелье маны* [Zalt.heal]mp восстановлено"
 
 
 translate Thai Roushk_meko_battle_loop_50554d42:
@@ -7672,7 +7672,7 @@ translate Thai Roushk_meko_battle_loop_597ac8b0:
 translate Thai Roushk_meko_battle_loop_0369d5cf:
 
 
-    "But you dodged his attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate Thai Roushk_meko_battle_loop_597ac8b0_1:
@@ -7702,7 +7702,7 @@ translate Thai Roushk_meko_battle_loop_17eab93a:
 translate Thai Roushk_meko_battle_loop_0369d5cf_1:
 
 
-    "But you dodged his attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate Thai Roushk_meko_battle_loop_17eab93a_1:
@@ -7732,7 +7732,7 @@ translate Thai Roushk_meko_battle_loop_289d6de5:
 translate Thai Roushk_meko_battle_loop_0369d5cf_2:
 
 
-    "But you dodged his attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate Thai Roushk_meko_battle_loop_289d6de5_1:
@@ -7744,13 +7744,13 @@ translate Thai Roushk_meko_battle_loop_289d6de5_1:
 translate Thai Roushk_meko_battle_loop_55bbfd06:
 
 
-    "You're too horny to fight anymore."
+    "Ты слишком возбужден, чтобы драться."
 
 
 translate Thai Roushk_meko_battle_loop_68c30cdd:
 
 
-    "You fall to the ground."
+    "Ты падаешь на землю."
 
 
 translate Thai Roushk_meko_battle_win_38dd643b:

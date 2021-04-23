@@ -246,7 +246,7 @@ label Snow_talk:
                                 $ buy = 5
                             "10" if True:
                                 $ buy = 10
-                            "Leave" if True:
+                            "Уйти" if True:
                                 jump map1
                         if jane_inv.qty(coin) >=30*buy:
                             $ jane_inv.drop(coin,30*buy)
@@ -266,7 +266,7 @@ label Snow_talk:
                                 $ buy = 5
                             "10" if True:
                                 $ buy = 10
-                            "Leave" if True:
+                            "Уйти" if True:
                                 jump map1
                         if jane_inv.qty(coin) >=50*buy:
                             $ jane_inv.drop(coin,50*buy)
@@ -277,7 +277,7 @@ label Snow_talk:
                         elif True:
                             e 6 "(Nah,I don't have the money.)"
                             jump Snow_menu
-                    "Leave" if True:
+                    "Уйти" if True:
                         jump Snow_menu
             "Find some topics to chat" if True:
                 label Snow_chattree:
@@ -749,7 +749,7 @@ label Snow_talk:
                 $ jane_inv_M.take(worm_bait,5)
                 $ jane_inv_K.take(fishing_rod)
                 jump Snow_menu
-            "Leave" if True:
+            "Уйти" if True:
                 hide snow stand with dissolve
                 jump map1
 

@@ -263,7 +263,7 @@ translate Chinese strings:
     new "导航界面。"
 
 
-    old "Escape"
+    old "Сбежать"
     new "Esc"
 
 

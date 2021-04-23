@@ -88,10 +88,10 @@ label bathhouse_coinbox:
                     elif True:
                         e 6 "(Nah,I don't have the money.)"
                         jump bathhouse_coinbox
-                "Leave" if True:
+                "Уйти" if True:
 
                     jump bathhouse_coinbox
-        "Leave" if True:
+        "Уйти" if True:
             jump T_bathhouse
 
 
@@ -154,7 +154,7 @@ label bathhouse_ebbtalk:
                         elif True:
                             e 6 "(Nah,I don't have the money.)"
                             jump bathhouse_ebbtalk1
-                    "Leave" if True:
+                    "Уйти" if True:
 
                         jump bathhouse_ebbtalk1
             "Find some topics to chat" if True:
@@ -217,9 +217,9 @@ label bathhouse_ebbtalk:
                             eb "Let’s leave it at that for now."
                             e 1 "I understand Ebb."
                             jump Ebb_chattree
-                        "Leave" if True:
+                        "Уйти" if True:
                             jump bathhouse_ebbtalk1
-            "Leave" if True:
+            "Уйти" if True:
                 e 1 "I gotta go. Mind if we pick this up some other time?"
                 eb "Anytime, Master [name]."
                 hide ebb stand_b at center with dissolve
@@ -285,7 +285,7 @@ label bathhouse_flotalk:
                         elif True:
                             e 6 "(Nah,I don't have the money.)"
                             jump bathhouse_flotalk1
-                    "Leave" if True:
+                    "Уйти" if True:
 
                         jump bathhouse_flotalk1
             "Find some topics to chat" if True:
@@ -337,9 +337,9 @@ label bathhouse_flotalk:
                             f "It’s ok, just there’s nothing to say about that orca right now."
                             "You wish to find out more, but now isn’t the time."
                             jump Flo_chattree
-                        "Leave" if True:
+                        "Уйти" if True:
                             jump bathhouse_flotalk1
-            "Leave" if True:
+            "Уйти" if True:
                 e 1 "I think that’s it for now. I’ll talk to you later."
                 f "You know where to find me."
                 hide flo stand at center with dissolve

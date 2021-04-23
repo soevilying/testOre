@@ -148,7 +148,7 @@ label Thane_talk:
                 t "Not now,[name]."
                 t "I'll take you now in the daytime."
                 jump Thane_talk
-        "Leave" if True:
+        "Уйти" if True:
             e 1 "I need to go now."
             t "Sure."
             t "If you need anything, I'll be here."
@@ -428,7 +428,7 @@ label Thane_tribe_talk:
                                         t "Try asking me again some other time."
                                         e 1 "..."
                                         jump Thane_talktree_tribe
-                                "Leave" if True:
+                                "Уйти" if True:
 
                                     jump Bull_tribe_map
                     elif True:
@@ -970,7 +970,7 @@ label Thane_tribe_talk:
                             $ Quest.campb = 4
                             $ Quest.campt = 4
                             jump camp_map
-                "Leave" if True:
+                "Уйти" if True:
 
 
 
@@ -1251,6 +1251,6 @@ label Thane_tavern_talk:
                 "Almost like he is forcing himself."
                 "You shrug and give him a thumbs up."
                 jump Thane_talktree_tavern
-            "Leave" if True:
+            "Уйти" if True:
                 jump map1
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

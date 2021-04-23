@@ -4,31 +4,31 @@
 translate French battle_cave_bull_loop_4830c119:
 
 
-    "You dart forward and land a punch on the enemy."
+    "Ты бросаешься вперед и наносишь удар по врагу."
 
 
 translate French battle_cave_bull_loop_030b4e8e:
 
 
-    "You hit the enemy with your Holy Fist."
+    "Ты бьешь врага своим Святым Кулаком."
 
 
 translate French battle_cave_bull_loop_80db1c39:
 
 
-    "With blazing speed you hit the foe with Holy Fist."
+    "С молниеносной скоростью ты поражаешь врага Святым Кулаком."
 
 
 translate French battle_cave_bull_loop_435f2cfd:
 
 
-    " (Damage dealt - [red_damage]hp)"
+    " (Нанесенный урон - [red_damage]hp)"
 
 
 translate French battle_cave_bull_loop_834533d4:
 
 
-    "*Drink* 5hp restored"
+    "*Глоток* 5hp восстановлено"
 
 
 translate French battle_cave_bull_loop_dcd1510c:
@@ -40,25 +40,25 @@ translate French battle_cave_bull_loop_dcd1510c:
 translate French battle_cave_bull_loop_e4df89ec:
 
 
-    e "I can't fight anymore.."
+    e "Я больше не могу драться.."
 
 
 translate French battle_cave_bull_loop_57bdc818:
 
 
-    "The enemy is too strong."
+    "Враг слишком силен."
 
 
 translate French battle_cave_bull_loop_28827ee3:
 
 
-    "You’re knocked onto the ground."
+    "Тебя сбивают с ног."
 
 
 translate French battle_cave_bull_loop_1c1b3af8:
 
 
-    "*Bind up* [Zalt.heal]hp restored"
+    "*Бандаж* [Zalt.heal]hp восстановлено"
 
 
 translate French battle_cave_bull_loop_798279df:
@@ -70,25 +70,25 @@ translate French battle_cave_bull_loop_798279df:
 translate French battle_cave_bull_loop_778a88bb:
 
 
-    "*Hp potion* [Zalt.heal]hp restored"
+    "*Зелье здоровья* [Zalt.heal]hp восстановлено"
 
 
 translate French battle_cave_bull_loop_f156b915:
 
 
-    "*Mp potion* [Zalt.heal]mp restored"
+    "*Зелье маны* [Zalt.heal]mp восстановлено"
 
 
 translate French battle_cave_bull_loop_9f1d9dc5:
 
 
-    "You run away."
+    "Ты убегаешь."
 
 
 translate French battle_cave_bull_loop_3c2a98ba:
 
 
-    "Escape failed!"
+    "Побег не удался!"
 
 
 translate French battle_cave_bull_loop_7a961e47:
@@ -100,7 +100,7 @@ translate French battle_cave_bull_loop_7a961e47:
 translate French battle_cave_bull_loop_0369d5cf:
 
 
-    "But you dodged his attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate French battle_cave_bull_loop_88e23624:
@@ -118,7 +118,7 @@ translate French battle_cave_bull_loop_34059795:
 translate French battle_cave_bull_loop_0369d5cf_1:
 
 
-    "But you dodged his attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate French battle_cave_bull_loop_ee946080:
@@ -142,7 +142,7 @@ translate French battle_cave_bull_loop_cd96c299:
 translate French battle_cave_bull_loop_0369d5cf_2:
 
 
-    "But you dodged his attack!"
+    "Но ты увернулся от его атаки!"
 
 
 translate French battle_cave_bull_loop_cd96c299_1:
@@ -154,25 +154,25 @@ translate French battle_cave_bull_loop_cd96c299_1:
 translate French battle_cave_bull_loop_57bdc818_1:
 
 
-    "The enemy is too strong."
+    "Враг слишком силен."
 
 
 translate French battle_cave_bull_loop_28827ee3_1:
 
 
-    "You’re knocked onto the ground."
+    "Тебя сбивают с ног."
 
 
 translate French battle_cave_bull_loop_55bbfd06:
 
 
-    "You're too horny to fight anymore."
+    "Ты слишком возбужден, чтобы драться."
 
 
 translate French battle_cave_bull_loop_68c30cdd:
 
 
-    "You fall to the ground."
+    "Ты падаешь на землю."
 
 
 translate French battle_cave_bull_win_5b2d0b62:

@@ -77,14 +77,14 @@ label Room1:
                         $ Zalt.cha = Zalt.cha +1
                         "Your {color=#19c22a}CHA{/color} now increase to {b}{color=#19c22a}[Zalt.cha]{/color}."
                         jump Room1
-                    "Leave" if True:
+                    "Уйти" if True:
                         jump Room1
             "Exchange 3 AP to 1 lv-point" if Zalt.AP >= 3:
                 "{b}{color=#19c22a}You get 1 lv-point.{/color}."
                 $ Zalt.AP = Zalt.AP -3
                 $ Zalt.points = Zalt.points +1
                 jump Room1
-            "Leave" if True:
+            "Уйти" if True:
                 jump Room1
 
     if _return == 'outroom':
@@ -158,7 +158,7 @@ label Room1:
 
 
                 jump Room1
-            "Leave" if True:
+            "Уйти" if True:
                 jump Room1
 
     if _return == 'eyvind_solo':
