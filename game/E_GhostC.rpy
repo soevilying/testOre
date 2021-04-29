@@ -19,16 +19,16 @@ label battle_GhostC:
         $ Zalt.cor = min(Zalt.cor +2, 100)
     if Map.castle_ghost == 44:
         scene castle 3
-        "???" "Give me your..."
+        "???" "Дай мне свой..."
     elif Map.castle_ghost == 35:
         scene castle 5
-        "???" "Help...me"
+        "???" "Помоги...мне"
     elif Map.castle_ghost == 61:
         scene prison 5
-        "???" "Please...no more, no more."
+        "???" "Пожалуйста...больше не надо, больше не надо."
     elif Map.castle_ghost == 62:
         scene prison 5
-        "???" "Hahhaahahhaha! Run!"
+        "???" "Ха-ха-ха-ха! Беги!"
 
 
 
@@ -96,7 +96,7 @@ label battle_GhostC_loop:
             "*Глоток* 5hp восстановлено"
 
         if res == "Атака":
-            "You swing your sword but it cannot hurt the phantom."
+            "Ты размахиваешь мечом, но он не может повредить призраку."
 
         if res == "Подчиниться":
             e "Я больше не могу драться.."
@@ -110,7 +110,7 @@ label battle_GhostC_loop:
             $ Zalt.mp = min(Zalt.mp -20, Zalt.maxmp)
             "*Бандаж* [Zalt.heal]hp восстановлено"
         if res == "Флиртовать":
-            "You cannot seduce a non living creature."
+            "Ты не можешь соблазнить неживое существо."
         if res == "Зелье Здоровья":
             $ Zalt.heal = 60
             $ Zalt.hp = min(Zalt.hp+Zalt.heal, Zalt.maxhp)
@@ -147,27 +147,27 @@ label battle_GhostC_loop:
         if Random == 1:
             $ Random = renpy.random.randint(1, 100)
             if Random <= Battle.dodge:
-                "The phantom’s long arm extends forward and it grabs a large chunk of wood."
+                "Длинная рука призрака вытягивается вперед и хватает большой кусок дерева."
                 "Но ты увернулся от его атаки!"
             elif True:
                 $ wolf_damage = renpy.random.randint(20, 40)
                 $ Zalt.hp -= max(1,wolf_damage-Zalt.DEF)
-                "The phantom’s long arm extends forward and it grabs a large chunk of wood."
-                "It beats you relentlessly with the weapon."
+                "Длинная рука призрака вытягивается вперед и хватает большой кусок дерева."
+                "Он безжалостно бьет тебя оружием."
         elif Random == 2:
             $ wolf_damage = renpy.random.randint(20, 40)
             $ Zalt.hp -= max(1,wolf_damage-Zalt.DEF)
-            "The phantom lets out an ear piercing screech that hurts your ears immensely."
+            "Фантом издает пронзительный визг, от которого очень больно ушам."
         elif True:
 
             $ Random = renpy.random.randint(1, 100)
             if Random <= Battle.dodge:
-                "The phantom forms a dark energy ball."
+                "Фантом образует шар темной энергии."
                 "Но ты увернулся от его атаки!"
             elif True:
                 $ wolf_damage = renpy.random.randint(20, 40)
                 $ Zalt.hp -= max(1,wolf_damage-Zalt.DEF)
-                "The phantom forms a dark energy ball and hits you square in the chest with it."
+                "Фантом образует шар темной энергии и бьет вас им прямо в грудь."
         if Battle.holyfcd !=0:
             $ Battle.holyfcd = Battle.holyfcd-1
 
@@ -200,8 +200,8 @@ label battle_GhostC_win:
     hide screen battle_item
     play music "music/forest_fight_boss_end.ogg" noloop
     hide castle_ghost
-    "You land a powerful blow causing the phantom to scream and shrivel like a dried up fruit. Its form shrinks and disappears from view."
-    "You get an ectoplasm and 200 EXP."
+    "Ты наносишь мощный удар, заставляя фантома кричать и съеживаться, как высохший фрукт. Его форма сжимается и исчезает из поля зрения."
+    "Ты получаешь эктоплазму и 200 EXP."
     $ Zalt.exp = min(Zalt.exp+200, Zalt.maxlv*250+100*(Zalt.maxlv-1))
     $ jane_inv_M.take(ectoplasm,1)
     $ Zalt.A_exp = Zalt.A_exp + 20*Zalt.A_exp_lv
@@ -213,40 +213,40 @@ label battle_GhostC_win:
         jump castle_map
     elif Map.castle_ghost == 35:
         $ Map.castle_35 = 2
-        "With the phantom out of the way, you are able to enter the room."
-        "There’s a strange pattern on the floor. "
-        e 5 "Is this some kind of demon circle?"
-        "Random items are placed around the circle."
-        "A skull, a dagger, and a few potions."
-        e 13 "Talk about disturbing."
-        "You pick up the potions and bolt out of the room."
-        "You find one bottle of HP potion and one bottle of MP potion"
+        "Когда фантом исчезает с твоего пути, ты можешь войти в комнату."
+        "На полу какой-то странный узор. "
+        e 5 "Это что, какой-то демонический круг?"
+        "Случайные предметы помещаются по кругу."
+        "Череп, кинжал и несколько зелий."
+        e 13 "Поговорим о том, что беспокоит."
+        "Ты забираешь зелья и выбегаешь из комнаты."
+        "Ты находишь одну бутылку зелья здоровья и одну бутылку зелья маны"
         $ jane_inv.take(hp_potion,1)
         $ jane_inv.take(mp_potion,1)
         jump castle_map
     elif Map.castle_ghost == 61:
         scene prison 5 with slow_dissolve
-        e 13 "Great, so I got to be careful of inanimate objects now?"
-        "You look at the remaining shelves in the room."
-        "Should you check them?"
+        e 13 "Отлично, значит, теперь я должен быть осторожен с неодушевленными предметами?"
+        "Ты смотришь на оставшиеся полки в комнате."
+        "Стоит ли их проверять?"
         menu:
-            "Yes" if True:
-                "You gulp and towards the next shelf across the room."
-                "After all, you can’t be an adventurer if you didn’t take risks."
-                "You take a step forward and the shelf in front of you transforms into a phantom."
-                "It speeds towards you with an ear piercing screech."
+            "Да" if True:
+                "Ты сглатываешь и направляешься к следующей полке в другом конце комнаты."
+                "В конце концов, ты не авантюрист, если не рискуешь."
+                "Ты делаешь шаг вперед, и полка перед тобой превращается в призрак."
+                "Он мчится к вам с пронзительным визгом."
                 $ Map.castle_ghost = 62
                 $ Map.castle_prison_6 = 2
                 jump battle_GhostC
-            "No" if True:
+            "Нет" if True:
                 $ Map.castle_prison_6 = 2
-                e 13 "No, it’s an unnecessary risk."
-                e 1 "This room has been raided anyways. "
+                e 13 "Нет, это ненужный риск."
+                e 1 "В любом случае, в этой комнате я уже все осмотрел. "
                 jump castle_prison
     elif Map.castle_ghost == 62:
         $ Map.castle_prison_6 = 3
-        "You find nothing here."
-        e 13 "Everything rotted a long time ago."
+        "Здесь ты ничего не находишь."
+        e 13 "Все сгнило давным-давно."
         jump castle_prison
     jump castle_map
 
@@ -260,15 +260,15 @@ label battle_GhostC_lose:
     scene black
     stop music
     hide castle_ghost
-    "The Phantom laughs maniacally and ascends into the air."
-    "It’s form expands into a black cloud like someone dropped a single black ink drop into water."
-    "There’s nowhere to run, the dark cloud descends upon you and suffocates you."
-    "You struggle and try to hit the cloud but nothing happens."
-    "As less and less air enters your lungs your vision starts to blur."
-    "The cloud lifts your body upwards then drops it."
+    "Фантом безумно смеется и поднимается в воздух."
+    "Его форма расширяется в черное облако, как будто кто-то уронил одну черную чернильную каплю в воду."
+    "Бежать некуда, темная туча опускается на тебя и душит."
+    "Ты борешься и пытаешься попасть в облако, но ничего не происходит."
+    "По мере того как все меньше и меньше воздуха попадает в твои легкие, зрение начинает расплываться."
+    "Облако поднимает твое тело вверх, а затем опускает его."
     scene black with vslow_dissolve
-    "The last thing you remember is feeling your falling into a dark pit until you pass out."
-    "When you reawaken you’re no longer in the castle."
+    "Последнее, что ты помнишь, - это ощущение падения в темную яму, пока не потеряешь сознание."
+    "Когда ты просыпаешься, ты уже не в замке."
     $ Zalt.hp = 1
     $ Zalt.cor = min(Zalt.cor+1,100)
     $ Zalt.Dungeon_leave = True
