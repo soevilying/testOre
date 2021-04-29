@@ -707,7 +707,7 @@ label battle_gargoyle_sex:
         e 1 "Может быть, Фло там?"
         $ Zalt.A_exp = Zalt.A_exp + 50*Zalt.A_exp_lv
         $ PPEXP = 50*Zalt.A_exp_lv
-        "{color=#19c22a}You get {b}[PPEXP]{/b} A-EXP.{/color}"
+        "{color=#19c22a}Ты получаешь {b}[PPEXP]{/b} A-EXP.{/color}"
         $ Map.ca3 = 4
         jump Cave_map
 

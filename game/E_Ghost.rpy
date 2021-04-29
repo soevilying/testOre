@@ -18,34 +18,34 @@ label battle_ghost:
     $ Battle.holyfcd = 0
     if Random >= 1 and Random <= 4:
         $ Foe.ghost_type = 1
-        "You sense something’s watching you. A menacing claw sprouts from a branch on the ground."
-        "It’s possessed! The stick attacks."
+        "Ты чувствуешь, что за тобой кто-то наблюдает. Из ветки на земле вырастает угрожающий коготь."
+        "Она одержима! Палка атакует."
     elif Random >= 5 and Random <= 8:
         $ Foe.ghost_type = 2
-        "You sense something’s watching you. A rock rolls towards you."
-        "It’s possessed! The rock attacks."
+        "Ты чувствуешь, что за тобой кто-то наблюдает. К тебе катится камень."
+        "Он одержим! Камень атакует."
     elif Random >= 9:
         if jane_inv.qty(hp_potion) >2+Items.pbag_n:
             $ Foe.ghost_type = 1
-            "You sense something’s watching you. A menacing claw sprouts from a branch on the ground."
-            "It’s possessed! The stick attacks."
+            "Ты чувствуешь, что за тобой кто-то наблюдает. Из ветки на земле вырастает угрожающий коготь."
+            "Она одержима! Палка атакует."
         elif True:
             $ Foe.ghost_type = 3
-            "The sound of glass clinking about seems to follow you from behind."
-            "You turn and see a red potion bottle."
-            "Before you can react a vicious face appears on the bottle."
-            "The red bottle attacks!"
+            "Звук звенящего стекла, кажется, следует за тобой сзади."
+            "Ты поворачиваешься и видишь красную бутылку с зельем."
+            "Прежде чем ты успеваешь среагировать, на бутылке появляется злобное лицо."
+            "Красная бутылка атакует!"
     elif True:
         if jane_inv.qty(mp_potion) >2+Items.pbag_n:
             $ Foe.ghost_type = 2
-            "You sense something’s watching you. A rock rolls towards you."
-            "It’s possessed! The rock attacks."
+            "Ты чувствуешь, что за тобой кто-то наблюдает. К тебе катится камень."
+            "Он одержим! Камень атакует."
         elif True:
             $ Foe.ghost_type = 4
-            "The sound of glass clinking about seems to follow you from behind."
-            "You turn and see a blue potion bottle."
-            "Before you can react a vicious face appears on the bottle."
-            "The blue bottle attacks!"
+            "Звук звенящего стекла, кажется, следует за тобой сзади."
+            "Ты поворачиваешься и видишь синюю бутылку с зельем."
+            "Прежде чем ты успеваешь среагировать, на бутылке появляется злобное лицо."
+            "Синяя бутылка атакует!"
 
     stop music
 
@@ -111,8 +111,8 @@ label battle_ghost_loop:
             $ red_damage = renpy.random.randint(max(1,Zalt.ATK-20), Zalt.ATK)
             $ Random = renpy.random.randint(0, 100)
             $ wolf_hp -= 0
-            "Your sword cuts through the phantom enemy, it appears unaffected by your attack!"
-            e 0 "My attacks aren’t working. Is this some kind of an indestructible enemy?"
+            "Твой меч пронзает призрачного врага, он кажется незатронутым твоей атакой!"
+            e 0 "Мои атаки не работают. Неужели это какой-то непобедимый враг?"
 
         if res == "Подчиниться":
             e "Я больше не могу драться.."
@@ -120,7 +120,7 @@ label battle_ghost_loop:
             "Тебя сбивают с ног."
             jump battle_ghost_lose
         if res == "Флиртовать":
-            "You try to seduce the ghost, but it has no body to feel anything."
+            "Ты пытаешься соблазнить призрака, но у него нет тела, чтобы что-то чувствовать."
             pass
         if res == "Бандаж":
             $ Zalt.heal = renpy.random.randint((Zalt.int*2)+20, (Zalt.int*2)+35)
@@ -138,8 +138,8 @@ label battle_ghost_loop:
             $ jane_inv.drop(mp_potion)
             "*Зелье маны* [Zalt.heal]mp восстановлено"
         if res == "Сбежать":
-            "You turn away and run as fast as you can."
-            "The enemy doesn't chase you."
+            "Ты отворачиваешься и бежишь так быстро, как только можешь."
+            "Враг не преследует тебя."
             if Witer.sleep == 4:
                 $ Witer.sleep = 5
             hide screen simple_stats_screen
@@ -165,21 +165,21 @@ label battle_ghost_loop:
         if Random == 1:
             $ Random = renpy.random.randint(1, 100)
             if Random <= Battle.dodge:
-                "A phantom arm forms and claws at you."
+                "Появляется призрачная рука и вцепляется в тебя когтями."
                 "Но ты увернулся от его атаки!"
             elif True:
                 $ wolf_damage = renpy.random.randint(10, 20)
                 $ Zalt.hp -= max(1,wolf_damage-Zalt.DEF)
-                "A phantom arm forms and claws at you."
+                "Появляется призрачная рука и вцепляется в тебя когтями."
         elif True:
             $ Random = renpy.random.randint(1, 100)
             if Random <= Battle.dodge:
-                "A powerful force knocks you back."
+                "Мощная сила отбрасывает тебя назад."
                 "Но ты увернулся от его атаки!"
             elif True:
                 $ wolf_damage = renpy.random.randint(30, 40)
                 $ Zalt.hp -= max(1,wolf_damage-Zalt.DEF)
-                "A powerful force knocks you back."
+                "Мощная сила отбрасывает тебя назад."
 
 
         if Battle.holyfcd !=0:
@@ -220,20 +220,20 @@ label battle_ghost_win:
     hide ghost 02 with dissolve
     hide ghost 03 with dissolve
     hide ghost 04 with dissolve
-    "The ghostly form fades into the darkness, the item it possessed lays still on the ground."
+    "Призрачная фигура исчезает в темноте, предмет, которым она обладала, все еще лежит на земле."
     if Foe.ghost_type == 1:
-        "You get an ectoplasm and a stick."
+        "Ты получаешь эктоплазму и палочку."
         $ jane_inv_M.take(stick)
     elif Foe.ghost_type == 2:
-        "You get an ectoplasm and a rock."
+        "Ты получаешь эктоплазму и камень."
         $ jane_inv_M.take(rock)
     elif Foe.ghost_type == 3:
-        "You get an ectoplasm and a Hp potion."
+        "Ты получаешь эктоплазму и зелье здоровья."
         $ jane_inv.take(hp_potion)
     elif True:
-        "You get an ectoplasm and a Mp potion."
+        "Ты получаешь эктоплазму и зелье маны."
         $ jane_inv.take(mp_potion)
-    "You get 80 EXP."
+    "Ты получаешь 80 EXP."
     $ jane_inv_M.take(ectoplasm,1)
     $ Zalt.exp = min(Zalt.exp+80, Zalt.maxlv*250+100*(Zalt.maxlv-1))
 
@@ -252,9 +252,9 @@ label battle_ghost_lose:
     hide screen battle_item
     stop music fadeout 1
     if Foe.ghostwin == True:
-        "Do you want to skip the scene?"
+        "Вы хотите пропустить сцену?"
         menu:
-            "Yes" if True:
+            "Да" if True:
                 hide ghost 01 with dissolve
                 hide ghost 02 with dissolve
                 hide ghost 03 with dissolve
@@ -270,7 +270,7 @@ label battle_ghost_lose:
                 if jane_inv.qty(coin) != None:
                     $ qty = int(jane_inv.qty(coin)*0.2)
                     $ jane_inv.drop(coin,qty)
-                    "When you awaken you find that you’ve lost <[qty]> coins. Good thing you still have your loincloth."
+                    "Когда ты просыпаешься, обнаруживаешь, что потерял <[qty]> монет. Хорошо, что у тебя все еще есть набедренная повязка."
                 $ Zalt.lust = 0
                 $ Zalt.hp = 1
                 $ Zalt.cor = min(Zalt.cor+1,100)
@@ -281,52 +281,52 @@ label battle_ghost_lose:
                     jump forest_map_2
                 elif True:
                     jump forest_map_3
-            "No" if True:
+            "Нет" if True:
                 pass
-    "The phantom fires a purple bolt of lightning and strikes you square in the chest."
+    "Фантом стреляет фиолетовой молнией и поражает тебя прямо в грудь."
     hide ghost 01 with dissolve
     hide ghost 02 with dissolve
     hide ghost 03 with dissolve
     hide ghost 04 with dissolve
-    e 0 "Ahhhh!"
-    "Your can’t move your body! Like a ragdoll your body collapses onto the ground."
-    "The searing pain from your chest burns like hot molten metal seeping into you."
-    "A faint whisper grows louder in your ears but there's nobody around you."
-    "Then it speaks."
-    "Ghost" "Oh fuck yes. I've forgotten what it's like to have a body."
-    e 0 "Who are you? Get out of my head!"
-    "Ghost" "Shut up you little piss stain. This body's mine."
-    "You try to move your fingers but there's something wrong."
-    "Your body starts to sit up, and your fur blackens like the night itself."
-    "Purple lines form around your forearms and your entire body gives off an intimidating aura."
-    "Your eyes glow in a haunting blue colour, and your pupils turn red like blood."
-    "Ghost" "That's more like it."
-    "The words that leave your mouth they sound like your voice, but they are not yours."
-    e 0 "My body! I can’t control it."
-    "Your arms start to swing about like the ghost is trying to get accustomed to how to control you."
-    "With every swing you can still feel every motion of your joints. "
-    "Ghost" "You have a pretty hot body piss stains. Mmm, yeah look at these pecs."
-    "Ghost" "I can't wait to test it out and fuck all your friends."
-    e 0 "No! Get out of my body you bastard."
-    "Ghost" "More importantly lets see what you're packing."
-    "Controlling your hands he reaches for your loincloth."
-    e 0 "Stop!"
+    e 0 "А-а-а!"
+    "Ты не можешь пошевелить своим телом! Как тряпичная кукла, твое тело падает на землю."
+    "Жгучая боль в груди обжигает, как горячий расплавленный металл, просачивающийся в тебя."
+    "Слабый шепот становится громче в твоих ушах, но вокруг тебя никого нет."
+    "Затем он говорит."
+    "Призрак" "О, черт возьми, да. Я забыл, каково это - иметь тело."
+    e 0 "Кто ты? Убирайся из моей головы!"
+    "Призрак" "Заткнись, ты, маленькое пятно от мочи. Это тело мое."
+    "Ты пытаешься пошевелить пальцами, но что-то не так."
+    "Твое тело начинает садиться, и твоя шерсть чернеет, как сама ночь."
+    "Вокруг твоих предплечий образуются фиолетовые линии, и все тело излучает пугающую ауру."
+    "Твои глаза светятся навязчивым синим цветом, а зрачки становятся красными, как кровь."
+    "Призрак" "Это больше похоже на правду."
+    "Слова, которые слетают с твоих уст, звучат как твой голос, но они не твои."
+    e 0 "Мое тело! Я не могу его контролировать."
+    "Твои руки начинают раскачиваться, как будто призрак пытается привыкнуть к тому, как управлять тобой."
+    "С каждым взмахом ты все еще можешь чувствовать каждое движение суставов. "
+    "Призрак" "У тебя довольно горячее тело с пятнами мочи. Ммм, да, посмотри на эту грудь."
+    "Призрак" "Я не могу дождаться, чтобы проверить это и трахнуть всех твоих друзей."
+    e 0 "Нет! Убирайся из моего тела, ублюдок."
+    "Призрак" "Что еще более важно, ты сам все увидишь."
+    "Контролируя твои руки, он тянется к твоей набедренной повязке."
+    e 0 "Остановись!"
     scene black
     show ghost lose1 with slow_dissolve:
         xanchor 0 yanchor 0
         xpos -0.3 ypos 0
         zoom 1.5
         linear 20.0 xpos 0 ypos -1000
-    "You try to wrestle control back from the ghost, but it doesn't work."
-    "He pulls off your loincloth letting your hard member plop onto your thigh."
+    "Ты пытаешься вырвать контроль у призрака, но это не работает."
+    "Он стягивает с тебя набедренную повязку, позволяя твоему твердому члену шлепнуться тебе на бедро."
     show ghost lose1 with slow_dissolve:
         xpos 0.19 ypos -0.05
         zoom 0.86
-    "Ghost" "Yes, this will do just fine."
-    "He wraps your hand around your dick and squeezes."
-    e 0 "Ahh!"
-    "You feel it."
-    "The tightness of your grip around the shaft and the heat of your throbbing dick."
+    "Призрак" "Да, это будет просто замечательно."
+    "Он обхватывает твой член и сжимает."
+    e 0 "Ах!"
+    "Ты это чувствуешь."
+    "Крепкая хватка вокруг ствола и жар твоего пульсирующего члена."
     "The ghost manipulates your hand to start caressing the hard member."
     "Rubbing your dick vigorously, your body shudders and moans."
     "A deep and revolting moan."
